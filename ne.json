@@ -1,0 +1,627 @@
+[
+  {
+    "name": "50X",
+    "price": 30.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "1357",
+    "tiers": [
+      {
+        "prize": 50000,
+        "remaining": 5,
+        "total": 5
+      },
+      {
+        "prize": 5000,
+        "remaining": 24,
+        "total": 24
+      },
+      {
+        "prize": 1500,
+        "remaining": 44,
+        "total": 44
+      }
+    ],
+    "imageUrl": "https://nelottery.com/homeapp/static/shared/images/scratch/tiles/1357_tile.jpg"
+  },
+  {
+    "name": "Pony Payout",
+    "price": 5.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "1384",
+    "tiers": [
+      {
+        "prize": 50000,
+        "remaining": 3,
+        "total": 3
+      },
+      {
+        "prize": 500,
+        "remaining": 15,
+        "total": 15
+      },
+      {
+        "prize": 100,
+        "remaining": 307,
+        "total": 307
+      }
+    ],
+    "imageUrl": "https://nelottery.com/homeapp/static/shared/images/scratch/tiles/1384_tile.jpg"
+  },
+  {
+    "name": "Electric 7s",
+    "price": 30.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "1308",
+    "tiers": [
+      {
+        "prize": 300000,
+        "remaining": 2,
+        "total": 2
+      },
+      {
+        "prize": 1000,
+        "remaining": 31,
+        "total": 31
+      },
+      {
+        "prize": 500,
+        "remaining": 86,
+        "total": 86
+      }
+    ],
+    "imageUrl": "https://nelottery.com/homeapp/static/shared/images/scratch/tiles/1308_tile.jpg"
+  },
+  {
+    "name": "Caddyshack",
+    "price": 5.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "1383",
+    "tiers": [
+      {
+        "prize": 50000,
+        "remaining": 2,
+        "total": 2
+      },
+      {
+        "prize": 500,
+        "remaining": 17,
+        "total": 17
+      },
+      {
+        "prize": 100,
+        "remaining": 751,
+        "total": 751
+      }
+    ],
+    "imageUrl": "https://nelottery.com/homeapp/static/shared/images/scratch/tiles/1383_tile.jpg"
+  },
+  {
+    "name": "Cash Explosion Spectacular\u00ae",
+    "price": 20.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "1378",
+    "tiers": [
+      {
+        "prize": 500,
+        "remaining": 368,
+        "total": 368
+      },
+      {
+        "prize": 300,
+        "remaining": 747,
+        "total": 747
+      },
+      {
+        "prize": 200,
+        "remaining": 7959,
+        "total": 7959
+      },
+      {
+        "prize": 100,
+        "remaining": 23918,
+        "total": 23918
+      }
+    ],
+    "imageUrl": "https://nelottery.com/homeapp/static/shared/images/scratch/tiles/1378_tile.jpg"
+  },
+  {
+    "name": "Power $500",
+    "price": 5.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "1382",
+    "tiers": [
+      {
+        "prize": 500,
+        "remaining": 287,
+        "total": 287
+      },
+      {
+        "prize": 100,
+        "remaining": 53,
+        "total": 53
+      },
+      {
+        "prize": 50,
+        "remaining": 72,
+        "total": 72
+      }
+    ],
+    "imageUrl": "https://nelottery.com/homeapp/static/shared/images/scratch/tiles/1382_tile.jpg"
+  },
+  {
+    "name": "$200,000 Crossword Jackpot",
+    "price": 20.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "1370",
+    "tiers": [
+      {
+        "prize": 200000,
+        "remaining": 3,
+        "total": 3
+      },
+      {
+        "prize": 1000,
+        "remaining": 15,
+        "total": 15
+      },
+      {
+        "prize": 500,
+        "remaining": 66,
+        "total": 66
+      }
+    ],
+    "imageUrl": "https://nelottery.com/homeapp/static/shared/images/scratch/tiles/1370_tile.jpg"
+  },
+  {
+    "name": "Neon 9s",
+    "price": 5.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "1376",
+    "tiers": [
+      {
+        "prize": 50000,
+        "remaining": 2,
+        "total": 2
+      },
+      {
+        "prize": 500,
+        "remaining": 6,
+        "total": 6
+      },
+      {
+        "prize": 100,
+        "remaining": 21,
+        "total": 21
+      }
+    ],
+    "imageUrl": "https://nelottery.com/homeapp/static/shared/images/scratch/tiles/1376_tile.jpg"
+  },
+  {
+    "name": "Power 20s",
+    "price": 20.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "1358",
+    "tiers": [
+      {
+        "prize": 50000,
+        "remaining": 1,
+        "total": 1
+      },
+      {
+        "prize": 2000,
+        "remaining": 0,
+        "total": 0
+      },
+      {
+        "prize": 500,
+        "remaining": 48,
+        "total": 48
+      }
+    ],
+    "imageUrl": "https://nelottery.com/homeapp/static/shared/images/scratch/tiles/1358_tile.jpg"
+  },
+  {
+    "name": "Daily Crossword 5X",
+    "price": 5.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "1367",
+    "tiers": [
+      {
+        "prize": 50000,
+        "remaining": 3,
+        "total": 3
+      },
+      {
+        "prize": 500,
+        "remaining": 45,
+        "total": 45
+      },
+      {
+        "prize": 100,
+        "remaining": 181,
+        "total": 181
+      }
+    ],
+    "imageUrl": "https://nelottery.com/homeapp/static/shared/images/scratch/tiles/1367_tile.jpg"
+  },
+  {
+    "name": "Diamonds & Gold",
+    "price": 20.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "1350",
+    "tiers": [
+      {
+        "prize": 200000,
+        "remaining": 1,
+        "total": 1
+      },
+      {
+        "prize": 5000,
+        "remaining": 4,
+        "total": 4
+      },
+      {
+        "prize": 1500,
+        "remaining": 11,
+        "total": 11
+      }
+    ],
+    "imageUrl": "https://nelottery.com/homeapp/static/shared/images/scratch/tiles/1350_tile.jpg"
+  },
+  {
+    "name": "Super Loteria",
+    "price": 5.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "1353",
+    "tiers": [
+      {
+        "prize": 50000,
+        "remaining": 2,
+        "total": 2
+      },
+      {
+        "prize": 500,
+        "remaining": 6,
+        "total": 6
+      },
+      {
+        "prize": 200,
+        "remaining": 57,
+        "total": 57
+      }
+    ],
+    "imageUrl": "https://nelottery.com/homeapp/static/shared/images/scratch/tiles/1353_tile.jpg"
+  },
+  {
+    "name": "Ruby Red 7s",
+    "price": 10.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "1380",
+    "tiers": [
+      {
+        "prize": 100000,
+        "remaining": 3,
+        "total": 3
+      },
+      {
+        "prize": 1000,
+        "remaining": 5,
+        "total": 5
+      },
+      {
+        "prize": 500,
+        "remaining": 38,
+        "total": 38
+      }
+    ],
+    "imageUrl": "https://nelottery.com/homeapp/static/shared/images/scratch/tiles/1380_tile.jpg"
+  },
+  {
+    "name": "Lucky Symbols Loteria",
+    "price": 3.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "1373",
+    "tiers": [
+      {
+        "prize": 35000,
+        "remaining": 3,
+        "total": 3
+      },
+      {
+        "prize": 1000,
+        "remaining": 11,
+        "total": 11
+      },
+      {
+        "prize": 500,
+        "remaining": 23,
+        "total": 23
+      }
+    ],
+    "imageUrl": "https://nelottery.com/homeapp/static/shared/images/scratch/tiles/1373_tile.jpg"
+  },
+  {
+    "name": "Cash Explosion\u00ae",
+    "price": 10.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "1377",
+    "tiers": [
+      {
+        "prize": 250,
+        "remaining": 203,
+        "total": 203
+      },
+      {
+        "prize": 100,
+        "remaining": 4370,
+        "total": 4370
+      },
+      {
+        "prize": 50,
+        "remaining": 14298,
+        "total": 14298
+      }
+    ],
+    "imageUrl": "https://nelottery.com/homeapp/static/shared/images/scratch/tiles/1377_tile.jpg"
+  },
+  {
+    "name": "Bonus Crossword",
+    "price": 3.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "1334",
+    "tiers": [
+      {
+        "prize": 35000,
+        "remaining": 2,
+        "total": 2
+      },
+      {
+        "prize": 1000,
+        "remaining": 6,
+        "total": 6
+      },
+      {
+        "prize": 100,
+        "remaining": 99,
+        "total": 99
+      }
+    ],
+    "imageUrl": "https://nelottery.com/homeapp/static/shared/images/scratch/tiles/1334_tile.jpg"
+  },
+  {
+    "name": "Max Multiplier",
+    "price": 10.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "1368",
+    "tiers": [
+      {
+        "prize": 75000,
+        "remaining": 3,
+        "total": 3
+      },
+      {
+        "prize": 1000,
+        "remaining": 9,
+        "total": 9
+      },
+      {
+        "prize": 500,
+        "remaining": 159,
+        "total": 159
+      }
+    ],
+    "imageUrl": "https://nelottery.com/homeapp/static/shared/images/scratch/tiles/1368_tile.jpg"
+  },
+  {
+    "name": "10X Bingo Multiplier",
+    "price": 3.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "1311",
+    "tiers": [
+      {
+        "prize": 35000,
+        "remaining": 1,
+        "total": 1
+      },
+      {
+        "prize": 1000,
+        "remaining": 4,
+        "total": 4
+      },
+      {
+        "prize": 500,
+        "remaining": 9,
+        "total": 9
+      }
+    ],
+    "imageUrl": "https://nelottery.com/homeapp/static/shared/images/scratch/tiles/1311_tile.jpg"
+  },
+  {
+    "name": "$10,000 Ca$h Blowout",
+    "price": 10.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "1362",
+    "tiers": [
+      {
+        "prize": 10000,
+        "remaining": 16,
+        "total": 16
+      },
+      {
+        "prize": 1000,
+        "remaining": 16,
+        "total": 16
+      },
+      {
+        "prize": 100,
+        "remaining": 81,
+        "total": 81
+      }
+    ],
+    "imageUrl": "https://nelottery.com/homeapp/static/shared/images/scratch/tiles/1362_tile.jpg"
+  },
+  {
+    "name": "Pink Diamond 7s",
+    "price": 2.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "1339",
+    "tiers": [
+      {
+        "prize": 17777,
+        "remaining": 2,
+        "total": 2
+      },
+      {
+        "prize": 100,
+        "remaining": 25,
+        "total": 25
+      },
+      {
+        "prize": 50,
+        "remaining": 48,
+        "total": 48
+      }
+    ],
+    "imageUrl": "https://nelottery.com/homeapp/static/shared/images/scratch/tiles/1339_tile.jpg"
+  },
+  {
+    "name": "$100,000 Crossword Craze",
+    "price": 10.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "1356",
+    "tiers": [
+      {
+        "prize": 100000,
+        "remaining": 1,
+        "total": 1
+      },
+      {
+        "prize": 1000,
+        "remaining": 30,
+        "total": 30
+      },
+      {
+        "prize": 500,
+        "remaining": 21,
+        "total": 21
+      }
+    ],
+    "imageUrl": "https://nelottery.com/homeapp/static/shared/images/scratch/tiles/1356_tile.jpg"
+  },
+  {
+    "name": "Quick 7s",
+    "price": 1.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "1381",
+    "tiers": [
+      {
+        "prize": 7000,
+        "remaining": 13,
+        "total": 13
+      },
+      {
+        "prize": 70,
+        "remaining": 216,
+        "total": 216
+      }
+    ],
+    "imageUrl": "https://nelottery.com/homeapp/static/shared/images/scratch/tiles/1381_tile.jpg"
+  },
+  {
+    "name": "Mega Loteria",
+    "price": 10.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "1354",
+    "tiers": [
+      {
+        "prize": 100000,
+        "remaining": 2,
+        "total": 2
+      },
+      {
+        "prize": 1000,
+        "remaining": 7,
+        "total": 7
+      },
+      {
+        "prize": 500,
+        "remaining": 5,
+        "total": 5
+      }
+    ],
+    "imageUrl": "https://nelottery.com/homeapp/static/shared/images/scratch/tiles/1354_tile.jpg"
+  },
+  {
+    "name": "Pocket Change 5X",
+    "price": 1.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "1335",
+    "tiers": [
+      {
+        "prize": 500,
+        "remaining": 12,
+        "total": 12
+      },
+      {
+        "prize": 100,
+        "remaining": 59,
+        "total": 59
+      },
+      {
+        "prize": 40,
+        "remaining": 336,
+        "total": 336
+      }
+    ],
+    "imageUrl": "https://nelottery.com/homeapp/static/shared/images/scratch/tiles/1335_tile.jpg"
+  },
+  {
+    "name": "Fun 5s",
+    "price": 5.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "1386",
+    "tiers": [
+      {
+        "prize": 30000,
+        "remaining": 3,
+        "total": 3
+      },
+      {
+        "prize": 1000,
+        "remaining": 6,
+        "total": 6
+      },
+      {
+        "prize": 500,
+        "remaining": 17,
+        "total": 17
+      }
+    ],
+    "imageUrl": "https://nelottery.com/homeapp/static/shared/images/scratch/tiles/1386_tile.jpg"
+  }
+]
