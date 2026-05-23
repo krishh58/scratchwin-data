@@ -1,0 +1,540 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>ScratchWin — Play Smarter. Win More.</title>
+  <meta name="description" content="Stop guessing which scratch-off tickets to buy. ScratchWin shows you the real odds and prize pool remaining for every game in your state." />
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    :root {
+      --purple: #4B0082;
+      --purple-light: #6A0DAD;
+      --purple-dark: #2D0050;
+      --gold: #FFD700;
+      --gold-light: #FFE44D;
+      --white: #FFFFFF;
+      --grey: #F5F5F5;
+      --text: #1A1A2E;
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      color: var(--text);
+      background: var(--white);
+    }
+
+    /* HERO */
+    .hero {
+      background: linear-gradient(135deg, var(--purple-dark) 0%, var(--purple-light) 100%);
+      color: var(--white);
+      text-align: center;
+      padding: 60px 24px 80px;
+    }
+
+    .hero-badge {
+      display: inline-block;
+      background: var(--gold);
+      color: var(--purple-dark);
+      font-size: 12px;
+      font-weight: 800;
+      letter-spacing: 1.5px;
+      text-transform: uppercase;
+      padding: 6px 16px;
+      border-radius: 20px;
+      margin-bottom: 24px;
+    }
+
+    .hero h1 {
+      font-size: clamp(2rem, 8vw, 3.5rem);
+      font-weight: 900;
+      line-height: 1.1;
+      margin-bottom: 16px;
+    }
+
+    .hero h1 span { color: var(--gold); }
+
+    .hero p {
+      font-size: clamp(1rem, 3vw, 1.25rem);
+      opacity: 0.9;
+      max-width: 520px;
+      margin: 0 auto 40px;
+      line-height: 1.6;
+    }
+
+    .cta-group {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 14px;
+    }
+
+    .btn-primary {
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      background: var(--gold);
+      color: var(--purple-dark);
+      font-size: 1.1rem;
+      font-weight: 800;
+      padding: 16px 36px;
+      border-radius: 50px;
+      text-decoration: none;
+      box-shadow: 0 4px 20px rgba(255,215,0,0.4);
+      transition: transform 0.2s, box-shadow 0.2s;
+    }
+
+    .btn-primary:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 8px 28px rgba(255,215,0,0.5);
+    }
+
+    .btn-secondary {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      background: transparent;
+      color: var(--white);
+      font-size: 0.95rem;
+      font-weight: 600;
+      padding: 12px 28px;
+      border-radius: 50px;
+      border: 2px solid rgba(255,255,255,0.4);
+      text-decoration: none;
+      transition: border-color 0.2s, background 0.2s;
+    }
+
+    .btn-secondary:hover {
+      border-color: var(--gold);
+      background: rgba(255,215,0,0.08);
+    }
+
+    .hero-note {
+      margin-top: 18px;
+      font-size: 0.8rem;
+      opacity: 0.6;
+    }
+
+    /* STATS BAR */
+    .stats {
+      background: var(--purple-dark);
+      color: var(--white);
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+      gap: 0;
+      padding: 0;
+    }
+
+    .stat {
+      flex: 1;
+      min-width: 140px;
+      text-align: center;
+      padding: 20px 16px;
+      border-right: 1px solid rgba(255,255,255,0.1);
+    }
+    .stat:last-child { border-right: none; }
+
+    .stat-num {
+      font-size: 1.8rem;
+      font-weight: 900;
+      color: var(--gold);
+      line-height: 1;
+    }
+
+    .stat-label {
+      font-size: 0.75rem;
+      opacity: 0.7;
+      margin-top: 4px;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+
+    /* FEATURES */
+    .section {
+      padding: 64px 24px;
+      max-width: 900px;
+      margin: 0 auto;
+    }
+
+    .section-title {
+      text-align: center;
+      font-size: clamp(1.5rem, 5vw, 2.2rem);
+      font-weight: 900;
+      color: var(--purple-dark);
+      margin-bottom: 12px;
+    }
+
+    .section-sub {
+      text-align: center;
+      color: #666;
+      margin-bottom: 48px;
+      font-size: 1rem;
+      line-height: 1.6;
+    }
+
+    .features {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 24px;
+    }
+
+    .feature-card {
+      background: var(--grey);
+      border-radius: 16px;
+      padding: 28px 24px;
+      border: 2px solid transparent;
+      transition: border-color 0.2s, transform 0.2s;
+    }
+
+    .feature-card:hover {
+      border-color: var(--purple-light);
+      transform: translateY(-4px);
+    }
+
+    .feature-icon {
+      font-size: 2rem;
+      margin-bottom: 14px;
+    }
+
+    .feature-card h3 {
+      font-size: 1.1rem;
+      font-weight: 800;
+      color: var(--purple-dark);
+      margin-bottom: 8px;
+    }
+
+    .feature-card p {
+      font-size: 0.9rem;
+      color: #555;
+      line-height: 1.6;
+    }
+
+    /* HOW IT WORKS */
+    .how-section {
+      background: linear-gradient(135deg, var(--purple-dark), var(--purple-light));
+      color: var(--white);
+      padding: 64px 24px;
+    }
+
+    .how-inner {
+      max-width: 800px;
+      margin: 0 auto;
+    }
+
+    .how-section .section-title { color: var(--white); }
+    .how-section .section-sub { color: rgba(255,255,255,0.75); }
+
+    .steps {
+      display: flex;
+      flex-direction: column;
+      gap: 24px;
+      counter-reset: steps;
+    }
+
+    .step {
+      display: flex;
+      align-items: flex-start;
+      gap: 20px;
+      background: rgba(255,255,255,0.08);
+      border-radius: 16px;
+      padding: 24px;
+    }
+
+    .step-num {
+      flex-shrink: 0;
+      width: 44px;
+      height: 44px;
+      background: var(--gold);
+      color: var(--purple-dark);
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-weight: 900;
+      font-size: 1.1rem;
+    }
+
+    .step h3 {
+      font-size: 1.05rem;
+      font-weight: 800;
+      margin-bottom: 6px;
+      color: var(--gold-light);
+    }
+
+    .step p {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      line-height: 1.6;
+    }
+
+    /* PRICING */
+    .pricing-card {
+      background: linear-gradient(135deg, var(--purple-dark), var(--purple-light));
+      color: var(--white);
+      border-radius: 24px;
+      padding: 40px 32px;
+      text-align: center;
+      max-width: 400px;
+      margin: 0 auto;
+      box-shadow: 0 12px 40px rgba(75,0,130,0.3);
+    }
+
+    .price-tag {
+      font-size: 3.5rem;
+      font-weight: 900;
+      color: var(--gold);
+      line-height: 1;
+    }
+
+    .price-period {
+      font-size: 0.9rem;
+      opacity: 0.7;
+      margin-bottom: 24px;
+    }
+
+    .price-features {
+      list-style: none;
+      text-align: left;
+      margin: 24px 0;
+    }
+
+    .price-features li {
+      padding: 8px 0;
+      font-size: 0.95rem;
+      opacity: 0.9;
+      border-bottom: 1px solid rgba(255,255,255,0.1);
+    }
+
+    .price-features li:last-child { border-bottom: none; }
+    .price-features li::before { content: "✓  "; color: var(--gold); font-weight: 900; }
+
+    .price-renewal {
+      font-size: 0.8rem;
+      opacity: 0.6;
+      margin-top: 16px;
+    }
+
+    /* NO ADS BANNER */
+    .no-ads {
+      background: var(--gold);
+      color: var(--purple-dark);
+      text-align: center;
+      padding: 16px 24px;
+      font-weight: 800;
+      font-size: 1rem;
+      letter-spacing: 0.5px;
+    }
+
+    /* FOOTER */
+    footer {
+      background: var(--purple-dark);
+      color: rgba(255,255,255,0.5);
+      text-align: center;
+      padding: 32px 24px;
+      font-size: 0.85rem;
+      line-height: 1.8;
+    }
+
+    footer a { color: var(--gold); text-decoration: none; }
+
+    /* FIRE DEMO */
+    .fire-demo {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 8px;
+      margin: 24px 0 8px;
+      flex-wrap: wrap;
+    }
+
+    .fire-row {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      background: rgba(255,255,255,0.1);
+      border-radius: 12px;
+      padding: 10px 16px;
+    }
+
+    .fire-label {
+      font-size: 0.8rem;
+      opacity: 0.7;
+      min-width: 60px;
+    }
+
+    @media (max-width: 480px) {
+      .stat { min-width: 120px; }
+      .pricing-card { padding: 32px 20px; }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- HERO -->
+  <section class="hero">
+    <div class="hero-badge">🎰 Android App</div>
+    <h1>Stop Guessing.<br><span>Play Smarter.</span></h1>
+    <p>ScratchWin shows you the real odds and remaining prize pool for every scratch-off ticket in your state — updated daily.</p>
+
+    <div class="fire-demo">
+      <div class="fire-row">
+        <span class="fire-label">Top Pick</span>
+        <span>🔥🔥🔥🔥🔥</span>
+        <span style="color:var(--gold-light);font-weight:800;font-size:0.9rem;">EV 84% · Win 31%</span>
+      </div>
+      <div class="fire-row">
+        <span class="fire-label">Avoid</span>
+        <span>🔥·····</span>
+        <span style="opacity:0.6;font-size:0.9rem;">EV 28% · Win 6%</span>
+      </div>
+    </div>
+
+    <div class="cta-group">
+      <a href="https://github.com/krishh58/scratchwin-data/releases/latest/download/ScratchWin.apk" class="btn-primary">
+        ⬇️ Download Free APK
+      </a>
+      <a href="https://play.google.com/store" class="btn-secondary">
+        🟢 Google Play — Coming Soon
+      </a>
+    </div>
+    <p class="hero-note">Android only · No account required · Sideload APK</p>
+  </section>
+
+  <!-- STATS -->
+  <div class="stats">
+    <div class="stat">
+      <div class="stat-num">1,800+</div>
+      <div class="stat-label">Games Tracked</div>
+    </div>
+    <div class="stat">
+      <div class="stat-num">39</div>
+      <div class="stat-label">States</div>
+    </div>
+    <div class="stat">
+      <div class="stat-num">Daily</div>
+      <div class="stat-label">Data Updates</div>
+    </div>
+    <div class="stat">
+      <div class="stat-num">$0</div>
+      <div class="stat-label">Ads. Ever.</div>
+    </div>
+  </div>
+
+  <!-- FEATURES -->
+  <section class="section">
+    <h2 class="section-title">Know Before You Scratch</h2>
+    <p class="section-sub">Every feature is built around one question: which ticket gives you the best shot at winning your money back?</p>
+
+    <div class="features">
+      <div class="feature-card">
+        <div class="feature-icon">🔥</div>
+        <h3>Fire Ratings</h3>
+        <p>Every game gets a 1–5 fire score combining prize pool freshness and win probability. Five fires = best in your state right now.</p>
+      </div>
+      <div class="feature-card">
+        <div class="feature-icon">📊</div>
+        <h3>Real Prize Data</h3>
+        <p>We pull directly from each state lottery's API daily. You see exactly how many prizes are left at every tier — not stale estimates.</p>
+      </div>
+      <div class="feature-card">
+        <div class="feature-icon">⭐</div>
+        <h3>Sweet Spot Badge</h3>
+        <p>Games ranked top 25% on BOTH expected value AND win odds get a Sweet Spot badge. These are the genuine best plays.</p>
+      </div>
+      <div class="feature-card">
+        <div class="feature-icon">📍</div>
+        <h3>Find Retailers</h3>
+        <p>Tap any ticket to see nearby lottery retailers on Google Maps. Know where to buy before you leave the house.</p>
+      </div>
+      <div class="feature-card">
+        <div class="feature-icon">📷</div>
+        <h3>Barcode Scanner</h3>
+        <p>Scan a ticket barcode in-store to instantly pull up its EV%, win odds, and full prize tier breakdown.</p>
+      </div>
+      <div class="feature-card">
+        <div class="feature-icon">💰</div>
+        <h3>Budget Tracker</h3>
+        <p>Log your spends and winnings. See your real return over time. No other scratch app gives you this.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- HOW IT WORKS -->
+  <section class="how-section">
+    <div class="how-inner">
+      <h2 class="section-title">How It Works</h2>
+      <p class="section-sub">Three numbers tell you everything you need to know about a scratch ticket.</p>
+
+      <div class="steps">
+        <div class="step">
+          <div class="step-num">1</div>
+          <div>
+            <h3>EV % — Prize Pool Remaining</h3>
+            <p>How much of the original prize money is still unclaimed. 100% = brand new game, 0% = all prizes gone. Shop fresh games, avoid picked-over ones.</p>
+          </div>
+        </div>
+        <div class="step">
+          <div class="step-num">2</div>
+          <div>
+            <h3>Win % — Your Break-Even Odds</h3>
+            <p>The estimated chance your ticket wins back at least what you paid. Calculated from real remaining prize data — not the printed odds on the back of the ticket.</p>
+          </div>
+        </div>
+        <div class="step">
+          <div class="step-num">3</div>
+          <div>
+            <h3>🔥 Fire Rating — Combined Score</h3>
+            <p>We combine both metrics into a 1–5 rating ranked against every other game in your state. Pick a 5-fire ticket. Skip the 1-fire ones.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- PRICING -->
+  <section class="section">
+    <h2 class="section-title">Simple, Honest Pricing</h2>
+    <p class="section-sub">Less than one scratch ticket. No subscriptions on day one.</p>
+
+    <div class="pricing-card">
+      <div class="price-tag">$2.99</div>
+      <div class="price-period">First year — one time</div>
+
+      <ul class="price-features">
+        <li>All 39 states, 1,800+ games</li>
+        <li>Daily live data updates</li>
+        <li>Fire ratings + Sweet Spot picks</li>
+        <li>Barcode scanner</li>
+        <li>Budget tracker</li>
+        <li>No ads. Ever.</li>
+      </ul>
+
+      <a href="https://github.com/krishh58/scratchwin-data/releases/latest/download/ScratchWin.apk" class="btn-primary" style="width:100%;justify-content:center;">
+        ⬇️ Download Now
+      </a>
+      <p class="price-renewal">Renews at $6/year after first year · Cancel anytime</p>
+    </div>
+  </section>
+
+  <!-- NO ADS -->
+  <div class="no-ads">
+    🚫 No ads. No data selling. No hidden subscriptions. Just the data you need.
+  </div>
+
+  <!-- FOOTER -->
+  <footer>
+    <p><strong style="color:white;">ScratchWin</strong> — Play Smarter. Win More.</p>
+    <p style="margin-top:8px;">Android app · Data updated daily from official state lottery APIs</p>
+    <p style="margin-top:8px;">
+      <a href="mailto:support@scratchwin.app">support@scratchwin.app</a>
+    </p>
+    <p style="margin-top:16px;font-size:0.75rem;opacity:0.5;">
+      ScratchWin is an independent analysis tool. We are not affiliated with any state lottery commission.<br>
+      Play responsibly. Must be 18+ to purchase lottery tickets.
+    </p>
+  </footer>
+
+</body>
+</html>
