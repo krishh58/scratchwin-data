@@ -1,0 +1,44 @@
+name: Daily Lottery Scrape
+
+on:
+  schedule:
+    - cron: '0 10 * * *'  # 10 AM UTC = 6 AM Eastern daily
+  workflow_dispatch:        # manual trigger from GitHub Actions tab
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout data repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r scraper/requirements.txt
+
+      - name: Run scrapers
+        env:
+          OH_USERNAME: ${{ secrets.OH_USERNAME }}
+          OH_PASSWORD: ${{ secrets.OH_PASSWORD }}
+        run: |
+          cd scraper
+          # Run all states except TN and OR (require Playwright/headless browser)
+          python run_scrapers.py OH CA NY FL TX NJ MI GA PA NC MA WA VA CO MO IN KY OK MD CT ID NH NE MS AZ AR ME VT WI IA NM DE SC MN MT WV
+
+      - name: Copy JSON output to repo root
+        run: |
+          cp scraper/output/*.json .
+          cp scraper/output/manifest.json .
+
+      - name: Commit and push updated data
+        run: |
+          git config user.email "actions@github.com"
+          git config user.name "GitHub Actions"
+          git add *.json manifest.json
+          git diff --staged --quiet && echo "No changes" || git commit -m "Data update $(date -u +%Y-%m-%d)"
+          git push
