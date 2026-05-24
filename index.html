@@ -11,15 +11,15 @@
     * { margin: 0; padding: 0; box-sizing: border-box; }
 
     :root {
-      --purple: #4B0082;
-      --purple-light: #6A0DAD;
-      --purple-dark: #2D0050;
-      --gold: #FFD700;
-      --gold-light: #FFE44D;
+      --purple: #5C3D9E;
+      --purple-light: #7B5DB8;
+      --purple-dark: #1E1A2E;
+      --gold: #F5C518;
+      --gold-light: #FFD94D;
       --white: #FFFFFF;
-      --grey: #F7F7FB;
+      --grey: #F4F5F9;
       --text: #1A1A2E;
-      --text-muted: #64648A;
+      --text-muted: #6B7280;
     }
 
     html { scroll-behavior: smooth; }
@@ -35,10 +35,10 @@
       position: sticky;
       top: 0;
       z-index: 100;
-      background: rgba(45, 0, 80, 0.97);
+      background: rgba(18, 17, 26, 0.97);
       backdrop-filter: blur(12px);
       -webkit-backdrop-filter: blur(12px);
-      border-bottom: 1px solid rgba(255,255,255,0.08);
+      border-bottom: 1px solid rgba(255,255,255,0.07);
       padding: 0 24px;
       display: flex;
       align-items: center;
@@ -98,7 +98,7 @@
 
     /* ── HERO ── */
     .hero {
-      background: linear-gradient(135deg, var(--purple-dark) 0%, var(--purple-light) 100%);
+      background: linear-gradient(160deg, #12111A 0%, #1E1A2E 55%, #2A2045 100%);
       color: var(--white);
       padding: 72px 24px 80px;
       position: relative;
@@ -108,9 +108,18 @@
     .hero::before {
       content: '';
       position: absolute;
-      top: -60px; right: -60px;
-      width: 400px; height: 400px;
-      background: radial-gradient(circle, rgba(255,215,0,0.08) 0%, transparent 70%);
+      top: -80px; right: -80px;
+      width: 500px; height: 500px;
+      background: radial-gradient(circle, rgba(245,197,24,0.07) 0%, transparent 65%);
+      pointer-events: none;
+    }
+
+    .hero::after {
+      content: '';
+      position: absolute;
+      bottom: -60px; left: -60px;
+      width: 350px; height: 350px;
+      background: radial-gradient(circle, rgba(92,61,158,0.15) 0%, transparent 65%);
       pointer-events: none;
     }
 
@@ -270,7 +279,7 @@
 
     /* ── STATS BAR ── */
     .stats {
-      background: var(--purple-dark);
+      background: #1A1828;
       color: var(--white);
       display: flex;
       justify-content: center;
@@ -372,7 +381,7 @@
 
     /* ── HOW IT WORKS ── */
     .how-section {
-      background: linear-gradient(135deg, var(--purple-dark) 0%, var(--purple-light) 100%);
+      background: linear-gradient(160deg, #12111A 0%, #1E1A2E 100%);
       color: var(--white);
       padding: 80px 24px;
     }
@@ -468,7 +477,7 @@
     }
 
     .pricing-card {
-      background: linear-gradient(135deg, var(--purple-dark), var(--purple-light));
+      background: linear-gradient(160deg, #1A1828, #252040);
       color: var(--white);
       border-radius: 24px;
       padding: 32px 24px;
@@ -476,7 +485,7 @@
       flex: 1;
       min-width: 220px;
       max-width: 280px;
-      box-shadow: 0 8px 30px rgba(75,0,130,0.2);
+      box-shadow: 0 8px 30px rgba(0,0,0,0.2);
       position: relative;
     }
 
@@ -612,7 +621,7 @@
 
     /* ── FOOTER ── */
     footer {
-      background: var(--purple-dark);
+      background: #12111A;
       color: rgba(255,255,255,0.45);
       padding: 48px 24px 32px;
     }
