@@ -533,6 +533,50 @@
     .price-features li::before { content: "✓  "; color: var(--gold); font-weight: 900; }
     .price-renewal { font-size: 0.73rem; opacity: 0.45; margin-top: 12px; }
 
+    /* ── STATES ── */
+    .states-section { background: var(--grey); padding: 64px 24px; }
+    .states-inner { max-width: 860px; margin: 0 auto; }
+    .states-grid {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      justify-content: center;
+      margin-top: 40px;
+    }
+    .state-pill {
+      display: flex;
+      align-items: center;
+      gap: 5px;
+      padding: 7px 14px;
+      border-radius: 30px;
+      font-size: 0.8rem;
+      font-weight: 700;
+      white-space: nowrap;
+    }
+    .state-pill.live {
+      background: #EBF9F1;
+      color: #1A7A4A;
+      border: 1.5px solid #A8E6C3;
+    }
+    .state-pill.soon {
+      background: #FFF8E6;
+      color: #996600;
+      border: 1.5px solid #FFE0A0;
+    }
+    .state-pill.none {
+      background: #F0F0F0;
+      color: #999;
+      border: 1.5px solid #DDD;
+    }
+    .state-legend {
+      display: flex;
+      gap: 20px;
+      justify-content: center;
+      margin-bottom: 28px;
+      flex-wrap: wrap;
+    }
+    .legend-item { display: flex; align-items: center; gap: 6px; font-size: 0.8rem; color: var(--text-muted); }
+
     /* Day pass */
     .day-pass {
       max-width: 520px;
@@ -853,6 +897,76 @@
           <p>"The Sweet Spot badge is genius. I only buy those now. My win rate went up noticeably in the first two weeks."</p>
           <div class="proof-name">James K. — Texas</div>
         </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- STATES -->
+  <section class="states-section">
+    <div class="states-inner">
+      <h2 class="section-title">Is Your State Covered?</h2>
+      <p class="section-sub">We pull live data from 41 states daily. Check yours below.</p>
+
+      <div class="state-legend">
+        <div class="legend-item"><span style="color:#1A7A4A;font-size:1rem;">✓</span> Live Data</div>
+        <div class="legend-item"><span style="color:#996600;font-size:1rem;">◷</span> Coming Soon</div>
+        <div class="legend-item"><span style="color:#999;font-size:1rem;">✕</span> No State Lottery</div>
+      </div>
+
+      <div class="states-grid">
+        <!-- LIVE -->
+        <div class="state-pill live">✓ OH</div>
+        <div class="state-pill live">✓ CA</div>
+        <div class="state-pill live">✓ NY</div>
+        <div class="state-pill live">✓ FL</div>
+        <div class="state-pill live">✓ TX</div>
+        <div class="state-pill live">✓ NJ</div>
+        <div class="state-pill live">✓ MI</div>
+        <div class="state-pill live">✓ GA</div>
+        <div class="state-pill live">✓ PA</div>
+        <div class="state-pill live">✓ NC</div>
+        <div class="state-pill live">✓ MA</div>
+        <div class="state-pill live">✓ WA</div>
+        <div class="state-pill live">✓ VA</div>
+        <div class="state-pill live">✓ CO</div>
+        <div class="state-pill live">✓ MO</div>
+        <div class="state-pill live">✓ IN</div>
+        <div class="state-pill live">✓ KY</div>
+        <div class="state-pill live">✓ OK</div>
+        <div class="state-pill live">✓ MD</div>
+        <div class="state-pill live">✓ CT</div>
+        <div class="state-pill live">✓ ID</div>
+        <div class="state-pill live">✓ NH</div>
+        <div class="state-pill live">✓ NE</div>
+        <div class="state-pill live">✓ MS</div>
+        <div class="state-pill live">✓ AZ</div>
+        <div class="state-pill live">✓ AR</div>
+        <div class="state-pill live">✓ ME</div>
+        <div class="state-pill live">✓ VT</div>
+        <div class="state-pill live">✓ WI</div>
+        <div class="state-pill live">✓ IA</div>
+        <div class="state-pill live">✓ NM</div>
+        <div class="state-pill live">✓ DE</div>
+        <div class="state-pill live">✓ SC</div>
+        <div class="state-pill live">✓ TN</div>
+        <div class="state-pill live">✓ OR</div>
+        <div class="state-pill live">✓ MN</div>
+        <div class="state-pill live">✓ MT</div>
+        <div class="state-pill live">✓ WV</div>
+        <div class="state-pill live">✓ LA</div>
+        <div class="state-pill live">✓ RI</div>
+        <div class="state-pill live">✓ KS</div>
+        <!-- COMING SOON -->
+        <div class="state-pill soon">◷ SD</div>
+        <div class="state-pill soon">◷ ND</div>
+        <div class="state-pill soon">◷ IL</div>
+        <!-- NO LOTTERY -->
+        <div class="state-pill none">✕ AL</div>
+        <div class="state-pill none">✕ AK</div>
+        <div class="state-pill none">✕ HI</div>
+        <div class="state-pill none">✕ NV</div>
+        <div class="state-pill none">✕ UT</div>
+        <div class="state-pill none">✕ WY</div>
       </div>
     </div>
   </section>
