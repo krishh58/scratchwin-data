@@ -24,14 +24,16 @@ jobs:
       - name: Install dependencies
         run: pip install -r scraper/requirements.txt
 
+      - name: Install Playwright browsers
+        run: playwright install chromium --with-deps
+
       - name: Run scrapers
         env:
           OH_USERNAME: ${{ secrets.OH_USERNAME }}
           OH_PASSWORD: ${{ secrets.OH_PASSWORD }}
         run: |
           cd scraper
-          # Run all states except TN and OR (require Playwright/headless browser)
-          python run_scrapers.py OH CA NY FL TX NJ MI GA PA NC MA WA VA CO MO IN KY OK MD CT ID NH NE MS AZ AR ME VT WI IA NM DE SC MN MT WV
+          python run_scrapers.py OH CA NY FL TX NJ MI GA PA NC MA WA VA CO MO IN KY OK MD CT ID NH NE MS AZ AR ME VT WI IA NM DE SC MN MT WV LA TN OR RI KS IL
 
       - name: Copy JSON output to repo root
         run: |
