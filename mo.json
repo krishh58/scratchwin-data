@@ -1,6 +1,311 @@
 [
   {
     "name": "Top line",
+    "price": 10.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "555",
+    "tiers": [
+      {
+        "prize": 250000,
+        "remaining": 3,
+        "total": 3
+      },
+      {
+        "prize": 25000,
+        "remaining": 8,
+        "total": 8
+      },
+      {
+        "prize": 2026,
+        "remaining": 24,
+        "total": 24
+      },
+      {
+        "prize": 1776,
+        "remaining": 239,
+        "total": 247
+      },
+      {
+        "prize": 250,
+        "remaining": 5018,
+        "total": 5234
+      },
+      {
+        "prize": 100,
+        "remaining": 38943,
+        "total": 40644
+      },
+      {
+        "prize": 50,
+        "remaining": 40220,
+        "total": 41951
+      },
+      {
+        "prize": 30,
+        "remaining": 20182,
+        "total": 20986
+      },
+      {
+        "prize": 25,
+        "remaining": 22887,
+        "total": 23824
+      },
+      {
+        "prize": 20,
+        "remaining": 161292,
+        "total": 167804
+      },
+      {
+        "prize": 15,
+        "remaining": 121072,
+        "total": 125853
+      },
+      {
+        "prize": 10,
+        "remaining": 323057,
+        "total": 335608
+      }
+    ],
+    "imageUrl": "https://www.molottery.com/media/scratchers/tile/555.png"
+  },
+  {
+    "name": "Top line",
+    "price": 5.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "556",
+    "tiers": [
+      {
+        "prize": 100000,
+        "remaining": 6,
+        "total": 6
+      },
+      {
+        "prize": 20000,
+        "remaining": 6,
+        "total": 6
+      },
+      {
+        "prize": 5000,
+        "remaining": 28,
+        "total": 29
+      },
+      {
+        "prize": 1000,
+        "remaining": 707,
+        "total": 720
+      },
+      {
+        "prize": 500,
+        "remaining": 178,
+        "total": 184
+      },
+      {
+        "prize": 200,
+        "remaining": 887,
+        "total": 911
+      },
+      {
+        "prize": 100,
+        "remaining": 20021,
+        "total": 20555
+      },
+      {
+        "prize": 75,
+        "remaining": 3597,
+        "total": 3690
+      },
+      {
+        "prize": 50,
+        "remaining": 13568,
+        "total": 13880
+      },
+      {
+        "prize": 40,
+        "remaining": 45102,
+        "total": 46208
+      },
+      {
+        "prize": 25,
+        "remaining": 32644,
+        "total": 33429
+      },
+      {
+        "prize": 20,
+        "remaining": 67438,
+        "total": 69059
+      },
+      {
+        "prize": 15,
+        "remaining": 270034,
+        "total": 276485
+      },
+      {
+        "prize": 10,
+        "remaining": 270225,
+        "total": 276386
+      },
+      {
+        "prize": 5,
+        "remaining": 631320,
+        "total": 644812
+      }
+    ],
+    "imageUrl": "https://www.molottery.com/media/scratchers/tile/556.png"
+  },
+  {
+    "name": "Top line",
+    "price": 2.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "558",
+    "tiers": [
+      {
+        "prize": 25000,
+        "remaining": 5,
+        "total": 5
+      },
+      {
+        "prize": 5000,
+        "remaining": 8,
+        "total": 8
+      },
+      {
+        "prize": 1000,
+        "remaining": 84,
+        "total": 88
+      },
+      {
+        "prize": 500,
+        "remaining": 885,
+        "total": 908
+      },
+      {
+        "prize": 100,
+        "remaining": 6926,
+        "total": 7077
+      },
+      {
+        "prize": 50,
+        "remaining": 14170,
+        "total": 14424
+      },
+      {
+        "prize": 20,
+        "remaining": 34674,
+        "total": 35400
+      },
+      {
+        "prize": 10,
+        "remaining": 104224,
+        "total": 106200
+      },
+      {
+        "prize": 5,
+        "remaining": 104313,
+        "total": 106200
+      },
+      {
+        "prize": 4,
+        "remaining": 382804,
+        "total": 389398
+      },
+      {
+        "prize": 2,
+        "remaining": 522399,
+        "total": 531004
+      }
+    ],
+    "imageUrl": "https://www.molottery.com/media/scratchers/tile/558.png"
+  },
+  {
+    "name": "Top line",
+    "price": 1.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "566",
+    "tiers": [
+      {
+        "prize": 7777,
+        "remaining": 6,
+        "total": 6
+      },
+      {
+        "prize": 1000,
+        "remaining": 6,
+        "total": 6
+      },
+      {
+        "prize": 777,
+        "remaining": 34,
+        "total": 34
+      },
+      {
+        "prize": 500,
+        "remaining": 47,
+        "total": 48
+      },
+      {
+        "prize": 100,
+        "remaining": 2008,
+        "total": 2051
+      },
+      {
+        "prize": 50,
+        "remaining": 4682,
+        "total": 4743
+      },
+      {
+        "prize": 30,
+        "remaining": 11109,
+        "total": 11277
+      },
+      {
+        "prize": 25,
+        "remaining": 26742,
+        "total": 27129
+      },
+      {
+        "prize": 10,
+        "remaining": 86920,
+        "total": 88176
+      },
+      {
+        "prize": 7,
+        "remaining": 53538,
+        "total": 54258
+      },
+      {
+        "prize": 5,
+        "remaining": 107115,
+        "total": 108516
+      },
+      {
+        "prize": 4,
+        "remaining": 53510,
+        "total": 54260
+      },
+      {
+        "prize": 3,
+        "remaining": 53552,
+        "total": 54216
+      },
+      {
+        "prize": 2,
+        "remaining": 375147,
+        "total": 379830
+      },
+      {
+        "prize": 1,
+        "remaining": 924778,
+        "total": 935953
+      }
+    ],
+    "imageUrl": "https://www.molottery.com/media/scratchers/tile/566.png"
+  },
+  {
+    "name": "Top line",
     "price": 5.0,
     "totalTickets": 0,
     "remainingTickets": 0,
@@ -28,121 +333,171 @@
       },
       {
         "prize": 2510,
-        "remaining": 5,
+        "remaining": 4,
         "total": 5
       },
       {
         "prize": 2500,
-        "remaining": 5,
+        "remaining": 4,
         "total": 5
       },
       {
         "prize": 1010,
-        "remaining": 15,
+        "remaining": 14,
         "total": 15
       },
       {
         "prize": 1000,
-        "remaining": 48,
+        "remaining": 43,
         "total": 50
       },
       {
         "prize": 505,
-        "remaining": 301,
+        "remaining": 288,
         "total": 322
       },
       {
         "prize": 500,
-        "remaining": 207,
+        "remaining": 193,
         "total": 219
       },
       {
         "prize": 205,
-        "remaining": 545,
+        "remaining": 530,
         "total": 584
       },
       {
         "prize": 200,
-        "remaining": 611,
+        "remaining": 583,
         "total": 648
       },
       {
         "prize": 180,
-        "remaining": 689,
+        "remaining": 662,
         "total": 723
       },
       {
         "prize": 125,
-        "remaining": 1356,
+        "remaining": 1303,
         "total": 1440
       },
       {
         "prize": 105,
-        "remaining": 3350,
+        "remaining": 3212,
         "total": 3552
       },
       {
         "prize": 100,
-        "remaining": 3408,
+        "remaining": 3260,
         "total": 3582
       },
       {
         "prize": 80,
-        "remaining": 690,
+        "remaining": 662,
         "total": 724
       },
       {
         "prize": 75,
-        "remaining": 1334,
+        "remaining": 1281,
         "total": 1419
       },
       {
         "prize": 60,
-        "remaining": 6765,
+        "remaining": 6487,
         "total": 7167
       },
       {
         "prize": 55,
-        "remaining": 3402,
+        "remaining": 3256,
         "total": 3578
       },
       {
         "prize": 50,
-        "remaining": 24981,
+        "remaining": 23973,
         "total": 26413
       },
       {
         "prize": 30,
-        "remaining": 10797,
+        "remaining": 10360,
         "total": 11389
       },
       {
         "prize": 25,
-        "remaining": 55782,
+        "remaining": 53490,
         "total": 58829
       },
       {
         "prize": 20,
-        "remaining": 84605,
+        "remaining": 81323,
         "total": 89099
       },
       {
         "prize": 15,
-        "remaining": 50841,
+        "remaining": 48916,
         "total": 53467
       },
       {
         "prize": 10,
-        "remaining": 321882,
+        "remaining": 309260,
         "total": 338575
       },
       {
         "prize": 5,
-        "remaining": 491850,
+        "remaining": 472966,
         "total": 516773
       }
     ],
     "imageUrl": "https://www.molottery.com/media/scratchers/tile/560.png"
+  },
+  {
+    "name": "Top line",
+    "price": 5.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "552",
+    "tiers": [
+      {
+        "prize": 500,
+        "remaining": 1443,
+        "total": 2275
+      },
+      {
+        "prize": 100,
+        "remaining": 1873,
+        "total": 2987
+      },
+      {
+        "prize": 75,
+        "remaining": 3561,
+        "total": 5686
+      },
+      {
+        "prize": 50,
+        "remaining": 11813,
+        "total": 18894
+      },
+      {
+        "prize": 25,
+        "remaining": 23852,
+        "total": 37789
+      },
+      {
+        "prize": 15,
+        "remaining": 23996,
+        "total": 37789
+      },
+      {
+        "prize": 10,
+        "remaining": 145335,
+        "total": 226779
+      },
+      {
+        "prize": 5,
+        "remaining": 148297,
+        "total": 226644
+      }
+    ],
+    "imageUrl": "https://www.molottery.com/media/scratchers/tile/552.png"
   },
   {
     "name": "Top line",
@@ -158,106 +513,56 @@
       },
       {
         "prize": 25000,
-        "remaining": 9,
+        "remaining": 8,
         "total": 10
       },
       {
         "prize": 5000,
-        "remaining": 44,
+        "remaining": 43,
         "total": 46
       },
       {
         "prize": 1000,
-        "remaining": 620,
+        "remaining": 604,
         "total": 650
       },
       {
         "prize": 500,
-        "remaining": 1403,
+        "remaining": 1364,
         "total": 1498
       },
       {
         "prize": 200,
-        "remaining": 4015,
+        "remaining": 3909,
         "total": 4284
       },
       {
         "prize": 100,
-        "remaining": 66912,
+        "remaining": 65040,
         "total": 71307
       },
       {
         "prize": 50,
-        "remaining": 66896,
+        "remaining": 65058,
         "total": 71307
       },
       {
         "prize": 30,
-        "remaining": 77019,
+        "remaining": 74840,
         "total": 82007
       },
       {
         "prize": 20,
-        "remaining": 351872,
+        "remaining": 342176,
         "total": 374368
       },
       {
         "prize": 10,
-        "remaining": 672773,
+        "remaining": 654842,
         "total": 713101
       }
     ],
     "imageUrl": "https://www.molottery.com/media/scratchers/tile/550.png"
-  },
-  {
-    "name": "Top line",
-    "price": 5.0,
-    "totalTickets": 0,
-    "remainingTickets": 0,
-    "gameNumber": "552",
-    "tiers": [
-      {
-        "prize": 500,
-        "remaining": 1661,
-        "total": 2275
-      },
-      {
-        "prize": 100,
-        "remaining": 2176,
-        "total": 2987
-      },
-      {
-        "prize": 75,
-        "remaining": 4143,
-        "total": 5686
-      },
-      {
-        "prize": 50,
-        "remaining": 13744,
-        "total": 18894
-      },
-      {
-        "prize": 25,
-        "remaining": 27623,
-        "total": 37789
-      },
-      {
-        "prize": 15,
-        "remaining": 27792,
-        "total": 37789
-      },
-      {
-        "prize": 10,
-        "remaining": 167599,
-        "total": 226779
-      },
-      {
-        "prize": 5,
-        "remaining": 169832,
-        "total": 226644
-      }
-    ],
-    "imageUrl": "https://www.molottery.com/media/scratchers/tile/552.png"
   },
   {
     "name": "Top line",
@@ -268,7 +573,7 @@
     "tiers": [
       {
         "prize": 2500,
-        "remaining": 7,
+        "remaining": 6,
         "total": 7
       },
       {
@@ -278,51 +583,196 @@
       },
       {
         "prize": 500,
-        "remaining": 16,
+        "remaining": 15,
         "total": 17
       },
       {
         "prize": 100,
-        "remaining": 1876,
+        "remaining": 1753,
         "total": 2116
       },
       {
         "prize": 40,
-        "remaining": 27326,
+        "remaining": 25574,
         "total": 30932
       },
       {
         "prize": 20,
-        "remaining": 24891,
+        "remaining": 23265,
         "total": 28102
       },
       {
         "prize": 10,
-        "remaining": 62374,
+        "remaining": 58395,
         "total": 70238
       },
       {
         "prize": 5,
-        "remaining": 49968,
+        "remaining": 46811,
         "total": 56210
       },
       {
         "prize": 4,
-        "remaining": 175400,
+        "remaining": 164645,
         "total": 196742
       },
       {
         "prize": 2,
-        "remaining": 377176,
+        "remaining": 354813,
         "total": 421558
       },
       {
         "prize": 1,
-        "remaining": 857748,
+        "remaining": 808065,
         "total": 955440
       }
     ],
     "imageUrl": "https://www.molottery.com/media/scratchers/tile/553.png"
+  },
+  {
+    "name": "Top line",
+    "price": 5.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "546",
+    "tiers": [
+      {
+        "prize": 77777,
+        "remaining": 3,
+        "total": 5
+      },
+      {
+        "prize": 10000,
+        "remaining": 2,
+        "total": 4
+      },
+      {
+        "prize": 7777,
+        "remaining": 7,
+        "total": 12
+      },
+      {
+        "prize": 1000,
+        "remaining": 10,
+        "total": 17
+      },
+      {
+        "prize": 777,
+        "remaining": 137,
+        "total": 228
+      },
+      {
+        "prize": 500,
+        "remaining": 104,
+        "total": 177
+      },
+      {
+        "prize": 277,
+        "remaining": 161,
+        "total": 276
+      },
+      {
+        "prize": 77,
+        "remaining": 26092,
+        "total": 43450
+      },
+      {
+        "prize": 27,
+        "remaining": 48874,
+        "total": 81102
+      },
+      {
+        "prize": 17,
+        "remaining": 41889,
+        "total": 69027
+      },
+      {
+        "prize": 15,
+        "remaining": 83671,
+        "total": 138054
+      },
+      {
+        "prize": 10,
+        "remaining": 126732,
+        "total": 207021
+      },
+      {
+        "prize": 5,
+        "remaining": 298985,
+        "total": 483309
+      }
+    ],
+    "imageUrl": "https://www.molottery.com/media/scratchers/tile/546.png"
+  },
+  {
+    "name": "Top line",
+    "price": 2.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "549",
+    "tiers": [
+      {
+        "prize": 30000,
+        "remaining": 3,
+        "total": 5
+      },
+      {
+        "prize": 3000,
+        "remaining": 13,
+        "total": 20
+      },
+      {
+        "prize": 1000,
+        "remaining": 50,
+        "total": 72
+      },
+      {
+        "prize": 500,
+        "remaining": 197,
+        "total": 296
+      },
+      {
+        "prize": 100,
+        "remaining": 5131,
+        "total": 7956
+      },
+      {
+        "prize": 40,
+        "remaining": 25839,
+        "total": 39827
+      },
+      {
+        "prize": 20,
+        "remaining": 19633,
+        "total": 29898
+      },
+      {
+        "prize": 15,
+        "remaining": 26305,
+        "total": 39827
+      },
+      {
+        "prize": 10,
+        "remaining": 39834,
+        "total": 59706
+      },
+      {
+        "prize": 5,
+        "remaining": 81203,
+        "total": 119439
+      },
+      {
+        "prize": 4,
+        "remaining": 216597,
+        "total": 318567
+      },
+      {
+        "prize": 2,
+        "remaining": 500509,
+        "total": 716984
+      }
+    ],
+    "imageUrl": "https://www.molottery.com/media/scratchers/tile/549.png"
   },
   {
     "name": "Top line",
@@ -358,191 +808,46 @@
       },
       {
         "prize": 1000,
-        "remaining": 741,
+        "remaining": 712,
         "total": 905
       },
       {
         "prize": 500,
-        "remaining": 4377,
+        "remaining": 4214,
         "total": 5462
       },
       {
         "prize": 300,
-        "remaining": 4390,
+        "remaining": 4201,
         "total": 5461
       },
       {
         "prize": 200,
-        "remaining": 13058,
+        "remaining": 12597,
         "total": 16324
       },
       {
         "prize": 100,
-        "remaining": 87040,
+        "remaining": 83886,
         "total": 108765
       },
       {
         "prize": 50,
-        "remaining": 86935,
+        "remaining": 83686,
         "total": 108765
       },
       {
         "prize": 40,
-        "remaining": 217391,
+        "remaining": 209378,
         "total": 271924
       },
       {
         "prize": 20,
-        "remaining": 414450,
+        "remaining": 399248,
         "total": 516639
       }
     ],
     "imageUrl": "https://www.molottery.com/media/scratchers/tile/538.png"
-  },
-  {
-    "name": "Top line",
-    "price": 5.0,
-    "totalTickets": 0,
-    "remainingTickets": 0,
-    "gameNumber": "546",
-    "tiers": [
-      {
-        "prize": 77777,
-        "remaining": 3,
-        "total": 5
-      },
-      {
-        "prize": 10000,
-        "remaining": 2,
-        "total": 4
-      },
-      {
-        "prize": 7777,
-        "remaining": 7,
-        "total": 12
-      },
-      {
-        "prize": 1000,
-        "remaining": 11,
-        "total": 17
-      },
-      {
-        "prize": 777,
-        "remaining": 149,
-        "total": 228
-      },
-      {
-        "prize": 500,
-        "remaining": 114,
-        "total": 177
-      },
-      {
-        "prize": 277,
-        "remaining": 170,
-        "total": 276
-      },
-      {
-        "prize": 77,
-        "remaining": 28569,
-        "total": 43450
-      },
-      {
-        "prize": 27,
-        "remaining": 53498,
-        "total": 81102
-      },
-      {
-        "prize": 17,
-        "remaining": 45752,
-        "total": 69027
-      },
-      {
-        "prize": 15,
-        "remaining": 91537,
-        "total": 138054
-      },
-      {
-        "prize": 10,
-        "remaining": 138209,
-        "total": 207021
-      },
-      {
-        "prize": 5,
-        "remaining": 325593,
-        "total": 483309
-      }
-    ],
-    "imageUrl": "https://www.molottery.com/media/scratchers/tile/546.png"
-  },
-  {
-    "name": "Top line",
-    "price": 2.0,
-    "totalTickets": 0,
-    "remainingTickets": 0,
-    "gameNumber": "549",
-    "tiers": [
-      {
-        "prize": 30000,
-        "remaining": 4,
-        "total": 5
-      },
-      {
-        "prize": 3000,
-        "remaining": 13,
-        "total": 20
-      },
-      {
-        "prize": 1000,
-        "remaining": 52,
-        "total": 72
-      },
-      {
-        "prize": 500,
-        "remaining": 213,
-        "total": 296
-      },
-      {
-        "prize": 100,
-        "remaining": 5573,
-        "total": 7956
-      },
-      {
-        "prize": 40,
-        "remaining": 27934,
-        "total": 39827
-      },
-      {
-        "prize": 20,
-        "remaining": 21197,
-        "total": 29898
-      },
-      {
-        "prize": 15,
-        "remaining": 28317,
-        "total": 39827
-      },
-      {
-        "prize": 10,
-        "remaining": 42786,
-        "total": 59706
-      },
-      {
-        "prize": 5,
-        "remaining": 87147,
-        "total": 119439
-      },
-      {
-        "prize": 4,
-        "remaining": 232734,
-        "total": 318567
-      },
-      {
-        "prize": 2,
-        "remaining": 534683,
-        "total": 716984
-      }
-    ],
-    "imageUrl": "https://www.molottery.com/media/scratchers/tile/549.png"
   },
   {
     "name": "Top line",
@@ -563,47 +868,47 @@
       },
       {
         "prize": 50000,
-        "remaining": 49,
+        "remaining": 48,
         "total": 50
       },
       {
         "prize": 10000,
-        "remaining": 243,
+        "remaining": 241,
         "total": 260
       },
       {
         "prize": 5000,
-        "remaining": 692,
+        "remaining": 685,
         "total": 728
       },
       {
         "prize": 1000,
-        "remaining": 2513,
+        "remaining": 2475,
         "total": 2637
       },
       {
         "prize": 500,
-        "remaining": 120256,
+        "remaining": 118745,
         "total": 127545
       },
       {
         "prize": 200,
-        "remaining": 131366,
+        "remaining": 129687,
         "total": 139441
       },
       {
         "prize": 100,
-        "remaining": 749959,
+        "remaining": 740373,
         "total": 795758
       },
       {
         "prize": 75,
-        "remaining": 500078,
+        "remaining": 493805,
         "total": 530506
       },
       {
         "prize": 50,
-        "remaining": 375105,
+        "remaining": 370328,
         "total": 397869
       }
     ],
@@ -628,62 +933,62 @@
       },
       {
         "prize": 1000,
-        "remaining": 349,
+        "remaining": 332,
         "total": 524
       },
       {
         "prize": 500,
-        "remaining": 93,
+        "remaining": 87,
         "total": 151
       },
       {
         "prize": 200,
-        "remaining": 377,
+        "remaining": 360,
         "total": 603
       },
       {
         "prize": 100,
-        "remaining": 7413,
+        "remaining": 7054,
         "total": 11827
       },
       {
         "prize": 75,
-        "remaining": 1547,
+        "remaining": 1473,
         "total": 2461
       },
       {
         "prize": 50,
-        "remaining": 5826,
+        "remaining": 5555,
         "total": 9293
       },
       {
         "prize": 40,
-        "remaining": 19374,
+        "remaining": 18486,
         "total": 30817
       },
       {
         "prize": 25,
-        "remaining": 11608,
+        "remaining": 11051,
         "total": 18425
       },
       {
         "prize": 20,
-        "remaining": 29332,
+        "remaining": 27966,
         "total": 46188
       },
       {
         "prize": 15,
-        "remaining": 117093,
+        "remaining": 111941,
         "total": 184898
       },
       {
         "prize": 10,
-        "remaining": 118598,
+        "remaining": 113478,
         "total": 184857
       },
       {
         "prize": 5,
-        "remaining": 278740,
+        "remaining": 266775,
         "total": 431315
       }
     ],
@@ -713,42 +1018,42 @@
       },
       {
         "prize": 1000,
-        "remaining": 175,
+        "remaining": 164,
         "total": 262
       },
       {
         "prize": 500,
-        "remaining": 242,
+        "remaining": 228,
         "total": 363
       },
       {
         "prize": 250,
-        "remaining": 1730,
+        "remaining": 1630,
         "total": 2647
       },
       {
         "prize": 100,
-        "remaining": 6587,
+        "remaining": 6246,
         "total": 10166
       },
       {
         "prize": 75,
-        "remaining": 97942,
+        "remaining": 92843,
         "total": 151644
       },
       {
         "prize": 25,
-        "remaining": 105989,
+        "remaining": 100635,
         "total": 162725
       },
       {
         "prize": 15,
-        "remaining": 339351,
+        "remaining": 322504,
         "total": 517790
       },
       {
         "prize": 10,
-        "remaining": 389805,
+        "remaining": 370531,
         "total": 591760
       }
     ],
@@ -773,37 +1078,37 @@
       },
       {
         "prize": 10000,
-        "remaining": 228,
+        "remaining": 224,
         "total": 250
       },
       {
         "prize": 5000,
-        "remaining": 669,
+        "remaining": 658,
         "total": 734
       },
       {
         "prize": 1000,
-        "remaining": 2379,
+        "remaining": 2349,
         "total": 2603
       },
       {
         "prize": 500,
-        "remaining": 94293,
+        "remaining": 93310,
         "total": 104409
       },
       {
         "prize": 200,
-        "remaining": 209203,
+        "remaining": 207083,
         "total": 231863
       },
       {
         "prize": 100,
-        "remaining": 470042,
+        "remaining": 465256,
         "total": 521062
       },
       {
         "prize": 75,
-        "remaining": 940613,
+        "remaining": 930874,
         "total": 1042124
       }
     ],
@@ -818,12 +1123,12 @@
     "tiers": [
       {
         "prize": 100,
-        "remaining": 69077,
+        "remaining": 67383,
         "total": 83991
       },
       {
         "prize": 50,
-        "remaining": 306209,
+        "remaining": 298901,
         "total": 372009
       }
     ],
@@ -838,12 +1143,12 @@
     "tiers": [
       {
         "prize": 5000,
-        "remaining": 1,
+        "remaining": 0,
         "total": 6
       },
       {
         "prize": 1000,
-        "remaining": 4,
+        "remaining": 3,
         "total": 10
       },
       {
@@ -853,42 +1158,42 @@
       },
       {
         "prize": 100,
-        "remaining": 579,
+        "remaining": 480,
         "total": 1855
       },
       {
         "prize": 25,
-        "remaining": 8103,
+        "remaining": 6887,
         "total": 25000
       },
       {
         "prize": 20,
-        "remaining": 9376,
+        "remaining": 7996,
         "total": 28586
       },
       {
         "prize": 10,
-        "remaining": 26925,
+        "remaining": 23146,
         "total": 79988
       },
       {
         "prize": 5,
-        "remaining": 16132,
+        "remaining": 13894,
         "total": 45720
       },
       {
         "prize": 4,
-        "remaining": 56983,
+        "remaining": 49480,
         "total": 160020
       },
       {
         "prize": 2,
-        "remaining": 126681,
+        "remaining": 110531,
         "total": 342900
       },
       {
         "prize": 1,
-        "remaining": 314256,
+        "remaining": 277447,
         "total": 800100
       }
     ],
@@ -918,37 +1223,37 @@
       },
       {
         "prize": 500,
-        "remaining": 74,
+        "remaining": 69,
         "total": 141
       },
       {
         "prize": 100,
-        "remaining": 7514,
+        "remaining": 7132,
         "total": 13750
       },
       {
         "prize": 50,
-        "remaining": 28212,
+        "remaining": 26801,
         "total": 51524
       },
       {
         "prize": 25,
-        "remaining": 28567,
+        "remaining": 27130,
         "total": 51572
       },
       {
         "prize": 15,
-        "remaining": 76322,
+        "remaining": 72661,
         "total": 137425
       },
       {
         "prize": 10,
-        "remaining": 192996,
+        "remaining": 183700,
         "total": 343670
       },
       {
         "prize": 5,
-        "remaining": 286956,
+        "remaining": 273742,
         "total": 498343
       }
     ],
@@ -968,52 +1273,52 @@
       },
       {
         "prize": 5000,
-        "remaining": 4,
+        "remaining": 3,
         "total": 8
       },
       {
         "prize": 1000,
-        "remaining": 41,
+        "remaining": 39,
         "total": 88
       },
       {
         "prize": 500,
-        "remaining": 370,
+        "remaining": 343,
         "total": 891
       },
       {
         "prize": 100,
-        "remaining": 3180,
+        "remaining": 2947,
         "total": 7137
       },
       {
         "prize": 50,
-        "remaining": 6313,
+        "remaining": 5909,
         "total": 14556
       },
       {
         "prize": 20,
-        "remaining": 15813,
+        "remaining": 14730,
         "total": 35695
       },
       {
         "prize": 10,
-        "remaining": 48367,
+        "remaining": 45204,
         "total": 107085
       },
       {
         "prize": 5,
-        "remaining": 49637,
+        "remaining": 46386,
         "total": 107085
       },
       {
         "prize": 4,
-        "remaining": 182129,
+        "remaining": 170387,
         "total": 392643
       },
       {
         "prize": 2,
-        "remaining": 257209,
+        "remaining": 241561,
         "total": 535429
       }
     ],
@@ -1043,7 +1348,7 @@
       },
       {
         "prize": 20000,
-        "remaining": 3,
+        "remaining": 2,
         "total": 5
       },
       {
@@ -1053,37 +1358,37 @@
       },
       {
         "prize": 5000,
-        "remaining": 13,
+        "remaining": 12,
         "total": 25
       },
       {
         "prize": 1000,
-        "remaining": 556,
+        "remaining": 527,
         "total": 1116
       },
       {
         "prize": 400,
-        "remaining": 1007,
+        "remaining": 951,
         "total": 2154
       },
       {
         "prize": 200,
-        "remaining": 2606,
+        "remaining": 2473,
         "total": 5444
       },
       {
         "prize": 100,
-        "remaining": 97677,
+        "remaining": 92135,
         "total": 206282
       },
       {
         "prize": 40,
-        "remaining": 142122,
+        "remaining": 134180,
         "total": 299592
       },
       {
         "prize": 20,
-        "remaining": 247758,
+        "remaining": 233852,
         "total": 517099
       }
     ],
@@ -1108,47 +1413,47 @@
       },
       {
         "prize": 5000,
-        "remaining": 31,
+        "remaining": 30,
         "total": 50
       },
       {
         "prize": 1000,
-        "remaining": 1032,
+        "remaining": 1001,
         "total": 1595
       },
       {
         "prize": 200,
-        "remaining": 2925,
+        "remaining": 2828,
         "total": 4607
       },
       {
         "prize": 100,
-        "remaining": 29592,
+        "remaining": 28792,
         "total": 46155
       },
       {
         "prize": 50,
-        "remaining": 98570,
+        "remaining": 95850,
         "total": 153888
       },
       {
         "prize": 25,
-        "remaining": 49388,
+        "remaining": 48048,
         "total": 76944
       },
       {
         "prize": 20,
-        "remaining": 197792,
+        "remaining": 192424,
         "total": 307776
       },
       {
         "prize": 15,
-        "remaining": 149088,
+        "remaining": 145085,
         "total": 230832
       },
       {
         "prize": 10,
-        "remaining": 399074,
+        "remaining": 388355,
         "total": 615552
       }
     ],
@@ -1168,7 +1473,7 @@
       },
       {
         "prize": 10000,
-        "remaining": 3,
+        "remaining": 0,
         "total": 6
       },
       {
@@ -1178,37 +1483,37 @@
       },
       {
         "prize": 500,
-        "remaining": 691,
+        "remaining": 607,
         "total": 2527
       },
       {
         "prize": 100,
-        "remaining": 2962,
+        "remaining": 2623,
         "total": 10545
       },
       {
         "prize": 50,
-        "remaining": 10835,
+        "remaining": 9715,
         "total": 37781
       },
       {
         "prize": 25,
-        "remaining": 18399,
+        "remaining": 16446,
         "total": 62946
       },
       {
         "prize": 15,
-        "remaining": 36721,
+        "remaining": 32782,
         "total": 125892
       },
       {
         "prize": 10,
-        "remaining": 80795,
+        "remaining": 72619,
         "total": 267484
       },
       {
         "prize": 5,
-        "remaining": 132409,
+        "remaining": 120138,
         "total": 409222
       }
     ],
@@ -1223,7 +1528,7 @@
     "tiers": [
       {
         "prize": 25000,
-        "remaining": 3,
+        "remaining": 2,
         "total": 5
       },
       {
@@ -1238,37 +1543,37 @@
       },
       {
         "prize": 100,
-        "remaining": 7692,
+        "remaining": 7529,
         "total": 13954
       },
       {
         "prize": 40,
-        "remaining": 10994,
+        "remaining": 10792,
         "total": 19592
       },
       {
         "prize": 25,
-        "remaining": 19223,
+        "remaining": 18851,
         "total": 33546
       },
       {
         "prize": 10,
-        "remaining": 39276,
+        "remaining": 38539,
         "total": 67092
       },
       {
         "prize": 5,
-        "remaining": 58254,
+        "remaining": 57148,
         "total": 100638
       },
       {
         "prize": 4,
-        "remaining": 164953,
+        "remaining": 161621,
         "total": 285164
       },
       {
         "prize": 2,
-        "remaining": 345858,
+        "remaining": 339046,
         "total": 587032
       }
     ],
@@ -1298,42 +1603,42 @@
       },
       {
         "prize": 100,
-        "remaining": 256,
+        "remaining": 233,
         "total": 1466
       },
       {
         "prize": 50,
-        "remaining": 3509,
+        "remaining": 3219,
         "total": 19834
       },
       {
         "prize": 15,
-        "remaining": 3550,
+        "remaining": 3257,
         "total": 18025
       },
       {
         "prize": 10,
-        "remaining": 8527,
+        "remaining": 8058,
         "total": 31512
       },
       {
         "prize": 5,
-        "remaining": 7553,
+        "remaining": 6926,
         "total": 36074
       },
       {
         "prize": 4,
-        "remaining": 27893,
+        "remaining": 25712,
         "total": 126254
       },
       {
         "prize": 2,
-        "remaining": 65187,
+        "remaining": 60571,
         "total": 270296
       },
       {
         "prize": 1,
-        "remaining": 166398,
+        "remaining": 156039,
         "total": 621902
       }
     ],
@@ -1353,57 +1658,57 @@
       },
       {
         "prize": 5000,
-        "remaining": 18,
+        "remaining": 15,
         "total": 28
       },
       {
         "prize": 1000,
-        "remaining": 73,
+        "remaining": 68,
         "total": 115
       },
       {
         "prize": 500,
-        "remaining": 353,
+        "remaining": 341,
         "total": 568
       },
       {
         "prize": 100,
-        "remaining": 5372,
+        "remaining": 5149,
         "total": 8650
       },
       {
         "prize": 60,
-        "remaining": 5225,
+        "remaining": 5021,
         "total": 8413
       },
       {
         "prize": 50,
-        "remaining": 6962,
+        "remaining": 6699,
         "total": 11233
       },
       {
         "prize": 20,
-        "remaining": 42203,
+        "remaining": 40507,
         "total": 67405
       },
       {
         "prize": 12,
-        "remaining": 74929,
+        "remaining": 72024,
         "total": 117952
       },
       {
         "prize": 10,
-        "remaining": 95865,
+        "remaining": 92263,
         "total": 151611
       },
       {
         "prize": 6,
-        "remaining": 447829,
+        "remaining": 431949,
         "total": 691058
       },
       {
         "prize": 3,
-        "remaining": 447003,
+        "remaining": 432001,
         "total": 673957
       }
     ],
@@ -1418,12 +1723,12 @@
     "tiers": [
       {
         "prize": 100000,
-        "remaining": 3,
+        "remaining": 2,
         "total": 6
       },
       {
         "prize": 10000,
-        "remaining": 2,
+        "remaining": 1,
         "total": 6
       },
       {
@@ -1433,72 +1738,72 @@
       },
       {
         "prize": 1000,
-        "remaining": 16,
+        "remaining": 15,
         "total": 30
       },
       {
         "prize": 500,
-        "remaining": 180,
+        "remaining": 166,
         "total": 422
       },
       {
         "prize": 250,
-        "remaining": 1833,
+        "remaining": 1687,
         "total": 4440
       },
       {
         "prize": 100,
-        "remaining": 1768,
+        "remaining": 1619,
         "total": 4234
       },
       {
         "prize": 75,
-        "remaining": 3441,
+        "remaining": 3177,
         "total": 8429
       },
       {
         "prize": 60,
-        "remaining": 3474,
+        "remaining": 3196,
         "total": 8415
       },
       {
         "prize": 50,
-        "remaining": 5026,
+        "remaining": 4619,
         "total": 12220
       },
       {
         "prize": 40,
-        "remaining": 4329,
+        "remaining": 3999,
         "total": 10486
       },
       {
         "prize": 30,
-        "remaining": 4853,
+        "remaining": 4442,
         "total": 11754
       },
       {
         "prize": 25,
-        "remaining": 26226,
+        "remaining": 24142,
         "total": 62922
       },
       {
         "prize": 20,
-        "remaining": 35040,
+        "remaining": 32221,
         "total": 83919
       },
       {
         "prize": 15,
-        "remaining": 61893,
+        "remaining": 57106,
         "total": 146890
       },
       {
         "prize": 10,
-        "remaining": 161459,
+        "remaining": 148974,
         "total": 377687
       },
       {
         "prize": 5,
-        "remaining": 259301,
+        "remaining": 240316,
         "total": 587321
       }
     ],
@@ -1528,62 +1833,62 @@
       },
       {
         "prize": 1000,
-        "remaining": 289,
+        "remaining": 270,
         "total": 720
       },
       {
         "prize": 500,
-        "remaining": 78,
+        "remaining": 73,
         "total": 191
       },
       {
         "prize": 200,
-        "remaining": 364,
+        "remaining": 336,
         "total": 934
       },
       {
         "prize": 100,
-        "remaining": 7662,
+        "remaining": 7161,
         "total": 20454
       },
       {
         "prize": 75,
-        "remaining": 1356,
+        "remaining": 1277,
         "total": 3707
       },
       {
         "prize": 50,
-        "remaining": 5321,
+        "remaining": 5007,
         "total": 13954
       },
       {
         "prize": 40,
-        "remaining": 17553,
+        "remaining": 16470,
         "total": 46173
       },
       {
         "prize": 25,
-        "remaining": 13105,
+        "remaining": 12288,
         "total": 33463
       },
       {
         "prize": 20,
-        "remaining": 26785,
+        "remaining": 25124,
         "total": 69105
       },
       {
         "prize": 15,
-        "remaining": 106633,
+        "remaining": 99970,
         "total": 276610
       },
       {
         "prize": 10,
-        "remaining": 108853,
+        "remaining": 102262,
         "total": 276476
       },
       {
         "prize": 5,
-        "remaining": 268505,
+        "remaining": 253536,
         "total": 645198
       }
     ],
@@ -1598,7 +1903,7 @@
     "tiers": [
       {
         "prize": 3000000,
-        "remaining": 3,
+        "remaining": 2,
         "total": 3
       },
       {
@@ -1613,42 +1918,42 @@
       },
       {
         "prize": 5000,
-        "remaining": 44,
+        "remaining": 43,
         "total": 62
       },
       {
         "prize": 2500,
-        "remaining": 45,
+        "remaining": 44,
         "total": 62
       },
       {
         "prize": 1000,
-        "remaining": 1137,
+        "remaining": 1107,
         "total": 1546
       },
       {
         "prize": 500,
-        "remaining": 8391,
+        "remaining": 8226,
         "total": 11820
       },
       {
         "prize": 200,
-        "remaining": 26183,
+        "remaining": 25706,
         "total": 36955
       },
       {
         "prize": 100,
-        "remaining": 183376,
+        "remaining": 179805,
         "total": 259113
       },
       {
         "prize": 60,
-        "remaining": 409126,
+        "remaining": 401258,
         "total": 577430
       },
       {
         "prize": 50,
-        "remaining": 314562,
+        "remaining": 308349,
         "total": 443861
       }
     ],
@@ -1663,7 +1968,7 @@
     "tiers": [
       {
         "prize": 25000,
-        "remaining": 4,
+        "remaining": 3,
         "total": 5
       },
       {
@@ -1683,42 +1988,42 @@
       },
       {
         "prize": 100,
-        "remaining": 3061,
+        "remaining": 3057,
         "total": 7499
       },
       {
         "prize": 50,
-        "remaining": 1684,
+        "remaining": 1679,
         "total": 4034
       },
       {
         "prize": 40,
-        "remaining": 4586,
+        "remaining": 4578,
         "total": 11262
       },
       {
         "prize": 25,
-        "remaining": 17642,
+        "remaining": 17609,
         "total": 41369
       },
       {
         "prize": 10,
-        "remaining": 49239,
+        "remaining": 49145,
         "total": 110313
       },
       {
         "prize": 5,
-        "remaining": 119382,
+        "remaining": 119152,
         "total": 257397
       },
       {
         "prize": 4,
-        "remaining": 103242,
+        "remaining": 103024,
         "total": 220645
       },
       {
         "prize": 2,
-        "remaining": 301458,
+        "remaining": 300836,
         "total": 625069
       }
     ],
@@ -1748,116 +2053,46 @@
       },
       {
         "prize": 100,
-        "remaining": 511,
+        "remaining": 510,
         "total": 1764
       },
       {
         "prize": 40,
-        "remaining": 2257,
+        "remaining": 2251,
         "total": 7155
       },
       {
         "prize": 20,
-        "remaining": 11916,
+        "remaining": 11882,
         "total": 35614
       },
       {
         "prize": 10,
-        "remaining": 50817,
+        "remaining": 50634,
         "total": 142400
       },
       {
         "prize": 5,
-        "remaining": 53857,
+        "remaining": 53661,
         "total": 142404
       },
       {
         "prize": 3,
-        "remaining": 90341,
+        "remaining": 90026,
         "total": 227873
       },
       {
         "prize": 2,
-        "remaining": 133663,
+        "remaining": 133158,
         "total": 327626
       },
       {
         "prize": 1,
-        "remaining": 428527,
+        "remaining": 427039,
         "total": 996917
       }
     ],
     "imageUrl": "https://www.molottery.com/media/scratchers/tile/535.png"
-  },
-  {
-    "name": "Top line",
-    "price": 10.0,
-    "totalTickets": 0,
-    "remainingTickets": 0,
-    "gameNumber": "529",
-    "tiers": [
-      {
-        "prize": 200000,
-        "remaining": 1,
-        "total": 2
-      },
-      {
-        "prize": 20000,
-        "remaining": 2,
-        "total": 5
-      },
-      {
-        "prize": 10000,
-        "remaining": 4,
-        "total": 20
-      },
-      {
-        "prize": 5000,
-        "remaining": 4,
-        "total": 20
-      },
-      {
-        "prize": 1000,
-        "remaining": 254,
-        "total": 810
-      },
-      {
-        "prize": 500,
-        "remaining": 636,
-        "total": 1884
-      },
-      {
-        "prize": 200,
-        "remaining": 1779,
-        "total": 5280
-      },
-      {
-        "prize": 100,
-        "remaining": 8525,
-        "total": 25286
-      },
-      {
-        "prize": 50,
-        "remaining": 10509,
-        "total": 30919
-      },
-      {
-        "prize": 25,
-        "remaining": 10425,
-        "total": 30041
-      },
-      {
-        "prize": 20,
-        "remaining": 78175,
-        "total": 225006
-      },
-      {
-        "prize": 10,
-        "remaining": 133811,
-        "total": 374922
-      }
-    ],
-    "imageUrl": "https://www.molottery.com/media/scratchers/tile/529.png"
   },
   {
     "name": "Top line",
@@ -1893,41 +2128,111 @@
       },
       {
         "prize": 100,
-        "remaining": 2406,
+        "remaining": 2400,
         "total": 12268
       },
       {
         "prize": 50,
-        "remaining": 6710,
+        "remaining": 6697,
         "total": 32675
       },
       {
         "prize": 30,
-        "remaining": 3250,
+        "remaining": 3238,
         "total": 16375
       },
       {
         "prize": 20,
-        "remaining": 18124,
+        "remaining": 18079,
         "total": 81746
       },
       {
         "prize": 15,
-        "remaining": 23123,
+        "remaining": 23046,
         "total": 108982
       },
       {
         "prize": 10,
-        "remaining": 50423,
+        "remaining": 50293,
         "total": 217854
       },
       {
         "prize": 5,
-        "remaining": 93898,
+        "remaining": 93613,
         "total": 381484
       }
     ],
     "imageUrl": "https://www.molottery.com/media/scratchers/tile/531.png"
+  },
+  {
+    "name": "Top line",
+    "price": 10.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "529",
+    "tiers": [
+      {
+        "prize": 200000,
+        "remaining": 1,
+        "total": 2
+      },
+      {
+        "prize": 20000,
+        "remaining": 2,
+        "total": 5
+      },
+      {
+        "prize": 10000,
+        "remaining": 4,
+        "total": 20
+      },
+      {
+        "prize": 5000,
+        "remaining": 4,
+        "total": 20
+      },
+      {
+        "prize": 1000,
+        "remaining": 254,
+        "total": 810
+      },
+      {
+        "prize": 500,
+        "remaining": 635,
+        "total": 1884
+      },
+      {
+        "prize": 200,
+        "remaining": 1779,
+        "total": 5280
+      },
+      {
+        "prize": 100,
+        "remaining": 8520,
+        "total": 25286
+      },
+      {
+        "prize": 50,
+        "remaining": 10493,
+        "total": 30919
+      },
+      {
+        "prize": 25,
+        "remaining": 10418,
+        "total": 30041
+      },
+      {
+        "prize": 20,
+        "remaining": 78058,
+        "total": 225006
+      },
+      {
+        "prize": 10,
+        "remaining": 133634,
+        "total": 374922
+      }
+    ],
+    "imageUrl": "https://www.molottery.com/media/scratchers/tile/529.png"
   },
   {
     "name": "Top line",
@@ -1963,32 +2268,32 @@
       },
       {
         "prize": 100,
-        "remaining": 5659,
+        "remaining": 5651,
         "total": 11719
       },
       {
         "prize": 50,
-        "remaining": 27213,
+        "remaining": 27176,
         "total": 56061
       },
       {
         "prize": 25,
-        "remaining": 15764,
+        "remaining": 15746,
         "total": 31869
       },
       {
         "prize": 15,
-        "remaining": 60987,
+        "remaining": 60914,
         "total": 121268
       },
       {
         "prize": 10,
-        "remaining": 155387,
+        "remaining": 155207,
         "total": 303169
       },
       {
         "prize": 5,
-        "remaining": 227245,
+        "remaining": 227012,
         "total": 424440
       }
     ],
@@ -2038,106 +2343,31 @@
       },
       {
         "prize": 200,
-        "remaining": 1015,
+        "remaining": 1014,
         "total": 2620
       },
       {
         "prize": 100,
-        "remaining": 26671,
+        "remaining": 26661,
         "total": 67728
       },
       {
         "prize": 50,
-        "remaining": 26737,
+        "remaining": 26723,
         "total": 67652
       },
       {
         "prize": 40,
-        "remaining": 61874,
+        "remaining": 61835,
         "total": 156126
       },
       {
         "prize": 20,
-        "remaining": 93969,
+        "remaining": 93926,
         "total": 234233
       }
     ],
     "imageUrl": "https://www.molottery.com/media/scratchers/tile/525.png"
-  },
-  {
-    "name": "Top line",
-    "price": 5.0,
-    "totalTickets": 0,
-    "remainingTickets": 0,
-    "gameNumber": "520",
-    "tiers": [
-      {
-        "prize": 100000,
-        "remaining": 1,
-        "total": 4
-      },
-      {
-        "prize": 20000,
-        "remaining": 2,
-        "total": 3
-      },
-      {
-        "prize": 5000,
-        "remaining": 0,
-        "total": 2
-      },
-      {
-        "prize": 1000,
-        "remaining": 3,
-        "total": 10
-      },
-      {
-        "prize": 500,
-        "remaining": 34,
-        "total": 148
-      },
-      {
-        "prize": 200,
-        "remaining": 70,
-        "total": 301
-      },
-      {
-        "prize": 100,
-        "remaining": 2328,
-        "total": 9897
-      },
-      {
-        "prize": 75,
-        "remaining": 2951,
-        "total": 12797
-      },
-      {
-        "prize": 50,
-        "remaining": 6198,
-        "total": 26519
-      },
-      {
-        "prize": 25,
-        "remaining": 10828,
-        "total": 44960
-      },
-      {
-        "prize": 15,
-        "remaining": 29410,
-        "total": 119943
-      },
-      {
-        "prize": 10,
-        "remaining": 82983,
-        "total": 329723
-      },
-      {
-        "prize": 5,
-        "remaining": 116068,
-        "total": 434637
-      }
-    ],
-    "imageUrl": "https://www.molottery.com/media/scratchers/tile/520.png"
   },
   {
     "name": "Top line",
@@ -2168,57 +2398,57 @@
       },
       {
         "prize": 100,
-        "remaining": 229,
+        "remaining": 227,
         "total": 1738
       },
       {
         "prize": 50,
-        "remaining": 530,
+        "remaining": 527,
         "total": 4077
       },
       {
         "prize": 30,
-        "remaining": 1364,
+        "remaining": 1359,
         "total": 9625
       },
       {
         "prize": 25,
-        "remaining": 3355,
+        "remaining": 3340,
         "total": 23259
       },
       {
         "prize": 10,
-        "remaining": 11982,
+        "remaining": 11907,
         "total": 75610
       },
       {
         "prize": 7,
-        "remaining": 7664,
+        "remaining": 7610,
         "total": 46518
       },
       {
         "prize": 5,
-        "remaining": 16006,
+        "remaining": 15892,
         "total": 93036
       },
       {
         "prize": 4,
-        "remaining": 8444,
+        "remaining": 8379,
         "total": 46485
       },
       {
         "prize": 3,
-        "remaining": 8774,
+        "remaining": 8713,
         "total": 46493
       },
       {
         "prize": 2,
-        "remaining": 64184,
+        "remaining": 63714,
         "total": 325629
       },
       {
         "prize": 1,
-        "remaining": 171984,
+        "remaining": 170858,
         "total": 802454
       }
     ],
@@ -2243,7 +2473,7 @@
       },
       {
         "prize": 20000,
-        "remaining": 3,
+        "remaining": 2,
         "total": 5
       },
       {
@@ -2258,41 +2488,116 @@
       },
       {
         "prize": 1000,
-        "remaining": 524,
+        "remaining": 502,
         "total": 1091
       },
       {
         "prize": 500,
-        "remaining": 837,
+        "remaining": 800,
         "total": 1791
       },
       {
         "prize": 200,
-        "remaining": 2518,
+        "remaining": 2436,
         "total": 5454
       },
       {
         "prize": 100,
-        "remaining": 62512,
+        "remaining": 60433,
         "total": 136397
       },
       {
         "prize": 50,
-        "remaining": 64412,
+        "remaining": 62268,
         "total": 140423
       },
       {
         "prize": 40,
-        "remaining": 150781,
+        "remaining": 145700,
         "total": 327276
       },
       {
         "prize": 20,
-        "remaining": 215326,
+        "remaining": 208263,
         "total": 463574
       }
     ],
     "imageUrl": "https://www.molottery.com/media/scratchers/tile/523.png"
+  },
+  {
+    "name": "Top line",
+    "price": 5.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "520",
+    "tiers": [
+      {
+        "prize": 100000,
+        "remaining": 1,
+        "total": 4
+      },
+      {
+        "prize": 20000,
+        "remaining": 2,
+        "total": 3
+      },
+      {
+        "prize": 5000,
+        "remaining": 0,
+        "total": 2
+      },
+      {
+        "prize": 1000,
+        "remaining": 3,
+        "total": 10
+      },
+      {
+        "prize": 500,
+        "remaining": 33,
+        "total": 148
+      },
+      {
+        "prize": 200,
+        "remaining": 69,
+        "total": 301
+      },
+      {
+        "prize": 100,
+        "remaining": 2232,
+        "total": 9897
+      },
+      {
+        "prize": 75,
+        "remaining": 2821,
+        "total": 12797
+      },
+      {
+        "prize": 50,
+        "remaining": 5905,
+        "total": 26519
+      },
+      {
+        "prize": 25,
+        "remaining": 10304,
+        "total": 44960
+      },
+      {
+        "prize": 15,
+        "remaining": 28122,
+        "total": 119943
+      },
+      {
+        "prize": 10,
+        "remaining": 79375,
+        "total": 329723
+      },
+      {
+        "prize": 5,
+        "remaining": 111439,
+        "total": 434637
+      }
+    ],
+    "imageUrl": "https://www.molottery.com/media/scratchers/tile/520.png"
   },
   {
     "name": "Top line",
@@ -2313,126 +2618,51 @@
       },
       {
         "prize": 1000,
-        "remaining": 8,
+        "remaining": 7,
         "total": 91
       },
       {
         "prize": 500,
-        "remaining": 120,
+        "remaining": 119,
         "total": 887
       },
       {
         "prize": 100,
-        "remaining": 1015,
+        "remaining": 1008,
         "total": 7112
       },
       {
         "prize": 50,
-        "remaining": 2424,
+        "remaining": 2412,
         "total": 14448
       },
       {
         "prize": 20,
-        "remaining": 5999,
+        "remaining": 5949,
         "total": 35499
       },
       {
         "prize": 10,
-        "remaining": 19505,
+        "remaining": 19364,
         "total": 106497
       },
       {
         "prize": 5,
-        "remaining": 17880,
+        "remaining": 17728,
         "total": 106497
       },
       {
         "prize": 4,
-        "remaining": 64966,
+        "remaining": 64344,
         "total": 390445
       },
       {
         "prize": 2,
-        "remaining": 102153,
+        "remaining": 101264,
         "total": 532573
       }
     ],
     "imageUrl": "https://www.molottery.com/media/scratchers/tile/521.png"
-  },
-  {
-    "name": "Top line",
-    "price": 10.0,
-    "totalTickets": 0,
-    "remainingTickets": 0,
-    "gameNumber": "511",
-    "tiers": [
-      {
-        "prize": 1000000,
-        "remaining": 0,
-        "total": 2
-      },
-      {
-        "prize": 50000,
-        "remaining": 1,
-        "total": 5
-      },
-      {
-        "prize": 5000,
-        "remaining": 14,
-        "total": 50
-      },
-      {
-        "prize": 1000,
-        "remaining": 247,
-        "total": 771
-      },
-      {
-        "prize": 500,
-        "remaining": 497,
-        "total": 1625
-      },
-      {
-        "prize": 200,
-        "remaining": 1425,
-        "total": 4651
-      },
-      {
-        "prize": 100,
-        "remaining": 11883,
-        "total": 38904
-      },
-      {
-        "prize": 50,
-        "remaining": 47244,
-        "total": 154986
-      },
-      {
-        "prize": 30,
-        "remaining": 14319,
-        "total": 46381
-      },
-      {
-        "prize": 25,
-        "remaining": 15647,
-        "total": 50496
-      },
-      {
-        "prize": 20,
-        "remaining": 96302,
-        "total": 309972
-      },
-      {
-        "prize": 15,
-        "remaining": 73580,
-        "total": 232479
-      },
-      {
-        "prize": 10,
-        "remaining": 198379,
-        "total": 619944
-      }
-    ],
-    "imageUrl": "https://www.molottery.com/media/scratchers/tile/511.png"
   },
   {
     "name": "Top line",
@@ -2458,46 +2688,121 @@
       },
       {
         "prize": 1000,
-        "remaining": 18,
+        "remaining": 15,
         "total": 80
       },
       {
         "prize": 500,
-        "remaining": 52,
+        "remaining": 49,
         "total": 286
       },
       {
         "prize": 100,
-        "remaining": 2695,
+        "remaining": 2513,
         "total": 13830
       },
       {
         "prize": 50,
-        "remaining": 12825,
+        "remaining": 11972,
         "total": 66092
       },
       {
         "prize": 25,
-        "remaining": 7585,
+        "remaining": 7122,
         "total": 37606
       },
       {
         "prize": 15,
-        "remaining": 29957,
+        "remaining": 28176,
         "total": 142988
       },
       {
         "prize": 10,
-        "remaining": 76902,
+        "remaining": 72426,
         "total": 357463
       },
       {
         "prize": 5,
-        "remaining": 119862,
+        "remaining": 113822,
         "total": 500472
       }
     ],
     "imageUrl": "https://www.molottery.com/media/scratchers/tile/517.png"
+  },
+  {
+    "name": "Top line",
+    "price": 10.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "511",
+    "tiers": [
+      {
+        "prize": 1000000,
+        "remaining": 0,
+        "total": 2
+      },
+      {
+        "prize": 50000,
+        "remaining": 1,
+        "total": 5
+      },
+      {
+        "prize": 5000,
+        "remaining": 14,
+        "total": 50
+      },
+      {
+        "prize": 1000,
+        "remaining": 240,
+        "total": 771
+      },
+      {
+        "prize": 500,
+        "remaining": 492,
+        "total": 1625
+      },
+      {
+        "prize": 200,
+        "remaining": 1403,
+        "total": 4651
+      },
+      {
+        "prize": 100,
+        "remaining": 11745,
+        "total": 38904
+      },
+      {
+        "prize": 50,
+        "remaining": 46649,
+        "total": 154986
+      },
+      {
+        "prize": 30,
+        "remaining": 14148,
+        "total": 46381
+      },
+      {
+        "prize": 25,
+        "remaining": 15438,
+        "total": 50496
+      },
+      {
+        "prize": 20,
+        "remaining": 95071,
+        "total": 309972
+      },
+      {
+        "prize": 15,
+        "remaining": 72647,
+        "total": 232479
+      },
+      {
+        "prize": 10,
+        "remaining": 195896,
+        "total": 619944
+      }
+    ],
+    "imageUrl": "https://www.molottery.com/media/scratchers/tile/511.png"
   },
   {
     "name": "Top line",
@@ -2523,131 +2828,46 @@
       },
       {
         "prize": 100,
-        "remaining": 369,
+        "remaining": 366,
         "total": 2015
       },
       {
         "prize": 50,
-        "remaining": 4922,
+        "remaining": 4902,
         "total": 27157
       },
       {
         "prize": 15,
-        "remaining": 4718,
+        "remaining": 4702,
         "total": 24681
       },
       {
         "prize": 10,
-        "remaining": 8382,
+        "remaining": 8344,
         "total": 43167
       },
       {
         "prize": 5,
-        "remaining": 9995,
+        "remaining": 9938,
         "total": 49382
       },
       {
         "prize": 4,
-        "remaining": 35572,
+        "remaining": 35419,
         "total": 172826
       },
       {
         "prize": 2,
-        "remaining": 80976,
+        "remaining": 80572,
         "total": 370156
       },
       {
         "prize": 1,
-        "remaining": 208795,
+        "remaining": 207933,
         "total": 851524
       }
     ],
     "imageUrl": "https://www.molottery.com/media/scratchers/tile/518.png"
-  },
-  {
-    "name": "Top line",
-    "price": 5.0,
-    "totalTickets": 0,
-    "remainingTickets": 0,
-    "gameNumber": "509",
-    "tiers": [
-      {
-        "prize": 100000,
-        "remaining": 1,
-        "total": 6
-      },
-      {
-        "prize": 20000,
-        "remaining": 3,
-        "total": 10
-      },
-      {
-        "prize": 5000,
-        "remaining": 2,
-        "total": 30
-      },
-      {
-        "prize": 1000,
-        "remaining": 47,
-        "total": 682
-      },
-      {
-        "prize": 500,
-        "remaining": 16,
-        "total": 204
-      },
-      {
-        "prize": 200,
-        "remaining": 40,
-        "total": 803
-      },
-      {
-        "prize": 100,
-        "remaining": 721,
-        "total": 15354
-      },
-      {
-        "prize": 75,
-        "remaining": 175,
-        "total": 3184
-      },
-      {
-        "prize": 50,
-        "remaining": 589,
-        "total": 11849
-      },
-      {
-        "prize": 40,
-        "remaining": 2005,
-        "total": 39826
-      },
-      {
-        "prize": 25,
-        "remaining": 1042,
-        "total": 19498
-      },
-      {
-        "prize": 20,
-        "remaining": 3857,
-        "total": 59687
-      },
-      {
-        "prize": 15,
-        "remaining": 14806,
-        "total": 238514
-      },
-      {
-        "prize": 10,
-        "remaining": 16642,
-        "total": 238578
-      },
-      {
-        "prize": 5,
-        "remaining": 60032,
-        "total": 556704
-      }
-    ],
-    "imageUrl": "https://www.molottery.com/media/scratchers/tile/509.png"
   },
   {
     "name": "Top line",
@@ -2678,41 +2898,126 @@
       },
       {
         "prize": 5000,
-        "remaining": 15,
+        "remaining": 14,
         "total": 25
       },
       {
         "prize": 1000,
-        "remaining": 547,
+        "remaining": 535,
         "total": 1085
       },
       {
         "prize": 500,
-        "remaining": 865,
+        "remaining": 852,
         "total": 1772
       },
       {
         "prize": 200,
-        "remaining": 2609,
+        "remaining": 2549,
         "total": 5367
       },
       {
         "prize": 100,
-        "remaining": 99191,
+        "remaining": 97157,
         "total": 204058
       },
       {
         "prize": 40,
-        "remaining": 144820,
+        "remaining": 141914,
         "total": 296147
       },
       {
         "prize": 20,
-        "remaining": 252147,
+        "remaining": 247107,
         "total": 511455
       }
     ],
     "imageUrl": "https://www.molottery.com/media/scratchers/tile/532.png"
+  },
+  {
+    "name": "Top line",
+    "price": 5.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "509",
+    "tiers": [
+      {
+        "prize": 100000,
+        "remaining": 1,
+        "total": 6
+      },
+      {
+        "prize": 20000,
+        "remaining": 3,
+        "total": 10
+      },
+      {
+        "prize": 5000,
+        "remaining": 2,
+        "total": 30
+      },
+      {
+        "prize": 1000,
+        "remaining": 45,
+        "total": 682
+      },
+      {
+        "prize": 500,
+        "remaining": 16,
+        "total": 204
+      },
+      {
+        "prize": 200,
+        "remaining": 40,
+        "total": 803
+      },
+      {
+        "prize": 100,
+        "remaining": 718,
+        "total": 15354
+      },
+      {
+        "prize": 75,
+        "remaining": 174,
+        "total": 3184
+      },
+      {
+        "prize": 50,
+        "remaining": 586,
+        "total": 11849
+      },
+      {
+        "prize": 40,
+        "remaining": 1987,
+        "total": 39826
+      },
+      {
+        "prize": 25,
+        "remaining": 1034,
+        "total": 19498
+      },
+      {
+        "prize": 20,
+        "remaining": 3824,
+        "total": 59687
+      },
+      {
+        "prize": 15,
+        "remaining": 14693,
+        "total": 238514
+      },
+      {
+        "prize": 10,
+        "remaining": 16517,
+        "total": 238578
+      },
+      {
+        "prize": 5,
+        "remaining": 59679,
+        "total": 556704
+      }
+    ],
+    "imageUrl": "https://www.molottery.com/media/scratchers/tile/509.png"
   },
   {
     "name": "Top line",
@@ -2723,12 +3028,12 @@
     "tiers": [
       {
         "prize": 200,
-        "remaining": 21429,
+        "remaining": 20423,
         "total": 52343
       },
       {
         "prize": 100,
-        "remaining": 95169,
+        "remaining": 90770,
         "total": 231869
       }
     ],
@@ -2773,7 +3078,7 @@
       },
       {
         "prize": 75,
-        "remaining": 863,
+        "remaining": 861,
         "total": 8963
       },
       {
@@ -2783,22 +3088,22 @@
       },
       {
         "prize": 25,
-        "remaining": 3301,
+        "remaining": 3296,
         "total": 31443
       },
       {
         "prize": 15,
-        "remaining": 9343,
+        "remaining": 9322,
         "total": 83681
       },
       {
         "prize": 10,
-        "remaining": 27311,
+        "remaining": 27266,
         "total": 219647
       },
       {
         "prize": 5,
-        "remaining": 41591,
+        "remaining": 41528,
         "total": 282506
       }
     ],
@@ -2823,52 +3128,52 @@
       },
       {
         "prize": 1000,
-        "remaining": 14,
+        "remaining": 13,
         "total": 46
       },
       {
         "prize": 333,
-        "remaining": 132,
+        "remaining": 128,
         "total": 448
       },
       {
         "prize": 100,
-        "remaining": 2123,
+        "remaining": 2084,
         "total": 7432
       },
       {
         "prize": 30,
-        "remaining": 13670,
+        "remaining": 13389,
         "total": 46903
       },
       {
         "prize": 20,
-        "remaining": 7853,
+        "remaining": 7709,
         "total": 26492
       },
       {
         "prize": 15,
-        "remaining": 10430,
+        "remaining": 10216,
         "total": 35342
       },
       {
         "prize": 10,
-        "remaining": 16051,
+        "remaining": 15717,
         "total": 53044
       },
       {
         "prize": 5,
-        "remaining": 32812,
+        "remaining": 32182,
         "total": 106022
       },
       {
         "prize": 4,
-        "remaining": 90165,
+        "remaining": 88476,
         "total": 282736
       },
       {
         "prize": 2,
-        "remaining": 208278,
+        "remaining": 204499,
         "total": 636156
       }
     ],
@@ -2898,116 +3203,41 @@
       },
       {
         "prize": 10000,
-        "remaining": 183,
+        "remaining": 180,
         "total": 260
       },
       {
         "prize": 5000,
-        "remaining": 505,
+        "remaining": 499,
         "total": 728
       },
       {
         "prize": 1000,
-        "remaining": 1939,
+        "remaining": 1922,
         "total": 2725
       },
       {
         "prize": 500,
-        "remaining": 97675,
+        "remaining": 96753,
         "total": 140568
       },
       {
         "prize": 200,
-        "remaining": 108067,
+        "remaining": 107056,
         "total": 155521
       },
       {
         "prize": 100,
-        "remaining": 663208,
+        "remaining": 656976,
         "total": 954743
       },
       {
         "prize": 50,
-        "remaining": 570025,
+        "remaining": 564759,
         "total": 818404
       }
     ],
     "imageUrl": "https://www.molottery.com/media/scratchers/tile/508.png"
-  },
-  {
-    "name": "Top line",
-    "price": 10.0,
-    "totalTickets": 0,
-    "remainingTickets": 0,
-    "gameNumber": "503",
-    "tiers": [
-      {
-        "prize": 1000000,
-        "remaining": 1,
-        "total": 2
-      },
-      {
-        "prize": 50000,
-        "remaining": 0,
-        "total": 5
-      },
-      {
-        "prize": 5000,
-        "remaining": 3,
-        "total": 50
-      },
-      {
-        "prize": 1000,
-        "remaining": 41,
-        "total": 762
-      },
-      {
-        "prize": 500,
-        "remaining": 49,
-        "total": 1573
-      },
-      {
-        "prize": 200,
-        "remaining": 151,
-        "total": 4457
-      },
-      {
-        "prize": 100,
-        "remaining": 2646,
-        "total": 74212
-      },
-      {
-        "prize": 50,
-        "remaining": 2740,
-        "total": 74212
-      },
-      {
-        "prize": 30,
-        "remaining": 1667,
-        "total": 44624
-      },
-      {
-        "prize": 25,
-        "remaining": 1887,
-        "total": 48234
-      },
-      {
-        "prize": 20,
-        "remaining": 12427,
-        "total": 296770
-      },
-      {
-        "prize": 15,
-        "remaining": 11763,
-        "total": 222636
-      },
-      {
-        "prize": 10,
-        "remaining": 32186,
-        "total": 593852
-      }
-    ],
-    "imageUrl": "https://www.molottery.com/media/scratchers/tile/503.png"
   },
   {
     "name": "Top line",
@@ -3043,37 +3273,37 @@
       },
       {
         "prize": 1000,
-        "remaining": 608,
+        "remaining": 605,
         "total": 1108
       },
       {
         "prize": 500,
-        "remaining": 980,
+        "remaining": 974,
         "total": 1808
       },
       {
         "prize": 200,
-        "remaining": 2946,
+        "remaining": 2924,
         "total": 5467
       },
       {
         "prize": 100,
-        "remaining": 73224,
+        "remaining": 72802,
         "total": 136190
       },
       {
         "prize": 50,
-        "remaining": 75454,
+        "remaining": 74949,
         "total": 140277
       },
       {
         "prize": 40,
-        "remaining": 176122,
+        "remaining": 175008,
         "total": 326655
       },
       {
         "prize": 20,
-        "remaining": 251024,
+        "remaining": 249458,
         "total": 462687
       }
     ],
@@ -3103,62 +3333,62 @@
       },
       {
         "prize": 1000,
-        "remaining": 53,
+        "remaining": 46,
         "total": 720
       },
       {
         "prize": 500,
-        "remaining": 16,
+        "remaining": 14,
         "total": 185
       },
       {
         "prize": 200,
-        "remaining": 70,
+        "remaining": 68,
         "total": 874
       },
       {
         "prize": 100,
-        "remaining": 1473,
+        "remaining": 1344,
         "total": 19851
       },
       {
         "prize": 75,
-        "remaining": 217,
+        "remaining": 194,
         "total": 3584
       },
       {
         "prize": 50,
-        "remaining": 1249,
+        "remaining": 1165,
         "total": 13388
       },
       {
         "prize": 40,
-        "remaining": 3464,
+        "remaining": 3159,
         "total": 44688
       },
       {
         "prize": 25,
-        "remaining": 3605,
+        "remaining": 3396,
         "total": 32390
       },
       {
         "prize": 20,
-        "remaining": 5413,
+        "remaining": 4932,
         "total": 66819
       },
       {
         "prize": 15,
-        "remaining": 20795,
+        "remaining": 18968,
         "total": 267416
       },
       {
         "prize": 10,
-        "remaining": 23851,
+        "remaining": 22051,
         "total": 267380
       },
       {
         "prize": 5,
-        "remaining": 76290,
+        "remaining": 72032,
         "total": 623816
       }
     ],
@@ -3213,51 +3443,126 @@
       },
       {
         "prize": 25,
-        "remaining": 8202,
+        "remaining": 8198,
         "total": 23885
       },
       {
         "prize": 10,
-        "remaining": 20877,
+        "remaining": 20865,
         "total": 59740
       },
       {
         "prize": 9,
-        "remaining": 17020,
+        "remaining": 17014,
         "total": 47770
       },
       {
         "prize": 6,
-        "remaining": 4265,
+        "remaining": 4263,
         "total": 11970
       },
       {
         "prize": 5,
-        "remaining": 34317,
+        "remaining": 34293,
         "total": 95481
       },
       {
         "prize": 4,
-        "remaining": 17420,
+        "remaining": 17412,
         "total": 47774
       },
       {
         "prize": 3,
-        "remaining": 17613,
+        "remaining": 17597,
         "total": 47711
       },
       {
         "prize": 2,
-        "remaining": 125312,
+        "remaining": 125227,
         "total": 334343
       },
       {
         "prize": 1,
-        "remaining": 321367,
+        "remaining": 321153,
         "total": 836085
       }
     ],
     "imageUrl": "https://www.molottery.com/media/scratchers/tile/513.png"
+  },
+  {
+    "name": "Top line",
+    "price": 10.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "503",
+    "tiers": [
+      {
+        "prize": 1000000,
+        "remaining": 1,
+        "total": 2
+      },
+      {
+        "prize": 50000,
+        "remaining": 0,
+        "total": 5
+      },
+      {
+        "prize": 5000,
+        "remaining": 3,
+        "total": 50
+      },
+      {
+        "prize": 1000,
+        "remaining": 40,
+        "total": 762
+      },
+      {
+        "prize": 500,
+        "remaining": 49,
+        "total": 1573
+      },
+      {
+        "prize": 200,
+        "remaining": 151,
+        "total": 4457
+      },
+      {
+        "prize": 100,
+        "remaining": 2639,
+        "total": 74212
+      },
+      {
+        "prize": 50,
+        "remaining": 2733,
+        "total": 74212
+      },
+      {
+        "prize": 30,
+        "remaining": 1657,
+        "total": 44624
+      },
+      {
+        "prize": 25,
+        "remaining": 1878,
+        "total": 48234
+      },
+      {
+        "prize": 20,
+        "remaining": 12355,
+        "total": 296770
+      },
+      {
+        "prize": 15,
+        "remaining": 11712,
+        "total": 222636
+      },
+      {
+        "prize": 10,
+        "remaining": 32015,
+        "total": 593852
+      }
+    ],
+    "imageUrl": "https://www.molottery.com/media/scratchers/tile/503.png"
   },
   {
     "name": "Top line",
@@ -3288,37 +3593,37 @@
       },
       {
         "prize": 100,
-        "remaining": 1217,
+        "remaining": 1216,
         "total": 6946
       },
       {
         "prize": 50,
-        "remaining": 2467,
+        "remaining": 2465,
         "total": 14139
       },
       {
         "prize": 20,
-        "remaining": 6208,
+        "remaining": 6201,
         "total": 34677
       },
       {
         "prize": 10,
-        "remaining": 19357,
+        "remaining": 19328,
         "total": 104031
       },
       {
         "prize": 5,
-        "remaining": 20389,
+        "remaining": 20368,
         "total": 104031
       },
       {
         "prize": 4,
-        "remaining": 77968,
+        "remaining": 77846,
         "total": 381373
       },
       {
         "prize": 2,
-        "remaining": 111399,
+        "remaining": 111229,
         "total": 520303
       }
     ],
@@ -3363,7 +3668,7 @@
       },
       {
         "prize": 100,
-        "remaining": 1209,
+        "remaining": 1205,
         "total": 13339
       },
       {
@@ -3373,27 +3678,27 @@
       },
       {
         "prize": 50,
-        "remaining": 1080,
+        "remaining": 1077,
         "total": 10425
       },
       {
         "prize": 40,
-        "remaining": 2225,
+        "remaining": 2215,
         "total": 34645
       },
       {
         "prize": 25,
-        "remaining": 3413,
+        "remaining": 3400,
         "total": 34500
       },
       {
         "prize": 20,
-        "remaining": 9024,
+        "remaining": 8982,
         "total": 103772
       },
       {
         "prize": 10,
-        "remaining": 63958,
+        "remaining": 63618,
         "total": 656714
       }
     ],
@@ -3433,37 +3738,37 @@
       },
       {
         "prize": 1000,
-        "remaining": 607,
+        "remaining": 606,
         "total": 1103
       },
       {
         "prize": 500,
-        "remaining": 2446,
+        "remaining": 2440,
         "total": 4510
       },
       {
         "prize": 200,
-        "remaining": 4080,
+        "remaining": 4068,
         "total": 7501
       },
       {
         "prize": 100,
-        "remaining": 63952,
+        "remaining": 63790,
         "total": 118319
       },
       {
         "prize": 50,
-        "remaining": 75707,
+        "remaining": 75526,
         "total": 140196
       },
       {
         "prize": 40,
-        "remaining": 177555,
+        "remaining": 177141,
         "total": 326434
       },
       {
         "prize": 20,
-        "remaining": 253276,
+        "remaining": 252691,
         "total": 462250
       }
     ],
@@ -3483,7 +3788,7 @@
       },
       {
         "prize": 25003,
-        "remaining": 1,
+        "remaining": 0,
         "total": 3
       },
       {
@@ -3518,7 +3823,7 @@
       },
       {
         "prize": 450,
-        "remaining": 33,
+        "remaining": 32,
         "total": 145
       },
       {
@@ -3528,72 +3833,72 @@
       },
       {
         "prize": 206,
-        "remaining": 19,
+        "remaining": 18,
         "total": 94
       },
       {
         "prize": 200,
-        "remaining": 74,
+        "remaining": 69,
         "total": 376
       },
       {
         "prize": 150,
-        "remaining": 178,
+        "remaining": 172,
         "total": 945
       },
       {
         "prize": 103,
-        "remaining": 377,
+        "remaining": 370,
         "total": 1877
       },
       {
         "prize": 100,
-        "remaining": 1026,
+        "remaining": 1005,
         "total": 5010
       },
       {
         "prize": 53,
-        "remaining": 1058,
+        "remaining": 1037,
         "total": 5195
       },
       {
         "prize": 40,
-        "remaining": 2098,
+        "remaining": 2056,
         "total": 9881
       },
       {
         "prize": 33,
-        "remaining": 446,
+        "remaining": 435,
         "total": 2356
       },
       {
         "prize": 30,
-        "remaining": 584,
+        "remaining": 577,
         "total": 2367
       },
       {
         "prize": 20,
-        "remaining": 11810,
+        "remaining": 11569,
         "total": 56544
       },
       {
         "prize": 16,
-        "remaining": 12255,
+        "remaining": 11999,
         "total": 56544
       },
       {
         "prize": 10,
-        "remaining": 43393,
+        "remaining": 42662,
         "total": 169632
       },
       {
         "prize": 6,
-        "remaining": 148263,
+        "remaining": 145943,
         "total": 565485
       },
       {
         "prize": 3,
-        "remaining": 150404,
+        "remaining": 147762,
         "total": 565350
       }
     ],
@@ -3628,106 +3933,41 @@
       },
       {
         "prize": 200,
-        "remaining": 1063,
+        "remaining": 1023,
         "total": 8683
       },
       {
         "prize": 100,
-        "remaining": 1674,
+        "remaining": 1616,
         "total": 13918
       },
       {
         "prize": 40,
-        "remaining": 4598,
+        "remaining": 4443,
         "total": 36390
       },
       {
         "prize": 20,
-        "remaining": 9414,
+        "remaining": 9078,
         "total": 69307
       },
       {
         "prize": 15,
-        "remaining": 28008,
+        "remaining": 27049,
         "total": 207921
       },
       {
         "prize": 10,
-        "remaining": 29570,
+        "remaining": 28617,
         "total": 207941
       },
       {
         "prize": 5,
-        "remaining": 86314,
+        "remaining": 84100,
         "total": 485109
       }
     ],
     "imageUrl": "https://www.molottery.com/media/scratchers/tile/492.png"
-  },
-  {
-    "name": "Top line",
-    "price": 1.0,
-    "totalTickets": 0,
-    "remainingTickets": 0,
-    "gameNumber": "507",
-    "tiers": [
-      {
-        "prize": 5000,
-        "remaining": 1,
-        "total": 6
-      },
-      {
-        "prize": 1000,
-        "remaining": 1,
-        "total": 10
-      },
-      {
-        "prize": 500,
-        "remaining": 0,
-        "total": 14
-      },
-      {
-        "prize": 100,
-        "remaining": 310,
-        "total": 1904
-      },
-      {
-        "prize": 25,
-        "remaining": 4406,
-        "total": 25396
-      },
-      {
-        "prize": 20,
-        "remaining": 5035,
-        "total": 29025
-      },
-      {
-        "prize": 10,
-        "remaining": 14905,
-        "total": 81234
-      },
-      {
-        "prize": 5,
-        "remaining": 8944,
-        "total": 46428
-      },
-      {
-        "prize": 4,
-        "remaining": 31933,
-        "total": 162498
-      },
-      {
-        "prize": 2,
-        "remaining": 72124,
-        "total": 348210
-      },
-      {
-        "prize": 1,
-        "remaining": 188379,
-        "total": 812490
-      }
-    ],
-    "imageUrl": "https://www.molottery.com/media/scratchers/tile/507.png"
   },
   {
     "name": "Top line",
@@ -3773,22 +4013,22 @@
       },
       {
         "prize": 77,
-        "remaining": 33057,
+        "remaining": 33043,
         "total": 152000
       },
       {
         "prize": 27,
-        "remaining": 25917,
+        "remaining": 25897,
         "total": 114029
       },
       {
         "prize": 17,
-        "remaining": 121849,
+        "remaining": 121754,
         "total": 532000
       },
       {
         "prize": 10,
-        "remaining": 145314,
+        "remaining": 145208,
         "total": 608000
       }
     ],
@@ -3853,17 +4093,17 @@
       },
       {
         "prize": 100,
-        "remaining": 454,
+        "remaining": 452,
         "total": 11978
       },
       {
         "prize": 75,
-        "remaining": 253,
+        "remaining": 252,
         "total": 6724
       },
       {
         "prize": 50,
-        "remaining": 1086,
+        "remaining": 1085,
         "total": 26454
       },
       {
@@ -3873,27 +4113,27 @@
       },
       {
         "prize": 25,
-        "remaining": 1901,
+        "remaining": 1898,
         "total": 41874
       },
       {
         "prize": 20,
-        "remaining": 5040,
+        "remaining": 5033,
         "total": 104808
       },
       {
         "prize": 15,
-        "remaining": 18303,
+        "remaining": 18279,
         "total": 251406
       },
       {
         "prize": 10,
-        "remaining": 20071,
+        "remaining": 20042,
         "total": 251376
       },
       {
         "prize": 5,
-        "remaining": 57464,
+        "remaining": 57382,
         "total": 628488
       }
     ],
@@ -3943,32 +4183,32 @@
       },
       {
         "prize": 77,
-        "remaining": 2462,
+        "remaining": 2461,
         "total": 43299
       },
       {
         "prize": 27,
-        "remaining": 4975,
+        "remaining": 4967,
         "total": 80919
       },
       {
         "prize": 17,
-        "remaining": 4328,
+        "remaining": 4321,
         "total": 68878
       },
       {
         "prize": 15,
-        "remaining": 8805,
+        "remaining": 8790,
         "total": 137756
       },
       {
         "prize": 10,
-        "remaining": 14351,
+        "remaining": 14322,
         "total": 206618
       },
       {
         "prize": 5,
-        "remaining": 37628,
+        "remaining": 37550,
         "total": 482178
       }
     ],
@@ -4003,42 +4243,42 @@
       },
       {
         "prize": 100,
-        "remaining": 1921,
+        "remaining": 1920,
         "total": 7129
       },
       {
         "prize": 40,
-        "remaining": 9321,
+        "remaining": 9320,
         "total": 35707
       },
       {
         "prize": 20,
-        "remaining": 7183,
+        "remaining": 7180,
         "total": 26767
       },
       {
         "prize": 15,
-        "remaining": 9639,
+        "remaining": 9637,
         "total": 35707
       },
       {
         "prize": 10,
-        "remaining": 15353,
+        "remaining": 15351,
         "total": 53548
       },
       {
         "prize": 5,
-        "remaining": 32716,
+        "remaining": 32702,
         "total": 107199
       },
       {
         "prize": 4,
-        "remaining": 84313,
+        "remaining": 84273,
         "total": 285667
       },
       {
         "prize": 2,
-        "remaining": 212596,
+        "remaining": 212478,
         "total": 642704
       }
     ],
@@ -4083,32 +4323,32 @@
       },
       {
         "prize": 500,
-        "remaining": 813,
+        "remaining": 812,
         "total": 1800
       },
       {
         "prize": 200,
-        "remaining": 2505,
+        "remaining": 2503,
         "total": 5483
       },
       {
         "prize": 100,
-        "remaining": 62324,
+        "remaining": 62259,
         "total": 136439
       },
       {
         "prize": 50,
-        "remaining": 64160,
+        "remaining": 64092,
         "total": 140437
       },
       {
         "prize": 40,
-        "remaining": 150217,
+        "remaining": 150040,
         "total": 327261
       },
       {
         "prize": 20,
-        "remaining": 214423,
+        "remaining": 214165,
         "total": 463632
       }
     ],
@@ -4133,57 +4373,57 @@
       },
       {
         "prize": 5000,
-        "remaining": 14,
+        "remaining": 13,
         "total": 50
       },
       {
         "prize": 1000,
-        "remaining": 215,
+        "remaining": 210,
         "total": 755
       },
       {
         "prize": 500,
-        "remaining": 423,
+        "remaining": 408,
         "total": 1567
       },
       {
         "prize": 200,
-        "remaining": 1240,
+        "remaining": 1202,
         "total": 4517
       },
       {
         "prize": 100,
-        "remaining": 10123,
+        "remaining": 9857,
         "total": 37525
       },
       {
         "prize": 50,
-        "remaining": 41205,
+        "remaining": 40090,
         "total": 150188
       },
       {
         "prize": 30,
-        "remaining": 12410,
+        "remaining": 12068,
         "total": 45083
       },
       {
         "prize": 25,
-        "remaining": 13363,
+        "remaining": 13004,
         "total": 48859
       },
       {
         "prize": 20,
-        "remaining": 83602,
+        "remaining": 81489,
         "total": 300376
       },
       {
         "prize": 15,
-        "remaining": 63481,
+        "remaining": 61758,
         "total": 225282
       },
       {
         "prize": 10,
-        "remaining": 171689,
+        "remaining": 167306,
         "total": 600752
       }
     ],
@@ -4218,111 +4458,41 @@
       },
       {
         "prize": 25,
-        "remaining": 12264,
+        "remaining": 12254,
         "total": 44366
       },
       {
         "prize": 15,
-        "remaining": 6461,
+        "remaining": 6456,
         "total": 22183
       },
       {
         "prize": 10,
-        "remaining": 14399,
+        "remaining": 14396,
         "total": 49908
       },
       {
         "prize": 5,
-        "remaining": 13703,
+        "remaining": 13696,
         "total": 44366
       },
       {
         "prize": 4,
-        "remaining": 47586,
+        "remaining": 47561,
         "total": 155288
       },
       {
         "prize": 2,
-        "remaining": 109831,
+        "remaining": 109788,
         "total": 332761
       },
       {
         "prize": 1,
-        "remaining": 254828,
+        "remaining": 254688,
         "total": 765291
       }
     ],
     "imageUrl": "https://www.molottery.com/media/scratchers/tile/498.png"
-  },
-  {
-    "name": "Top line",
-    "price": 3.0,
-    "totalTickets": 0,
-    "remainingTickets": 0,
-    "gameNumber": "499",
-    "tiers": [
-      {
-        "prize": 50000,
-        "remaining": 0,
-        "total": 5
-      },
-      {
-        "prize": 1000,
-        "remaining": 3,
-        "total": 59
-      },
-      {
-        "prize": 500,
-        "remaining": 28,
-        "total": 363
-      },
-      {
-        "prize": 100,
-        "remaining": 560,
-        "total": 5738
-      },
-      {
-        "prize": 60,
-        "remaining": 569,
-        "total": 5581
-      },
-      {
-        "prize": 50,
-        "remaining": 710,
-        "total": 7449
-      },
-      {
-        "prize": 20,
-        "remaining": 4677,
-        "total": 44585
-      },
-      {
-        "prize": 16,
-        "remaining": 2279,
-        "total": 22309
-      },
-      {
-        "prize": 10,
-        "remaining": 10507,
-        "total": 89203
-      },
-      {
-        "prize": 9,
-        "remaining": 11833,
-        "total": 111413
-      },
-      {
-        "prize": 6,
-        "remaining": 51921,
-        "total": 434698
-      },
-      {
-        "prize": 3,
-        "remaining": 64348,
-        "total": 445812
-      }
-    ],
-    "imageUrl": "https://www.molottery.com/media/scratchers/tile/499.png"
   },
   {
     "name": "Top line",
@@ -4348,37 +4518,37 @@
       },
       {
         "prize": 500,
-        "remaining": 85,
+        "remaining": 84,
         "total": 296
       },
       {
         "prize": 100,
-        "remaining": 3505,
+        "remaining": 3486,
         "total": 12256
       },
       {
         "prize": 50,
-        "remaining": 14312,
+        "remaining": 14244,
         "total": 49612
       },
       {
         "prize": 25,
-        "remaining": 43017,
+        "remaining": 42825,
         "total": 146886
       },
       {
         "prize": 15,
-        "remaining": 43427,
+        "remaining": 43231,
         "total": 146886
       },
       {
         "prize": 10,
-        "remaining": 65699,
+        "remaining": 65388,
         "total": 220319
       },
       {
         "prize": 5,
-        "remaining": 163085,
+        "remaining": 162400,
         "total": 514121
       }
     ],
@@ -4438,27 +4608,27 @@
       },
       {
         "prize": 20,
-        "remaining": 14731,
+        "remaining": 14728,
         "total": 27652
       },
       {
         "prize": 10,
-        "remaining": 79528,
+        "remaining": 79522,
         "total": 147588
       },
       {
         "prize": 5,
-        "remaining": 139978,
+        "remaining": 139955,
         "total": 258251
       },
       {
         "prize": 4,
-        "remaining": 86186,
+        "remaining": 86172,
         "total": 156852
       },
       {
         "prize": 2,
-        "remaining": 370736,
+        "remaining": 370671,
         "total": 664058
       }
     ],
@@ -4488,7 +4658,7 @@
       },
       {
         "prize": 1000,
-        "remaining": 145,
+        "remaining": 142,
         "total": 769
       },
       {
@@ -4498,52 +4668,52 @@
       },
       {
         "prize": 200,
-        "remaining": 195,
+        "remaining": 193,
         "total": 972
       },
       {
         "prize": 100,
-        "remaining": 3919,
+        "remaining": 3853,
         "total": 21967
       },
       {
         "prize": 75,
-        "remaining": 685,
+        "remaining": 676,
         "total": 3901
       },
       {
         "prize": 50,
-        "remaining": 2804,
+        "remaining": 2761,
         "total": 14881
       },
       {
         "prize": 40,
-        "remaining": 9104,
+        "remaining": 8972,
         "total": 49318
       },
       {
         "prize": 25,
-        "remaining": 6947,
+        "remaining": 6855,
         "total": 35768
       },
       {
         "prize": 20,
-        "remaining": 14022,
+        "remaining": 13823,
         "total": 73864
       },
       {
         "prize": 15,
-        "remaining": 54252,
+        "remaining": 53431,
         "total": 295562
       },
       {
         "prize": 10,
-        "remaining": 57018,
+        "remaining": 56264,
         "total": 295552
       },
       {
         "prize": 5,
-        "remaining": 150032,
+        "remaining": 148246,
         "total": 689479
       }
     ],
@@ -4583,27 +4753,27 @@
       },
       {
         "prize": 20,
-        "remaining": 7945,
+        "remaining": 7944,
         "total": 27661
       },
       {
         "prize": 10,
-        "remaining": 32199,
+        "remaining": 32187,
         "total": 110741
       },
       {
         "prize": 5,
-        "remaining": 33959,
+        "remaining": 33954,
         "total": 110721
       },
       {
         "prize": 4,
-        "remaining": 94715,
+        "remaining": 94690,
         "total": 313765
       },
       {
         "prize": 2,
-        "remaining": 204425,
+        "remaining": 204333,
         "total": 645854
       }
     ],
@@ -4638,32 +4808,32 @@
       },
       {
         "prize": 1000,
-        "remaining": 39,
+        "remaining": 38,
         "total": 94
       },
       {
         "prize": 500,
-        "remaining": 4036,
+        "remaining": 3961,
         "total": 9453
       },
       {
         "prize": 200,
-        "remaining": 32869,
+        "remaining": 32273,
         "total": 76919
       },
       {
         "prize": 100,
-        "remaining": 96518,
+        "remaining": 94771,
         "total": 226467
       },
       {
         "prize": 60,
-        "remaining": 310108,
+        "remaining": 304624,
         "total": 724687
       },
       {
         "prize": 30,
-        "remaining": 195248,
+        "remaining": 191851,
         "total": 452934
       }
     ],
@@ -4703,27 +4873,27 @@
       },
       {
         "prize": 50,
-        "remaining": 24366,
+        "remaining": 24365,
         "total": 54569
       },
       {
         "prize": 25,
-        "remaining": 73762,
+        "remaining": 73759,
         "total": 163670
       },
       {
         "prize": 15,
-        "remaining": 74142,
+        "remaining": 74136,
         "total": 163706
       },
       {
         "prize": 10,
-        "remaining": 111701,
+        "remaining": 111693,
         "total": 245550
       },
       {
         "prize": 5,
-        "remaining": 271023,
+        "remaining": 270995,
         "total": 572908
       }
     ],
@@ -4763,12 +4933,12 @@
       },
       {
         "prize": 100,
-        "remaining": 259,
+        "remaining": 258,
         "total": 5196
       },
       {
         "prize": 60,
-        "remaining": 456,
+        "remaining": 455,
         "total": 9888
       },
       {
@@ -4778,32 +4948,32 @@
       },
       {
         "prize": 50,
-        "remaining": 665,
+        "remaining": 663,
         "total": 10718
       },
       {
         "prize": 20,
-        "remaining": 4971,
+        "remaining": 4961,
         "total": 79016
       },
       {
         "prize": 16,
-        "remaining": 2310,
+        "remaining": 2299,
         "total": 39562
       },
       {
         "prize": 10,
-        "remaining": 23086,
+        "remaining": 23009,
         "total": 315848
       },
       {
         "prize": 6,
-        "remaining": 68718,
+        "remaining": 68569,
         "total": 790376
       },
       {
         "prize": 3,
-        "remaining": 108080,
+        "remaining": 107909,
         "total": 790160
       }
     ],
@@ -4853,22 +5023,22 @@
       },
       {
         "prize": 25,
-        "remaining": 18971,
+        "remaining": 18970,
         "total": 42470
       },
       {
         "prize": 15,
-        "remaining": 72868,
+        "remaining": 72864,
         "total": 161742
       },
       {
         "prize": 10,
-        "remaining": 183973,
+        "remaining": 183962,
         "total": 404337
       },
       {
         "prize": 5,
-        "remaining": 266806,
+        "remaining": 266786,
         "total": 566133
       }
     ],
@@ -4898,37 +5068,37 @@
       },
       {
         "prize": 500,
-        "remaining": 888,
+        "remaining": 886,
         "total": 4092
       },
       {
         "prize": 100,
-        "remaining": 3888,
+        "remaining": 3873,
         "total": 18209
       },
       {
         "prize": 40,
-        "remaining": 9618,
+        "remaining": 9578,
         "total": 44189
       },
       {
         "prize": 20,
-        "remaining": 18610,
+        "remaining": 18540,
         "total": 83942
       },
       {
         "prize": 15,
-        "remaining": 56119,
+        "remaining": 55870,
         "total": 251699
       },
       {
         "prize": 10,
-        "remaining": 57006,
+        "remaining": 56741,
         "total": 251953
       },
       {
         "prize": 5,
-        "remaining": 146665,
+        "remaining": 146102,
         "total": 587721
       }
     ],
@@ -4978,7 +5148,7 @@
       },
       {
         "prize": 75,
-        "remaining": 1766,
+        "remaining": 1765,
         "total": 3712
       },
       {
@@ -4993,27 +5163,27 @@
       },
       {
         "prize": 25,
-        "remaining": 16594,
+        "remaining": 16593,
         "total": 33516
       },
       {
         "prize": 20,
-        "remaining": 33174,
+        "remaining": 33172,
         "total": 69182
       },
       {
         "prize": 15,
-        "remaining": 131835,
+        "remaining": 131827,
         "total": 276582
       },
       {
         "prize": 10,
-        "remaining": 133443,
+        "remaining": 133439,
         "total": 276575
       },
       {
         "prize": 5,
-        "remaining": 322373,
+        "remaining": 322353,
         "total": 645401
       }
     ],
@@ -5043,42 +5213,42 @@
       },
       {
         "prize": 1000,
-        "remaining": 134,
+        "remaining": 132,
         "total": 745
       },
       {
         "prize": 500,
-        "remaining": 220,
+        "remaining": 215,
         "total": 1560
       },
       {
         "prize": 200,
-        "remaining": 644,
+        "remaining": 623,
         "total": 4472
       },
       {
         "prize": 100,
-        "remaining": 10630,
+        "remaining": 10377,
         "total": 74178
       },
       {
         "prize": 50,
-        "remaining": 10685,
+        "remaining": 10433,
         "total": 74178
       },
       {
         "prize": 30,
-        "remaining": 10746,
+        "remaining": 10532,
         "total": 74178
       },
       {
         "prize": 20,
-        "remaining": 66830,
+        "remaining": 65320,
         "total": 445133
       },
       {
         "prize": 10,
-        "remaining": 107851,
+        "remaining": 105605,
         "total": 667472
       }
     ],
@@ -5093,12 +5263,12 @@
     "tiers": [
       {
         "prize": 100,
-        "remaining": 17873,
+        "remaining": 17854,
         "total": 144012
       },
       {
         "prize": 50,
-        "remaining": 30079,
+        "remaining": 30058,
         "total": 239975
       }
     ],
@@ -5138,27 +5308,27 @@
       },
       {
         "prize": 1000,
-        "remaining": 1101,
+        "remaining": 1098,
         "total": 2566
       },
       {
         "prize": 500,
-        "remaining": 43562,
+        "remaining": 43559,
         "total": 103102
       },
       {
         "prize": 200,
-        "remaining": 92603,
+        "remaining": 92596,
         "total": 218830
       },
       {
         "prize": 100,
-        "remaining": 218152,
+        "remaining": 218140,
         "total": 514726
       },
       {
         "prize": 75,
-        "remaining": 437905,
+        "remaining": 437881,
         "total": 1029452
       }
     ],
@@ -5188,7 +5358,7 @@
       },
       {
         "prize": 6000,
-        "remaining": 16,
+        "remaining": 15,
         "total": 57
       },
       {
@@ -5203,42 +5373,42 @@
       },
       {
         "prize": 500,
-        "remaining": 4210,
+        "remaining": 4099,
         "total": 16055
       },
       {
         "prize": 300,
-        "remaining": 2042,
+        "remaining": 1990,
         "total": 7755
       },
       {
         "prize": 200,
-        "remaining": 4614,
+        "remaining": 4486,
         "total": 17690
       },
       {
         "prize": 100,
-        "remaining": 57376,
+        "remaining": 55852,
         "total": 221153
       },
       {
         "prize": 60,
-        "remaining": 69738,
+        "remaining": 67929,
         "total": 265387
       },
       {
         "prize": 50,
-        "remaining": 92723,
+        "remaining": 90314,
         "total": 353783
       },
       {
         "prize": 40,
-        "remaining": 94213,
+        "remaining": 91795,
         "total": 353818
       },
       {
         "prize": 30,
-        "remaining": 120076,
+        "remaining": 117099,
         "total": 442463
       }
     ],
@@ -5268,52 +5438,52 @@
       },
       {
         "prize": 1000,
-        "remaining": 186,
+        "remaining": 185,
         "total": 739
       },
       {
         "prize": 500,
-        "remaining": 409,
+        "remaining": 407,
         "total": 1575
       },
       {
         "prize": 200,
-        "remaining": 1156,
+        "remaining": 1152,
         "total": 4532
       },
       {
         "prize": 100,
-        "remaining": 9737,
+        "remaining": 9708,
         "total": 37682
       },
       {
         "prize": 50,
-        "remaining": 39305,
+        "remaining": 39173,
         "total": 150526
       },
       {
         "prize": 30,
-        "remaining": 11821,
+        "remaining": 11763,
         "total": 45123
       },
       {
         "prize": 25,
-        "remaining": 12844,
+        "remaining": 12793,
         "total": 48981
       },
       {
         "prize": 20,
-        "remaining": 79646,
+        "remaining": 79346,
         "total": 301052
       },
       {
         "prize": 15,
-        "remaining": 60490,
+        "remaining": 60283,
         "total": 225789
       },
       {
         "prize": 10,
-        "remaining": 163765,
+        "remaining": 163189,
         "total": 602104
       }
     ],
@@ -5353,32 +5523,32 @@
       },
       {
         "prize": 1000,
-        "remaining": 432,
+        "remaining": 430,
         "total": 2622
       },
       {
         "prize": 500,
-        "remaining": 20532,
+        "remaining": 20524,
         "total": 128761
       },
       {
         "prize": 200,
-        "remaining": 8432,
+        "remaining": 8426,
         "total": 52409
       },
       {
         "prize": 100,
-        "remaining": 147590,
+        "remaining": 147515,
         "total": 917236
       },
       {
         "prize": 60,
-        "remaining": 108459,
+        "remaining": 108417,
         "total": 654962
       },
       {
         "prize": 50,
-        "remaining": 65596,
+        "remaining": 65561,
         "total": 392929
       }
     ],
@@ -5423,37 +5593,37 @@
       },
       {
         "prize": 100,
-        "remaining": 10579,
+        "remaining": 10549,
         "total": 74651
       },
       {
         "prize": 50,
-        "remaining": 10681,
+        "remaining": 10658,
         "total": 74651
       },
       {
         "prize": 30,
-        "remaining": 6476,
+        "remaining": 6457,
         "total": 44818
       },
       {
         "prize": 25,
-        "remaining": 7113,
+        "remaining": 7102,
         "total": 48511
       },
       {
         "prize": 20,
-        "remaining": 44543,
+        "remaining": 44433,
         "total": 298646
       },
       {
         "prize": 15,
-        "remaining": 35296,
+        "remaining": 35215,
         "total": 223953
       },
       {
         "prize": 10,
-        "remaining": 95422,
+        "remaining": 95185,
         "total": 597124
       }
     ],
@@ -5493,37 +5663,37 @@
       },
       {
         "prize": 50,
-        "remaining": 1166,
+        "remaining": 1165,
         "total": 15112
       },
       {
         "prize": 20,
-        "remaining": 7485,
+        "remaining": 7472,
         "total": 90672
       },
       {
         "prize": 16,
-        "remaining": 3477,
+        "remaining": 3470,
         "total": 45362
       },
       {
         "prize": 10,
-        "remaining": 17539,
+        "remaining": 17519,
         "total": 181396
       },
       {
         "prize": 9,
-        "remaining": 18869,
+        "remaining": 18840,
         "total": 226602
       },
       {
         "prize": 6,
-        "remaining": 87039,
+        "remaining": 86964,
         "total": 883981
       },
       {
         "prize": 3,
-        "remaining": 114941,
+        "remaining": 114833,
         "total": 906784
       }
     ],
@@ -5543,7 +5713,7 @@
       },
       {
         "prize": 100000,
-        "remaining": 2,
+        "remaining": 1,
         "total": 4
       },
       {
@@ -5573,27 +5743,27 @@
       },
       {
         "prize": 200,
-        "remaining": 1034,
+        "remaining": 1033,
         "total": 5451
       },
       {
         "prize": 100,
-        "remaining": 24960,
+        "remaining": 24921,
         "total": 136387
       },
       {
         "prize": 50,
-        "remaining": 25929,
+        "remaining": 25881,
         "total": 140485
       },
       {
         "prize": 40,
-        "remaining": 61697,
+        "remaining": 61598,
         "total": 327303
       },
       {
         "prize": 20,
-        "remaining": 90481,
+        "remaining": 90327,
         "total": 463709
       }
     ],
@@ -5643,27 +5813,27 @@
       },
       {
         "prize": 100,
-        "remaining": 59844,
+        "remaining": 59841,
         "total": 297741
       },
       {
         "prize": 60,
-        "remaining": 72515,
+        "remaining": 72513,
         "total": 357363
       },
       {
         "prize": 50,
-        "remaining": 96518,
+        "remaining": 96514,
         "total": 476349
       },
       {
         "prize": 40,
-        "remaining": 97313,
+        "remaining": 97308,
         "total": 476386
       },
       {
         "prize": 30,
-        "remaining": 122983,
+        "remaining": 122978,
         "total": 595407
       }
     ],
