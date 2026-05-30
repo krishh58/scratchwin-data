@@ -33,6 +33,7 @@ SCRAPERS = {
     "VA": "scrapers.va_scraper",
     "CO": "scrapers.co_scraper",
     "MO": "scrapers.mo_scraper",
+    "IL": "scrapers.il_scraper",
     "IN": "scrapers.in_scraper",
     "KY": "scrapers.ky_scraper",
     "OK": "scrapers.ok_scraper",
