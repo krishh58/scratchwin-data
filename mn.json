@@ -1,28 +1,168 @@
 [
   {
-    "name": "Win $100, $200 or $500",
-    "price": 20.0,
-    "totalTickets": 2169453,
-    "remainingTickets": 2169453,
-    "gameNumber": "2095",
+    "name": "Lucky Lines Gold",
+    "price": 10.0,
+    "totalTickets": 2105407,
+    "remainingTickets": 2105407,
+    "gameNumber": "2098",
     "tiers": [
       {
-        "prize": 500,
-        "remaining": 5253,
-        "total": 5253
+        "prize": 200000,
+        "remaining": 4,
+        "total": 4
       },
       {
-        "prize": 200,
-        "remaining": 54489,
-        "total": 54489
+        "prize": 3000,
+        "remaining": 16,
+        "total": 16
+      },
+      {
+        "prize": 1000,
+        "remaining": 33,
+        "total": 33
+      },
+      {
+        "prize": 500,
+        "remaining": 302,
+        "total": 302
+      },
+      {
+        "prize": 300,
+        "remaining": 1655,
+        "total": 1655
       },
       {
         "prize": 100,
-        "remaining": 146786,
-        "total": 146786
+        "remaining": 17875,
+        "total": 17875
+      },
+      {
+        "prize": 75,
+        "remaining": 6536,
+        "total": 6536
+      },
+      {
+        "prize": 50,
+        "remaining": 55318,
+        "total": 55318
+      },
+      {
+        "prize": 25,
+        "remaining": 49838,
+        "total": 49838
+      },
+      {
+        "prize": 20,
+        "remaining": 127137,
+        "total": 127137
+      },
+      {
+        "prize": 10,
+        "remaining": 332436,
+        "total": 332436
       }
     ],
-    "imageUrl": "https://mnlottery-craft-assets-prod.s3.us-gov-west-1.amazonaws.com/transforms/Game-Minis/_400xAUTO_crop_center-center_none/2095-Win-100-200-or-500-Mini.jpg"
+    "imageUrl": "https://mnlottery-craft-assets-prod.s3.us-gov-west-1.amazonaws.com/transforms/Game-Minis/_400xAUTO_crop_center-center_none/2098-LuckyLinesGold-mini524x349.png"
+  },
+  {
+    "name": "State Fair Crossword",
+    "price": 3.0,
+    "totalTickets": 2862223,
+    "remainingTickets": 2862223,
+    "gameNumber": "2099",
+    "tiers": [
+      {
+        "prize": 30000,
+        "remaining": 7,
+        "total": 7
+      },
+      {
+        "prize": 1000,
+        "remaining": 150,
+        "total": 150
+      },
+      {
+        "prize": 100,
+        "remaining": 7022,
+        "total": 7022
+      },
+      {
+        "prize": 50,
+        "remaining": 7060,
+        "total": 7060
+      },
+      {
+        "prize": 30,
+        "remaining": 9340,
+        "total": 9340
+      },
+      {
+        "prize": 20,
+        "remaining": 14052,
+        "total": 14052
+      },
+      {
+        "prize": 10,
+        "remaining": 126502,
+        "total": 126502
+      },
+      {
+        "prize": 5,
+        "remaining": 231868,
+        "total": 231868
+      },
+      {
+        "prize": 3,
+        "remaining": 393512,
+        "total": 393512
+      }
+    ],
+    "imageUrl": "https://mnlottery-craft-assets-prod.s3.us-gov-west-1.amazonaws.com/transforms/Game-Minis/_400xAUTO_crop_center-center_none/2099-StateFairCrossword-mini524x349.png"
+  },
+  {
+    "name": "$500 Frenzy",
+    "price": 5.0,
+    "totalTickets": 3050021,
+    "remainingTickets": 3050021,
+    "gameNumber": "2097",
+    "tiers": [
+      {
+        "prize": 500,
+        "remaining": 4365,
+        "total": 4365
+      },
+      {
+        "prize": 200,
+        "remaining": 698,
+        "total": 698
+      },
+      {
+        "prize": 100,
+        "remaining": 8622,
+        "total": 8622
+      },
+      {
+        "prize": 50,
+        "remaining": 11938,
+        "total": 11938
+      },
+      {
+        "prize": 20,
+        "remaining": 80258,
+        "total": 80258
+      },
+      {
+        "prize": 10,
+        "remaining": 277439,
+        "total": 277439
+      },
+      {
+        "prize": 5,
+        "remaining": 350364,
+        "total": 350364
+      }
+    ],
+    "imageUrl": "https://mnlottery-craft-assets-prod.s3.us-gov-west-1.amazonaws.com/transforms/Game-Minis/_400xAUTO_crop_center-center_none/2097-500Frenzy-mini524x349.png"
   },
   {
     "name": "Red, White & Blue $250s",
@@ -75,64 +215,29 @@
     "imageUrl": "https://mnlottery-craft-assets-prod.s3.us-gov-west-1.amazonaws.com/transforms/Game-Minis/_400xAUTO_crop_center-center_none/2093-Red-White-Blue-250s-Mini.jpg"
   },
   {
-    "name": "Jumanji",
-    "price": 5.0,
-    "totalTickets": 3451138,
-    "remainingTickets": 3451138,
-    "gameNumber": "2094",
+    "name": "Win $100, $200 or $500",
+    "price": 20.0,
+    "totalTickets": 2169453,
+    "remainingTickets": 2169453,
+    "gameNumber": "2095",
     "tiers": [
       {
-        "prize": 100000,
-        "remaining": 4,
-        "total": 4
-      },
-      {
-        "prize": 5000,
-        "remaining": 8,
-        "total": 8
-      },
-      {
         "prize": 500,
-        "remaining": 4391,
-        "total": 4391
+        "remaining": 5253,
+        "total": 5253
       },
       {
         "prize": 200,
-        "remaining": 1553,
-        "total": 1553
+        "remaining": 54489,
+        "total": 54489
       },
       {
         "prize": 100,
-        "remaining": 4400,
-        "total": 4400
-      },
-      {
-        "prize": 50,
-        "remaining": 2197,
-        "total": 2197
-      },
-      {
-        "prize": 25,
-        "remaining": 82588,
-        "total": 82588
-      },
-      {
-        "prize": 15,
-        "remaining": 33028,
-        "total": 33028
-      },
-      {
-        "prize": 10,
-        "remaining": 313740,
-        "total": 313740
-      },
-      {
-        "prize": 5,
-        "remaining": 404546,
-        "total": 404546
+        "remaining": 146786,
+        "total": 146786
       }
     ],
-    "imageUrl": "https://mnlottery-craft-assets-prod.s3.us-gov-west-1.amazonaws.com/transforms/Game-Minis/_400xAUTO_crop_center-center_none/2094-Jumanji-Mini.jpg"
+    "imageUrl": "https://mnlottery-craft-assets-prod.s3.us-gov-west-1.amazonaws.com/transforms/Game-Minis/_400xAUTO_crop_center-center_none/2095-Win-100-200-or-500-Mini.jpg"
   },
   {
     "name": "Perfect 10s",
@@ -208,6 +313,66 @@
       }
     ],
     "imageUrl": "https://mnlottery-craft-assets-prod.s3.us-gov-west-1.amazonaws.com/transforms/Game-Minis/_400xAUTO_crop_center-center_none/2096-Perfect-10s-Mini.jpg"
+  },
+  {
+    "name": "Jumanji",
+    "price": 5.0,
+    "totalTickets": 3451138,
+    "remainingTickets": 3451138,
+    "gameNumber": "2094",
+    "tiers": [
+      {
+        "prize": 100000,
+        "remaining": 4,
+        "total": 4
+      },
+      {
+        "prize": 5000,
+        "remaining": 8,
+        "total": 8
+      },
+      {
+        "prize": 500,
+        "remaining": 4391,
+        "total": 4391
+      },
+      {
+        "prize": 200,
+        "remaining": 1553,
+        "total": 1553
+      },
+      {
+        "prize": 100,
+        "remaining": 4400,
+        "total": 4400
+      },
+      {
+        "prize": 50,
+        "remaining": 2197,
+        "total": 2197
+      },
+      {
+        "prize": 25,
+        "remaining": 82588,
+        "total": 82588
+      },
+      {
+        "prize": 15,
+        "remaining": 33028,
+        "total": 33028
+      },
+      {
+        "prize": 10,
+        "remaining": 313740,
+        "total": 313740
+      },
+      {
+        "prize": 5,
+        "remaining": 404546,
+        "total": 404546
+      }
+    ],
+    "imageUrl": "https://mnlottery-craft-assets-prod.s3.us-gov-west-1.amazonaws.com/transforms/Game-Minis/_400xAUTO_crop_center-center_none/2094-Jumanji-Mini.jpg"
   },
   {
     "name": "Crossword Multiplier",
@@ -400,6 +565,91 @@
     "imageUrl": "https://mnlottery-craft-assets-prod.s3.us-gov-west-1.amazonaws.com/transforms/Game-Minis/_400xAUTO_crop_center-center_none/2091-BreaktheBank-Mini-524x349.png"
   },
   {
+    "name": "Struck by Luck",
+    "price": 5.0,
+    "totalTickets": 2995824,
+    "remainingTickets": 2995824,
+    "gameNumber": "2089",
+    "tiers": [
+      {
+        "prize": 100000,
+        "remaining": 4,
+        "total": 4
+      },
+      {
+        "prize": 10000,
+        "remaining": 8,
+        "total": 8
+      },
+      {
+        "prize": 5000,
+        "remaining": 16,
+        "total": 16
+      },
+      {
+        "prize": 1000,
+        "remaining": 58,
+        "total": 58
+      },
+      {
+        "prize": 500,
+        "remaining": 218,
+        "total": 218
+      },
+      {
+        "prize": 200,
+        "remaining": 728,
+        "total": 728
+      },
+      {
+        "prize": 100,
+        "remaining": 6699,
+        "total": 6699
+      },
+      {
+        "prize": 50,
+        "remaining": 21572,
+        "total": 21572
+      },
+      {
+        "prize": 40,
+        "remaining": 2989,
+        "total": 2989
+      },
+      {
+        "prize": 30,
+        "remaining": 6306,
+        "total": 6306
+      },
+      {
+        "prize": 25,
+        "remaining": 57732,
+        "total": 57732
+      },
+      {
+        "prize": 20,
+        "remaining": 35735,
+        "total": 35735
+      },
+      {
+        "prize": 15,
+        "remaining": 42950,
+        "total": 42950
+      },
+      {
+        "prize": 10,
+        "remaining": 214522,
+        "total": 214522
+      },
+      {
+        "prize": 5,
+        "remaining": 371824,
+        "total": 371824
+      }
+    ],
+    "imageUrl": "https://mnlottery-craft-assets-prod.s3.us-gov-west-1.amazonaws.com/transforms/Game-Minis/_400xAUTO_crop_center-center_none/2089-StruckbyLuck-Mini-524x349.png"
+  },
+  {
     "name": "Fortune",
     "price": 20.0,
     "totalTickets": 1622532,
@@ -500,89 +750,24 @@
     "imageUrl": "https://mnlottery-craft-assets-prod.s3.us-gov-west-1.amazonaws.com/transforms/Game-Minis/_400xAUTO_crop_center-center_none/2090-Fortune-Mini-524x349.png"
   },
   {
-    "name": "Struck by Luck",
-    "price": 5.0,
-    "totalTickets": 2995824,
-    "remainingTickets": 2995824,
-    "gameNumber": "2089",
+    "name": "Minnesota Cash Blowout",
+    "price": 10.0,
+    "totalTickets": 1593100,
+    "remainingTickets": 1593100,
+    "gameNumber": "2088",
     "tiers": [
       {
-        "prize": 100000,
-        "remaining": 4,
-        "total": 4
-      },
-      {
-        "prize": 10000,
-        "remaining": 8,
-        "total": 8
-      },
-      {
-        "prize": 5000,
-        "remaining": 16,
-        "total": 16
-      },
-      {
-        "prize": 1000,
-        "remaining": 58,
-        "total": 58
-      },
-      {
-        "prize": 500,
-        "remaining": 218,
-        "total": 218
-      },
-      {
-        "prize": 200,
-        "remaining": 728,
-        "total": 728
-      },
-      {
         "prize": 100,
-        "remaining": 6699,
-        "total": 6699
+        "remaining": 58752,
+        "total": 58752
       },
       {
         "prize": 50,
-        "remaining": 21572,
-        "total": 21572
-      },
-      {
-        "prize": 40,
-        "remaining": 2989,
-        "total": 2989
-      },
-      {
-        "prize": 30,
-        "remaining": 6306,
-        "total": 6306
-      },
-      {
-        "prize": 25,
-        "remaining": 57732,
-        "total": 57732
-      },
-      {
-        "prize": 20,
-        "remaining": 35735,
-        "total": 35735
-      },
-      {
-        "prize": 15,
-        "remaining": 42950,
-        "total": 42950
-      },
-      {
-        "prize": 10,
-        "remaining": 214522,
-        "total": 214522
-      },
-      {
-        "prize": 5,
-        "remaining": 371824,
-        "total": 371824
+        "remaining": 89599,
+        "total": 89599
       }
     ],
-    "imageUrl": "https://mnlottery-craft-assets-prod.s3.us-gov-west-1.amazonaws.com/transforms/Game-Minis/_400xAUTO_crop_center-center_none/2089-StruckbyLuck-Mini-524x349.png"
+    "imageUrl": "https://mnlottery-craft-assets-prod.s3.us-gov-west-1.amazonaws.com/transforms/Game-Minis/_400xAUTO_crop_center-center_none/2088-MNCashBlowout-mini524x349.png"
   },
   {
     "name": "Lucky Stars",
@@ -745,26 +930,6 @@
     "imageUrl": "https://mnlottery-craft-assets-prod.s3.us-gov-west-1.amazonaws.com/transforms/Game-Minis/_400xAUTO_crop_center-center_none/2086-ForestFortune-mini524x349.png"
   },
   {
-    "name": "Minnesota Cash Blowout",
-    "price": 10.0,
-    "totalTickets": 1593100,
-    "remainingTickets": 1593100,
-    "gameNumber": "2088",
-    "tiers": [
-      {
-        "prize": 100,
-        "remaining": 58752,
-        "total": 58752
-      },
-      {
-        "prize": 50,
-        "remaining": 89599,
-        "total": 89599
-      }
-    ],
-    "imageUrl": "https://mnlottery-craft-assets-prod.s3.us-gov-west-1.amazonaws.com/transforms/Game-Minis/_400xAUTO_crop_center-center_none/2088-MNCashBlowout-mini524x349.png"
-  },
-  {
     "name": "Xtreme Cash",
     "price": 10.0,
     "totalTickets": 1954456,
@@ -838,131 +1003,6 @@
       }
     ],
     "imageUrl": "https://mnlottery-craft-assets-prod.s3.us-gov-west-1.amazonaws.com/transforms/Game-Minis/_400xAUTO_crop_center-center_none/2085-Xtreme-Cash-Mini.jpg"
-  },
-  {
-    "name": "Moola",
-    "price": 1.0,
-    "totalTickets": 4033318,
-    "remainingTickets": 4033318,
-    "gameNumber": "2082",
-    "tiers": [
-      {
-        "prize": 5000,
-        "remaining": 9,
-        "total": 9
-      },
-      {
-        "prize": 100,
-        "remaining": 1567,
-        "total": 1567
-      },
-      {
-        "prize": 50,
-        "remaining": 2452,
-        "total": 2452
-      },
-      {
-        "prize": 30,
-        "remaining": 5229,
-        "total": 5229
-      },
-      {
-        "prize": 20,
-        "remaining": 15595,
-        "total": 15595
-      },
-      {
-        "prize": 15,
-        "remaining": 10394,
-        "total": 10394
-      },
-      {
-        "prize": 10,
-        "remaining": 15573,
-        "total": 15573
-      },
-      {
-        "prize": 5,
-        "remaining": 10387,
-        "total": 10387
-      },
-      {
-        "prize": 2,
-        "remaining": 451970,
-        "total": 451970
-      },
-      {
-        "prize": 1,
-        "remaining": 561072,
-        "total": 561072
-      }
-    ],
-    "imageUrl": "https://mnlottery-craft-assets-prod.s3.us-gov-west-1.amazonaws.com/transforms/Game-Minis/_400xAUTO_crop_center-center_none/2082-Moola-Mini.jpg"
-  },
-  {
-    "name": "Outdoors and S'mores Crossword",
-    "price": 3.0,
-    "totalTickets": 2985411,
-    "remainingTickets": 2985411,
-    "gameNumber": "2083",
-    "tiers": [
-      {
-        "prize": 30000,
-        "remaining": 5,
-        "total": 5
-      },
-      {
-        "prize": 1000,
-        "remaining": 8,
-        "total": 8
-      },
-      {
-        "prize": 100,
-        "remaining": 9855,
-        "total": 9855
-      },
-      {
-        "prize": 50,
-        "remaining": 3087,
-        "total": 3087
-      },
-      {
-        "prize": 30,
-        "remaining": 6135,
-        "total": 6135
-      },
-      {
-        "prize": 25,
-        "remaining": 16492,
-        "total": 16492
-      },
-      {
-        "prize": 15,
-        "remaining": 51353,
-        "total": 51353
-      },
-      {
-        "prize": 10,
-        "remaining": 58726,
-        "total": 58726
-      },
-      {
-        "prize": 6,
-        "remaining": 58726,
-        "total": 58726
-      },
-      {
-        "prize": 5,
-        "remaining": 227637,
-        "total": 227637
-      },
-      {
-        "prize": 3,
-        "remaining": 359752,
-        "total": 359752
-      }
-    ],
-    "imageUrl": "https://mnlottery-craft-assets-prod.s3.us-gov-west-1.amazonaws.com/transforms/Game-Minis/_400xAUTO_crop_center-center_none/2083-Outdoors-and-Smores-Crossword-Mini.jpg"
   },
   {
     "name": "Kayak Crossword",
@@ -1045,74 +1085,129 @@
     "imageUrl": "https://mnlottery-craft-assets-prod.s3.us-gov-west-1.amazonaws.com/transforms/Game-Minis/_400xAUTO_crop_center-center_none/2084-Kayak-Crossword-Mini.jpg"
   },
   {
-    "name": "$10,000 Large",
-    "price": 20.0,
-    "totalTickets": 1082789,
-    "remainingTickets": 1082789,
-    "gameNumber": "2081",
+    "name": "Outdoors and S'mores Crossword",
+    "price": 3.0,
+    "totalTickets": 2985411,
+    "remainingTickets": 2985411,
+    "gameNumber": "2083",
     "tiers": [
       {
-        "prize": 10000,
-        "remaining": 200,
-        "total": 200
+        "prize": 30000,
+        "remaining": 5,
+        "total": 5
       },
       {
         "prize": 1000,
-        "remaining": 400,
-        "total": 400
-      },
-      {
-        "prize": 500,
-        "remaining": 1026,
-        "total": 1026
-      },
-      {
-        "prize": 400,
-        "remaining": 1967,
-        "total": 1967
-      },
-      {
-        "prize": 200,
-        "remaining": 3310,
-        "total": 3310
-      },
-      {
-        "prize": 150,
-        "remaining": 5765,
-        "total": 5765
+        "remaining": 8,
+        "total": 8
       },
       {
         "prize": 100,
-        "remaining": 6573,
-        "total": 6573
-      },
-      {
-        "prize": 75,
-        "remaining": 9799,
-        "total": 9799
+        "remaining": 9855,
+        "total": 9855
       },
       {
         "prize": 50,
-        "remaining": 19496,
-        "total": 19496
+        "remaining": 3087,
+        "total": 3087
       },
       {
         "prize": 30,
-        "remaining": 50152,
-        "total": 50152
+        "remaining": 6135,
+        "total": 6135
       },
       {
         "prize": 25,
-        "remaining": 89626,
-        "total": 89626
+        "remaining": 16492,
+        "total": 16492
+      },
+      {
+        "prize": 15,
+        "remaining": 51353,
+        "total": 51353
+      },
+      {
+        "prize": 10,
+        "remaining": 58726,
+        "total": 58726
+      },
+      {
+        "prize": 6,
+        "remaining": 58726,
+        "total": 58726
+      },
+      {
+        "prize": 5,
+        "remaining": 227637,
+        "total": 227637
+      },
+      {
+        "prize": 3,
+        "remaining": 359752,
+        "total": 359752
+      }
+    ],
+    "imageUrl": "https://mnlottery-craft-assets-prod.s3.us-gov-west-1.amazonaws.com/transforms/Game-Minis/_400xAUTO_crop_center-center_none/2083-Outdoors-and-Smores-Crossword-Mini.jpg"
+  },
+  {
+    "name": "Moola",
+    "price": 1.0,
+    "totalTickets": 4033318,
+    "remainingTickets": 4033318,
+    "gameNumber": "2082",
+    "tiers": [
+      {
+        "prize": 5000,
+        "remaining": 9,
+        "total": 9
+      },
+      {
+        "prize": 100,
+        "remaining": 1567,
+        "total": 1567
+      },
+      {
+        "prize": 50,
+        "remaining": 2452,
+        "total": 2452
+      },
+      {
+        "prize": 30,
+        "remaining": 5229,
+        "total": 5229
       },
       {
         "prize": 20,
-        "remaining": 136874,
-        "total": 136874
+        "remaining": 15595,
+        "total": 15595
+      },
+      {
+        "prize": 15,
+        "remaining": 10394,
+        "total": 10394
+      },
+      {
+        "prize": 10,
+        "remaining": 15573,
+        "total": 15573
+      },
+      {
+        "prize": 5,
+        "remaining": 10387,
+        "total": 10387
+      },
+      {
+        "prize": 2,
+        "remaining": 451970,
+        "total": 451970
+      },
+      {
+        "prize": 1,
+        "remaining": 561072,
+        "total": 561072
       }
     ],
-    "imageUrl": "https://mnlottery-craft-assets-prod.s3.us-gov-west-1.amazonaws.com/transforms/Game-Minis/_400xAUTO_crop_center-center_none/2081-10KLarge-mini524x349.png"
+    "imageUrl": "https://mnlottery-craft-assets-prod.s3.us-gov-west-1.amazonaws.com/transforms/Game-Minis/_400xAUTO_crop_center-center_none/2082-Moola-Mini.jpg"
   },
   {
     "name": "Full of $500s",
@@ -1225,6 +1320,236 @@
     "imageUrl": "https://mnlottery-craft-assets-prod.s3.us-gov-west-1.amazonaws.com/transforms/Game-Minis/_400xAUTO_crop_center-center_none/2079-AreaCodeCash-mini524x349.png"
   },
   {
+    "name": "$10,000 Large",
+    "price": 20.0,
+    "totalTickets": 1082789,
+    "remainingTickets": 1082789,
+    "gameNumber": "2081",
+    "tiers": [
+      {
+        "prize": 10000,
+        "remaining": 200,
+        "total": 200
+      },
+      {
+        "prize": 1000,
+        "remaining": 400,
+        "total": 400
+      },
+      {
+        "prize": 500,
+        "remaining": 1026,
+        "total": 1026
+      },
+      {
+        "prize": 400,
+        "remaining": 1967,
+        "total": 1967
+      },
+      {
+        "prize": 200,
+        "remaining": 3310,
+        "total": 3310
+      },
+      {
+        "prize": 150,
+        "remaining": 5765,
+        "total": 5765
+      },
+      {
+        "prize": 100,
+        "remaining": 6573,
+        "total": 6573
+      },
+      {
+        "prize": 75,
+        "remaining": 9799,
+        "total": 9799
+      },
+      {
+        "prize": 50,
+        "remaining": 19496,
+        "total": 19496
+      },
+      {
+        "prize": 30,
+        "remaining": 50152,
+        "total": 50152
+      },
+      {
+        "prize": 25,
+        "remaining": 89626,
+        "total": 89626
+      },
+      {
+        "prize": 20,
+        "remaining": 136874,
+        "total": 136874
+      }
+    ],
+    "imageUrl": "https://mnlottery-craft-assets-prod.s3.us-gov-west-1.amazonaws.com/transforms/Game-Minis/_400xAUTO_crop_center-center_none/2081-10KLarge-mini524x349.png"
+  },
+  {
+    "name": "Cash Bar Multiplier",
+    "price": 10.0,
+    "totalTickets": 2086195,
+    "remainingTickets": 2086195,
+    "gameNumber": "2075",
+    "tiers": [
+      {
+        "prize": 1000,
+        "remaining": 1551,
+        "total": 1551
+      },
+      {
+        "prize": 500,
+        "remaining": 1031,
+        "total": 1031
+      },
+      {
+        "prize": 100,
+        "remaining": 17784,
+        "total": 17784
+      },
+      {
+        "prize": 50,
+        "remaining": 24312,
+        "total": 24312
+      },
+      {
+        "prize": 30,
+        "remaining": 16111,
+        "total": 16111
+      },
+      {
+        "prize": 25,
+        "remaining": 72678,
+        "total": 72678
+      },
+      {
+        "prize": 20,
+        "remaining": 116241,
+        "total": 116241
+      },
+      {
+        "prize": 10,
+        "remaining": 387467,
+        "total": 387467
+      }
+    ],
+    "imageUrl": "https://mnlottery-craft-assets-prod.s3.us-gov-west-1.amazonaws.com/transforms/Game-Minis/_400xAUTO_crop_center-center_none/2075-Cash-Bar-Multiplier-Mini.jpg"
+  },
+  {
+    "name": "Crossword Wizard",
+    "price": 10.0,
+    "totalTickets": 2103736,
+    "remainingTickets": 2103736,
+    "gameNumber": "2078",
+    "tiers": [
+      {
+        "prize": 200000,
+        "remaining": 4,
+        "total": 4
+      },
+      {
+        "prize": 10000,
+        "remaining": 5,
+        "total": 5
+      },
+      {
+        "prize": 1000,
+        "remaining": 150,
+        "total": 150
+      },
+      {
+        "prize": 500,
+        "remaining": 576,
+        "total": 576
+      },
+      {
+        "prize": 100,
+        "remaining": 28455,
+        "total": 28455
+      },
+      {
+        "prize": 50,
+        "remaining": 61858,
+        "total": 61858
+      },
+      {
+        "prize": 20,
+        "remaining": 136809,
+        "total": 136809
+      },
+      {
+        "prize": 10,
+        "remaining": 371171,
+        "total": 371171
+      }
+    ],
+    "imageUrl": "https://mnlottery-craft-assets-prod.s3.us-gov-west-1.amazonaws.com/transforms/Game-Minis/_400xAUTO_crop_center-center_none/2078-Wizard-Crossword-Mini.jpg"
+  },
+  {
+    "name": "Pocket Change",
+    "price": 1.0,
+    "totalTickets": 4031686,
+    "remainingTickets": 4031686,
+    "gameNumber": "2077",
+    "tiers": [
+      {
+        "prize": 5000,
+        "remaining": 6,
+        "total": 6
+      },
+      {
+        "prize": 100,
+        "remaining": 655,
+        "total": 655
+      },
+      {
+        "prize": 50,
+        "remaining": 1543,
+        "total": 1543
+      },
+      {
+        "prize": 30,
+        "remaining": 3315,
+        "total": 3315
+      },
+      {
+        "prize": 20,
+        "remaining": 10391,
+        "total": 10391
+      },
+      {
+        "prize": 15,
+        "remaining": 10392,
+        "total": 10392
+      },
+      {
+        "prize": 10,
+        "remaining": 10391,
+        "total": 10391
+      },
+      {
+        "prize": 5,
+        "remaining": 135091,
+        "total": 135091
+      },
+      {
+        "prize": 2,
+        "remaining": 280610,
+        "total": 280610
+      },
+      {
+        "prize": 1,
+        "remaining": 644211,
+        "total": 644211
+      }
+    ],
+    "imageUrl": "https://mnlottery-craft-assets-prod.s3.us-gov-west-1.amazonaws.com/transforms/Game-Minis/_400xAUTO_crop_center-center_none/2077-Pocket-Change-Mini.jpg"
+  },
+  {
     "name": "Triple Red Hot 777s",
     "price": 5.0,
     "totalTickets": 3064129,
@@ -1318,166 +1643,6 @@
       }
     ],
     "imageUrl": "https://mnlottery-craft-assets-prod.s3.us-gov-west-1.amazonaws.com/transforms/Game-Minis/_400xAUTO_crop_center-center_none/2076-Triple-Red-Hot-777s-Mini.jpg"
-  },
-  {
-    "name": "Pocket Change",
-    "price": 1.0,
-    "totalTickets": 4031686,
-    "remainingTickets": 4031686,
-    "gameNumber": "2077",
-    "tiers": [
-      {
-        "prize": 5000,
-        "remaining": 6,
-        "total": 6
-      },
-      {
-        "prize": 100,
-        "remaining": 655,
-        "total": 655
-      },
-      {
-        "prize": 50,
-        "remaining": 1543,
-        "total": 1543
-      },
-      {
-        "prize": 30,
-        "remaining": 3315,
-        "total": 3315
-      },
-      {
-        "prize": 20,
-        "remaining": 10391,
-        "total": 10391
-      },
-      {
-        "prize": 15,
-        "remaining": 10392,
-        "total": 10392
-      },
-      {
-        "prize": 10,
-        "remaining": 10391,
-        "total": 10391
-      },
-      {
-        "prize": 5,
-        "remaining": 135091,
-        "total": 135091
-      },
-      {
-        "prize": 2,
-        "remaining": 280610,
-        "total": 280610
-      },
-      {
-        "prize": 1,
-        "remaining": 644211,
-        "total": 644211
-      }
-    ],
-    "imageUrl": "https://mnlottery-craft-assets-prod.s3.us-gov-west-1.amazonaws.com/transforms/Game-Minis/_400xAUTO_crop_center-center_none/2077-Pocket-Change-Mini.jpg"
-  },
-  {
-    "name": "Crossword Wizard",
-    "price": 10.0,
-    "totalTickets": 2103736,
-    "remainingTickets": 2103736,
-    "gameNumber": "2078",
-    "tiers": [
-      {
-        "prize": 200000,
-        "remaining": 4,
-        "total": 4
-      },
-      {
-        "prize": 10000,
-        "remaining": 5,
-        "total": 5
-      },
-      {
-        "prize": 1000,
-        "remaining": 150,
-        "total": 150
-      },
-      {
-        "prize": 500,
-        "remaining": 576,
-        "total": 576
-      },
-      {
-        "prize": 100,
-        "remaining": 28455,
-        "total": 28455
-      },
-      {
-        "prize": 50,
-        "remaining": 61858,
-        "total": 61858
-      },
-      {
-        "prize": 20,
-        "remaining": 136809,
-        "total": 136809
-      },
-      {
-        "prize": 10,
-        "remaining": 371171,
-        "total": 371171
-      }
-    ],
-    "imageUrl": "https://mnlottery-craft-assets-prod.s3.us-gov-west-1.amazonaws.com/transforms/Game-Minis/_400xAUTO_crop_center-center_none/2078-Wizard-Crossword-Mini.jpg"
-  },
-  {
-    "name": "Cash Bar Multiplier",
-    "price": 10.0,
-    "totalTickets": 2086195,
-    "remainingTickets": 2086195,
-    "gameNumber": "2075",
-    "tiers": [
-      {
-        "prize": 1000,
-        "remaining": 1551,
-        "total": 1551
-      },
-      {
-        "prize": 500,
-        "remaining": 1031,
-        "total": 1031
-      },
-      {
-        "prize": 100,
-        "remaining": 17784,
-        "total": 17784
-      },
-      {
-        "prize": 50,
-        "remaining": 24312,
-        "total": 24312
-      },
-      {
-        "prize": 30,
-        "remaining": 16111,
-        "total": 16111
-      },
-      {
-        "prize": 25,
-        "remaining": 72678,
-        "total": 72678
-      },
-      {
-        "prize": 20,
-        "remaining": 116241,
-        "total": 116241
-      },
-      {
-        "prize": 10,
-        "remaining": 387467,
-        "total": 387467
-      }
-    ],
-    "imageUrl": "https://mnlottery-craft-assets-prod.s3.us-gov-west-1.amazonaws.com/transforms/Game-Minis/_400xAUTO_crop_center-center_none/2075-Cash-Bar-Multiplier-Mini.jpg"
   },
   {
     "name": "Cosmic Crossword",
@@ -1710,81 +1875,6 @@
     "imageUrl": "https://mnlottery-craft-assets-prod.s3.us-gov-west-1.amazonaws.com/transforms/Game-Minis/_400xAUTO_crop_center-center_none/2072-TopSecretCrossword-mini524x349.jpg"
   },
   {
-    "name": "Cash Train",
-    "price": 10.0,
-    "totalTickets": 1970407,
-    "remainingTickets": 1970407,
-    "gameNumber": "2073",
-    "tiers": [
-      {
-        "prize": 200000,
-        "remaining": 3,
-        "total": 3
-      },
-      {
-        "prize": 10000,
-        "remaining": 23,
-        "total": 23
-      },
-      {
-        "prize": 1000,
-        "remaining": 65,
-        "total": 65
-      },
-      {
-        "prize": 500,
-        "remaining": 104,
-        "total": 104
-      },
-      {
-        "prize": 300,
-        "remaining": 78,
-        "total": 78
-      },
-      {
-        "prize": 250,
-        "remaining": 73,
-        "total": 73
-      },
-      {
-        "prize": 100,
-        "remaining": 28759,
-        "total": 28759
-      },
-      {
-        "prize": 50,
-        "remaining": 18333,
-        "total": 18333
-      },
-      {
-        "prize": 40,
-        "remaining": 7629,
-        "total": 7629
-      },
-      {
-        "prize": 30,
-        "remaining": 10680,
-        "total": 10680
-      },
-      {
-        "prize": 25,
-        "remaining": 76308,
-        "total": 76308
-      },
-      {
-        "prize": 20,
-        "remaining": 128179,
-        "total": 128179
-      },
-      {
-        "prize": 10,
-        "remaining": 292961,
-        "total": 292961
-      }
-    ],
-    "imageUrl": "https://mnlottery-craft-assets-prod.s3.us-gov-west-1.amazonaws.com/transforms/Game-Minis/_400xAUTO_crop_center-center_none/2073-CashTrain-mini524x349.jpg"
-  },
-  {
     "name": "Power Shot Multiplier",
     "price": 20.0,
     "totalTickets": 1620637,
@@ -1885,79 +1975,79 @@
     "imageUrl": "https://mnlottery-craft-assets-prod.s3.us-gov-west-1.amazonaws.com/transforms/Game-Minis/_400xAUTO_crop_center-center_none/2070-Power-Shot-Multiplier-Mini.jpg"
   },
   {
-    "name": "Lucky Slingo",
-    "price": 3.0,
-    "totalTickets": 3682788,
-    "remainingTickets": 3682788,
-    "gameNumber": "2057",
+    "name": "Money",
+    "price": 50.0,
+    "totalTickets": 1383892,
+    "remainingTickets": 1383892,
+    "gameNumber": "2055",
     "tiers": [
       {
-        "prize": 30000,
-        "remaining": 6,
-        "total": 6
+        "prize": 100000,
+        "remaining": 50,
+        "total": 50
+      },
+      {
+        "prize": 25000,
+        "remaining": 50,
+        "total": 50
+      },
+      {
+        "prize": 20000,
+        "remaining": 50,
+        "total": 50
+      },
+      {
+        "prize": 10000,
+        "remaining": 50,
+        "total": 50
+      },
+      {
+        "prize": 5000,
+        "remaining": 50,
+        "total": 50
+      },
+      {
+        "prize": 2500,
+        "remaining": 50,
+        "total": 50
+      },
+      {
+        "prize": 2000,
+        "remaining": 380,
+        "total": 380
       },
       {
         "prize": 1000,
-        "remaining": 30,
-        "total": 30
+        "remaining": 700,
+        "total": 700
       },
       {
         "prize": 500,
-        "remaining": 308,
-        "total": 308
+        "remaining": 8210,
+        "total": 8210
+      },
+      {
+        "prize": 250,
+        "remaining": 15403,
+        "total": 15403
       },
       {
         "prize": 100,
-        "remaining": 3030,
-        "total": 3030
+        "remaining": 54669,
+        "total": 54669
       },
       {
-        "prize": 90,
-        "remaining": 1211,
-        "total": 1211
+        "prize": 75,
+        "remaining": 156952,
+        "total": 156952
       },
       {
         "prize": 50,
-        "remaining": 2246,
-        "total": 2246
-      },
-      {
-        "prize": 30,
-        "remaining": 36170,
-        "total": 36170
-      },
-      {
-        "prize": 20,
-        "remaining": 36170,
-        "total": 36170
-      },
-      {
-        "prize": 15,
-        "remaining": 45167,
-        "total": 45167
-      },
-      {
-        "prize": 10,
-        "remaining": 72340,
-        "total": 72340
-      },
-      {
-        "prize": 6,
-        "remaining": 189933,
-        "total": 189933
-      },
-      {
-        "prize": 5,
-        "remaining": 144680,
-        "total": 144680
-      },
-      {
-        "prize": 3,
-        "remaining": 406915,
-        "total": 406915
+        "remaining": 203949,
+        "total": 203949
       }
     ],
-    "imageUrl": "https://mnlottery-craft-assets-prod.s3.us-gov-west-1.amazonaws.com/transforms/Game-Minis/_400xAUTO_crop_center-center_none/2057-Lucky-Slingo-Mini.jpg"
+    "imageUrl": "https://mnlottery-craft-assets-prod.s3.us-gov-west-1.amazonaws.com/transforms/Game-Minis/_400xAUTO_crop_center-center_none/2055-Money-Mini.jpg"
   },
   {
     "name": "Crossword Gems",
@@ -2048,81 +2138,6 @@
       }
     ],
     "imageUrl": "https://mnlottery-craft-assets-prod.s3.us-gov-west-1.amazonaws.com/transforms/Game-Minis/_400xAUTO_crop_center-center_none/2056-Crossword-Gems-Mini.jpg"
-  },
-  {
-    "name": "Money",
-    "price": 50.0,
-    "totalTickets": 1383892,
-    "remainingTickets": 1383892,
-    "gameNumber": "2055",
-    "tiers": [
-      {
-        "prize": 100000,
-        "remaining": 50,
-        "total": 50
-      },
-      {
-        "prize": 25000,
-        "remaining": 50,
-        "total": 50
-      },
-      {
-        "prize": 20000,
-        "remaining": 50,
-        "total": 50
-      },
-      {
-        "prize": 10000,
-        "remaining": 50,
-        "total": 50
-      },
-      {
-        "prize": 5000,
-        "remaining": 50,
-        "total": 50
-      },
-      {
-        "prize": 2500,
-        "remaining": 50,
-        "total": 50
-      },
-      {
-        "prize": 2000,
-        "remaining": 380,
-        "total": 380
-      },
-      {
-        "prize": 1000,
-        "remaining": 700,
-        "total": 700
-      },
-      {
-        "prize": 500,
-        "remaining": 8210,
-        "total": 8210
-      },
-      {
-        "prize": 250,
-        "remaining": 15403,
-        "total": 15403
-      },
-      {
-        "prize": 100,
-        "remaining": 54669,
-        "total": 54669
-      },
-      {
-        "prize": 75,
-        "remaining": 156952,
-        "total": 156952
-      },
-      {
-        "prize": 50,
-        "remaining": 203949,
-        "total": 203949
-      }
-    ],
-    "imageUrl": "https://mnlottery-craft-assets-prod.s3.us-gov-west-1.amazonaws.com/transforms/Game-Minis/_400xAUTO_crop_center-center_none/2055-Money-Mini.jpg"
   },
   {
     "name": "Gnome Series",
