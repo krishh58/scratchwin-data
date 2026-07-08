@@ -1,9 +1,234 @@
 [
   {
+    "name": "$25,000 Grande",
+    "price": 5.0,
+    "totalTickets": 145575,
+    "remainingTickets": 145561,
+    "gameNumber": "690",
+    "tiers": [
+      {
+        "prize": 25000,
+        "remaining": 3,
+        "total": 3
+      },
+      {
+        "prize": 1000,
+        "remaining": 10,
+        "total": 10
+      },
+      {
+        "prize": 200,
+        "remaining": 28,
+        "total": 28
+      },
+      {
+        "prize": 100,
+        "remaining": 130,
+        "total": 130
+      },
+      {
+        "prize": 50,
+        "remaining": 1702,
+        "total": 1702
+      },
+      {
+        "prize": 40,
+        "remaining": 5005,
+        "total": 5006
+      },
+      {
+        "prize": 20,
+        "remaining": 4209,
+        "total": 4209
+      }
+    ],
+    "imageUrl": "https://www.nmlottery.com/wp-content/uploads/2026/07/690.jpg"
+  },
+  {
+    "name": "$10,000 Grande Crossword",
+    "price": 3.0,
+    "totalTickets": 475370,
+    "remainingTickets": 475272,
+    "gameNumber": "689",
+    "tiers": [
+      {
+        "prize": 10000,
+        "remaining": 3,
+        "total": 3
+      },
+      {
+        "prize": 1000,
+        "remaining": 10,
+        "total": 10
+      },
+      {
+        "prize": 100,
+        "remaining": 252,
+        "total": 252
+      },
+      {
+        "prize": 50,
+        "remaining": 1007,
+        "total": 1007
+      },
+      {
+        "prize": 30,
+        "remaining": 2072,
+        "total": 2072
+      },
+      {
+        "prize": 20,
+        "remaining": 4960,
+        "total": 4962
+      },
+      {
+        "prize": 15,
+        "remaining": 9921,
+        "total": 9924
+      },
+      {
+        "prize": 10,
+        "remaining": 14884,
+        "total": 14886
+      },
+      {
+        "prize": 5,
+        "remaining": 34726,
+        "total": 34734
+      },
+      {
+        "prize": 3,
+        "remaining": 59533,
+        "total": 59544
+      }
+    ],
+    "imageUrl": "https://www.nmlottery.com/wp-content/uploads/2026/07/689.jpg"
+  },
+  {
+    "name": "$5,000 Grande",
+    "price": 2.0,
+    "totalTickets": 446227,
+    "remainingTickets": 446154,
+    "gameNumber": "688",
+    "tiers": [
+      {
+        "prize": 5000,
+        "remaining": 3,
+        "total": 3
+      },
+      {
+        "prize": 100,
+        "remaining": 196,
+        "total": 196
+      },
+      {
+        "prize": 50,
+        "remaining": 492,
+        "total": 492
+      },
+      {
+        "prize": 40,
+        "remaining": 1350,
+        "total": 1350
+      },
+      {
+        "prize": 20,
+        "remaining": 3288,
+        "total": 3288
+      },
+      {
+        "prize": 10,
+        "remaining": 9871,
+        "total": 9872
+      },
+      {
+        "prize": 5,
+        "remaining": 19726,
+        "total": 19728
+      },
+      {
+        "prize": 3,
+        "remaining": 26264,
+        "total": 26272
+      },
+      {
+        "prize": 2,
+        "remaining": 23032,
+        "total": 23036
+      },
+      {
+        "prize": 2,
+        "remaining": 39439,
+        "total": 39444
+      }
+    ],
+    "imageUrl": "https://www.nmlottery.com/wp-content/uploads/2026/07/688.jpg"
+  },
+  {
+    "name": "$1,000 Grande",
+    "price": 1.0,
+    "totalTickets": 601936,
+    "remainingTickets": 601831,
+    "gameNumber": "687",
+    "tiers": [
+      {
+        "prize": 1000,
+        "remaining": 3,
+        "total": 3
+      },
+      {
+        "prize": 50,
+        "remaining": 226,
+        "total": 226
+      },
+      {
+        "prize": 40,
+        "remaining": 462,
+        "total": 462
+      },
+      {
+        "prize": 30,
+        "remaining": 1352,
+        "total": 1353
+      },
+      {
+        "prize": 20,
+        "remaining": 2222,
+        "total": 2223
+      },
+      {
+        "prize": 10,
+        "remaining": 6667,
+        "total": 6669
+      },
+      {
+        "prize": 5,
+        "remaining": 11112,
+        "total": 11115
+      },
+      {
+        "prize": 2,
+        "remaining": 35562,
+        "total": 35568
+      },
+      {
+        "prize": 1,
+        "remaining": 42230,
+        "total": 42237
+      },
+      {
+        "prize": 1,
+        "remaining": 37787,
+        "total": 37791
+      }
+    ],
+    "imageUrl": "https://www.nmlottery.com/wp-content/uploads/2026/07/687.jpg"
+  },
+  {
     "name": "Gold Rush",
     "price": 10.0,
     "totalTickets": 336153,
-    "remainingTickets": 306567,
+    "remainingTickets": 305745,
     "gameNumber": "680",
     "tiers": [
       {
@@ -23,27 +248,27 @@
       },
       {
         "prize": 100,
-        "remaining": 2200,
+        "remaining": 2192,
         "total": 2434
       },
       {
         "prize": 50,
-        "remaining": 10956,
+        "remaining": 10927,
         "total": 12064
       },
       {
         "prize": 20,
-        "remaining": 11046,
+        "remaining": 11012,
         "total": 12119
       },
       {
         "prize": 15,
-        "remaining": 32938,
+        "remaining": 32845,
         "total": 36136
       },
       {
         "prize": 10,
-        "remaining": 38575,
+        "remaining": 38482,
         "total": 42198
       }
     ],
@@ -53,7 +278,7 @@
     "name": "LOTERIA\u2122 Super Grande!",
     "price": 5.0,
     "totalTickets": 981895,
-    "remainingTickets": 911646,
+    "remainingTickets": 909128,
     "gameNumber": "645",
     "tiers": [
       {
@@ -78,52 +303,52 @@
       },
       {
         "prize": 500,
-        "remaining": 93,
+        "remaining": 92,
         "total": 100
       },
       {
         "prize": 200,
-        "remaining": 377,
+        "remaining": 376,
         "total": 411
       },
       {
         "prize": 100,
-        "remaining": 917,
+        "remaining": 914,
         "total": 997
       },
       {
         "prize": 50,
-        "remaining": 2177,
+        "remaining": 2166,
         "total": 2349
       },
       {
         "prize": 40,
-        "remaining": 3080,
+        "remaining": 3072,
         "total": 3359
       },
       {
         "prize": 30,
-        "remaining": 4643,
+        "remaining": 4630,
         "total": 5027
       },
       {
         "prize": 20,
-        "remaining": 15480,
+        "remaining": 15443,
         "total": 16725
       },
       {
         "prize": 15,
-        "remaining": 46376,
+        "remaining": 46254,
         "total": 50165
       },
       {
         "prize": 10,
-        "remaining": 62155,
+        "remaining": 61965,
         "total": 66919
       },
       {
         "prize": 5,
-        "remaining": 109023,
+        "remaining": 108734,
         "total": 117095
       }
     ],
@@ -133,7 +358,7 @@
     "name": "Red Hot Double Doubler",
     "price": 1.0,
     "totalTickets": 610267,
-    "remainingTickets": 550475,
+    "remainingTickets": 547775,
     "gameNumber": "674",
     "tiers": [
       {
@@ -153,52 +378,52 @@
       },
       {
         "prize": 100,
-        "remaining": 82,
+        "remaining": 81,
         "total": 89
       },
       {
         "prize": 50,
-        "remaining": 416,
+        "remaining": 414,
         "total": 454
       },
       {
         "prize": 40,
-        "remaining": 613,
+        "remaining": 611,
         "total": 692
       },
       {
         "prize": 20,
-        "remaining": 2001,
+        "remaining": 1992,
         "total": 2258
       },
       {
         "prize": 10,
-        "remaining": 4012,
+        "remaining": 3988,
         "total": 4516
       },
       {
         "prize": 8,
-        "remaining": 4035,
+        "remaining": 4016,
         "total": 4516
       },
       {
         "prize": 4,
-        "remaining": 16197,
+        "remaining": 16108,
         "total": 18064
       },
       {
         "prize": 2,
-        "remaining": 16277,
+        "remaining": 16199,
         "total": 18064
       },
       {
         "prize": 1,
-        "remaining": 55241,
+        "remaining": 54973,
         "total": 60966
       },
       {
         "prize": 1,
-        "remaining": 24446,
+        "remaining": 24333,
         "total": 27096
       }
     ],
@@ -208,7 +433,7 @@
     "name": "100X",
     "price": 20.0,
     "totalTickets": 418546,
-    "remainingTickets": 241863,
+    "remainingTickets": 240727,
     "gameNumber": "628",
     "tiers": [
       {
@@ -238,22 +463,22 @@
       },
       {
         "prize": 100,
-        "remaining": 6862,
+        "remaining": 6828,
         "total": 12509
       },
       {
         "prize": 50,
-        "remaining": 14299,
+        "remaining": 14232,
         "total": 25018
       },
       {
         "prize": 40,
-        "remaining": 21162,
+        "remaining": 21066,
         "total": 37520
       },
       {
         "prize": 20,
-        "remaining": 29968,
+        "remaining": 29825,
         "total": 50050
       }
     ],
@@ -263,7 +488,7 @@
     "name": "Crossword Tripler",
     "price": 3.0,
     "totalTickets": 1585931,
-    "remainingTickets": 1353534,
+    "remainingTickets": 1349481,
     "gameNumber": "682",
     "tiers": [
       {
@@ -278,42 +503,42 @@
       },
       {
         "prize": 100,
-        "remaining": 751,
+        "remaining": 748,
         "total": 899
       },
       {
         "prize": 50,
-        "remaining": 1881,
+        "remaining": 1874,
         "total": 2239
       },
       {
         "prize": 30,
-        "remaining": 7033,
+        "remaining": 7003,
         "total": 8415
       },
       {
         "prize": 20,
-        "remaining": 13963,
+        "remaining": 13917,
         "total": 16635
       },
       {
         "prize": 15,
-        "remaining": 28079,
+        "remaining": 27993,
         "total": 33516
       },
       {
         "prize": 10,
-        "remaining": 42148,
+        "remaining": 42017,
         "total": 50150
       },
       {
         "prize": 5,
-        "remaining": 99096,
+        "remaining": 98782,
         "total": 117019
       },
       {
         "prize": 3,
-        "remaining": 173711,
+        "remaining": 173230,
         "total": 200744
       }
     ],
@@ -323,7 +548,7 @@
     "name": "I Love Cash",
     "price": 2.0,
     "totalTickets": 438998,
-    "remainingTickets": 340375,
+    "remainingTickets": 338933,
     "gameNumber": "686",
     "tiers": [
       {
@@ -333,47 +558,47 @@
       },
       {
         "prize": 100,
-        "remaining": 129,
+        "remaining": 128,
         "total": 169
       },
       {
         "prize": 50,
-        "remaining": 497,
+        "remaining": 494,
         "total": 655
       },
       {
         "prize": 40,
-        "remaining": 757,
+        "remaining": 754,
         "total": 993
       },
       {
         "prize": 20,
-        "remaining": 2457,
+        "remaining": 2446,
         "total": 3284
       },
       {
         "prize": 10,
-        "remaining": 7452,
+        "remaining": 7413,
         "total": 9848
       },
       {
         "prize": 5,
-        "remaining": 15135,
+        "remaining": 15071,
         "total": 19704
       },
       {
         "prize": 3,
-        "remaining": 20458,
+        "remaining": 20371,
         "total": 26288
       },
       {
         "prize": 2,
-        "remaining": 18026,
+        "remaining": 17956,
         "total": 22960
       },
       {
         "prize": 2,
-        "remaining": 30715,
+        "remaining": 30588,
         "total": 39432
       }
     ],
@@ -383,7 +608,7 @@
     "name": "Xtra Bonus",
     "price": 1.0,
     "totalTickets": 537935,
-    "remainingTickets": 436428,
+    "remainingTickets": 434797,
     "gameNumber": "650",
     "tiers": [
       {
@@ -398,37 +623,37 @@
       },
       {
         "prize": 50,
-        "remaining": 564,
+        "remaining": 561,
         "total": 716
       },
       {
         "prize": 20,
-        "remaining": 1574,
+        "remaining": 1569,
         "total": 2006
       },
       {
         "prize": 10,
-        "remaining": 4740,
+        "remaining": 4717,
         "total": 6018
       },
       {
         "prize": 5,
-        "remaining": 8005,
+        "remaining": 7966,
         "total": 10030
       },
       {
         "prize": 2,
-        "remaining": 25957,
+        "remaining": 25865,
         "total": 32096
       },
       {
         "prize": 1,
-        "remaining": 27899,
+        "remaining": 27813,
         "total": 34102
       },
       {
         "prize": 1,
-        "remaining": 31119,
+        "remaining": 30993,
         "total": 38114
       }
     ],
@@ -438,7 +663,7 @@
     "name": "Bingo Extra",
     "price": 3.0,
     "totalTickets": 922985,
-    "remainingTickets": 752910,
+    "remainingTickets": 750138,
     "gameNumber": "683",
     "tiers": [
       {
@@ -448,57 +673,167 @@
       },
       {
         "prize": 500,
-        "remaining": 19,
+        "remaining": 18,
         "total": 21
       },
       {
         "prize": 100,
-        "remaining": 1066,
+        "remaining": 1064,
         "total": 1329
       },
       {
         "prize": 50,
-        "remaining": 2641,
+        "remaining": 2630,
         "total": 3335
       },
       {
         "prize": 20,
-        "remaining": 7939,
+        "remaining": 7897,
         "total": 9964
       },
       {
         "prize": 15,
-        "remaining": 7985,
+        "remaining": 7950,
         "total": 9967
       },
       {
         "prize": 10,
-        "remaining": 32105,
+        "remaining": 31966,
         "total": 39853
       },
       {
         "prize": 5,
-        "remaining": 65036,
+        "remaining": 64832,
         "total": 79709
       },
       {
         "prize": 3,
-        "remaining": 49213,
+        "remaining": 49035,
         "total": 59768
       },
       {
         "prize": 3,
-        "remaining": 41014,
+        "remaining": 40864,
         "total": 49836
       }
     ],
     "imageUrl": "https://www.nmlottery.com/wp-content/uploads/2026/04/683-1.jpg"
   },
   {
+    "name": "Fast Cash",
+    "price": 2.0,
+    "totalTickets": 448289,
+    "remainingTickets": 330115,
+    "gameNumber": "655",
+    "tiers": [
+      {
+        "prize": 500,
+        "remaining": 14,
+        "total": 20
+      },
+      {
+        "prize": 100,
+        "remaining": 142,
+        "total": 198
+      },
+      {
+        "prize": 50,
+        "remaining": 1192,
+        "total": 1679
+      },
+      {
+        "prize": 20,
+        "remaining": 2362,
+        "total": 3303
+      },
+      {
+        "prize": 10,
+        "remaining": 7149,
+        "total": 9909
+      },
+      {
+        "prize": 5,
+        "remaining": 14433,
+        "total": 19818
+      },
+      {
+        "prize": 3,
+        "remaining": 19538,
+        "total": 26424
+      },
+      {
+        "prize": 2,
+        "remaining": 29400,
+        "total": 39636
+      },
+      {
+        "prize": 2,
+        "remaining": 17162,
+        "total": 23121
+      }
+    ],
+    "imageUrl": "https://www.nmlottery.com/wp-content/uploads/2026/04/655.jpg"
+  },
+  {
+    "name": "Aces High",
+    "price": 1.0,
+    "totalTickets": 597030,
+    "remainingTickets": 422299,
+    "gameNumber": "649",
+    "tiers": [
+      {
+        "prize": 500,
+        "remaining": 11,
+        "total": 16
+      },
+      {
+        "prize": 100,
+        "remaining": 123,
+        "total": 183
+      },
+      {
+        "prize": 30,
+        "remaining": 797,
+        "total": 1163
+      },
+      {
+        "prize": 20,
+        "remaining": 1506,
+        "total": 2262
+      },
+      {
+        "prize": 10,
+        "remaining": 4603,
+        "total": 6826
+      },
+      {
+        "prize": 5,
+        "remaining": 10862,
+        "total": 15890
+      },
+      {
+        "prize": 2,
+        "remaining": 15981,
+        "total": 22700
+      },
+      {
+        "prize": 1,
+        "remaining": 32601,
+        "total": 45418
+      },
+      {
+        "prize": 1,
+        "remaining": 30824,
+        "total": 43112
+      }
+    ],
+    "imageUrl": "https://www.nmlottery.com/wp-content/uploads/2026/04/649-1.jpg"
+  },
+  {
     "name": "Cash Bonanza",
     "price": 20.0,
     "totalTickets": 344005,
-    "remainingTickets": 266822,
+    "remainingTickets": 266058,
     "gameNumber": "643",
     "tiers": [
       {
@@ -518,322 +853,37 @@
       },
       {
         "prize": 200,
-        "remaining": 1410,
+        "remaining": 1405,
         "total": 1813
       },
       {
         "prize": 100,
-        "remaining": 9393,
+        "remaining": 9363,
         "total": 12156
       },
       {
         "prize": 50,
-        "remaining": 28231,
+        "remaining": 28152,
         "total": 36473
       },
       {
         "prize": 20,
-        "remaining": 37792,
+        "remaining": 37686,
         "total": 48611
       }
     ],
     "imageUrl": "https://www.nmlottery.com/wp-content/uploads/2026/04/643.jpg"
   },
   {
-    "name": "Fast Cash",
-    "price": 2.0,
-    "totalTickets": 448289,
-    "remainingTickets": 331448,
-    "gameNumber": "655",
-    "tiers": [
-      {
-        "prize": 500,
-        "remaining": 14,
-        "total": 20
-      },
-      {
-        "prize": 100,
-        "remaining": 142,
-        "total": 198
-      },
-      {
-        "prize": 50,
-        "remaining": 1198,
-        "total": 1679
-      },
-      {
-        "prize": 20,
-        "remaining": 2371,
-        "total": 3303
-      },
-      {
-        "prize": 10,
-        "remaining": 7181,
-        "total": 9909
-      },
-      {
-        "prize": 5,
-        "remaining": 14502,
-        "total": 19818
-      },
-      {
-        "prize": 3,
-        "remaining": 19607,
-        "total": 26424
-      },
-      {
-        "prize": 2,
-        "remaining": 29510,
-        "total": 39636
-      },
-      {
-        "prize": 2,
-        "remaining": 17236,
-        "total": 23121
-      }
-    ],
-    "imageUrl": "https://www.nmlottery.com/wp-content/uploads/2026/04/655.jpg"
-  },
-  {
-    "name": "Aces High",
-    "price": 1.0,
-    "totalTickets": 597030,
-    "remainingTickets": 424656,
-    "gameNumber": "649",
-    "tiers": [
-      {
-        "prize": 500,
-        "remaining": 11,
-        "total": 16
-      },
-      {
-        "prize": 100,
-        "remaining": 123,
-        "total": 183
-      },
-      {
-        "prize": 30,
-        "remaining": 806,
-        "total": 1163
-      },
-      {
-        "prize": 20,
-        "remaining": 1515,
-        "total": 2262
-      },
-      {
-        "prize": 10,
-        "remaining": 4637,
-        "total": 6826
-      },
-      {
-        "prize": 5,
-        "remaining": 10931,
-        "total": 15890
-      },
-      {
-        "prize": 2,
-        "remaining": 16080,
-        "total": 22700
-      },
-      {
-        "prize": 1,
-        "remaining": 32760,
-        "total": 45418
-      },
-      {
-        "prize": 1,
-        "remaining": 30988,
-        "total": 43112
-      }
-    ],
-    "imageUrl": "https://www.nmlottery.com/wp-content/uploads/2026/04/649-1.jpg"
-  },
-  {
-    "name": "Legends of Lucha Libre\u00ae",
-    "price": 5.0,
-    "totalTickets": 509935,
-    "remainingTickets": 299983,
-    "gameNumber": "663",
-    "tiers": [
-      {
-        "prize": 25000,
-        "remaining": 2,
-        "total": 3
-      },
-      {
-        "prize": 5000,
-        "remaining": 2,
-        "total": 3
-      },
-      {
-        "prize": 1000,
-        "remaining": 2,
-        "total": 3
-      },
-      {
-        "prize": 500,
-        "remaining": 19,
-        "total": 40
-      },
-      {
-        "prize": 100,
-        "remaining": 322,
-        "total": 596
-      },
-      {
-        "prize": 50,
-        "remaining": 951,
-        "total": 1678
-      },
-      {
-        "prize": 40,
-        "remaining": 2812,
-        "total": 4983
-      },
-      {
-        "prize": 20,
-        "remaining": 4769,
-        "total": 8315
-      },
-      {
-        "prize": 15,
-        "remaining": 9512,
-        "total": 16617
-      },
-      {
-        "prize": 10,
-        "remaining": 29182,
-        "total": 49574
-      },
-      {
-        "prize": 5,
-        "remaining": 34696,
-        "total": 58035
-      }
-    ],
-    "imageUrl": "https://www.nmlottery.com/wp-content/uploads/2026/04/663-1.jpg"
-  },
-  {
-    "name": "Dinero Loco",
-    "price": 1.0,
-    "totalTickets": 608276,
-    "remainingTickets": 400849,
-    "gameNumber": "673",
-    "tiers": [
-      {
-        "prize": 1000,
-        "remaining": 2,
-        "total": 3
-      },
-      {
-        "prize": 100,
-        "remaining": 161,
-        "total": 277
-      },
-      {
-        "prize": 40,
-        "remaining": 727,
-        "total": 1186
-      },
-      {
-        "prize": 20,
-        "remaining": 1380,
-        "total": 2266
-      },
-      {
-        "prize": 10,
-        "remaining": 2881,
-        "total": 4532
-      },
-      {
-        "prize": 5,
-        "remaining": 8490,
-        "total": 13596
-      },
-      {
-        "prize": 2,
-        "remaining": 27474,
-        "total": 40788
-      },
-      {
-        "prize": 1,
-        "remaining": 25443,
-        "total": 38522
-      },
-      {
-        "prize": 1,
-        "remaining": 25498,
-        "total": 38522
-      }
-    ],
-    "imageUrl": "https://www.nmlottery.com/wp-content/uploads/2026/04/673.jpg"
-  },
-  {
-    "name": "777",
-    "price": 2.0,
-    "totalTickets": 433720,
-    "remainingTickets": 242403,
-    "gameNumber": "654",
-    "tiers": [
-      {
-        "prize": 7000,
-        "remaining": 3,
-        "total": 3
-      },
-      {
-        "prize": 100,
-        "remaining": 118,
-        "total": 246
-      },
-      {
-        "prize": 40,
-        "remaining": 808,
-        "total": 1603
-      },
-      {
-        "prize": 20,
-        "remaining": 1703,
-        "total": 3198
-      },
-      {
-        "prize": 10,
-        "remaining": 5276,
-        "total": 9608
-      },
-      {
-        "prize": 5,
-        "remaining": 10395,
-        "total": 19188
-      },
-      {
-        "prize": 3,
-        "remaining": 14197,
-        "total": 25528
-      },
-      {
-        "prize": 2,
-        "remaining": 21849,
-        "total": 38384
-      },
-      {
-        "prize": 2,
-        "remaining": 12802,
-        "total": 22392
-      }
-    ],
-    "imageUrl": "https://www.nmlottery.com/wp-content/uploads/2026/04/654.jpg"
-  },
-  {
     "name": "Triple Red 777s",
     "price": 10.0,
     "totalTickets": 348253,
-    "remainingTickets": 241287,
+    "remainingTickets": 240461,
     "gameNumber": "679",
     "tiers": [
       {
         "prize": 20000,
-        "remaining": 3,
+        "remaining": 2,
         "total": 3
       },
       {
@@ -848,37 +898,212 @@
       },
       {
         "prize": 100,
-        "remaining": 1678,
+        "remaining": 1673,
         "total": 2502
       },
       {
         "prize": 50,
-        "remaining": 8337,
+        "remaining": 8305,
         "total": 12553
       },
       {
         "prize": 20,
-        "remaining": 8612,
+        "remaining": 8582,
         "total": 12577
       },
       {
         "prize": 15,
-        "remaining": 26176,
+        "remaining": 26092,
         "total": 37638
       },
       {
         "prize": 10,
-        "remaining": 30849,
+        "remaining": 30742,
         "total": 43919
       }
     ],
     "imageUrl": "https://www.nmlottery.com/wp-content/uploads/2026/04/679.jpg"
   },
   {
+    "name": "Legends of Lucha Libre\u00ae",
+    "price": 5.0,
+    "totalTickets": 509935,
+    "remainingTickets": 298087,
+    "gameNumber": "663",
+    "tiers": [
+      {
+        "prize": 25000,
+        "remaining": 2,
+        "total": 3
+      },
+      {
+        "prize": 5000,
+        "remaining": 1,
+        "total": 3
+      },
+      {
+        "prize": 1000,
+        "remaining": 2,
+        "total": 3
+      },
+      {
+        "prize": 500,
+        "remaining": 19,
+        "total": 40
+      },
+      {
+        "prize": 100,
+        "remaining": 321,
+        "total": 596
+      },
+      {
+        "prize": 50,
+        "remaining": 941,
+        "total": 1678
+      },
+      {
+        "prize": 40,
+        "remaining": 2792,
+        "total": 4983
+      },
+      {
+        "prize": 20,
+        "remaining": 4741,
+        "total": 8315
+      },
+      {
+        "prize": 15,
+        "remaining": 9451,
+        "total": 16617
+      },
+      {
+        "prize": 10,
+        "remaining": 28995,
+        "total": 49574
+      },
+      {
+        "prize": 5,
+        "remaining": 34484,
+        "total": 58035
+      }
+    ],
+    "imageUrl": "https://www.nmlottery.com/wp-content/uploads/2026/04/663-1.jpg"
+  },
+  {
+    "name": "777",
+    "price": 2.0,
+    "totalTickets": 433720,
+    "remainingTickets": 240724,
+    "gameNumber": "654",
+    "tiers": [
+      {
+        "prize": 7000,
+        "remaining": 3,
+        "total": 3
+      },
+      {
+        "prize": 100,
+        "remaining": 117,
+        "total": 246
+      },
+      {
+        "prize": 40,
+        "remaining": 802,
+        "total": 1603
+      },
+      {
+        "prize": 20,
+        "remaining": 1691,
+        "total": 3198
+      },
+      {
+        "prize": 10,
+        "remaining": 5241,
+        "total": 9608
+      },
+      {
+        "prize": 5,
+        "remaining": 10313,
+        "total": 19188
+      },
+      {
+        "prize": 3,
+        "remaining": 14109,
+        "total": 25528
+      },
+      {
+        "prize": 2,
+        "remaining": 21685,
+        "total": 38384
+      },
+      {
+        "prize": 2,
+        "remaining": 12725,
+        "total": 22392
+      }
+    ],
+    "imageUrl": "https://www.nmlottery.com/wp-content/uploads/2026/04/654.jpg"
+  },
+  {
+    "name": "Dinero Loco",
+    "price": 1.0,
+    "totalTickets": 608276,
+    "remainingTickets": 399024,
+    "gameNumber": "673",
+    "tiers": [
+      {
+        "prize": 1000,
+        "remaining": 2,
+        "total": 3
+      },
+      {
+        "prize": 100,
+        "remaining": 161,
+        "total": 277
+      },
+      {
+        "prize": 40,
+        "remaining": 722,
+        "total": 1186
+      },
+      {
+        "prize": 20,
+        "remaining": 1372,
+        "total": 2266
+      },
+      {
+        "prize": 10,
+        "remaining": 2868,
+        "total": 4532
+      },
+      {
+        "prize": 5,
+        "remaining": 8451,
+        "total": 13596
+      },
+      {
+        "prize": 2,
+        "remaining": 27359,
+        "total": 40788
+      },
+      {
+        "prize": 1,
+        "remaining": 25322,
+        "total": 38522
+      },
+      {
+        "prize": 1,
+        "remaining": 25380,
+        "total": 38522
+      }
+    ],
+    "imageUrl": "https://www.nmlottery.com/wp-content/uploads/2026/04/673.jpg"
+  },
+  {
     "name": "Crossword Deluxe",
     "price": 5.0,
     "totalTickets": 564849,
-    "remainingTickets": 269414,
+    "remainingTickets": 267766,
     "gameNumber": "676",
     "tiers": [
       {
@@ -888,42 +1113,42 @@
       },
       {
         "prize": 500,
-        "remaining": 31,
+        "remaining": 30,
         "total": 62
       },
       {
         "prize": 100,
-        "remaining": 238,
+        "remaining": 237,
         "total": 596
       },
       {
         "prize": 40,
-        "remaining": 4298,
+        "remaining": 4264,
         "total": 10148
       },
       {
         "prize": 20,
-        "remaining": 4424,
+        "remaining": 4394,
         "total": 10112
       },
       {
         "prize": 15,
-        "remaining": 8837,
+        "remaining": 8769,
         "total": 20293
       },
       {
         "prize": 10,
-        "remaining": 20756,
+        "remaining": 20643,
         "total": 45721
       },
       {
         "prize": 5,
-        "remaining": 15673,
+        "remaining": 15581,
         "total": 30460
       },
       {
         "prize": 5,
-        "remaining": 21110,
+        "remaining": 20988,
         "total": 40619
       }
     ],
@@ -933,7 +1158,7 @@
     "name": "Lots of Cash",
     "price": 5.0,
     "totalTickets": 445892,
-    "remainingTickets": 215918,
+    "remainingTickets": 214828,
     "gameNumber": "666",
     "tiers": [
       {
@@ -958,22 +1183,22 @@
       },
       {
         "prize": 40,
-        "remaining": 3739,
+        "remaining": 3720,
         "total": 8310
       },
       {
         "prize": 20,
-        "remaining": 7681,
+        "remaining": 7642,
         "total": 16620
       },
       {
         "prize": 10,
-        "remaining": 17625,
+        "remaining": 17543,
         "total": 37397
       },
       {
         "prize": 5,
-        "remaining": 33336,
+        "remaining": 33160,
         "total": 66476
       }
     ],
@@ -983,7 +1208,7 @@
     "name": "7-11-21\u00ae Tripler",
     "price": 2.0,
     "totalTickets": 452507,
-    "remainingTickets": 191476,
+    "remainingTickets": 190422,
     "gameNumber": "671",
     "tiers": [
       {
@@ -993,42 +1218,42 @@
       },
       {
         "prize": 100,
-        "remaining": 154,
+        "remaining": 153,
         "total": 425
       },
       {
         "prize": 30,
-        "remaining": 1272,
+        "remaining": 1263,
         "total": 3342
       },
       {
         "prize": 20,
-        "remaining": 1218,
+        "remaining": 1209,
         "total": 3322
       },
       {
         "prize": 10,
-        "remaining": 2543,
+        "remaining": 2534,
         "total": 6648
       },
       {
         "prize": 5,
-        "remaining": 6774,
+        "remaining": 6721,
         "total": 16631
       },
       {
         "prize": 3,
-        "remaining": 15560,
+        "remaining": 15475,
         "total": 36633
       },
       {
         "prize": 2,
-        "remaining": 11592,
+        "remaining": 11536,
         "total": 26643
       },
       {
         "prize": 2,
-        "remaining": 13193,
+        "remaining": 13127,
         "total": 29970
       }
     ],
@@ -1038,7 +1263,7 @@
     "name": "Great 8s",
     "price": 1.0,
     "totalTickets": 547610,
-    "remainingTickets": 166449,
+    "remainingTickets": 165351,
     "gameNumber": "651",
     "tiers": [
       {
@@ -1053,47 +1278,47 @@
       },
       {
         "prize": 50,
-        "remaining": 136,
+        "remaining": 134,
         "total": 527
       },
       {
         "prize": 20,
-        "remaining": 515,
+        "remaining": 510,
         "total": 2035
       },
       {
         "prize": 15,
-        "remaining": 488,
+        "remaining": 484,
         "total": 2034
       },
       {
         "prize": 10,
-        "remaining": 564,
+        "remaining": 558,
         "total": 2084
       },
       {
         "prize": 5,
-        "remaining": 2151,
+        "remaining": 2127,
         "total": 8201
       },
       {
         "prize": 3,
-        "remaining": 5790,
+        "remaining": 5754,
         "total": 20470
       },
       {
         "prize": 2,
-        "remaining": 6137,
+        "remaining": 6091,
         "total": 20470
       },
       {
         "prize": 1,
-        "remaining": 11962,
+        "remaining": 11896,
         "total": 36891
       },
       {
         "prize": 1,
-        "remaining": 11635,
+        "remaining": 11564,
         "total": 36801
       }
     ],
@@ -1103,7 +1328,7 @@
     "name": "Fiery 5s",
     "price": 5.0,
     "totalTickets": 433875,
-    "remainingTickets": 126235,
+    "remainingTickets": 125161,
     "gameNumber": "677",
     "tiers": [
       {
@@ -1118,32 +1343,32 @@
       },
       {
         "prize": 100,
-        "remaining": 111,
+        "remaining": 110,
         "total": 403
       },
       {
         "prize": 50,
-        "remaining": 1277,
+        "remaining": 1269,
         "total": 4888
       },
       {
         "prize": 25,
-        "remaining": 2163,
+        "remaining": 2142,
         "total": 8077
       },
       {
         "prize": 15,
-        "remaining": 4492,
+        "remaining": 4447,
         "total": 16154
       },
       {
         "prize": 10,
-        "remaining": 9153,
+        "remaining": 9068,
         "total": 32290
       },
       {
         "prize": 5,
-        "remaining": 19598,
+        "remaining": 19445,
         "total": 64652
       }
     ],
@@ -1153,7 +1378,7 @@
     "name": "Betty Boop\u2122",
     "price": 2.0,
     "totalTickets": 927261,
-    "remainingTickets": 659934,
+    "remainingTickets": 657838,
     "gameNumber": "670",
     "tiers": [
       {
@@ -1163,42 +1388,42 @@
       },
       {
         "prize": 100,
-        "remaining": 351,
+        "remaining": 350,
         "total": 512
       },
       {
         "prize": 40,
-        "remaining": 4533,
+        "remaining": 4519,
         "total": 6672
       },
       {
         "prize": 20,
-        "remaining": 4562,
+        "remaining": 4546,
         "total": 6672
       },
       {
         "prize": 10,
-        "remaining": 9221,
+        "remaining": 9176,
         "total": 13344
       },
       {
         "prize": 5,
-        "remaining": 18768,
+        "remaining": 18718,
         "total": 26688
       },
       {
         "prize": 3,
-        "remaining": 57194,
+        "remaining": 56999,
         "total": 80064
       },
       {
         "prize": 2,
-        "remaining": 38333,
+        "remaining": 38219,
         "total": 53376
       },
       {
         "prize": 2,
-        "remaining": 43096,
+        "remaining": 42972,
         "total": 60048
       }
     ],
@@ -1208,7 +1433,7 @@
     "name": "MYSTERY CROSSWORD",
     "price": 10.0,
     "totalTickets": 347427,
-    "remainingTickets": 192274,
+    "remainingTickets": 191753,
     "gameNumber": "675",
     "tiers": [
       {
@@ -1218,42 +1443,42 @@
       },
       {
         "prize": 100,
-        "remaining": 390,
+        "remaining": 387,
         "total": 756
       },
       {
         "prize": 50,
-        "remaining": 1443,
+        "remaining": 1439,
         "total": 2778
       },
       {
         "prize": 40,
-        "remaining": 3287,
+        "remaining": 3275,
         "total": 6273
       },
       {
         "prize": 30,
-        "remaining": 3253,
+        "remaining": 3238,
         "total": 6244
       },
       {
         "prize": 20,
-        "remaining": 13279,
+        "remaining": 13249,
         "total": 24932
       },
       {
         "prize": 15,
-        "remaining": 20054,
+        "remaining": 19993,
         "total": 37308
       },
       {
         "prize": 10,
-        "remaining": 7182,
+        "remaining": 7165,
         "total": 12402
       },
       {
         "prize": 10,
-        "remaining": 21962,
+        "remaining": 21912,
         "total": 37326
       }
     ],
@@ -1263,7 +1488,7 @@
     "name": "M\u00e1s Dinero",
     "price": 10.0,
     "totalTickets": 330658,
-    "remainingTickets": 114253,
+    "remainingTickets": 113768,
     "gameNumber": "672",
     "tiers": [
       {
@@ -1278,92 +1503,37 @@
       },
       {
         "prize": 100,
-        "remaining": 326,
+        "remaining": 324,
         "total": 1062
       },
       {
         "prize": 50,
-        "remaining": 3868,
+        "remaining": 3844,
         "total": 12363
       },
       {
         "prize": 20,
-        "remaining": 8070,
+        "remaining": 8033,
         "total": 24755
       },
       {
         "prize": 15,
-        "remaining": 8820,
+        "remaining": 8789,
         "total": 24726
       },
       {
         "prize": 10,
-        "remaining": 17723,
+        "remaining": 17652,
         "total": 49394
       }
     ],
     "imageUrl": "https://www.nmlottery.com/wp-content/uploads/2025/11/672-1.jpg"
   },
   {
-    "name": "Lucky Numbers",
-    "price": 3.0,
-    "totalTickets": 440982,
-    "remainingTickets": 68521,
-    "gameNumber": "646",
-    "tiers": [
-      {
-        "prize": 500,
-        "remaining": 2,
-        "total": 20
-      },
-      {
-        "prize": 100,
-        "remaining": 21,
-        "total": 167
-      },
-      {
-        "prize": 50,
-        "remaining": 88,
-        "total": 847
-      },
-      {
-        "prize": 30,
-        "remaining": 529,
-        "total": 4974
-      },
-      {
-        "prize": 20,
-        "remaining": 581,
-        "total": 4966
-      },
-      {
-        "prize": 15,
-        "remaining": 618,
-        "total": 4989
-      },
-      {
-        "prize": 10,
-        "remaining": 1951,
-        "total": 14908
-      },
-      {
-        "prize": 4,
-        "remaining": 5603,
-        "total": 34848
-      },
-      {
-        "prize": 3,
-        "remaining": 10091,
-        "total": 59673
-      }
-    ],
-    "imageUrl": "https://www.nmlottery.com/wp-content/uploads/2025/11/646.jpg"
-  },
-  {
     "name": "Tic Tac Multiplier",
     "price": 1.0,
     "totalTickets": 560123,
-    "remainingTickets": 118919,
+    "remainingTickets": 118671,
     "gameNumber": "647",
     "tiers": [
       {
@@ -1388,97 +1558,97 @@
       },
       {
         "prize": 20,
-        "remaining": 410,
+        "remaining": 407,
         "total": 3164
       },
       {
         "prize": 10,
-        "remaining": 601,
+        "remaining": 600,
         "total": 4242
       },
       {
         "prize": 5,
-        "remaining": 1816,
+        "remaining": 1809,
         "total": 10570
       },
       {
         "prize": 2,
-        "remaining": 7819,
+        "remaining": 7803,
         "total": 38052
       },
       {
         "prize": 1,
-        "remaining": 8346,
+        "remaining": 8326,
         "total": 35938
       },
       {
         "prize": 1,
-        "remaining": 8234,
+        "remaining": 8224,
         "total": 35938
       }
     ],
     "imageUrl": "https://www.nmlottery.com/wp-content/uploads/2025/11/647.jpg"
   },
   {
-    "name": "Merry Money 5X",
-    "price": 2.0,
-    "totalTickets": 446813,
-    "remainingTickets": 142530,
-    "gameNumber": "668",
+    "name": "Lucky Numbers",
+    "price": 3.0,
+    "totalTickets": 440982,
+    "remainingTickets": 68054,
+    "gameNumber": "646",
     "tiers": [
       {
         "prize": 500,
-        "remaining": 6,
-        "total": 18
+        "remaining": 2,
+        "total": 20
       },
       {
         "prize": 100,
-        "remaining": 111,
-        "total": 437
+        "remaining": 21,
+        "total": 167
       },
       {
-        "prize": 40,
-        "remaining": 412,
-        "total": 1660
+        "prize": 50,
+        "remaining": 87,
+        "total": 847
+      },
+      {
+        "prize": 30,
+        "remaining": 525,
+        "total": 4974
       },
       {
         "prize": 20,
-        "remaining": 1275,
-        "total": 4986
+        "remaining": 579,
+        "total": 4966
+      },
+      {
+        "prize": 15,
+        "remaining": 612,
+        "total": 4989
       },
       {
         "prize": 10,
-        "remaining": 1814,
-        "total": 6662
+        "remaining": 1934,
+        "total": 14908
       },
       {
-        "prize": 5,
-        "remaining": 3829,
-        "total": 13270
+        "prize": 4,
+        "remaining": 5569,
+        "total": 34848
       },
       {
         "prize": 3,
-        "remaining": 9536,
-        "total": 29868
-      },
-      {
-        "prize": 2,
-        "remaining": 15500,
-        "total": 46472
-      },
-      {
-        "prize": 2,
-        "remaining": 7912,
-        "total": 23260
+        "remaining": 10022,
+        "total": 59673
       }
     ],
-    "imageUrl": "https://www.nmlottery.com/wp-content/uploads/2025/10/668-2.jpg"
+    "imageUrl": "https://www.nmlottery.com/wp-content/uploads/2025/11/646.jpg"
   },
   {
     "name": "Hello Money",
     "price": 10.0,
     "totalTickets": 345738,
-    "remainingTickets": 36832,
+    "remainingTickets": 36261,
     "gameNumber": "581",
     "tiers": [
       {
@@ -1503,62 +1673,117 @@
       },
       {
         "prize": 100,
-        "remaining": 207,
+        "remaining": 203,
         "total": 2493
       },
       {
         "prize": 50,
-        "remaining": 1036,
+        "remaining": 1019,
         "total": 12450
       },
       {
         "prize": 20,
-        "remaining": 1160,
+        "remaining": 1137,
         "total": 12398
       },
       {
         "prize": 15,
-        "remaining": 4076,
+        "remaining": 4011,
         "total": 37398
       },
       {
         "prize": 10,
-        "remaining": 5063,
+        "remaining": 4993,
         "total": 43607
       }
     ],
     "imageUrl": "https://www.nmlottery.com/wp-content/uploads/2025/10/581.jpg"
   },
   {
+    "name": "Merry Money 5X",
+    "price": 2.0,
+    "totalTickets": 446813,
+    "remainingTickets": 142106,
+    "gameNumber": "668",
+    "tiers": [
+      {
+        "prize": 500,
+        "remaining": 6,
+        "total": 18
+      },
+      {
+        "prize": 100,
+        "remaining": 110,
+        "total": 437
+      },
+      {
+        "prize": 40,
+        "remaining": 410,
+        "total": 1660
+      },
+      {
+        "prize": 20,
+        "remaining": 1270,
+        "total": 4986
+      },
+      {
+        "prize": 10,
+        "remaining": 1811,
+        "total": 6662
+      },
+      {
+        "prize": 5,
+        "remaining": 3818,
+        "total": 13270
+      },
+      {
+        "prize": 3,
+        "remaining": 9507,
+        "total": 29868
+      },
+      {
+        "prize": 2,
+        "remaining": 15453,
+        "total": 46472
+      },
+      {
+        "prize": 2,
+        "remaining": 7890,
+        "total": 23260
+      }
+    ],
+    "imageUrl": "https://www.nmlottery.com/wp-content/uploads/2025/10/668-2.jpg"
+  },
+  {
     "name": "Merry Money",
     "price": 1.0,
     "totalTickets": 584490,
-    "remainingTickets": 185619,
+    "remainingTickets": 185410,
     "gameNumber": "661",
     "tiers": [
       {
         "prize": 20,
-        "remaining": 1105,
+        "remaining": 1102,
         "total": 4217
       },
       {
         "prize": 10,
-        "remaining": 1628,
+        "remaining": 1626,
         "total": 6278
       },
       {
         "prize": 5,
-        "remaining": 4858,
+        "remaining": 4850,
         "total": 18853
       },
       {
         "prize": 2,
-        "remaining": 11139,
+        "remaining": 11128,
         "total": 31480
       },
       {
         "prize": 1,
-        "remaining": 24588,
+        "remaining": 24563,
         "total": 75574
       }
     ],
@@ -1568,7 +1793,7 @@
     "name": "Neon 7",
     "price": 5.0,
     "totalTickets": 401741,
-    "remainingTickets": 122345,
+    "remainingTickets": 121876,
     "gameNumber": "665",
     "tiers": [
       {
@@ -1588,22 +1813,22 @@
       },
       {
         "prize": 35,
-        "remaining": 1349,
+        "remaining": 1341,
         "total": 4822
       },
       {
         "prize": 20,
-        "remaining": 4568,
+        "remaining": 4548,
         "total": 15928
       },
       {
         "prize": 10,
-        "remaining": 14300,
+        "remaining": 14246,
         "total": 47784
       },
       {
         "prize": 5,
-        "remaining": 17657,
+        "remaining": 17593,
         "total": 55748
       }
     ],
@@ -1613,7 +1838,7 @@
     "name": "Creepy Cash",
     "price": 2.0,
     "totalTickets": 228540,
-    "remainingTickets": 32400,
+    "remainingTickets": 32365,
     "gameNumber": "656",
     "tiers": [
       {
@@ -1638,22 +1863,22 @@
       },
       {
         "prize": 10,
-        "remaining": 564,
+        "remaining": 562,
         "total": 4956
       },
       {
         "prize": 5,
-        "remaining": 1311,
+        "remaining": 1308,
         "total": 11559
       },
       {
         "prize": 3,
-        "remaining": 2428,
+        "remaining": 2426,
         "total": 16525
       },
       {
         "prize": 2,
-        "remaining": 2884,
+        "remaining": 2881,
         "total": 18172
       },
       {
@@ -1668,7 +1893,7 @@
     "name": "The Sky\u2019s the Limit",
     "price": 1.0,
     "totalTickets": 599929,
-    "remainingTickets": 172449,
+    "remainingTickets": 172255,
     "gameNumber": "662",
     "tiers": [
       {
@@ -1683,37 +1908,37 @@
       },
       {
         "prize": 50,
-        "remaining": 162,
+        "remaining": 161,
         "total": 940
       },
       {
         "prize": 20,
-        "remaining": 446,
+        "remaining": 445,
         "total": 2237
       },
       {
         "prize": 10,
-        "remaining": 1210,
+        "remaining": 1209,
         "total": 5582
       },
       {
         "prize": 5,
-        "remaining": 3314,
+        "remaining": 3309,
         "total": 13443
       },
       {
         "prize": 2,
-        "remaining": 10509,
+        "remaining": 10496,
         "total": 35789
       },
       {
         "prize": 1,
-        "remaining": 11503,
+        "remaining": 11492,
         "total": 38020
       },
       {
         "prize": 1,
-        "remaining": 12059,
+        "remaining": 12047,
         "total": 40281
       }
     ],
@@ -1723,7 +1948,7 @@
     "name": "The Return of the Pink Panther\u2122 Crossword",
     "price": 15.0,
     "totalTickets": 274285,
-    "remainingTickets": 53520,
+    "remainingTickets": 53079,
     "gameNumber": "601",
     "tiers": [
       {
@@ -1738,12 +1963,12 @@
       },
       {
         "prize": 500,
-        "remaining": 3,
+        "remaining": 2,
         "total": 31
       },
       {
         "prize": 200,
-        "remaining": 41,
+        "remaining": 40,
         "total": 250
       },
       {
@@ -1753,27 +1978,27 @@
       },
       {
         "prize": 50,
-        "remaining": 1675,
+        "remaining": 1657,
         "total": 10241
       },
       {
         "prize": 30,
-        "remaining": 5486,
+        "remaining": 5427,
         "total": 30266
       },
       {
         "prize": 20,
-        "remaining": 5309,
+        "remaining": 5265,
         "total": 30292
       },
       {
         "prize": 15,
-        "remaining": 3590,
+        "remaining": 3567,
         "total": 15131
       },
       {
         "prize": 15,
-        "remaining": 3677,
+        "remaining": 3659,
         "total": 15143
       }
     ],
@@ -1783,7 +2008,7 @@
     "name": "10X the Cash",
     "price": 2.0,
     "totalTickets": 428846,
-    "remainingTickets": 63547,
+    "remainingTickets": 63434,
     "gameNumber": "652",
     "tiers": [
       {
@@ -1808,27 +2033,27 @@
       },
       {
         "prize": 10,
-        "remaining": 1057,
+        "remaining": 1055,
         "total": 9703
       },
       {
         "prize": 5,
-        "remaining": 1565,
+        "remaining": 1562,
         "total": 12994
       },
       {
         "prize": 3,
-        "remaining": 5869,
+        "remaining": 5855,
         "total": 38880
       },
       {
         "prize": 2,
-        "remaining": 4224,
+        "remaining": 4215,
         "total": 25920
       },
       {
         "prize": 2,
-        "remaining": 4830,
+        "remaining": 4826,
         "total": 29160
       }
     ],
@@ -1838,7 +2063,7 @@
     "name": "Triple Tripler",
     "price": 1.0,
     "totalTickets": 556490,
-    "remainingTickets": 92324,
+    "remainingTickets": 92205,
     "gameNumber": "648",
     "tiers": [
       {
@@ -1863,32 +2088,32 @@
       },
       {
         "prize": 15,
-        "remaining": 214,
+        "remaining": 212,
         "total": 2051
       },
       {
         "prize": 9,
-        "remaining": 762,
+        "remaining": 761,
         "total": 6153
       },
       {
         "prize": 3,
-        "remaining": 2721,
+        "remaining": 2715,
         "total": 18459
       },
       {
         "prize": 2,
-        "remaining": 4180,
+        "remaining": 4172,
         "total": 26663
       },
       {
         "prize": 1,
-        "remaining": 4112,
+        "remaining": 4107,
         "total": 22533
       },
       {
         "prize": 1,
-        "remaining": 9588,
+        "remaining": 9582,
         "total": 53354
       }
     ],
@@ -1898,7 +2123,7 @@
     "name": "Wild Cash Multiplier",
     "price": 10.0,
     "totalTickets": 306498,
-    "remainingTickets": 14450,
+    "remainingTickets": 14435,
     "gameNumber": "642",
     "tiers": [
       {
@@ -1933,17 +2158,17 @@
       },
       {
         "prize": 20,
-        "remaining": 1259,
+        "remaining": 1258,
         "total": 24336
       },
       {
         "prize": 15,
-        "remaining": 1031,
+        "remaining": 1029,
         "total": 24336
       },
       {
         "prize": 10,
-        "remaining": 1679,
+        "remaining": 1677,
         "total": 36504
       }
     ],
@@ -1953,7 +2178,7 @@
     "name": "Bags of Money",
     "price": 3.0,
     "totalTickets": 435070,
-    "remainingTickets": 54810,
+    "remainingTickets": 54520,
     "gameNumber": "638",
     "tiers": [
       {
@@ -1978,12 +2203,12 @@
       },
       {
         "prize": 30,
-        "remaining": 443,
+        "remaining": 438,
         "total": 5017
       },
       {
         "prize": 20,
-        "remaining": 425,
+        "remaining": 422,
         "total": 5018
       },
       {
@@ -1993,112 +2218,27 @@
       },
       {
         "prize": 10,
-        "remaining": 912,
+        "remaining": 904,
         "total": 10019
       },
       {
         "prize": 5,
-        "remaining": 4566,
+        "remaining": 4540,
         "total": 40192
       },
       {
         "prize": 3,
-        "remaining": 9041,
+        "remaining": 8999,
         "total": 60204
       }
     ],
     "imageUrl": "https://www.nmlottery.com/wp-content/uploads/2025/07/638-1.jpg"
   },
   {
-    "name": "Hit $50",
-    "price": 2.0,
-    "totalTickets": 454892,
-    "remainingTickets": 69760,
-    "gameNumber": "658",
-    "tiers": [
-      {
-        "prize": 50,
-        "remaining": 263,
-        "total": 3360
-      },
-      {
-        "prize": 20,
-        "remaining": 308,
-        "total": 3360
-      },
-      {
-        "prize": 10,
-        "remaining": 353,
-        "total": 3360
-      },
-      {
-        "prize": 5,
-        "remaining": 3062,
-        "total": 23520
-      },
-      {
-        "prize": 3,
-        "remaining": 4699,
-        "total": 30240
-      },
-      {
-        "prize": 2,
-        "remaining": 4558,
-        "total": 26880
-      },
-      {
-        "prize": 2,
-        "remaining": 5307,
-        "total": 30240
-      }
-    ],
-    "imageUrl": "https://www.nmlottery.com/wp-content/uploads/2025/07/658.jpg"
-  },
-  {
-    "name": "Hit $25",
-    "price": 1.0,
-    "totalTickets": 600867,
-    "remainingTickets": 114626,
-    "gameNumber": "657",
-    "tiers": [
-      {
-        "prize": 25,
-        "remaining": 437,
-        "total": 4568
-      },
-      {
-        "prize": 10,
-        "remaining": 827,
-        "total": 6843
-      },
-      {
-        "prize": 5,
-        "remaining": 1630,
-        "total": 11436
-      },
-      {
-        "prize": 2,
-        "remaining": 6254,
-        "total": 34264
-      },
-      {
-        "prize": 1,
-        "remaining": 8378,
-        "total": 38830
-      },
-      {
-        "prize": 1,
-        "remaining": 9055,
-        "total": 43396
-      }
-    ],
-    "imageUrl": "https://www.nmlottery.com/wp-content/uploads/2025/07/657.jpg"
-  },
-  {
     "name": "Hit $200",
     "price": 5.0,
     "totalTickets": 331316,
-    "remainingTickets": 20305,
+    "remainingTickets": 20294,
     "gameNumber": "659",
     "tiers": [
       {
@@ -2123,7 +2263,7 @@
       },
       {
         "prize": 15,
-        "remaining": 518,
+        "remaining": 517,
         "total": 12368
       },
       {
@@ -2133,17 +2273,102 @@
       },
       {
         "prize": 5,
-        "remaining": 3423,
+        "remaining": 3421,
         "total": 43288
       }
     ],
     "imageUrl": "https://www.nmlottery.com/wp-content/uploads/2025/07/659.jpg"
   },
   {
+    "name": "Hit $25",
+    "price": 1.0,
+    "totalTickets": 600867,
+    "remainingTickets": 114436,
+    "gameNumber": "657",
+    "tiers": [
+      {
+        "prize": 25,
+        "remaining": 435,
+        "total": 4568
+      },
+      {
+        "prize": 10,
+        "remaining": 825,
+        "total": 6843
+      },
+      {
+        "prize": 5,
+        "remaining": 1627,
+        "total": 11436
+      },
+      {
+        "prize": 2,
+        "remaining": 6246,
+        "total": 34264
+      },
+      {
+        "prize": 1,
+        "remaining": 8367,
+        "total": 38830
+      },
+      {
+        "prize": 1,
+        "remaining": 9037,
+        "total": 43396
+      }
+    ],
+    "imageUrl": "https://www.nmlottery.com/wp-content/uploads/2025/07/657.jpg"
+  },
+  {
+    "name": "Hit $50",
+    "price": 2.0,
+    "totalTickets": 454892,
+    "remainingTickets": 69531,
+    "gameNumber": "658",
+    "tiers": [
+      {
+        "prize": 50,
+        "remaining": 261,
+        "total": 3360
+      },
+      {
+        "prize": 20,
+        "remaining": 305,
+        "total": 3360
+      },
+      {
+        "prize": 10,
+        "remaining": 351,
+        "total": 3360
+      },
+      {
+        "prize": 5,
+        "remaining": 3047,
+        "total": 23520
+      },
+      {
+        "prize": 3,
+        "remaining": 4685,
+        "total": 30240
+      },
+      {
+        "prize": 2,
+        "remaining": 4545,
+        "total": 26880
+      },
+      {
+        "prize": 2,
+        "remaining": 5295,
+        "total": 30240
+      }
+    ],
+    "imageUrl": "https://www.nmlottery.com/wp-content/uploads/2025/07/658.jpg"
+  },
+  {
     "name": "Hit $500",
     "price": 10.0,
     "totalTickets": 340626,
-    "remainingTickets": 15721,
+    "remainingTickets": 15662,
     "gameNumber": "660",
     "tiers": [
       {
@@ -2163,22 +2388,22 @@
       },
       {
         "prize": 50,
-        "remaining": 363,
+        "remaining": 361,
         "total": 12202
       },
       {
         "prize": 20,
-        "remaining": 867,
+        "remaining": 863,
         "total": 24404
       },
       {
         "prize": 15,
-        "remaining": 1225,
+        "remaining": 1221,
         "total": 24404
       },
       {
         "prize": 10,
-        "remaining": 2646,
+        "remaining": 2637,
         "total": 48808
       }
     ],
@@ -2188,7 +2413,7 @@
     "name": "Money Bag Bingo",
     "price": 3.0,
     "totalTickets": 900538,
-    "remainingTickets": 187642,
+    "remainingTickets": 187596,
     "gameNumber": "631",
     "tiers": [
       {
@@ -2218,32 +2443,32 @@
       },
       {
         "prize": 15,
-        "remaining": 1469,
+        "remaining": 1468,
         "total": 9726
       },
       {
         "prize": 10,
-        "remaining": 5580,
+        "remaining": 5579,
         "total": 29143
       },
       {
         "prize": 6,
-        "remaining": 7731,
+        "remaining": 7727,
         "total": 38988
       },
       {
         "prize": 5,
-        "remaining": 10363,
+        "remaining": 10361,
         "total": 48591
       },
       {
         "prize": 3,
-        "remaining": 13065,
+        "remaining": 13061,
         "total": 58335
       },
       {
         "prize": 3,
-        "remaining": 13286,
+        "remaining": 13285,
         "total": 58304
       }
     ],
@@ -2253,7 +2478,7 @@
     "name": "JURASSIC PARK",
     "price": 10.0,
     "totalTickets": 396710,
-    "remainingTickets": 16747,
+    "remainingTickets": 16743,
     "gameNumber": "632",
     "tiers": [
       {
@@ -2298,7 +2523,7 @@
       },
       {
         "prize": 10,
-        "remaining": 2261,
+        "remaining": 2260,
         "total": 43905
       }
     ],
@@ -2308,7 +2533,7 @@
     "name": "Daily Crossword",
     "price": 3.0,
     "totalTickets": 1567144,
-    "remainingTickets": 162927,
+    "remainingTickets": 162770,
     "gameNumber": "639",
     "tiers": [
       {
@@ -2343,27 +2568,27 @@
       },
       {
         "prize": 20,
-        "remaining": 520,
+        "remaining": 519,
         "total": 16752
       },
       {
         "prize": 15,
-        "remaining": 1097,
+        "remaining": 1095,
         "total": 33504
       },
       {
         "prize": 10,
-        "remaining": 2425,
+        "remaining": 2421,
         "total": 50256
       },
       {
         "prize": 5,
-        "remaining": 8340,
+        "remaining": 8320,
         "total": 117264
       },
       {
         "prize": 3,
-        "remaining": 31855,
+        "remaining": 31839,
         "total": 201024
       }
     ],
@@ -2373,7 +2598,7 @@
     "name": "Cherry Twist",
     "price": 2.0,
     "totalTickets": 453953,
-    "remainingTickets": 76382,
+    "remainingTickets": 76337,
     "gameNumber": "637",
     "tiers": [
       {
@@ -2393,7 +2618,7 @@
       },
       {
         "prize": 20,
-        "remaining": 632,
+        "remaining": 631,
         "total": 3276
       },
       {
@@ -2403,22 +2628,22 @@
       },
       {
         "prize": 5,
-        "remaining": 2142,
+        "remaining": 2141,
         "total": 16380
       },
       {
         "prize": 3,
-        "remaining": 4584,
+        "remaining": 4582,
         "total": 29484
       },
       {
         "prize": 2,
-        "remaining": 6286,
+        "remaining": 6280,
         "total": 36004
       },
       {
         "prize": 2,
-        "remaining": 4854,
+        "remaining": 4852,
         "total": 26240
       }
     ],
@@ -2428,7 +2653,7 @@
     "name": "Cool Cat",
     "price": 1.0,
     "totalTickets": 563089,
-    "remainingTickets": 118728,
+    "remainingTickets": 118672,
     "gameNumber": "634",
     "tiers": [
       {
@@ -2463,27 +2688,27 @@
       },
       {
         "prize": 5,
-        "remaining": 1242,
+        "remaining": 1241,
         "total": 8216
       },
       {
         "prize": 3,
-        "remaining": 3743,
+        "remaining": 3742,
         "total": 20580
       },
       {
         "prize": 2,
-        "remaining": 4274,
+        "remaining": 4270,
         "total": 20580
       },
       {
         "prize": 1,
-        "remaining": 8844,
+        "remaining": 8841,
         "total": 37052
       },
       {
         "prize": 1,
-        "remaining": 8616,
+        "remaining": 8612,
         "total": 37036
       }
     ],
@@ -2493,7 +2718,7 @@
     "name": "SKEE-BALL\u00ae",
     "price": 3.0,
     "totalTickets": 456772,
-    "remainingTickets": 44240,
+    "remainingTickets": 44218,
     "gameNumber": "633",
     "tiers": [
       {
@@ -2528,7 +2753,7 @@
       },
       {
         "prize": 30,
-        "remaining": 264,
+        "remaining": 263,
         "total": 4954
       },
       {
@@ -2548,12 +2773,12 @@
       },
       {
         "prize": 5,
-        "remaining": 3574,
+        "remaining": 3572,
         "total": 39678
       },
       {
         "prize": 3,
-        "remaining": 7441,
+        "remaining": 7438,
         "total": 64402
       }
     ],
@@ -2613,7 +2838,7 @@
     "name": "Money Rush",
     "price": 5.0,
     "totalTickets": 1008486,
-    "remainingTickets": 89370,
+    "remainingTickets": 88878,
     "gameNumber": "618",
     "tiers": [
       {
@@ -2643,27 +2868,27 @@
       },
       {
         "prize": 50,
-        "remaining": 575,
+        "remaining": 569,
         "total": 16441
       },
       {
         "prize": 20,
-        "remaining": 865,
+        "remaining": 859,
         "total": 16475
       },
       {
         "prize": 15,
-        "remaining": 1780,
+        "remaining": 1762,
         "total": 32863
       },
       {
         "prize": 10,
-        "remaining": 5131,
+        "remaining": 5089,
         "total": 73939
       },
       {
         "prize": 5,
-        "remaining": 14310,
+        "remaining": 14257,
         "total": 115099
       }
     ],
@@ -2673,7 +2898,7 @@
     "name": "Lucky 7s",
     "price": 3.0,
     "totalTickets": 719372,
-    "remainingTickets": 69405,
+    "remainingTickets": 69402,
     "gameNumber": "627",
     "tiers": [
       {
@@ -2713,7 +2938,7 @@
       },
       {
         "prize": 3,
-        "remaining": 10245,
+        "remaining": 10244,
         "total": 88944
       }
     ],
@@ -2778,22 +3003,22 @@
     "name": "$25, $50 or $100!",
     "price": 10.0,
     "totalTickets": 646984,
-    "remainingTickets": 262687,
+    "remainingTickets": 261736,
     "gameNumber": "624",
     "tiers": [
       {
         "prize": 100,
-        "remaining": 8620,
+        "remaining": 8600,
         "total": 21590
       },
       {
         "prize": 50,
-        "remaining": 8254,
+        "remaining": 8218,
         "total": 20430
       },
       {
         "prize": 25,
-        "remaining": 16832,
+        "remaining": 16766,
         "total": 40996
       }
     ],
