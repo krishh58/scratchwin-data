@@ -1,5 +1,20 @@
 [
   {
+    "name": "$3,000,000 EXTREME FORTUNE",
+    "price": 50.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "2912",
+    "tiers": [
+      {
+        "prize": 3000000,
+        "remaining": 2,
+        "total": 2
+      }
+    ],
+    "imageUrl": "https://static.coloradolottery.com/media/cache/4c/bc/4cbc44193aab523e5c4c9bf6df7afc61.jpg"
+  },
+  {
     "name": "Best Chance To Be A Millionaire",
     "price": 50.0,
     "totalTickets": 0,
@@ -13,21 +28,6 @@
       }
     ],
     "imageUrl": "https://static.coloradolottery.com/media/cache/64/6d/646d6111695f7f02dc1e02f1f27508f8.jpg"
-  },
-  {
-    "name": "SET FOR LIFE",
-    "price": 50.0,
-    "totalTickets": 0,
-    "remainingTickets": 0,
-    "gameNumber": "2891",
-    "tiers": [
-      {
-        "prize": 3780000,
-        "remaining": 1,
-        "total": 1
-      }
-    ],
-    "imageUrl": "https://static.coloradolottery.com/media/cache/e7/a3/e7a3a09791156d7a53f84abd039a3528.jpg"
   },
   {
     "name": "$3,000,000 Millionaire Maker",
@@ -45,19 +45,19 @@
     "imageUrl": "https://static.coloradolottery.com/media/cache/4d/c2/4dc2bbbe237234f7229b203c85433ef5.jpg"
   },
   {
-    "name": "$3,000,000 EXTREME FORTUNE",
+    "name": "SET FOR LIFE",
     "price": 50.0,
     "totalTickets": 0,
     "remainingTickets": 0,
-    "gameNumber": "2912",
+    "gameNumber": "2891",
     "tiers": [
       {
-        "prize": 3000000,
-        "remaining": 2,
-        "total": 2
+        "prize": 3780000,
+        "remaining": 1,
+        "total": 1
       }
     ],
-    "imageUrl": "https://static.coloradolottery.com/media/cache/4c/bc/4cbc44193aab523e5c4c9bf6df7afc61.jpg"
+    "imageUrl": "https://static.coloradolottery.com/media/cache/e7/a3/e7a3a09791156d7a53f84abd039a3528.jpg"
   },
   {
     "name": "EXTREME CASH",
@@ -450,6 +450,21 @@
     "imageUrl": "https://static.coloradolottery.com/media/cache/4a/1b/4a1bf32ae8c80390aed21d050a6ecefb.jpg"
   },
   {
+    "name": "100X",
+    "price": 10.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "2923",
+    "tiers": [
+      {
+        "prize": 250000,
+        "remaining": 2,
+        "total": 2
+      }
+    ],
+    "imageUrl": "https://static.coloradolottery.com/media/cache/3f/a3/3fa37aab7b6c84bec22c1ced06b88f5a.jpg"
+  },
+  {
     "name": "$250,000 DEUCE$ WILD POKER",
     "price": 10.0,
     "totalTickets": 0,
@@ -510,6 +525,21 @@
     "imageUrl": "https://static.coloradolottery.com/media/cache/1f/e0/1fe0b58d56de7f305f768977a2d1c837.jpg"
   },
   {
+    "name": "$500 Frenzy",
+    "price": 10.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "2868",
+    "tiers": [
+      {
+        "prize": 500,
+        "remaining": 433,
+        "total": 433
+      }
+    ],
+    "imageUrl": "https://static.coloradolottery.com/media/cache/35/f4/35f4c48d00d8a2c79157f3cb39ab2d34.jpg"
+  },
+  {
     "name": "$250,000 JUMBO BUCKS CROSSWORD",
     "price": 10.0,
     "totalTickets": 0,
@@ -553,36 +583,6 @@
       }
     ],
     "imageUrl": "https://static.coloradolottery.com/media/cache/1b/49/1b4977450d9fd7e766c99b0de7097aee.jpg"
-  },
-  {
-    "name": "$500 Frenzy",
-    "price": 10.0,
-    "totalTickets": 0,
-    "remainingTickets": 0,
-    "gameNumber": "2868",
-    "tiers": [
-      {
-        "prize": 500,
-        "remaining": 433,
-        "total": 433
-      }
-    ],
-    "imageUrl": "https://static.coloradolottery.com/media/cache/35/f4/35f4c48d00d8a2c79157f3cb39ab2d34.jpg"
-  },
-  {
-    "name": "100X",
-    "price": 10.0,
-    "totalTickets": 0,
-    "remainingTickets": 0,
-    "gameNumber": "2923",
-    "tiers": [
-      {
-        "prize": 250000,
-        "remaining": 2,
-        "total": 2
-      }
-    ],
-    "imageUrl": "https://static.coloradolottery.com/media/cache/3f/a3/3fa37aab7b6c84bec22c1ced06b88f5a.jpg"
   },
   {
     "name": "Best Chance To Win $100,000",
@@ -698,8 +698,8 @@
     "tiers": [
       {
         "prize": 150,
-        "remaining": 355,
-        "total": 355
+        "remaining": 351,
+        "total": 351
       }
     ],
     "imageUrl": "https://static.coloradolottery.com/media/cache/0f/f4/0ff4c049837d0fdf3a89b7b58c8472bb.jpg"
@@ -818,8 +818,8 @@
     "tiers": [
       {
         "prize": 100000,
-        "remaining": 3,
-        "total": 3
+        "remaining": 2,
+        "total": 2
       }
     ],
     "imageUrl": "https://static.coloradolottery.com/media/cache/e3/8b/e38bad70ed3e795aa1420c68a016565b.jpg"
@@ -838,6 +838,21 @@
       }
     ],
     "imageUrl": "https://static.coloradolottery.com/media/cache/79/a9/79a99f4cbdf3514d985034af90651d1a.jpg"
+  },
+  {
+    "name": "RUBY 8s",
+    "price": 5.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "2907",
+    "tiers": [
+      {
+        "prize": 100000,
+        "remaining": 1,
+        "total": 1
+      }
+    ],
+    "imageUrl": "https://static.coloradolottery.com/media/cache/5a/fb/5afb1f8d093d125b4f645598cd6fb988.jpg"
   },
   {
     "name": "Decade of Dollars",
@@ -883,21 +898,6 @@
       }
     ],
     "imageUrl": "https://static.coloradolottery.com/media/cache/89/e2/89e297dcfa60bfb31027d6a4b42d7cd3.jpg"
-  },
-  {
-    "name": "RUBY 8s",
-    "price": 5.0,
-    "totalTickets": 0,
-    "remainingTickets": 0,
-    "gameNumber": "2907",
-    "tiers": [
-      {
-        "prize": 100000,
-        "remaining": 1,
-        "total": 1
-      }
-    ],
-    "imageUrl": "https://static.coloradolottery.com/media/cache/5a/fb/5afb1f8d093d125b4f645598cd6fb988.jpg"
   },
   {
     "name": "$100,000 Blackjack Tripler",
