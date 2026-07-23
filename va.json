@@ -1,5 +1,50 @@
 [
   {
+    "name": "Money Blitz",
+    "price": 20.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "2175",
+    "tiers": [
+      {
+        "prize": 2000000,
+        "remaining": 1,
+        "total": 1
+      }
+    ],
+    "imageUrl": "https://cdnprodpaasmedia-valottery-com.azureedge.net/-/media/val/images/digital-scratcher-teaser-images/2175_teaser.jpg?rev=51e5f8138ffe4c9ea86c3bc0d6c5bf76"
+  },
+  {
+    "name": "Payday Tripler",
+    "price": 20.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "2390",
+    "tiers": [
+      {
+        "prize": 1000000,
+        "remaining": 2,
+        "total": 2
+      }
+    ],
+    "imageUrl": "https://cdnprodpaasmedia-valottery-com.azureedge.net/-/media/val/images/scratcher-teaser/2390_teaser.jpg?rev=adb123b9d13c4a28879f09a5ecc85dec"
+  },
+  {
+    "name": "CASH BLAST",
+    "price": 20.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "2349",
+    "tiers": [
+      {
+        "prize": 600,
+        "remaining": 3605,
+        "total": 3605
+      }
+    ],
+    "imageUrl": "https://cdnprodpaasmedia-valottery-com.azureedge.net/-/media/val/images/scratcher-teaser/2349_teaser.jpg?rev=70df939d6ef84f6488051cfce2745de9"
+  },
+  {
     "name": "Ultimate 7s",
     "price": 20.0,
     "totalTickets": 0,
@@ -13,21 +58,6 @@
       }
     ],
     "imageUrl": "https://cdnprodpaasmedia-valottery-com.azureedge.net/-/media/val/images/scratcher-teaser/2360_teaser.jpg?rev=a630c7bdbb3b4e678a2c922c877a70c2"
-  },
-  {
-    "name": "50X The Money",
-    "price": 20.0,
-    "totalTickets": 0,
-    "remainingTickets": 0,
-    "gameNumber": "2305",
-    "tiers": [
-      {
-        "prize": 3000000,
-        "remaining": 2,
-        "total": 2
-      }
-    ],
-    "imageUrl": "https://cdnprodpaasmedia-valottery-com.azureedge.net/-/media/val/images/scratcher-teaser/teaser_2305.jpg?rev=d8b3ac9161b0413c9560474ddcef3807"
   },
   {
     "name": "$100,000 A YEAR",
@@ -60,49 +90,19 @@
     "imageUrl": "https://cdnprodpaasmedia-valottery-com.azureedge.net/-/media/val/images/scratcher-teaser/2373_teaser_coldhardcash.jpg?rev=5e4ed148b62640768d696483f8f50b15"
   },
   {
-    "name": "CASH BLAST",
-    "price": 20.0,
+    "name": "Crossword Spectacular",
+    "price": 10.0,
     "totalTickets": 0,
     "remainingTickets": 0,
-    "gameNumber": "2349",
+    "gameNumber": "2375",
     "tiers": [
       {
-        "prize": 600,
-        "remaining": 3614,
-        "total": 3614
-      }
-    ],
-    "imageUrl": "https://cdnprodpaasmedia-valottery-com.azureedge.net/-/media/val/images/scratcher-teaser/2349_teaser.jpg?rev=70df939d6ef84f6488051cfce2745de9"
-  },
-  {
-    "name": "Payday Tripler",
-    "price": 20.0,
-    "totalTickets": 0,
-    "remainingTickets": 0,
-    "gameNumber": "2390",
-    "tiers": [
-      {
-        "prize": 1000000,
+        "prize": 300000,
         "remaining": 2,
         "total": 2
       }
     ],
-    "imageUrl": "https://cdnprodpaasmedia-valottery-com.azureedge.net/-/media/val/images/scratcher-teaser/2390_teaser.jpg?rev=adb123b9d13c4a28879f09a5ecc85dec"
-  },
-  {
-    "name": "SIX FIGURES",
-    "price": 10.0,
-    "totalTickets": 0,
-    "remainingTickets": 0,
-    "gameNumber": "2389",
-    "tiers": [
-      {
-        "prize": 500000,
-        "remaining": 1,
-        "total": 1
-      }
-    ],
-    "imageUrl": "https://cdnprodpaasmedia-valottery-com.azureedge.net/-/media/val/images/scratcher-teaser/2389_teaser.jpg?rev=54e3cd4382bb49df9ca572844a9fab60"
+    "imageUrl": "https://cdnprodpaasmedia-valottery-com.azureedge.net/-/media/val/images/scratcher-teaser/2375_teaser.jpg?rev=8acbe397cc8d44bdb8981a4e7f818264"
   },
   {
     "name": "BIG BILLS",
@@ -120,21 +120,6 @@
     "imageUrl": "https://cdnprodpaasmedia-valottery-com.azureedge.net/-/media/val/images/scratcher-teaser/2396_teaser.jpg?rev=520b6d4684fe4da09e5c786a52a73548"
   },
   {
-    "name": "Crossword Spectacular",
-    "price": 10.0,
-    "totalTickets": 0,
-    "remainingTickets": 0,
-    "gameNumber": "2375",
-    "tiers": [
-      {
-        "prize": 300000,
-        "remaining": 2,
-        "total": 2
-      }
-    ],
-    "imageUrl": "https://cdnprodpaasmedia-valottery-com.azureedge.net/-/media/val/images/scratcher-teaser/2375_teaser.jpg?rev=8acbe397cc8d44bdb8981a4e7f818264"
-  },
-  {
     "name": "20X THE MONEY",
     "price": 10.0,
     "totalTickets": 0,
@@ -148,6 +133,36 @@
       }
     ],
     "imageUrl": "https://cdnprodpaasmedia-valottery-com.azureedge.net/-/media/val/images/scratcher-teaser/2377_teaser.jpg?rev=9139b33fe0c44711bea60cee8a43f04b"
+  },
+  {
+    "name": "SIX FIGURES",
+    "price": 10.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "2389",
+    "tiers": [
+      {
+        "prize": 500000,
+        "remaining": 1,
+        "total": 1
+      }
+    ],
+    "imageUrl": "https://cdnprodpaasmedia-valottery-com.azureedge.net/-/media/val/images/scratcher-teaser/2389_teaser.jpg?rev=54e3cd4382bb49df9ca572844a9fab60"
+  },
+  {
+    "name": "Mega 777s",
+    "price": 10.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "2126",
+    "tiers": [
+      {
+        "prize": 777777,
+        "remaining": 1,
+        "total": 1
+      }
+    ],
+    "imageUrl": "https://cdnprodpaasmedia-valottery-com.azureedge.net/-/media/val/images/digital-scratcher-teaser-images/2126_teaser.jpg?rev=f07bdcc441854d8eb1c166a908202685"
   },
   {
     "name": "Instant Cash",
@@ -210,21 +225,6 @@
     "imageUrl": "https://cdnprodpaasmedia-valottery-com.azureedge.net/-/media/val/images/scratcher-teaser/2310_teaser.jpg?rev=1ecf952e64ae493fbd77fc98599afee6"
   },
   {
-    "name": "King of Crossword",
-    "price": 10.0,
-    "totalTickets": 0,
-    "remainingTickets": 0,
-    "gameNumber": "2294",
-    "tiers": [
-      {
-        "prize": 300000,
-        "remaining": 0,
-        "total": 1
-      }
-    ],
-    "imageUrl": "https://cdnprodpaasmedia-valottery-com.azureedge.net/-/media/val/images/scratcher-teaser/2294_teaser.jpg?rev=eb778a3760b644389a7f4e9f713e65b4"
-  },
-  {
     "name": "WILD CASH",
     "price": 10.0,
     "totalTickets": 0,
@@ -270,21 +270,6 @@
     "imageUrl": "https://cdnprodpaasmedia-valottery-com.azureedge.net/-/media/val/images/digital-scratcher-teaser-images/2195_teaser.jpg?rev=34dfc49da4dc4d6dab90ce6357bf75b8"
   },
   {
-    "name": "Mega 777s",
-    "price": 10.0,
-    "totalTickets": 0,
-    "remainingTickets": 0,
-    "gameNumber": "2126",
-    "tiers": [
-      {
-        "prize": 777777,
-        "remaining": 1,
-        "total": 1
-      }
-    ],
-    "imageUrl": "https://cdnprodpaasmedia-valottery-com.azureedge.net/-/media/val/images/digital-scratcher-teaser-images/2126_teaser.jpg?rev=f07bdcc441854d8eb1c166a908202685"
-  },
-  {
     "name": "CASH BLOWOUT",
     "price": 10.0,
     "totalTickets": 0,
@@ -293,26 +278,11 @@
     "tiers": [
       {
         "prize": 500,
-        "remaining": 2799,
-        "total": 2799
+        "remaining": 2796,
+        "total": 2796
       }
     ],
     "imageUrl": "https://cdnprodpaasmedia-valottery-com.azureedge.net/-/media/val/images/scratcher-teaser/2321_teaser.jpg?rev=506d8f69db7c411bb0351a3af1477187"
-  },
-  {
-    "name": "10X The Money",
-    "price": 5.0,
-    "totalTickets": 0,
-    "remainingTickets": 0,
-    "gameNumber": "2317",
-    "tiers": [
-      {
-        "prize": 100000,
-        "remaining": 0,
-        "total": 1
-      }
-    ],
-    "imageUrl": "https://cdnprodpaasmedia-valottery-com.azureedge.net/-/media/val/images/scratcher-teaser/2317_teaser.jpg?rev=a71b29a1c9034ecb88c2e0d377d2d14f"
   },
   {
     "name": "BONUS SPIN CROSSWORD",
@@ -360,36 +330,6 @@
     "imageUrl": "https://cdnprodpaasmedia-valottery-com.azureedge.net/-/media/val/images/digital-scratcher-teaser-images/2199_teaser.jpg?rev=90012f3c655540eda7a33a57d1171541"
   },
   {
-    "name": "PAWFECT PAYDAY",
-    "price": 5.0,
-    "totalTickets": 0,
-    "remainingTickets": 0,
-    "gameNumber": "2412",
-    "tiers": [
-      {
-        "prize": 125000,
-        "remaining": 3,
-        "total": 3
-      }
-    ],
-    "imageUrl": "https://cdnprodpaasmedia-valottery-com.azureedge.net/-/media/val/images/scratcher-teaser/2412_teaser.jpg?rev=10a72b1f8c6849e4b29f5d2c7d5c301d"
-  },
-  {
-    "name": "Money Money Money",
-    "price": 5.0,
-    "totalTickets": 0,
-    "remainingTickets": 0,
-    "gameNumber": "2401",
-    "tiers": [
-      {
-        "prize": 150000,
-        "remaining": 2,
-        "total": 2
-      }
-    ],
-    "imageUrl": "https://cdnprodpaasmedia-valottery-com.azureedge.net/-/media/val/images/scratcher-teaser/2401_teaser.jpg?rev=dfbf973c12a14ee9a4044c887f0eb579"
-  },
-  {
     "name": "LOADED WITH $250S",
     "price": 5.0,
     "totalTickets": 0,
@@ -398,8 +338,8 @@
     "tiers": [
       {
         "prize": 250,
-        "remaining": 488,
-        "total": 488
+        "remaining": 485,
+        "total": 485
       }
     ],
     "imageUrl": "https://cdnprodpaasmedia-valottery-com.azureedge.net/-/media/val/images/scratcher-teaser/2392_teaser.jpg?rev=14835cb98f1b4d0f89f8e22b88f4e3f6"
@@ -480,36 +420,6 @@
     "imageUrl": "https://cdnprodpaasmedia-valottery-com.azureedge.net/-/media/val/images/scratcher-teaser/2357_teaser.jpg?rev=73ac927502204973aa22d7f458852bfc"
   },
   {
-    "name": "Cash Boom",
-    "price": 5.0,
-    "totalTickets": 0,
-    "remainingTickets": 0,
-    "gameNumber": "2346",
-    "tiers": [
-      {
-        "prize": 200,
-        "remaining": 109,
-        "total": 109
-      }
-    ],
-    "imageUrl": "https://cdnprodpaasmedia-valottery-com.azureedge.net/-/media/val/images/scratcher-teaser/2346_teaser.jpg?rev=d84f018d17ff44279300ece01eb06a89"
-  },
-  {
-    "name": "BINGO MULTIPLIER",
-    "price": 5.0,
-    "totalTickets": 0,
-    "remainingTickets": 0,
-    "gameNumber": "2318",
-    "tiers": [
-      {
-        "prize": 100000,
-        "remaining": 1,
-        "total": 1
-      }
-    ],
-    "imageUrl": "https://cdnprodpaasmedia-valottery-com.azureedge.net/-/media/val/images/scratcher-teaser/2318_teaser.jpg?rev=8aeb985e978b4fd496fad4ecb3b48ae2"
-  },
-  {
     "name": "PINK PANTHER DIAMOND TRIPLER",
     "price": 5.0,
     "totalTickets": 0,
@@ -523,96 +433,6 @@
       }
     ],
     "imageUrl": "https://cdnprodpaasmedia-valottery-com.azureedge.net/-/media/val/images/scratcher-teaser/2363_teaser.jpg?rev=33a90314e7174c0ab9f718e8d5abe0df"
-  },
-  {
-    "name": "GOLD HARD CASH",
-    "price": 5.0,
-    "totalTickets": 0,
-    "remainingTickets": 0,
-    "gameNumber": "2383",
-    "tiers": [
-      {
-        "prize": 100000,
-        "remaining": 1,
-        "total": 1
-      }
-    ],
-    "imageUrl": "https://cdnprodpaasmedia-valottery-com.azureedge.net/-/media/val/images/scratcher-teaser/2383_teaser.jpg?rev=009ce6f6eb7b4db2bb3be30ddfe76bff"
-  },
-  {
-    "name": "DOUBLE SIDED DOLLARS",
-    "price": 5.0,
-    "totalTickets": 0,
-    "remainingTickets": 0,
-    "gameNumber": "2352",
-    "tiers": [
-      {
-        "prize": 100000,
-        "remaining": 0,
-        "total": 1
-      }
-    ],
-    "imageUrl": "https://cdnprodpaasmedia-valottery-com.azureedge.net/-/media/val/images/scratcher-teaser/2352_teaser.jpg?rev=908cb41d5d7d479bb3cb7d63893438cf"
-  },
-  {
-    "name": "Cash in a Flash",
-    "price": 5.0,
-    "totalTickets": 0,
-    "remainingTickets": 0,
-    "gameNumber": "2380",
-    "tiers": [
-      {
-        "prize": 100000,
-        "remaining": 1,
-        "total": 1
-      }
-    ],
-    "imageUrl": "https://cdnprodpaasmedia-valottery-com.azureedge.net/-/media/val/images/scratcher-teaser/2380_teaser.jpg?rev=34c0979ad1a64786aeea11ac5ea7d71e"
-  },
-  {
-    "name": "5 TIMES LUCKY",
-    "price": 5.0,
-    "totalTickets": 0,
-    "remainingTickets": 0,
-    "gameNumber": "2398",
-    "tiers": [
-      {
-        "prize": 100000,
-        "remaining": 2,
-        "total": 2
-      }
-    ],
-    "imageUrl": "https://cdnprodpaasmedia-valottery-com.azureedge.net/-/media/val/images/scratcher-teaser/2398_teaser.jpg?rev=3e8939111b0747a982b39312fcc6a813"
-  },
-  {
-    "name": "CASH WHEEL",
-    "price": 5.0,
-    "totalTickets": 0,
-    "remainingTickets": 0,
-    "gameNumber": "2395",
-    "tiers": [
-      {
-        "prize": 100000,
-        "remaining": 1,
-        "total": 1
-      }
-    ],
-    "imageUrl": "https://cdnprodpaasmedia-valottery-com.azureedge.net/-/media/val/images/scratcher-teaser/2395_teaser.jpg?rev=fb4380da81e74279abde65bdc5f76b50"
-  },
-  {
-    "name": "Cashing Through The Snow",
-    "price": 5.0,
-    "totalTickets": 0,
-    "remainingTickets": 0,
-    "gameNumber": "2372",
-    "tiers": [
-      {
-        "prize": 100000,
-        "remaining": 2,
-        "total": 2
-      }
-    ],
-    "imageUrl": "https://cdnprodpaasmedia-valottery-com.azureedge.net/-/media/val/images/scratcher-teaser/2372_teaser.jpg?rev=0c394f45bac04a55b9ae50ea3a076829"
   },
   {
     "name": "Cash Vault",
@@ -630,6 +450,36 @@
     "imageUrl": "https://cdnprodpaasmedia-valottery-com.azureedge.net/-/media/val/images/scratcher-teaser/2366_teaser.jpg?rev=2f74291ad47a484d91072f90e1e85359"
   },
   {
+    "name": "BINGO MULTIPLIER",
+    "price": 5.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "2318",
+    "tiers": [
+      {
+        "prize": 100000,
+        "remaining": 1,
+        "total": 1
+      }
+    ],
+    "imageUrl": "https://cdnprodpaasmedia-valottery-com.azureedge.net/-/media/val/images/scratcher-teaser/2318_teaser.jpg?rev=8aeb985e978b4fd496fad4ecb3b48ae2"
+  },
+  {
+    "name": "GOLD HARD CASH",
+    "price": 5.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "2383",
+    "tiers": [
+      {
+        "prize": 100000,
+        "remaining": 1,
+        "total": 1
+      }
+    ],
+    "imageUrl": "https://cdnprodpaasmedia-valottery-com.azureedge.net/-/media/val/images/scratcher-teaser/2383_teaser.jpg?rev=009ce6f6eb7b4db2bb3be30ddfe76bff"
+  },
+  {
     "name": "CLUE",
     "price": 5.0,
     "totalTickets": 0,
@@ -645,11 +495,11 @@
     "imageUrl": "https://cdnprodpaasmedia-valottery-com.azureedge.net/-/media/val/images/scratcher-teaser/2342_teaser2.jpg?rev=93a14231f91346d795b535c86933a3af"
   },
   {
-    "name": "RED 7S DOUBLER",
+    "name": "CASH WHEEL",
     "price": 5.0,
     "totalTickets": 0,
     "remainingTickets": 0,
-    "gameNumber": "2319",
+    "gameNumber": "2395",
     "tiers": [
       {
         "prize": 100000,
@@ -657,7 +507,82 @@
         "total": 1
       }
     ],
-    "imageUrl": "https://cdnprodpaasmedia-valottery-com.azureedge.net/-/media/val/images/scratcher-teaser/2319_teaser.jpg?rev=da39f36df5c94f42a06b9bbed7bb23eb"
+    "imageUrl": "https://cdnprodpaasmedia-valottery-com.azureedge.net/-/media/val/images/scratcher-teaser/2395_teaser.jpg?rev=fb4380da81e74279abde65bdc5f76b50"
+  },
+  {
+    "name": "PAWFECT PAYDAY",
+    "price": 5.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "2412",
+    "tiers": [
+      {
+        "prize": 125000,
+        "remaining": 3,
+        "total": 3
+      }
+    ],
+    "imageUrl": "https://cdnprodpaasmedia-valottery-com.azureedge.net/-/media/val/images/scratcher-teaser/2412_teaser.jpg?rev=10a72b1f8c6849e4b29f5d2c7d5c301d"
+  },
+  {
+    "name": "5 TIMES LUCKY",
+    "price": 5.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "2398",
+    "tiers": [
+      {
+        "prize": 100000,
+        "remaining": 2,
+        "total": 2
+      }
+    ],
+    "imageUrl": "https://cdnprodpaasmedia-valottery-com.azureedge.net/-/media/val/images/scratcher-teaser/2398_teaser.jpg?rev=3e8939111b0747a982b39312fcc6a813"
+  },
+  {
+    "name": "Money Money Money",
+    "price": 5.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "2401",
+    "tiers": [
+      {
+        "prize": 150000,
+        "remaining": 2,
+        "total": 2
+      }
+    ],
+    "imageUrl": "https://cdnprodpaasmedia-valottery-com.azureedge.net/-/media/val/images/scratcher-teaser/2401_teaser.jpg?rev=dfbf973c12a14ee9a4044c887f0eb579"
+  },
+  {
+    "name": "Cash in a Flash",
+    "price": 5.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "2380",
+    "tiers": [
+      {
+        "prize": 100000,
+        "remaining": 1,
+        "total": 1
+      }
+    ],
+    "imageUrl": "https://cdnprodpaasmedia-valottery-com.azureedge.net/-/media/val/images/scratcher-teaser/2380_teaser.jpg?rev=34c0979ad1a64786aeea11ac5ea7d71e"
+  },
+  {
+    "name": "DOUBLE SIDED DOLLARS",
+    "price": 5.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "2352",
+    "tiers": [
+      {
+        "prize": 100000,
+        "remaining": 0,
+        "total": 1
+      }
+    ],
+    "imageUrl": "https://cdnprodpaasmedia-valottery-com.azureedge.net/-/media/val/images/scratcher-teaser/2352_teaser.jpg?rev=908cb41d5d7d479bb3cb7d63893438cf"
   },
   {
     "name": "10X The Money",
@@ -675,19 +600,34 @@
     "imageUrl": "https://cdnprodpaasmedia-valottery-com.azureedge.net/-/media/val/images/scratcher-teaser/2382_teaser.jpg?rev=56c03f44d1a74314a9835d5a963eea88"
   },
   {
-    "name": "WIN WIN WIN",
-    "price": 2.0,
+    "name": "Cashing Through The Snow",
+    "price": 5.0,
     "totalTickets": 0,
     "remainingTickets": 0,
-    "gameNumber": "2365",
+    "gameNumber": "2372",
     "tiers": [
       {
-        "prize": 15000,
+        "prize": 100000,
+        "remaining": 2,
+        "total": 2
+      }
+    ],
+    "imageUrl": "https://cdnprodpaasmedia-valottery-com.azureedge.net/-/media/val/images/scratcher-teaser/2372_teaser.jpg?rev=0c394f45bac04a55b9ae50ea3a076829"
+  },
+  {
+    "name": "RED 7S DOUBLER",
+    "price": 5.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "2319",
+    "tiers": [
+      {
+        "prize": 100000,
         "remaining": 1,
         "total": 1
       }
     ],
-    "imageUrl": "https://cdnprodpaasmedia-valottery-com.azureedge.net/-/media/val/images/scratcher-teaser/2365_teaser.jpg?rev=108d7d01d38f45619deaf34e81c1483b"
+    "imageUrl": "https://cdnprodpaasmedia-valottery-com.azureedge.net/-/media/val/images/scratcher-teaser/2319_teaser.jpg?rev=da39f36df5c94f42a06b9bbed7bb23eb"
   },
   {
     "name": "5X The Money",
@@ -705,6 +645,51 @@
     "imageUrl": "https://cdnprodpaasmedia-valottery-com.azureedge.net/-/media/val/images/scratcher-teaser/2293_teaser.jpg?rev=6a2d2091797a48c4a507f5e59862f507"
   },
   {
+    "name": "WIN WIN WIN",
+    "price": 2.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "2365",
+    "tiers": [
+      {
+        "prize": 15000,
+        "remaining": 1,
+        "total": 1
+      }
+    ],
+    "imageUrl": "https://cdnprodpaasmedia-valottery-com.azureedge.net/-/media/val/images/scratcher-teaser/2365_teaser.jpg?rev=108d7d01d38f45619deaf34e81c1483b"
+  },
+  {
+    "name": "Loaded with $100s",
+    "price": 2.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "2397",
+    "tiers": [
+      {
+        "prize": 100,
+        "remaining": 2931,
+        "total": 2931
+      }
+    ],
+    "imageUrl": "https://cdnprodpaasmedia-valottery-com.azureedge.net/-/media/val/images/scratcher-teaser/2397_teaser.jpg?rev=07268030aaef467a935a4cad60e50f0c"
+  },
+  {
+    "name": "Rollin Riches",
+    "price": 2.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "2362",
+    "tiers": [
+      {
+        "prize": 20000,
+        "remaining": 2,
+        "total": 2
+      }
+    ],
+    "imageUrl": "https://cdnprodpaasmedia-valottery-com.azureedge.net/-/media/val/images/scratcher-teaser/2362_teaser.jpg?rev=3d97f663cd024ae4ada046e2632cac1c"
+  },
+  {
     "name": "Pirates Treasure",
     "price": 2.0,
     "totalTickets": 0,
@@ -718,21 +703,6 @@
       }
     ],
     "imageUrl": "https://cdnprodpaasmedia-valottery-com.azureedge.net/-/media/val/images/scratcher-teaser/2290_teaser.jpg?rev=5be3e53f4dd241c8bef6ad934bf77d21"
-  },
-  {
-    "name": "Loaded with $100s",
-    "price": 2.0,
-    "totalTickets": 0,
-    "remainingTickets": 0,
-    "gameNumber": "2397",
-    "tiers": [
-      {
-        "prize": 100,
-        "remaining": 2968,
-        "total": 2968
-      }
-    ],
-    "imageUrl": "https://cdnprodpaasmedia-valottery-com.azureedge.net/-/media/val/images/scratcher-teaser/2397_teaser.jpg?rev=07268030aaef467a935a4cad60e50f0c"
   },
   {
     "name": "5X THE MONEY",
@@ -750,21 +720,6 @@
     "imageUrl": "https://cdnprodpaasmedia-valottery-com.azureedge.net/-/media/val/images/scratcher-teaser/2406_teaser.jpg?rev=e74e0999282d4b1ea53914cb89f745be"
   },
   {
-    "name": "Tis The Season",
-    "price": 2.0,
-    "totalTickets": 0,
-    "remainingTickets": 0,
-    "gameNumber": "2371",
-    "tiers": [
-      {
-        "prize": 15000,
-        "remaining": 1,
-        "total": 1
-      }
-    ],
-    "imageUrl": "https://cdnprodpaasmedia-valottery-com.azureedge.net/-/media/val/images/scratcher-teaser/2371_teaser.jpg?rev=fa02171f8a11424e9c11d359118ca127"
-  },
-  {
     "name": "Year of the Snake",
     "price": 2.0,
     "totalTickets": 0,
@@ -778,66 +733,6 @@
       }
     ],
     "imageUrl": "https://cdnprodpaasmedia-valottery-com.azureedge.net/-/media/val/images/scratcher-teaser/2323_teaser.jpg?rev=bf40a52b0e0645fdbb70b1d1e771db1b"
-  },
-  {
-    "name": "JEFFERSON",
-    "price": 2.0,
-    "totalTickets": 0,
-    "remainingTickets": 0,
-    "gameNumber": "2327",
-    "tiers": [
-      {
-        "prize": 20000,
-        "remaining": 1,
-        "total": 1
-      }
-    ],
-    "imageUrl": "https://cdnprodpaasmedia-valottery-com.azureedge.net/-/media/val/images/scratcher-teaser/2327_teaser.jpg?rev=ff8f9b6b3c474a5980db8ee3e8fd0774"
-  },
-  {
-    "name": "BARKIN BUCKS",
-    "price": 2.0,
-    "totalTickets": 0,
-    "remainingTickets": 0,
-    "gameNumber": "2356",
-    "tiers": [
-      {
-        "prize": 20000,
-        "remaining": 0,
-        "total": 1
-      }
-    ],
-    "imageUrl": "https://cdnprodpaasmedia-valottery-com.azureedge.net/-/media/val/images/scratcher-teaser/2356_teaser.jpg?rev=f992a917c041442fbee59046fcd140e4"
-  },
-  {
-    "name": "Lucky 7s",
-    "price": 2.0,
-    "totalTickets": 0,
-    "remainingTickets": 0,
-    "gameNumber": "2359",
-    "tiers": [
-      {
-        "prize": 25000,
-        "remaining": 0,
-        "total": 1
-      }
-    ],
-    "imageUrl": "https://cdnprodpaasmedia-valottery-com.azureedge.net/-/media/val/images/scratcher-teaser/2359_teaser.jpg?rev=d4603c4f704c4fe79494ab96191e4b09"
-  },
-  {
-    "name": "5X The Money",
-    "price": 2.0,
-    "totalTickets": 0,
-    "remainingTickets": 0,
-    "gameNumber": "2234",
-    "tiers": [
-      {
-        "prize": 20000,
-        "remaining": 0,
-        "total": 1
-      }
-    ],
-    "imageUrl": "https://cdnprodpaasmedia-valottery-com.azureedge.net/-/media/val/images/scratcher-teaser/2234_teaser.jpg?rev=94d0d117b6154d94ac2765d5921ee2a3"
   },
   {
     "name": "VIRGINIA ADVENTURE",
@@ -883,21 +778,6 @@
       }
     ],
     "imageUrl": "https://cdnprodpaasmedia-valottery-com.azureedge.net/-/media/val/images/scratcher-teaser/2391_teaser.jpg?rev=6dddf0104428461f853faf370abe3f1e"
-  },
-  {
-    "name": "Rollin Riches",
-    "price": 2.0,
-    "totalTickets": 0,
-    "remainingTickets": 0,
-    "gameNumber": "2362",
-    "tiers": [
-      {
-        "prize": 20000,
-        "remaining": 2,
-        "total": 2
-      }
-    ],
-    "imageUrl": "https://cdnprodpaasmedia-valottery-com.azureedge.net/-/media/val/images/scratcher-teaser/2362_teaser.jpg?rev=3d97f663cd024ae4ada046e2632cac1c"
   },
   {
     "name": "Money Match",
@@ -998,8 +878,8 @@
     "tiers": [
       {
         "prize": 50,
-        "remaining": 1167,
-        "total": 1167
+        "remaining": 1165,
+        "total": 1165
       }
     ],
     "imageUrl": "https://cdnprodpaasmedia-valottery-com.azureedge.net/-/media/val/images/scratcher-teaser/2387_teaser.jpg?rev=68a07451b11a45a890343fc63dabffb6"
@@ -1063,50 +943,5 @@
       }
     ],
     "imageUrl": "https://cdnprodpaasmedia-valottery-com.azureedge.net/-/media/val/images/scratcher-teaser/2353_teaser.jpg?rev=42d02ee592994789a39767651c34a305"
-  },
-  {
-    "name": "Gnome for the Holidays",
-    "price": 1.0,
-    "totalTickets": 0,
-    "remainingTickets": 0,
-    "gameNumber": "2370",
-    "tiers": [
-      {
-        "prize": 500,
-        "remaining": 56,
-        "total": 56
-      }
-    ],
-    "imageUrl": "https://cdnprodpaasmedia-valottery-com.azureedge.net/-/media/val/images/scratcher-teaser/2370_teaser.jpg?rev=1f03f8d71ddf4cc1ab854091be7eafe8"
-  },
-  {
-    "name": "2026",
-    "price": 1.0,
-    "totalTickets": 0,
-    "remainingTickets": 0,
-    "gameNumber": "2369",
-    "tiers": [
-      {
-        "prize": 2026,
-        "remaining": 0,
-        "total": 1
-      }
-    ],
-    "imageUrl": "https://cdnprodpaasmedia-valottery-com.azureedge.net/-/media/val/images/scratcher-teaser/2369_teaser.jpg?rev=d49f309c2d0e4ba0961e1f5827c07381"
-  },
-  {
-    "name": "$50 WINS",
-    "price": 1.0,
-    "totalTickets": 0,
-    "remainingTickets": 0,
-    "gameNumber": "2355",
-    "tiers": [
-      {
-        "prize": 50,
-        "remaining": 776,
-        "total": 776
-      }
-    ],
-    "imageUrl": "https://cdnprodpaasmedia-valottery-com.azureedge.net/-/media/val/images/scratcher-teaser/2355_teaser.jpg?rev=b2614b91ea524730a79dac2cbface011"
   }
 ]
