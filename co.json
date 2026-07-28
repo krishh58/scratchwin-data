@@ -1,20 +1,5 @@
 [
   {
-    "name": "$3,000,000 Millionaire Maker",
-    "price": 50.0,
-    "totalTickets": 0,
-    "remainingTickets": 0,
-    "gameNumber": "2886",
-    "tiers": [
-      {
-        "prize": 3000000,
-        "remaining": 0,
-        "total": 1
-      }
-    ],
-    "imageUrl": "https://static.coloradolottery.com/media/cache/4d/c2/4dc2bbbe237234f7229b203c85433ef5.jpg"
-  },
-  {
     "name": "$3,000,000 EXTREME FORTUNE",
     "price": 50.0,
     "totalTickets": 0,
@@ -28,21 +13,6 @@
       }
     ],
     "imageUrl": "https://static.coloradolottery.com/media/cache/4c/bc/4cbc44193aab523e5c4c9bf6df7afc61.jpg"
-  },
-  {
-    "name": "SET FOR LIFE",
-    "price": 50.0,
-    "totalTickets": 0,
-    "remainingTickets": 0,
-    "gameNumber": "2891",
-    "tiers": [
-      {
-        "prize": 3780000,
-        "remaining": 1,
-        "total": 1
-      }
-    ],
-    "imageUrl": "https://static.coloradolottery.com/media/cache/e7/a3/e7a3a09791156d7a53f84abd039a3528.jpg"
   },
   {
     "name": "Best Chance To Be A Millionaire",
@@ -60,11 +30,41 @@
     "imageUrl": "https://static.coloradolottery.com/media/cache/64/6d/646d6111695f7f02dc1e02f1f27508f8.jpg"
   },
   {
-    "name": "200X",
+    "name": "SET FOR LIFE",
+    "price": 50.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "2891",
+    "tiers": [
+      {
+        "prize": 3780000,
+        "remaining": 1,
+        "total": 1
+      }
+    ],
+    "imageUrl": "https://static.coloradolottery.com/media/cache/e7/a3/e7a3a09791156d7a53f84abd039a3528.jpg"
+  },
+  {
+    "name": "$3,000,000 Millionaire Maker",
+    "price": 50.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "2886",
+    "tiers": [
+      {
+        "prize": 3000000,
+        "remaining": 0,
+        "total": 1
+      }
+    ],
+    "imageUrl": "https://static.coloradolottery.com/media/cache/4d/c2/4dc2bbbe237234f7229b203c85433ef5.jpg"
+  },
+  {
+    "name": "EXTREME CASH",
     "price": 20.0,
     "totalTickets": 0,
     "remainingTickets": 0,
-    "gameNumber": "2924",
+    "gameNumber": "2927",
     "tiers": [
       {
         "prize": 1000000,
@@ -72,7 +72,7 @@
         "total": 2
       }
     ],
-    "imageUrl": "https://static.coloradolottery.com/media/cache/27/6f/276f09d9976710cac5934f8c63146b76.jpg"
+    "imageUrl": "https://static.coloradolottery.com/media/cache/fc/ea/fcea3bac97f7226da03c248aebee0ba3.jpg"
   },
   {
     "name": "PLATINUM 8s",
@@ -225,6 +225,21 @@
     "imageUrl": "https://static.coloradolottery.com/media/cache/c2/38/c2383487cde7d51124820eff0989a726.jpg"
   },
   {
+    "name": "Decade of Dollars",
+    "price": 20.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "2864",
+    "tiers": [
+      {
+        "prize": 1200000,
+        "remaining": 1,
+        "total": 1
+      }
+    ],
+    "imageUrl": "https://static.coloradolottery.com/media/cache/7a/a4/7aa469e11879a330f48d790593e89a50.jpg"
+  },
+  {
     "name": "$500,000 Crossword",
     "price": 20.0,
     "totalTickets": 0,
@@ -238,6 +253,21 @@
       }
     ],
     "imageUrl": "https://static.coloradolottery.com/media/cache/cd/67/cd673570490a147bc591b0468b175a29.jpg"
+  },
+  {
+    "name": "200X",
+    "price": 20.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "2924",
+    "tiers": [
+      {
+        "prize": 1000000,
+        "remaining": 2,
+        "total": 2
+      }
+    ],
+    "imageUrl": "https://static.coloradolottery.com/media/cache/27/6f/276f09d9976710cac5934f8c63146b76.jpg"
   },
   {
     "name": "$20,000 FRENZY Holiday Edition",
@@ -255,36 +285,6 @@
     "imageUrl": "https://static.coloradolottery.com/media/cache/e6/06/e606bf9ad3f6a766f499e1017af99216.jpg"
   },
   {
-    "name": "EXTREME CASH",
-    "price": 20.0,
-    "totalTickets": 0,
-    "remainingTickets": 0,
-    "gameNumber": "2927",
-    "tiers": [
-      {
-        "prize": 1000000,
-        "remaining": 2,
-        "total": 2
-      }
-    ],
-    "imageUrl": "https://static.coloradolottery.com/media/cache/fc/ea/fcea3bac97f7226da03c248aebee0ba3.jpg"
-  },
-  {
-    "name": "Decade of Dollars",
-    "price": 20.0,
-    "totalTickets": 0,
-    "remainingTickets": 0,
-    "gameNumber": "2864",
-    "tiers": [
-      {
-        "prize": 1200000,
-        "remaining": 1,
-        "total": 1
-      }
-    ],
-    "imageUrl": "https://static.coloradolottery.com/media/cache/7a/a4/7aa469e11879a330f48d790593e89a50.jpg"
-  },
-  {
     "name": "UNO\u2122",
     "price": 10.0,
     "totalTickets": 0,
@@ -300,11 +300,11 @@
     "imageUrl": "https://static.coloradolottery.com/media/cache/4c/90/4c90c57c066d8f3ad636f7d0705cadb1.jpg"
   },
   {
-    "name": "MONOPOLY\u2122 100X",
+    "name": "$250,000 Extreme Green",
     "price": 10.0,
     "totalTickets": 0,
     "remainingTickets": 0,
-    "gameNumber": "2764",
+    "gameNumber": "2798",
     "tiers": [
       {
         "prize": 250000,
@@ -312,7 +312,7 @@
         "total": 1
       }
     ],
-    "imageUrl": "https://static.coloradolottery.com/media/cache/4b/77/4b779cb17534ecedb32c460c3b81f803.jpg"
+    "imageUrl": "https://static.coloradolottery.com/media/cache/29/18/291867bfcc28e2da411320d19aab551e.jpg"
   },
   {
     "name": "MONOPOLY\u2122",
@@ -405,21 +405,6 @@
     "imageUrl": "https://static.coloradolottery.com/media/cache/0f/80/0f80a9ad6e3932393ca7f5b799387ca6.jpg"
   },
   {
-    "name": "Wild Cherry Crossword",
-    "price": 10.0,
-    "totalTickets": 0,
-    "remainingTickets": 0,
-    "gameNumber": "2846",
-    "tiers": [
-      {
-        "prize": 250000,
-        "remaining": 0,
-        "total": 1
-      }
-    ],
-    "imageUrl": "https://static.coloradolottery.com/media/cache/be/2e/be2e19d6702bf8dec1449f9fd3fa7e23.jpg"
-  },
-  {
     "name": "EMERALD 9s",
     "price": 10.0,
     "totalTickets": 0,
@@ -435,11 +420,26 @@
     "imageUrl": "https://static.coloradolottery.com/media/cache/4a/1b/4a1bf32ae8c80390aed21d050a6ecefb.jpg"
   },
   {
-    "name": "$250,000 Extreme Green",
+    "name": "Wild Cherry Crossword",
     "price": 10.0,
     "totalTickets": 0,
     "remainingTickets": 0,
-    "gameNumber": "2798",
+    "gameNumber": "2846",
+    "tiers": [
+      {
+        "prize": 250000,
+        "remaining": 0,
+        "total": 1
+      }
+    ],
+    "imageUrl": "https://static.coloradolottery.com/media/cache/be/2e/be2e19d6702bf8dec1449f9fd3fa7e23.jpg"
+  },
+  {
+    "name": "MONOPOLY\u2122 100X",
+    "price": 10.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "2764",
     "tiers": [
       {
         "prize": 250000,
@@ -447,7 +447,7 @@
         "total": 1
       }
     ],
-    "imageUrl": "https://static.coloradolottery.com/media/cache/29/18/291867bfcc28e2da411320d19aab551e.jpg"
+    "imageUrl": "https://static.coloradolottery.com/media/cache/4b/77/4b779cb17534ecedb32c460c3b81f803.jpg"
   },
   {
     "name": "$250,000 DEUCE$ WILD POKER",
@@ -463,6 +463,36 @@
       }
     ],
     "imageUrl": "https://static.coloradolottery.com/media/cache/14/ea/14ea58470d3bc21b23334d56effb4c7e.jpg"
+  },
+  {
+    "name": "$250,000 Gold Rush",
+    "price": 10.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "2779",
+    "tiers": [
+      {
+        "prize": 250000,
+        "remaining": 2,
+        "total": 2
+      }
+    ],
+    "imageUrl": "https://static.coloradolottery.com/media/cache/99/39/9939cf5f4b6639c57b27f6576cbae3c7.jpg"
+  },
+  {
+    "name": "COLORADO GOLD RUSH",
+    "price": 10.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "2931",
+    "tiers": [
+      {
+        "prize": 250000,
+        "remaining": 2,
+        "total": 2
+      }
+    ],
+    "imageUrl": "https://static.coloradolottery.com/media/cache/91/54/91547a9743519bef7c42e20186123d2b.jpg"
   },
   {
     "name": "$250,000 JUMBO BUCKS CROSSWORD",
@@ -510,36 +540,6 @@
     "imageUrl": "https://static.coloradolottery.com/media/cache/1b/49/1b4977450d9fd7e766c99b0de7097aee.jpg"
   },
   {
-    "name": "$250,000 Gold Rush",
-    "price": 10.0,
-    "totalTickets": 0,
-    "remainingTickets": 0,
-    "gameNumber": "2779",
-    "tiers": [
-      {
-        "prize": 250000,
-        "remaining": 2,
-        "total": 2
-      }
-    ],
-    "imageUrl": "https://static.coloradolottery.com/media/cache/99/39/9939cf5f4b6639c57b27f6576cbae3c7.jpg"
-  },
-  {
-    "name": "100X",
-    "price": 10.0,
-    "totalTickets": 0,
-    "remainingTickets": 0,
-    "gameNumber": "2923",
-    "tiers": [
-      {
-        "prize": 250000,
-        "remaining": 2,
-        "total": 2
-      }
-    ],
-    "imageUrl": "https://static.coloradolottery.com/media/cache/3f/a3/3fa37aab7b6c84bec22c1ced06b88f5a.jpg"
-  },
-  {
     "name": "Best Chance To Win $100,000",
     "price": 10.0,
     "totalTickets": 0,
@@ -585,11 +585,11 @@
     "imageUrl": "https://static.coloradolottery.com/media/cache/5b/7d/5b7de2cd8b31503cd70aa7307c95233f.jpg"
   },
   {
-    "name": "COLORADO GOLD RUSH",
+    "name": "100X",
     "price": 10.0,
     "totalTickets": 0,
     "remainingTickets": 0,
-    "gameNumber": "2931",
+    "gameNumber": "2923",
     "tiers": [
       {
         "prize": 250000,
@@ -597,7 +597,7 @@
         "total": 2
       }
     ],
-    "imageUrl": "https://static.coloradolottery.com/media/cache/91/54/91547a9743519bef7c42e20186123d2b.jpg"
+    "imageUrl": "https://static.coloradolottery.com/media/cache/3f/a3/3fa37aab7b6c84bec22c1ced06b88f5a.jpg"
   },
   {
     "name": "ULTIMATE DASH\u00ae Shopping Spree",
@@ -683,8 +683,8 @@
     "tiers": [
       {
         "prize": 150,
-        "remaining": 319,
-        "total": 319
+        "remaining": 313,
+        "total": 313
       }
     ],
     "imageUrl": "https://static.coloradolottery.com/media/cache/0f/f4/0ff4c049837d0fdf3a89b7b58c8472bb.jpg"
@@ -825,6 +825,21 @@
     "imageUrl": "https://static.coloradolottery.com/media/cache/79/a9/79a99f4cbdf3514d985034af90651d1a.jpg"
   },
   {
+    "name": "RUBY 8s",
+    "price": 5.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "2907",
+    "tiers": [
+      {
+        "prize": 100000,
+        "remaining": 1,
+        "total": 1
+      }
+    ],
+    "imageUrl": "https://static.coloradolottery.com/media/cache/5a/fb/5afb1f8d093d125b4f645598cd6fb988.jpg"
+  },
+  {
     "name": "Decade of Dollars",
     "price": 5.0,
     "totalTickets": 0,
@@ -853,21 +868,6 @@
       }
     ],
     "imageUrl": "https://static.coloradolottery.com/media/cache/f2/ce/f2ceefb59438de237a3f217a49d99b4f.jpg"
-  },
-  {
-    "name": "RUBY 8s",
-    "price": 5.0,
-    "totalTickets": 0,
-    "remainingTickets": 0,
-    "gameNumber": "2907",
-    "tiers": [
-      {
-        "prize": 100000,
-        "remaining": 1,
-        "total": 1
-      }
-    ],
-    "imageUrl": "https://static.coloradolottery.com/media/cache/5a/fb/5afb1f8d093d125b4f645598cd6fb988.jpg"
   },
   {
     "name": "$100,000 Blackjack Tripler",
@@ -930,36 +930,6 @@
     "imageUrl": "https://static.coloradolottery.com/media/cache/76/43/764313642aa3588d9c4de941aa6a15f7.jpg"
   },
   {
-    "name": "30X",
-    "price": 3.0,
-    "totalTickets": 0,
-    "remainingTickets": 0,
-    "gameNumber": "2921",
-    "tiers": [
-      {
-        "prize": 50000,
-        "remaining": 2,
-        "total": 2
-      }
-    ],
-    "imageUrl": "https://static.coloradolottery.com/media/cache/0b/5e/0b5e16c7d3425ddfd12c539851376d37.jpg"
-  },
-  {
-    "name": "LOTERIA\u2122",
-    "price": 3.0,
-    "totalTickets": 0,
-    "remainingTickets": 0,
-    "gameNumber": "2901",
-    "tiers": [
-      {
-        "prize": 30000,
-        "remaining": 0,
-        "total": 1
-      }
-    ],
-    "imageUrl": "https://static.coloradolottery.com/media/cache/eb/21/eb212c072b67ad68f2369e8310d20b59.jpg"
-  },
-  {
     "name": "5 HEARTS",
     "price": 3.0,
     "totalTickets": 0,
@@ -973,36 +943,6 @@
       }
     ],
     "imageUrl": "https://static.coloradolottery.com/media/cache/ab/61/ab61a092e3125c2f213dc6100f4cdbfd.jpg"
-  },
-  {
-    "name": "LUCKY 7s CROSSWORD",
-    "price": 3.0,
-    "totalTickets": 0,
-    "remainingTickets": 0,
-    "gameNumber": "2918",
-    "tiers": [
-      {
-        "prize": 40000,
-        "remaining": 4,
-        "total": 4
-      }
-    ],
-    "imageUrl": "https://static.coloradolottery.com/media/cache/e3/5d/e35d19ce804e1531cf4fe54399430a0b.jpg"
-  },
-  {
-    "name": "WINNING COUNTRY",
-    "price": 3.0,
-    "totalTickets": 0,
-    "remainingTickets": 0,
-    "gameNumber": "2929",
-    "tiers": [
-      {
-        "prize": 30000,
-        "remaining": 2,
-        "total": 2
-      }
-    ],
-    "imageUrl": "https://static.coloradolottery.com/media/cache/33/d5/33d5383b5f0b2108869a46cb23c9d54b.jpg"
   },
   {
     "name": "KA-POW BINGO",
@@ -1033,6 +973,51 @@
       }
     ],
     "imageUrl": "https://static.coloradolottery.com/media/cache/90/1f/901fb3aa9b758dc88d5c2d74581de31d.jpg"
+  },
+  {
+    "name": "LOTERIA\u2122",
+    "price": 3.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "2901",
+    "tiers": [
+      {
+        "prize": 30000,
+        "remaining": 0,
+        "total": 1
+      }
+    ],
+    "imageUrl": "https://static.coloradolottery.com/media/cache/eb/21/eb212c072b67ad68f2369e8310d20b59.jpg"
+  },
+  {
+    "name": "LUCKY 7s CROSSWORD",
+    "price": 3.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "2918",
+    "tiers": [
+      {
+        "prize": 40000,
+        "remaining": 4,
+        "total": 4
+      }
+    ],
+    "imageUrl": "https://static.coloradolottery.com/media/cache/e3/5d/e35d19ce804e1531cf4fe54399430a0b.jpg"
+  },
+  {
+    "name": "WINNING COUNTRY",
+    "price": 3.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "2929",
+    "tiers": [
+      {
+        "prize": 30000,
+        "remaining": 2,
+        "total": 2
+      }
+    ],
+    "imageUrl": "https://static.coloradolottery.com/media/cache/33/d5/33d5383b5f0b2108869a46cb23c9d54b.jpg"
   },
   {
     "name": "Crossword Multiplier",
@@ -1080,6 +1065,21 @@
     "imageUrl": "https://static.coloradolottery.com/media/cache/14/50/14500b696314ec1717370440347094c6.jpg"
   },
   {
+    "name": "30X",
+    "price": 3.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "2921",
+    "tiers": [
+      {
+        "prize": 50000,
+        "remaining": 2,
+        "total": 2
+      }
+    ],
+    "imageUrl": "https://static.coloradolottery.com/media/cache/0b/5e/0b5e16c7d3425ddfd12c539851376d37.jpg"
+  },
+  {
     "name": "Loteria\u2122",
     "price": 3.0,
     "totalTickets": 0,
@@ -1125,34 +1125,19 @@
     "imageUrl": "https://static.coloradolottery.com/media/cache/58/d9/58d96579528f80182efe8088272da3c2.jpg"
   },
   {
-    "name": "20X",
+    "name": "$100 Frenzy",
     "price": 2.0,
     "totalTickets": 0,
     "remainingTickets": 0,
-    "gameNumber": "2920",
+    "gameNumber": "2866",
     "tiers": [
       {
-        "prize": 20000,
-        "remaining": 2,
-        "total": 2
+        "prize": 100,
+        "remaining": 676,
+        "total": 676
       }
     ],
-    "imageUrl": "https://static.coloradolottery.com/media/cache/7a/cb/7acb5a7b892cd871e5ad3e1efba3555a.jpg"
-  },
-  {
-    "name": "TRIPLE Play",
-    "price": 2.0,
-    "totalTickets": 0,
-    "remainingTickets": 0,
-    "gameNumber": "2884",
-    "tiers": [
-      {
-        "prize": 20000,
-        "remaining": 1,
-        "total": 1
-      }
-    ],
-    "imageUrl": "https://static.coloradolottery.com/media/cache/d8/f1/d8f1530ef47b41073325ef26f9353246.jpg"
+    "imageUrl": "https://static.coloradolottery.com/media/cache/8f/3b/8f3bb432d01065ac65391d90497b20f4.jpg"
   },
   {
     "name": "Decade of Dollars",
@@ -1168,51 +1153,6 @@
       }
     ],
     "imageUrl": "https://static.coloradolottery.com/media/cache/16/42/16423f3d1d39ee21cd94d055a2e6dd8c.jpg"
-  },
-  {
-    "name": "SAPPHIRE 7s",
-    "price": 2.0,
-    "totalTickets": 0,
-    "remainingTickets": 0,
-    "gameNumber": "2906",
-    "tiers": [
-      {
-        "prize": 20000,
-        "remaining": 1,
-        "total": 1
-      }
-    ],
-    "imageUrl": "https://static.coloradolottery.com/media/cache/04/0b/040b1691cbe0b02f674415d63cfb86f2.jpg"
-  },
-  {
-    "name": "Super 7-11-21",
-    "price": 2.0,
-    "totalTickets": 0,
-    "remainingTickets": 0,
-    "gameNumber": "2785",
-    "tiers": [
-      {
-        "prize": 42000,
-        "remaining": 1,
-        "total": 1
-      }
-    ],
-    "imageUrl": "https://static.coloradolottery.com/media/cache/eb/18/eb181e46f4049ab1bccc6fa13b0895a5.jpg"
-  },
-  {
-    "name": "$100 Frenzy",
-    "price": 2.0,
-    "totalTickets": 0,
-    "remainingTickets": 0,
-    "gameNumber": "2866",
-    "tiers": [
-      {
-        "prize": 100,
-        "remaining": 677,
-        "total": 677
-      }
-    ],
-    "imageUrl": "https://static.coloradolottery.com/media/cache/8f/3b/8f3bb432d01065ac65391d90497b20f4.jpg"
   },
   {
     "name": "HOLIDAY RICHES",
@@ -1245,6 +1185,66 @@
     "imageUrl": "https://static.coloradolottery.com/media/cache/69/d1/69d1b95050822a454b0d173233d61e1a.jpg"
   },
   {
+    "name": "Super 7-11-21",
+    "price": 2.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "2785",
+    "tiers": [
+      {
+        "prize": 42000,
+        "remaining": 1,
+        "total": 1
+      }
+    ],
+    "imageUrl": "https://static.coloradolottery.com/media/cache/eb/18/eb181e46f4049ab1bccc6fa13b0895a5.jpg"
+  },
+  {
+    "name": "TRIPLE Play",
+    "price": 2.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "2884",
+    "tiers": [
+      {
+        "prize": 20000,
+        "remaining": 1,
+        "total": 1
+      }
+    ],
+    "imageUrl": "https://static.coloradolottery.com/media/cache/d8/f1/d8f1530ef47b41073325ef26f9353246.jpg"
+  },
+  {
+    "name": "20X",
+    "price": 2.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "2920",
+    "tiers": [
+      {
+        "prize": 20000,
+        "remaining": 2,
+        "total": 2
+      }
+    ],
+    "imageUrl": "https://static.coloradolottery.com/media/cache/7a/cb/7acb5a7b892cd871e5ad3e1efba3555a.jpg"
+  },
+  {
+    "name": "SAPPHIRE 7s",
+    "price": 2.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "2906",
+    "tiers": [
+      {
+        "prize": 20000,
+        "remaining": 1,
+        "total": 1
+      }
+    ],
+    "imageUrl": "https://static.coloradolottery.com/media/cache/04/0b/040b1691cbe0b02f674415d63cfb86f2.jpg"
+  },
+  {
     "name": "$50 Frenzy",
     "price": 1.0,
     "totalTickets": 0,
@@ -1258,51 +1258,6 @@
       }
     ],
     "imageUrl": "https://static.coloradolottery.com/media/cache/64/02/64028a5c4f349dcd1d41e3a436478ea6.jpg"
-  },
-  {
-    "name": "Black Cherry Slots",
-    "price": 1.0,
-    "totalTickets": 0,
-    "remainingTickets": 0,
-    "gameNumber": "2888",
-    "tiers": [
-      {
-        "prize": 10000,
-        "remaining": 1,
-        "total": 1
-      }
-    ],
-    "imageUrl": "https://static.coloradolottery.com/media/cache/b8/41/b8414ff317f660b9b0901f1ccf3939c9.jpg"
-  },
-  {
-    "name": "MONOPOLY\u2122",
-    "price": 1.0,
-    "totalTickets": 0,
-    "remainingTickets": 0,
-    "gameNumber": "2870",
-    "tiers": [
-      {
-        "prize": 10000,
-        "remaining": 1,
-        "total": 1
-      }
-    ],
-    "imageUrl": "https://static.coloradolottery.com/media/cache/c2/8a/c28ab8084e7f7bb315637eeb51434b75.jpg"
-  },
-  {
-    "name": "Reindeer Riches",
-    "price": 1.0,
-    "totalTickets": 0,
-    "remainingTickets": 0,
-    "gameNumber": "2894",
-    "tiers": [
-      {
-        "prize": 5000,
-        "remaining": 1,
-        "total": 1
-      }
-    ],
-    "imageUrl": "https://static.coloradolottery.com/media/cache/0e/53/0e5315ed565926c4666b2006fa12078e.jpg"
   },
   {
     "name": "10X\u00ae",
@@ -1335,6 +1290,36 @@
     "imageUrl": "https://static.coloradolottery.com/media/cache/15/af/15afc48ebd34fae5a9e920ec1cff4934.jpg"
   },
   {
+    "name": "Reindeer Riches",
+    "price": 1.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "2894",
+    "tiers": [
+      {
+        "prize": 5000,
+        "remaining": 1,
+        "total": 1
+      }
+    ],
+    "imageUrl": "https://static.coloradolottery.com/media/cache/0e/53/0e5315ed565926c4666b2006fa12078e.jpg"
+  },
+  {
+    "name": "Black Cherry Slots",
+    "price": 1.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "2888",
+    "tiers": [
+      {
+        "prize": 10000,
+        "remaining": 1,
+        "total": 1
+      }
+    ],
+    "imageUrl": "https://static.coloradolottery.com/media/cache/b8/41/b8414ff317f660b9b0901f1ccf3939c9.jpg"
+  },
+  {
     "name": "AMETHYST 6s",
     "price": 1.0,
     "totalTickets": 0,
@@ -1348,5 +1333,20 @@
       }
     ],
     "imageUrl": "https://static.coloradolottery.com/media/cache/08/b1/08b190899bd2e980afded8b60ad1767e.jpg"
+  },
+  {
+    "name": "MONOPOLY\u2122",
+    "price": 1.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "2870",
+    "tiers": [
+      {
+        "prize": 10000,
+        "remaining": 1,
+        "total": 1
+      }
+    ],
+    "imageUrl": "https://static.coloradolottery.com/media/cache/c2/8a/c28ab8084e7f7bb315637eeb51434b75.jpg"
   }
 ]
