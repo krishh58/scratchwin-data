@@ -683,8 +683,8 @@
     "tiers": [
       {
         "prize": 150,
-        "remaining": 302,
-        "total": 302
+        "remaining": 296,
+        "total": 296
       }
     ],
     "imageUrl": "https://static.coloradolottery.com/media/cache/0f/f4/0ff4c049837d0fdf3a89b7b58c8472bb.jpg"
@@ -1125,21 +1125,6 @@
     "imageUrl": "https://static.coloradolottery.com/media/cache/58/d9/58d96579528f80182efe8088272da3c2.jpg"
   },
   {
-    "name": "$100 Frenzy",
-    "price": 2.0,
-    "totalTickets": 0,
-    "remainingTickets": 0,
-    "gameNumber": "2866",
-    "tiers": [
-      {
-        "prize": 100,
-        "remaining": 676,
-        "total": 676
-      }
-    ],
-    "imageUrl": "https://static.coloradolottery.com/media/cache/8f/3b/8f3bb432d01065ac65391d90497b20f4.jpg"
-  },
-  {
     "name": "Decade of Dollars",
     "price": 2.0,
     "totalTickets": 0,
@@ -1153,6 +1138,21 @@
       }
     ],
     "imageUrl": "https://static.coloradolottery.com/media/cache/16/42/16423f3d1d39ee21cd94d055a2e6dd8c.jpg"
+  },
+  {
+    "name": "20X",
+    "price": 2.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "2920",
+    "tiers": [
+      {
+        "prize": 20000,
+        "remaining": 2,
+        "total": 2
+      }
+    ],
+    "imageUrl": "https://static.coloradolottery.com/media/cache/7a/cb/7acb5a7b892cd871e5ad3e1efba3555a.jpg"
   },
   {
     "name": "HOLIDAY RICHES",
@@ -1215,19 +1215,19 @@
     "imageUrl": "https://static.coloradolottery.com/media/cache/d8/f1/d8f1530ef47b41073325ef26f9353246.jpg"
   },
   {
-    "name": "20X",
+    "name": "$100 Frenzy",
     "price": 2.0,
     "totalTickets": 0,
     "remainingTickets": 0,
-    "gameNumber": "2920",
+    "gameNumber": "2866",
     "tiers": [
       {
-        "prize": 20000,
-        "remaining": 2,
-        "total": 2
+        "prize": 100,
+        "remaining": 676,
+        "total": 676
       }
     ],
-    "imageUrl": "https://static.coloradolottery.com/media/cache/7a/cb/7acb5a7b892cd871e5ad3e1efba3555a.jpg"
+    "imageUrl": "https://static.coloradolottery.com/media/cache/8f/3b/8f3bb432d01065ac65391d90497b20f4.jpg"
   },
   {
     "name": "SAPPHIRE 7s",
@@ -1260,21 +1260,6 @@
     "imageUrl": "https://static.coloradolottery.com/media/cache/64/02/64028a5c4f349dcd1d41e3a436478ea6.jpg"
   },
   {
-    "name": "10X\u00ae",
-    "price": 1.0,
-    "totalTickets": 0,
-    "remainingTickets": 0,
-    "gameNumber": "2919",
-    "tiers": [
-      {
-        "prize": 10000,
-        "remaining": 2,
-        "total": 2
-      }
-    ],
-    "imageUrl": "https://static.coloradolottery.com/media/cache/38/cf/38cfa3496b1d73613c0479536bb3d39e.jpg"
-  },
-  {
     "name": "Decade of Dollars",
     "price": 1.0,
     "totalTickets": 0,
@@ -1305,21 +1290,6 @@
     "imageUrl": "https://static.coloradolottery.com/media/cache/0e/53/0e5315ed565926c4666b2006fa12078e.jpg"
   },
   {
-    "name": "Black Cherry Slots",
-    "price": 1.0,
-    "totalTickets": 0,
-    "remainingTickets": 0,
-    "gameNumber": "2888",
-    "tiers": [
-      {
-        "prize": 10000,
-        "remaining": 1,
-        "total": 1
-      }
-    ],
-    "imageUrl": "https://static.coloradolottery.com/media/cache/b8/41/b8414ff317f660b9b0901f1ccf3939c9.jpg"
-  },
-  {
     "name": "AMETHYST 6s",
     "price": 1.0,
     "totalTickets": 0,
@@ -1333,6 +1303,36 @@
       }
     ],
     "imageUrl": "https://static.coloradolottery.com/media/cache/08/b1/08b190899bd2e980afded8b60ad1767e.jpg"
+  },
+  {
+    "name": "10X\u00ae",
+    "price": 1.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "2919",
+    "tiers": [
+      {
+        "prize": 10000,
+        "remaining": 2,
+        "total": 2
+      }
+    ],
+    "imageUrl": "https://static.coloradolottery.com/media/cache/38/cf/38cfa3496b1d73613c0479536bb3d39e.jpg"
+  },
+  {
+    "name": "Black Cherry Slots",
+    "price": 1.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "2888",
+    "tiers": [
+      {
+        "prize": 10000,
+        "remaining": 1,
+        "total": 1
+      }
+    ],
+    "imageUrl": "https://static.coloradolottery.com/media/cache/b8/41/b8414ff317f660b9b0901f1ccf3939c9.jpg"
   },
   {
     "name": "MONOPOLY\u2122",

@@ -1,9 +1,239 @@
 [
   {
+    "name": "$10 Million Cash Blowout 2nd Edition",
+    "price": 10.0,
+    "totalTickets": 1548000,
+    "remainingTickets": 1548000,
+    "gameNumber": "1916",
+    "tiers": [
+      {
+        "prize": 500,
+        "remaining": 1958,
+        "total": 1958
+      },
+      {
+        "prize": 100,
+        "remaining": 40629,
+        "total": 40629
+      },
+      {
+        "prize": 50,
+        "remaining": 123840,
+        "total": 123840
+      }
+    ],
+    "imageUrl": "https://www.ctlottery.org/Content/images/Scratch/1916.jpg"
+  },
+  {
+    "name": "LOTERIA\u2122 2nd Edition",
+    "price": 3.0,
+    "totalTickets": 1045800,
+    "remainingTickets": 1045800,
+    "gameNumber": "1895",
+    "tiers": [
+      {
+        "prize": 30000,
+        "remaining": 3,
+        "total": 3
+      },
+      {
+        "prize": 10000,
+        "remaining": 3,
+        "total": 3
+      },
+      {
+        "prize": 1000,
+        "remaining": 10,
+        "total": 10
+      },
+      {
+        "prize": 500,
+        "remaining": 32,
+        "total": 32
+      },
+      {
+        "prize": 150,
+        "remaining": 206,
+        "total": 206
+      },
+      {
+        "prize": 100,
+        "remaining": 323,
+        "total": 323
+      },
+      {
+        "prize": 70,
+        "remaining": 474,
+        "total": 474
+      },
+      {
+        "prize": 50,
+        "remaining": 1175,
+        "total": 1175
+      },
+      {
+        "prize": 30,
+        "remaining": 1599,
+        "total": 1599
+      },
+      {
+        "prize": 20,
+        "remaining": 10458,
+        "total": 10458
+      },
+      {
+        "prize": 15,
+        "remaining": 10458,
+        "total": 10458
+      },
+      {
+        "prize": 10,
+        "remaining": 31350,
+        "total": 31350
+      },
+      {
+        "prize": 8,
+        "remaining": 41912,
+        "total": 41912
+      },
+      {
+        "prize": 5,
+        "remaining": 83632,
+        "total": 83632
+      },
+      {
+        "prize": 3,
+        "remaining": 94042,
+        "total": 94042
+      }
+    ],
+    "imageUrl": "https://www.ctlottery.org/Content/images/Scratch/1895.jpg"
+  },
+  {
+    "name": "7-11-21 10X",
+    "price": 2.0,
+    "totalTickets": 1517200,
+    "remainingTickets": 1517200,
+    "gameNumber": "1892",
+    "tiers": [
+      {
+        "prize": 10000,
+        "remaining": 4,
+        "total": 4
+      },
+      {
+        "prize": 500,
+        "remaining": 47,
+        "total": 47
+      },
+      {
+        "prize": 100,
+        "remaining": 1512,
+        "total": 1512
+      },
+      {
+        "prize": 50,
+        "remaining": 3953,
+        "total": 3953
+      },
+      {
+        "prize": 20,
+        "remaining": 6064,
+        "total": 6064
+      },
+      {
+        "prize": 10,
+        "remaining": 45493,
+        "total": 45493
+      },
+      {
+        "prize": 5,
+        "remaining": 45516,
+        "total": 45516
+      },
+      {
+        "prize": 4,
+        "remaining": 106214,
+        "total": 106214
+      },
+      {
+        "prize": 2,
+        "remaining": 151863,
+        "total": 151863
+      }
+    ],
+    "imageUrl": "https://www.ctlottery.org/Content/images/Scratch/1892.jpg"
+  },
+  {
+    "name": "Lucky 7 Tripler",
+    "price": 20.0,
+    "totalTickets": 2203500,
+    "remainingTickets": 2203500,
+    "gameNumber": "1887",
+    "tiers": [
+      {
+        "prize": 777777,
+        "remaining": 4,
+        "total": 4
+      },
+      {
+        "prize": 7777,
+        "remaining": 10,
+        "total": 10
+      },
+      {
+        "prize": 777,
+        "remaining": 756,
+        "total": 756
+      },
+      {
+        "prize": 500,
+        "remaining": 3878,
+        "total": 3878
+      },
+      {
+        "prize": 200,
+        "remaining": 9496,
+        "total": 9496
+      },
+      {
+        "prize": 100,
+        "remaining": 35639,
+        "total": 35639
+      },
+      {
+        "prize": 77,
+        "remaining": 9554,
+        "total": 9554
+      },
+      {
+        "prize": 50,
+        "remaining": 102817,
+        "total": 102817
+      },
+      {
+        "prize": 40,
+        "remaining": 132236,
+        "total": 132236
+      },
+      {
+        "prize": 30,
+        "remaining": 190983,
+        "total": 190983
+      },
+      {
+        "prize": 20,
+        "remaining": 220311,
+        "total": 220311
+      }
+    ],
+    "imageUrl": "https://www.ctlottery.org/Content/images/Scratch/1887.jpg"
+  },
+  {
     "name": "$30,000 CA$HWORD 2nd Edition",
     "price": 3.0,
     "totalTickets": 11416200,
-    "remainingTickets": 11388358,
+    "remainingTickets": 11376208,
     "gameNumber": "1853",
     "tiers": [
       {
@@ -18,32 +248,32 @@
       },
       {
         "prize": 100,
-        "remaining": 10303,
+        "remaining": 10297,
         "total": 10331
       },
       {
         "prize": 50,
-        "remaining": 40826,
+        "remaining": 40775,
         "total": 40927
       },
       {
         "prize": 20,
-        "remaining": 313206,
+        "remaining": 312851,
         "total": 313971
       },
       {
         "prize": 10,
-        "remaining": 569334,
+        "remaining": 568709,
         "total": 570744
       },
       {
         "prize": 5,
-        "remaining": 711965,
+        "remaining": 711214,
         "total": 713754
       },
       {
         "prize": 3,
-        "remaining": 1394792,
+        "remaining": 1393336,
         "total": 1398132
       }
     ],
@@ -53,7 +283,7 @@
     "name": "Red Hot 10s",
     "price": 10.0,
     "totalTickets": 2056050,
-    "remainingTickets": 1804238,
+    "remainingTickets": 1795013,
     "gameNumber": "1886",
     "tiers": [
       {
@@ -68,37 +298,37 @@
       },
       {
         "prize": 500,
-        "remaining": 1999,
+        "remaining": 1992,
         "total": 2287
       },
       {
         "prize": 100,
-        "remaining": 17974,
+        "remaining": 17888,
         "total": 20553
       },
       {
         "prize": 50,
-        "remaining": 35983,
+        "remaining": 35785,
         "total": 41121
       },
       {
         "prize": 25,
-        "remaining": 36052,
+        "remaining": 35858,
         "total": 41121
       },
       {
         "prize": 20,
-        "remaining": 108049,
+        "remaining": 107515,
         "total": 123377
       },
       {
         "prize": 15,
-        "remaining": 144365,
+        "remaining": 143627,
         "total": 164484
       },
       {
         "prize": 10,
-        "remaining": 216878,
+        "remaining": 215765,
         "total": 246698
       }
     ],
@@ -108,7 +338,7 @@
     "name": "Fireball 7s",
     "price": 5.0,
     "totalTickets": 2618700,
-    "remainingTickets": 2273080,
+    "remainingTickets": 2260846,
     "gameNumber": "1885",
     "tiers": [
       {
@@ -123,37 +353,37 @@
       },
       {
         "prize": 577,
-        "remaining": 371,
+        "remaining": 370,
         "total": 431
       },
       {
         "prize": 100,
-        "remaining": 3167,
+        "remaining": 3149,
         "total": 3647
       },
       {
         "prize": 57,
-        "remaining": 20365,
+        "remaining": 20255,
         "total": 23606
       },
       {
         "prize": 27,
-        "remaining": 45327,
+        "remaining": 45091,
         "total": 52374
       },
       {
         "prize": 17,
-        "remaining": 90742,
+        "remaining": 90251,
         "total": 104748
       },
       {
         "prize": 10,
-        "remaining": 172659,
+        "remaining": 171711,
         "total": 199043
       },
       {
         "prize": 5,
-        "remaining": 227826,
+        "remaining": 226613,
         "total": 261823
       }
     ],
@@ -163,7 +393,7 @@
     "name": "Hot 7s",
     "price": 1.0,
     "totalTickets": 2258000,
-    "remainingTickets": 1982898,
+    "remainingTickets": 1972577,
     "gameNumber": "1884",
     "tiers": [
       {
@@ -178,37 +408,37 @@
       },
       {
         "prize": 27,
-        "remaining": 2471,
+        "remaining": 2454,
         "total": 2844
       },
       {
         "prize": 17,
-        "remaining": 9833,
+        "remaining": 9787,
         "total": 11290
       },
       {
         "prize": 7,
-        "remaining": 29632,
+        "remaining": 29474,
         "total": 33870
       },
       {
         "prize": 5,
-        "remaining": 29580,
+        "remaining": 29409,
         "total": 33870
       },
       {
         "prize": 3,
-        "remaining": 49500,
+        "remaining": 49214,
         "total": 56450
       },
       {
         "prize": 2,
-        "remaining": 138702,
+        "remaining": 137975,
         "total": 158026
       },
       {
         "prize": 1,
-        "remaining": 188966,
+        "remaining": 188034,
         "total": 214578
       }
     ],
@@ -218,7 +448,7 @@
     "name": "America 250 Connecticut",
     "price": 5.0,
     "totalTickets": 1024400,
-    "remainingTickets": 597126,
+    "remainingTickets": 588397,
     "gameNumber": "1893",
     "tiers": [
       {
@@ -233,37 +463,37 @@
       },
       {
         "prize": 250,
-        "remaining": 2013,
+        "remaining": 1980,
         "total": 3477
       },
       {
         "prize": 100,
-        "remaining": 683,
+        "remaining": 671,
         "total": 1241
       },
       {
         "prize": 50,
-        "remaining": 934,
+        "remaining": 928,
         "total": 1636
       },
       {
         "prize": 20,
-        "remaining": 11684,
+        "remaining": 11530,
         "total": 20488
       },
       {
         "prize": 15,
-        "remaining": 17743,
+        "remaining": 17482,
         "total": 30732
       },
       {
         "prize": 10,
-        "remaining": 53562,
+        "remaining": 52785,
         "total": 92217
       },
       {
         "prize": 5,
-        "remaining": 60385,
+        "remaining": 59479,
         "total": 102398
       }
     ],
@@ -273,7 +503,7 @@
     "name": "$250,000 CA$HWORD 2nd EDITION",
     "price": 20.0,
     "totalTickets": 3139650,
-    "remainingTickets": 2920708,
+    "remainingTickets": 2914556,
     "gameNumber": "1879",
     "tiers": [
       {
@@ -288,47 +518,47 @@
       },
       {
         "prize": 1000,
-        "remaining": 945,
+        "remaining": 944,
         "total": 1005
       },
       {
         "prize": 500,
-        "remaining": 3880,
+        "remaining": 3873,
         "total": 4180
       },
       {
         "prize": 200,
-        "remaining": 10215,
+        "remaining": 10195,
         "total": 10995
       },
       {
         "prize": 100,
-        "remaining": 31061,
+        "remaining": 31002,
         "total": 33395
       },
       {
         "prize": 80,
-        "remaining": 43836,
+        "remaining": 43740,
         "total": 47148
       },
       {
         "prize": 60,
-        "remaining": 136235,
+        "remaining": 135938,
         "total": 146472
       },
       {
         "prize": 40,
-        "remaining": 175183,
+        "remaining": 174825,
         "total": 188404
       },
       {
         "prize": 30,
-        "remaining": 194622,
+        "remaining": 194218,
         "total": 209310
       },
       {
         "prize": 20,
-        "remaining": 428563,
+        "remaining": 427647,
         "total": 460432
       }
     ],
@@ -338,42 +568,42 @@
     "name": "Hit $50 2nd Edition",
     "price": 1.0,
     "totalTickets": 1571600,
-    "remainingTickets": 1295171,
+    "remainingTickets": 1290909,
     "gameNumber": "1880",
     "tiers": [
       {
         "prize": 50,
-        "remaining": 6703,
+        "remaining": 6688,
         "total": 8290
       },
       {
         "prize": 20,
-        "remaining": 1674,
+        "remaining": 1669,
         "total": 2056
       },
       {
         "prize": 10,
-        "remaining": 6405,
+        "remaining": 6382,
         "total": 7858
       },
       {
         "prize": 5,
-        "remaining": 11223,
+        "remaining": 11181,
         "total": 13739
       },
       {
         "prize": 4,
-        "remaining": 9639,
+        "remaining": 9609,
         "total": 11788
       },
       {
         "prize": 2,
-        "remaining": 77603,
+        "remaining": 77347,
         "total": 94320
       },
       {
         "prize": 1,
-        "remaining": 121954,
+        "remaining": 121551,
         "total": 147349
       }
     ],
@@ -383,7 +613,7 @@
     "name": "3X the Cash 13th Edition",
     "price": 3.0,
     "totalTickets": 5246700,
-    "remainingTickets": 4739009,
+    "remainingTickets": 4731760,
     "gameNumber": "1883",
     "tiers": [
       {
@@ -398,320 +628,45 @@
       },
       {
         "prize": 540,
-        "remaining": 504,
+        "remaining": 503,
         "total": 560
       },
       {
         "prize": 270,
-        "remaining": 1686,
+        "remaining": 1684,
         "total": 1894
       },
       {
         "prize": 90,
-        "remaining": 5995,
+        "remaining": 5985,
         "total": 6624
       },
       {
         "prize": 54,
-        "remaining": 25490,
+        "remaining": 25447,
         "total": 28359
       },
       {
         "prize": 18,
-        "remaining": 81035,
+        "remaining": 80914,
         "total": 89984
       },
       {
         "prize": 9,
-        "remaining": 47282,
+        "remaining": 47219,
         "total": 52467
       },
       {
         "prize": 6,
-        "remaining": 343119,
+        "remaining": 342598,
         "total": 380340
       },
       {
         "prize": 3,
-        "remaining": 759133,
+        "remaining": 757960,
         "total": 839459
       }
     ],
     "imageUrl": "https://www.ctlottery.org/Content/images/Scratch/1883.jpg"
-  },
-  {
-    "name": "20X Cash 10th Edition",
-    "price": 20.0,
-    "totalTickets": 2831940,
-    "remainingTickets": 2447339,
-    "gameNumber": "1813",
-    "tiers": [
-      {
-        "prize": 20000,
-        "remaining": 129,
-        "total": 147
-      },
-      {
-        "prize": 10000,
-        "remaining": 28,
-        "total": 32
-      },
-      {
-        "prize": 1000,
-        "remaining": 330,
-        "total": 380
-      },
-      {
-        "prize": 500,
-        "remaining": 1737,
-        "total": 2008
-      },
-      {
-        "prize": 400,
-        "remaining": 4908,
-        "total": 5680
-      },
-      {
-        "prize": 200,
-        "remaining": 48016,
-        "total": 55536
-      },
-      {
-        "prize": 100,
-        "remaining": 54697,
-        "total": 63381
-      },
-      {
-        "prize": 50,
-        "remaining": 48875,
-        "total": 56632
-      },
-      {
-        "prize": 40,
-        "remaining": 48906,
-        "total": 56587
-      },
-      {
-        "prize": 25,
-        "remaining": 195822,
-        "total": 226665
-      },
-      {
-        "prize": 20,
-        "remaining": 195952,
-        "total": 226548
-      }
-    ],
-    "imageUrl": "https://www.ctlottery.org/Content/images/Scratch/1813.jpg"
-  },
-  {
-    "name": "EXTREME GREEN",
-    "price": 5.0,
-    "totalTickets": 2037400,
-    "remainingTickets": 1285602,
-    "gameNumber": "1877",
-    "tiers": [
-      {
-        "prize": 50000,
-        "remaining": 2,
-        "total": 4
-      },
-      {
-        "prize": 1000,
-        "remaining": 66,
-        "total": 102
-      },
-      {
-        "prize": 500,
-        "remaining": 320,
-        "total": 514
-      },
-      {
-        "prize": 100,
-        "remaining": 4582,
-        "total": 7367
-      },
-      {
-        "prize": 50,
-        "remaining": 4472,
-        "total": 7186
-      },
-      {
-        "prize": 40,
-        "remaining": 9250,
-        "total": 14888
-      },
-      {
-        "prize": 30,
-        "remaining": 7239,
-        "total": 11594
-      },
-      {
-        "prize": 20,
-        "remaining": 38262,
-        "total": 61122
-      },
-      {
-        "prize": 15,
-        "remaining": 38285,
-        "total": 61122
-      },
-      {
-        "prize": 10,
-        "remaining": 76938,
-        "total": 122228
-      },
-      {
-        "prize": 5,
-        "remaining": 129711,
-        "total": 203772
-      }
-    ],
-    "imageUrl": "https://www.ctlottery.org/Content/images/Scratch/1877.jpg"
-  },
-  {
-    "name": "DIAMOND BINGO",
-    "price": 3.0,
-    "totalTickets": 1571900,
-    "remainingTickets": 1082016,
-    "gameNumber": "1868",
-    "tiers": [
-      {
-        "prize": 30000,
-        "remaining": 2,
-        "total": 4
-      },
-      {
-        "prize": 1000,
-        "remaining": 12,
-        "total": 16
-      },
-      {
-        "prize": 300,
-        "remaining": 100,
-        "total": 159
-      },
-      {
-        "prize": 100,
-        "remaining": 325,
-        "total": 473
-      },
-      {
-        "prize": 60,
-        "remaining": 538,
-        "total": 790
-      },
-      {
-        "prize": 50,
-        "remaining": 628,
-        "total": 944
-      },
-      {
-        "prize": 30,
-        "remaining": 3260,
-        "total": 4722
-      },
-      {
-        "prize": 25,
-        "remaining": 10610,
-        "total": 15768
-      },
-      {
-        "prize": 20,
-        "remaining": 10619,
-        "total": 15670
-      },
-      {
-        "prize": 15,
-        "remaining": 10749,
-        "total": 15719
-      },
-      {
-        "prize": 10,
-        "remaining": 16204,
-        "total": 23554
-      },
-      {
-        "prize": 6,
-        "remaining": 119476,
-        "total": 172909
-      },
-      {
-        "prize": 3,
-        "remaining": 97447,
-        "total": 141471
-      }
-    ],
-    "imageUrl": "https://www.ctlottery.org/Content/images/Scratch/1868.jpg"
-  },
-  {
-    "name": "Fabulous Fortune",
-    "price": 30.0,
-    "totalTickets": 2088960,
-    "remainingTickets": 1697466,
-    "gameNumber": "1860",
-    "tiers": [
-      {
-        "prize": 2000000,
-        "remaining": 2,
-        "total": 3
-      },
-      {
-        "prize": 100000,
-        "remaining": 3,
-        "total": 4
-      },
-      {
-        "prize": 30000,
-        "remaining": 4,
-        "total": 6
-      },
-      {
-        "prize": 10000,
-        "remaining": 6,
-        "total": 8
-      },
-      {
-        "prize": 3000,
-        "remaining": 103,
-        "total": 126
-      },
-      {
-        "prize": 1000,
-        "remaining": 416,
-        "total": 521
-      },
-      {
-        "prize": 500,
-        "remaining": 3732,
-        "total": 4608
-      },
-      {
-        "prize": 300,
-        "remaining": 12112,
-        "total": 14888
-      },
-      {
-        "prize": 150,
-        "remaining": 17001,
-        "total": 20900
-      },
-      {
-        "prize": 100,
-        "remaining": 84855,
-        "total": 104448
-      },
-      {
-        "prize": 60,
-        "remaining": 106014,
-        "total": 130556
-      },
-      {
-        "prize": 40,
-        "remaining": 254702,
-        "total": 313344
-      }
-    ],
-    "imageUrl": "https://www.ctlottery.org/Content/images/Scratch/1860.jpg"
   }
 ]
