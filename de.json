@@ -30,6 +30,21 @@
     "imageUrl": "https://www.delottery.com/Content/images/instant-lottery/DE508CVV8.jpg"
   },
   {
+    "name": "Cash Smash",
+    "price": 1.0,
+    "totalTickets": 36923,
+    "remainingTickets": 36923,
+    "gameNumber": "507",
+    "tiers": [
+      {
+        "prize": 3000,
+        "remaining": 8,
+        "total": 8
+      }
+    ],
+    "imageUrl": "https://www.delottery.com/Content/images/instant-lottery/DE507CVV6.jpg"
+  },
+  {
     "name": "Aces High",
     "price": 1.0,
     "totalTickets": 15384,
@@ -43,6 +58,21 @@
       }
     ],
     "imageUrl": "https://www.delottery.com/Content/images/instant-lottery/D500CVV4.jpg"
+  },
+  {
+    "name": "777",
+    "price": 2.0,
+    "totalTickets": 13461,
+    "remainingTickets": 13461,
+    "gameNumber": "517",
+    "tiers": [
+      {
+        "prize": 2500,
+        "remaining": 7,
+        "total": 7
+      }
+    ],
+    "imageUrl": "https://www.delottery.com/Content/images/instant-lottery/DE517CVv6.jpg"
   },
   {
     "name": "MONOPOLY 10X",
@@ -88,6 +118,36 @@
       }
     ],
     "imageUrl": "https://www.delottery.com/Content/images/instant-lottery/DE483CVV9-S1.jpg"
+  },
+  {
+    "name": "Deluxe Bucks",
+    "price": 5.0,
+    "totalTickets": 18461,
+    "remainingTickets": 18461,
+    "gameNumber": "531",
+    "tiers": [
+      {
+        "prize": 12000,
+        "remaining": 5,
+        "total": 5
+      }
+    ],
+    "imageUrl": "https://www.delottery.com/Content/images/instant-lottery/DE531CVv4.jpg"
+  },
+  {
+    "name": "7",
+    "price": 5.0,
+    "totalTickets": 26322,
+    "remainingTickets": 26322,
+    "gameNumber": "519",
+    "tiers": [
+      {
+        "prize": 7777,
+        "remaining": 11,
+        "total": 11
+      }
+    ],
+    "imageUrl": "https://www.delottery.com/Content/images/instant-lottery/DE519CV1v5.jpg"
   },
   {
     "name": "CROSSWORD X-TRA 7S",
@@ -252,6 +312,20 @@
       }
     ],
     "imageUrl": "https://www.delottery.com/Content/images/instant-lottery/DE515CVv7.jpg"
+  },
+  {
+    "name": "3 for $10",
+    "price": 10.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "504",
+    "tiers": [
+      {
+        "prize": 40000,
+        "remaining": 0,
+        "total": 0
+      }
+    ]
   },
   {
     "name": "$50 & $100",
