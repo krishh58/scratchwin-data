@@ -1,6 +1,211 @@
 [
   {
     "name": "Top line",
+    "price": 1.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "561",
+    "tiers": [
+      {
+        "prize": 2500,
+        "remaining": 7,
+        "total": 7
+      },
+      {
+        "prize": 1000,
+        "remaining": 10,
+        "total": 10
+      },
+      {
+        "prize": 500,
+        "remaining": 15,
+        "total": 15
+      },
+      {
+        "prize": 100,
+        "remaining": 1922,
+        "total": 1923
+      },
+      {
+        "prize": 50,
+        "remaining": 26006,
+        "total": 26036
+      },
+      {
+        "prize": 15,
+        "remaining": 23623,
+        "total": 23650
+      },
+      {
+        "prize": 10,
+        "remaining": 41307,
+        "total": 41355
+      },
+      {
+        "prize": 5,
+        "remaining": 47295,
+        "total": 47346
+      },
+      {
+        "prize": 4,
+        "remaining": 165422,
+        "total": 165588
+      },
+      {
+        "prize": 2,
+        "remaining": 354360,
+        "total": 354712
+      },
+      {
+        "prize": 1,
+        "remaining": 815146,
+        "total": 815944
+      }
+    ],
+    "imageUrl": "https://www.molottery.com/media/scratchers/tile/561.png"
+  },
+  {
+    "name": "Top line",
+    "price": 20.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "563",
+    "tiers": [
+      {
+        "prize": 2000000,
+        "remaining": 2,
+        "total": 2
+      },
+      {
+        "prize": 100000,
+        "remaining": 4,
+        "total": 4
+      },
+      {
+        "prize": 20000,
+        "remaining": 5,
+        "total": 5
+      },
+      {
+        "prize": 10000,
+        "remaining": 11,
+        "total": 11
+      },
+      {
+        "prize": 5000,
+        "remaining": 25,
+        "total": 25
+      },
+      {
+        "prize": 1000,
+        "remaining": 1078,
+        "total": 1078
+      },
+      {
+        "prize": 500,
+        "remaining": 4427,
+        "total": 4428
+      },
+      {
+        "prize": 200,
+        "remaining": 7478,
+        "total": 7480
+      },
+      {
+        "prize": 100,
+        "remaining": 117552,
+        "total": 117581
+      },
+      {
+        "prize": 50,
+        "remaining": 139187,
+        "total": 139216
+      },
+      {
+        "prize": 40,
+        "remaining": 324270,
+        "total": 324342
+      },
+      {
+        "prize": 20,
+        "remaining": 459312,
+        "total": 459414
+      }
+    ],
+    "imageUrl": "https://www.molottery.com/media/scratchers/tile/563.png"
+  },
+  {
+    "name": "Top line",
+    "price": 5.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "567",
+    "tiers": [
+      {
+        "prize": 100000,
+        "remaining": 3,
+        "total": 3
+      },
+      {
+        "prize": 20000,
+        "remaining": 4,
+        "total": 4
+      },
+      {
+        "prize": 5000,
+        "remaining": 16,
+        "total": 16
+      },
+      {
+        "prize": 1000,
+        "remaining": 65,
+        "total": 65
+      },
+      {
+        "prize": 500,
+        "remaining": 115,
+        "total": 115
+      },
+      {
+        "prize": 100,
+        "remaining": 13434,
+        "total": 13445
+      },
+      {
+        "prize": 50,
+        "remaining": 32383,
+        "total": 32418
+      },
+      {
+        "prize": 30,
+        "remaining": 16045,
+        "total": 16059
+      },
+      {
+        "prize": 25,
+        "remaining": 53814,
+        "total": 53864
+      },
+      {
+        "prize": 15,
+        "remaining": 107625,
+        "total": 107728
+      },
+      {
+        "prize": 10,
+        "remaining": 215268,
+        "total": 215456
+      },
+      {
+        "prize": 5,
+        "remaining": 376719,
+        "total": 377048
+      }
+    ],
+    "imageUrl": "https://www.molottery.com/media/scratchers/tile/567.png"
+  },
+  {
+    "name": "Top line",
     "price": 30.0,
     "totalTickets": 0,
     "remainingTickets": 0,
@@ -38,37 +243,37 @@
       },
       {
         "prize": 500,
-        "remaining": 8981,
+        "remaining": 8978,
         "total": 9000
       },
       {
         "prize": 300,
-        "remaining": 17972,
+        "remaining": 17962,
         "total": 18000
       },
       {
         "prize": 200,
-        "remaining": 53896,
+        "remaining": 53871,
         "total": 54000
       },
       {
         "prize": 100,
-        "remaining": 215612,
+        "remaining": 215483,
         "total": 216000
       },
       {
         "prize": 60,
-        "remaining": 344981,
+        "remaining": 344792,
         "total": 345600
       },
       {
         "prize": 50,
-        "remaining": 344982,
+        "remaining": 344783,
         "total": 345600
       },
       {
         "prize": 30,
-        "remaining": 431248,
+        "remaining": 430999,
         "total": 432000
       }
     ],
@@ -103,111 +308,51 @@
       },
       {
         "prize": 500,
-        "remaining": 1333,
+        "remaining": 1325,
         "total": 1618
       },
       {
         "prize": 200,
-        "remaining": 3731,
+        "remaining": 3712,
         "total": 4576
       },
       {
         "prize": 100,
-        "remaining": 57197,
+        "remaining": 56912,
         "total": 69600
       },
       {
         "prize": 50,
-        "remaining": 62734,
+        "remaining": 62419,
         "total": 76403
       },
       {
         "prize": 30,
-        "remaining": 39388,
+        "remaining": 39191,
         "total": 47797
       },
       {
         "prize": 25,
-        "remaining": 62985,
+        "remaining": 62662,
         "total": 76403
       },
       {
         "prize": 20,
-        "remaining": 251995,
+        "remaining": 250738,
         "total": 305612
       },
       {
         "prize": 15,
-        "remaining": 189398,
+        "remaining": 188499,
         "total": 229209
       },
       {
         "prize": 10,
-        "remaining": 505963,
+        "remaining": 503521,
         "total": 611224
       }
     ],
     "imageUrl": "https://www.molottery.com/media/scratchers/tile/548.png"
-  },
-  {
-    "name": "Top line",
-    "price": 5.0,
-    "totalTickets": 0,
-    "remainingTickets": 0,
-    "gameNumber": "562",
-    "tiers": [
-      {
-        "prize": 100000,
-        "remaining": 4,
-        "total": 5
-      },
-      {
-        "prize": 20000,
-        "remaining": 2,
-        "total": 3
-      },
-      {
-        "prize": 5000,
-        "remaining": 4,
-        "total": 6
-      },
-      {
-        "prize": 500,
-        "remaining": 2502,
-        "total": 3384
-      },
-      {
-        "prize": 100,
-        "remaining": 11036,
-        "total": 14988
-      },
-      {
-        "prize": 40,
-        "remaining": 26901,
-        "total": 36314
-      },
-      {
-        "prize": 20,
-        "remaining": 51347,
-        "total": 68993
-      },
-      {
-        "prize": 15,
-        "remaining": 154154,
-        "total": 206885
-      },
-      {
-        "prize": 10,
-        "remaining": 154849,
-        "total": 207073
-      },
-      {
-        "prize": 5,
-        "remaining": 366164,
-        "total": 483045
-      }
-    ],
-    "imageUrl": "https://www.molottery.com/media/scratchers/tile/562.png"
   },
   {
     "name": "Top line",
@@ -233,46 +378,106 @@
       },
       {
         "prize": 500,
-        "remaining": 677,
+        "remaining": 676,
         "total": 891
       },
       {
         "prize": 100,
-        "remaining": 5448,
+        "remaining": 5401,
         "total": 7165
       },
       {
         "prize": 50,
-        "remaining": 11140,
+        "remaining": 11062,
         "total": 14511
       },
       {
         "prize": 20,
-        "remaining": 27553,
+        "remaining": 27348,
         "total": 35735
       },
       {
         "prize": 10,
-        "remaining": 83280,
+        "remaining": 82713,
         "total": 107205
       },
       {
         "prize": 5,
-        "remaining": 83181,
+        "remaining": 82603,
         "total": 107205
       },
       {
         "prize": 4,
-        "remaining": 305667,
+        "remaining": 303563,
         "total": 393120
       },
       {
         "prize": 2,
-        "remaining": 421855,
+        "remaining": 419004,
         "total": 535955
       }
     ],
     "imageUrl": "https://www.molottery.com/media/scratchers/tile/564.png"
+  },
+  {
+    "name": "Top line",
+    "price": 5.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "562",
+    "tiers": [
+      {
+        "prize": 100000,
+        "remaining": 4,
+        "total": 5
+      },
+      {
+        "prize": 20000,
+        "remaining": 2,
+        "total": 3
+      },
+      {
+        "prize": 5000,
+        "remaining": 4,
+        "total": 6
+      },
+      {
+        "prize": 500,
+        "remaining": 2491,
+        "total": 3384
+      },
+      {
+        "prize": 100,
+        "remaining": 10946,
+        "total": 14988
+      },
+      {
+        "prize": 40,
+        "remaining": 26690,
+        "total": 36314
+      },
+      {
+        "prize": 20,
+        "remaining": 50925,
+        "total": 68993
+      },
+      {
+        "prize": 15,
+        "remaining": 152957,
+        "total": 206885
+      },
+      {
+        "prize": 10,
+        "remaining": 153668,
+        "total": 207073
+      },
+      {
+        "prize": 5,
+        "remaining": 363435,
+        "total": 483045
+      }
+    ],
+    "imageUrl": "https://www.molottery.com/media/scratchers/tile/562.png"
   },
   {
     "name": "Top line",
@@ -313,32 +518,32 @@
       },
       {
         "prize": 500,
-        "remaining": 1404,
+        "remaining": 1399,
         "total": 1806
       },
       {
         "prize": 200,
-        "remaining": 4253,
+        "remaining": 4240,
         "total": 5458
       },
       {
         "prize": 100,
-        "remaining": 106001,
+        "remaining": 105649,
         "total": 136475
       },
       {
         "prize": 50,
-        "remaining": 109285,
+        "remaining": 108923,
         "total": 140460
       },
       {
         "prize": 40,
-        "remaining": 254858,
+        "remaining": 254066,
         "total": 327381
       },
       {
         "prize": 20,
-        "remaining": 361969,
+        "remaining": 360874,
         "total": 463855
       }
     ],
@@ -378,42 +583,42 @@
       },
       {
         "prize": 200,
-        "remaining": 464,
+        "remaining": 459,
         "total": 701
       },
       {
         "prize": 100,
-        "remaining": 8902,
+        "remaining": 8851,
         "total": 13455
       },
       {
         "prize": 75,
-        "remaining": 1814,
+        "remaining": 1804,
         "total": 2802
       },
       {
         "prize": 50,
-        "remaining": 6973,
+        "remaining": 6923,
         "total": 10486
       },
       {
         "prize": 40,
-        "remaining": 22724,
+        "remaining": 22600,
         "total": 34931
       },
       {
         "prize": 25,
-        "remaining": 23142,
+        "remaining": 23028,
         "total": 34764
       },
       {
         "prize": 20,
-        "remaining": 68989,
+        "remaining": 68645,
         "total": 104585
       },
       {
         "prize": 10,
-        "remaining": 440820,
+        "remaining": 438622,
         "total": 661975
       }
     ],
@@ -443,42 +648,42 @@
       },
       {
         "prize": 500,
-        "remaining": 449,
+        "remaining": 448,
         "total": 908
       },
       {
         "prize": 100,
-        "remaining": 3562,
+        "remaining": 3543,
         "total": 7077
       },
       {
         "prize": 50,
-        "remaining": 7267,
+        "remaining": 7226,
         "total": 14424
       },
       {
         "prize": 20,
-        "remaining": 18094,
+        "remaining": 17987,
         "total": 35400
       },
       {
         "prize": 10,
-        "remaining": 54641,
+        "remaining": 54339,
         "total": 106200
       },
       {
         "prize": 5,
-        "remaining": 55784,
+        "remaining": 55523,
         "total": 106200
       },
       {
         "prize": 4,
-        "remaining": 207011,
+        "remaining": 205953,
         "total": 389398
       },
       {
         "prize": 2,
-        "remaining": 287298,
+        "remaining": 285928,
         "total": 531004
       }
     ],
@@ -513,42 +718,42 @@
       },
       {
         "prize": 250,
-        "remaining": 6260,
+        "remaining": 6248,
         "total": 10455
       },
       {
         "prize": 100,
-        "remaining": 48350,
+        "remaining": 48182,
         "total": 80893
       },
       {
         "prize": 50,
-        "remaining": 49938,
+        "remaining": 49775,
         "total": 83504
       },
       {
         "prize": 30,
-        "remaining": 25103,
+        "remaining": 25036,
         "total": 41833
       },
       {
         "prize": 25,
-        "remaining": 28484,
+        "remaining": 28386,
         "total": 47335
       },
       {
         "prize": 20,
-        "remaining": 201301,
+        "remaining": 200579,
         "total": 334016
       },
       {
         "prize": 15,
-        "remaining": 151789,
+        "remaining": 151321,
         "total": 250512
       },
       {
         "prize": 10,
-        "remaining": 406600,
+        "remaining": 405175,
         "total": 668032
       }
     ],
@@ -583,57 +788,57 @@
       },
       {
         "prize": 500,
-        "remaining": 105,
+        "remaining": 104,
         "total": 184
       },
       {
         "prize": 200,
-        "remaining": 551,
+        "remaining": 550,
         "total": 911
       },
       {
         "prize": 100,
-        "remaining": 12215,
+        "remaining": 12158,
         "total": 20555
       },
       {
         "prize": 75,
-        "remaining": 2178,
+        "remaining": 2167,
         "total": 3690
       },
       {
         "prize": 50,
-        "remaining": 8269,
+        "remaining": 8234,
         "total": 13880
       },
       {
         "prize": 40,
-        "remaining": 27588,
+        "remaining": 27467,
         "total": 46208
       },
       {
         "prize": 25,
-        "remaining": 20161,
+        "remaining": 20081,
         "total": 33429
       },
       {
         "prize": 20,
-        "remaining": 41592,
+        "remaining": 41422,
         "total": 69059
       },
       {
         "prize": 15,
-        "remaining": 166011,
+        "remaining": 165305,
         "total": 276485
       },
       {
         "prize": 10,
-        "remaining": 167486,
+        "remaining": 166788,
         "total": 276386
       },
       {
         "prize": 5,
-        "remaining": 400855,
+        "remaining": 399345,
         "total": 644812
       }
     ],
@@ -663,62 +868,62 @@
       },
       {
         "prize": 500,
-        "remaining": 18,
+        "remaining": 17,
         "total": 48
       },
       {
         "prize": 100,
-        "remaining": 797,
+        "remaining": 792,
         "total": 2051
       },
       {
         "prize": 50,
-        "remaining": 1902,
+        "remaining": 1876,
         "total": 4743
       },
       {
         "prize": 30,
-        "remaining": 4591,
+        "remaining": 4528,
         "total": 11277
       },
       {
         "prize": 25,
-        "remaining": 10968,
+        "remaining": 10812,
         "total": 27129
       },
       {
         "prize": 10,
-        "remaining": 36665,
+        "remaining": 36150,
         "total": 88176
       },
       {
         "prize": 7,
-        "remaining": 22952,
+        "remaining": 22656,
         "total": 54258
       },
       {
         "prize": 5,
-        "remaining": 46266,
+        "remaining": 45671,
         "total": 108516
       },
       {
         "prize": 4,
-        "remaining": 23437,
+        "remaining": 23165,
         "total": 54260
       },
       {
         "prize": 3,
-        "remaining": 23624,
+        "remaining": 23334,
         "total": 54216
       },
       {
         "prize": 2,
-        "remaining": 169588,
+        "remaining": 167599,
         "total": 379830
       },
       {
         "prize": 1,
-        "remaining": 432238,
+        "remaining": 427428,
         "total": 935953
       }
     ],
@@ -773,97 +978,97 @@
       },
       {
         "prize": 505,
-        "remaining": 198,
+        "remaining": 197,
         "total": 322
       },
       {
         "prize": 500,
-        "remaining": 137,
+        "remaining": 135,
         "total": 219
       },
       {
         "prize": 205,
-        "remaining": 376,
+        "remaining": 375,
         "total": 584
       },
       {
         "prize": 200,
-        "remaining": 412,
+        "remaining": 410,
         "total": 648
       },
       {
         "prize": 180,
-        "remaining": 459,
+        "remaining": 458,
         "total": 723
       },
       {
         "prize": 125,
-        "remaining": 918,
+        "remaining": 913,
         "total": 1440
       },
       {
         "prize": 105,
-        "remaining": 2241,
+        "remaining": 2235,
         "total": 3552
       },
       {
         "prize": 100,
-        "remaining": 2218,
+        "remaining": 2210,
         "total": 3582
       },
       {
         "prize": 80,
-        "remaining": 458,
+        "remaining": 457,
         "total": 724
       },
       {
         "prize": 75,
-        "remaining": 877,
+        "remaining": 873,
         "total": 1419
       },
       {
         "prize": 60,
-        "remaining": 4520,
+        "remaining": 4504,
         "total": 7167
       },
       {
         "prize": 55,
-        "remaining": 2284,
+        "remaining": 2275,
         "total": 3578
       },
       {
         "prize": 50,
-        "remaining": 16629,
+        "remaining": 16571,
         "total": 26413
       },
       {
         "prize": 30,
-        "remaining": 7293,
+        "remaining": 7267,
         "total": 11389
       },
       {
         "prize": 25,
-        "remaining": 37418,
+        "remaining": 37274,
         "total": 58829
       },
       {
         "prize": 20,
-        "remaining": 57435,
+        "remaining": 57217,
         "total": 89099
       },
       {
         "prize": 15,
-        "remaining": 34843,
+        "remaining": 34726,
         "total": 53467
       },
       {
         "prize": 10,
-        "remaining": 220078,
+        "remaining": 219307,
         "total": 338575
       },
       {
         "prize": 5,
-        "remaining": 337875,
+        "remaining": 336671,
         "total": 516773
       }
     ],
@@ -878,42 +1083,42 @@
     "tiers": [
       {
         "prize": 500,
-        "remaining": 483,
+        "remaining": 478,
         "total": 2275
       },
       {
         "prize": 100,
-        "remaining": 646,
+        "remaining": 642,
         "total": 2987
       },
       {
         "prize": 75,
-        "remaining": 1198,
+        "remaining": 1185,
         "total": 5686
       },
       {
         "prize": 50,
-        "remaining": 3963,
+        "remaining": 3915,
         "total": 18894
       },
       {
         "prize": 25,
-        "remaining": 8186,
+        "remaining": 8129,
         "total": 37789
       },
       {
         "prize": 15,
-        "remaining": 8349,
+        "remaining": 8298,
         "total": 37789
       },
       {
         "prize": 10,
-        "remaining": 52049,
+        "remaining": 51554,
         "total": 226779
       },
       {
         "prize": 5,
-        "remaining": 57056,
+        "remaining": 56631,
         "total": 226644
       }
     ],
@@ -948,37 +1153,37 @@
       },
       {
         "prize": 500,
-        "remaining": 1090,
+        "remaining": 1084,
         "total": 1498
       },
       {
         "prize": 200,
-        "remaining": 3149,
+        "remaining": 3137,
         "total": 4284
       },
       {
         "prize": 100,
-        "remaining": 52348,
+        "remaining": 52235,
         "total": 71307
       },
       {
         "prize": 50,
-        "remaining": 52306,
+        "remaining": 52193,
         "total": 71307
       },
       {
         "prize": 30,
-        "remaining": 60366,
+        "remaining": 60225,
         "total": 82007
       },
       {
         "prize": 20,
-        "remaining": 276554,
+        "remaining": 275964,
         "total": 374368
       },
       {
         "prize": 10,
-        "remaining": 535359,
+        "remaining": 534207,
         "total": 713101
       }
     ],
@@ -1003,47 +1208,47 @@
       },
       {
         "prize": 500,
-        "remaining": 8,
+        "remaining": 7,
         "total": 17
       },
       {
         "prize": 100,
-        "remaining": 1041,
+        "remaining": 1034,
         "total": 2116
       },
       {
         "prize": 40,
-        "remaining": 15022,
+        "remaining": 14917,
         "total": 30932
       },
       {
         "prize": 20,
-        "remaining": 13727,
+        "remaining": 13640,
         "total": 28102
       },
       {
         "prize": 10,
-        "remaining": 34817,
+        "remaining": 34584,
         "total": 70238
       },
       {
         "prize": 5,
-        "remaining": 28205,
+        "remaining": 28034,
         "total": 56210
       },
       {
         "prize": 4,
-        "remaining": 99760,
+        "remaining": 99178,
         "total": 196742
       },
       {
         "prize": 2,
-        "remaining": 217869,
+        "remaining": 216609,
         "total": 421558
       },
       {
         "prize": 1,
-        "remaining": 502953,
+        "remaining": 500149,
         "total": 955440
       }
     ],
@@ -1078,42 +1283,42 @@
       },
       {
         "prize": 100,
-        "remaining": 3421,
+        "remaining": 3411,
         "total": 7956
       },
       {
         "prize": 40,
-        "remaining": 16967,
+        "remaining": 16926,
         "total": 39827
       },
       {
         "prize": 20,
-        "remaining": 13015,
+        "remaining": 12968,
         "total": 29898
       },
       {
         "prize": 15,
-        "remaining": 17456,
+        "remaining": 17406,
         "total": 39827
       },
       {
         "prize": 10,
-        "remaining": 26894,
+        "remaining": 26821,
         "total": 59706
       },
       {
         "prize": 5,
-        "remaining": 55612,
+        "remaining": 55470,
         "total": 119439
       },
       {
         "prize": 4,
-        "remaining": 147356,
+        "remaining": 147013,
         "total": 318567
       },
       {
         "prize": 2,
-        "remaining": 351733,
+        "remaining": 350937,
         "total": 716984
       }
     ],
@@ -1158,37 +1363,37 @@
       },
       {
         "prize": 500,
-        "remaining": 3305,
+        "remaining": 3295,
         "total": 5462
       },
       {
         "prize": 300,
-        "remaining": 3318,
+        "remaining": 3310,
         "total": 5461
       },
       {
         "prize": 200,
-        "remaining": 9865,
+        "remaining": 9837,
         "total": 16324
       },
       {
         "prize": 100,
-        "remaining": 66046,
+        "remaining": 65899,
         "total": 108765
       },
       {
         "prize": 50,
-        "remaining": 65729,
+        "remaining": 65579,
         "total": 108765
       },
       {
         "prize": 40,
-        "remaining": 164377,
+        "remaining": 164017,
         "total": 271924
       },
       {
         "prize": 20,
-        "remaining": 314717,
+        "remaining": 314082,
         "total": 516639
       }
     ],
@@ -1233,37 +1438,37 @@
       },
       {
         "prize": 277,
-        "remaining": 72,
+        "remaining": 68,
         "total": 276
       },
       {
         "prize": 77,
-        "remaining": 12019,
+        "remaining": 11888,
         "total": 43450
       },
       {
         "prize": 27,
-        "remaining": 22399,
+        "remaining": 22191,
         "total": 81102
       },
       {
         "prize": 17,
-        "remaining": 19426,
+        "remaining": 19230,
         "total": 69027
       },
       {
         "prize": 15,
-        "remaining": 38910,
+        "remaining": 38487,
         "total": 138054
       },
       {
         "prize": 10,
-        "remaining": 59918,
+        "remaining": 59343,
         "total": 207021
       },
       {
         "prize": 5,
-        "remaining": 143877,
+        "remaining": 142613,
         "total": 483309
       }
     ],
@@ -1308,27 +1513,27 @@
       },
       {
         "prize": 500,
-        "remaining": 106767,
+        "remaining": 106667,
         "total": 127545
       },
       {
         "prize": 200,
-        "remaining": 116624,
+        "remaining": 116500,
         "total": 139441
       },
       {
         "prize": 100,
-        "remaining": 665805,
+        "remaining": 665159,
         "total": 795758
       },
       {
         "prize": 75,
-        "remaining": 444265,
+        "remaining": 443814,
         "total": 530506
       },
       {
         "prize": 50,
-        "remaining": 333331,
+        "remaining": 332980,
         "total": 397869
       }
     ],
@@ -1368,47 +1573,47 @@
       },
       {
         "prize": 100,
-        "remaining": 5077,
+        "remaining": 5067,
         "total": 11827
       },
       {
         "prize": 75,
-        "remaining": 1084,
+        "remaining": 1082,
         "total": 2461
       },
       {
         "prize": 50,
-        "remaining": 4068,
+        "remaining": 4056,
         "total": 9293
       },
       {
         "prize": 40,
-        "remaining": 13406,
+        "remaining": 13366,
         "total": 30817
       },
       {
         "prize": 25,
-        "remaining": 8041,
+        "remaining": 8008,
         "total": 18425
       },
       {
         "prize": 20,
-        "remaining": 20537,
+        "remaining": 20468,
         "total": 46188
       },
       {
         "prize": 15,
-        "remaining": 81629,
+        "remaining": 81379,
         "total": 184898
       },
       {
         "prize": 10,
-        "remaining": 83704,
+        "remaining": 83465,
         "total": 184857
       },
       {
         "prize": 5,
-        "remaining": 197882,
+        "remaining": 197315,
         "total": 431315
       }
     ],
@@ -1458,22 +1663,22 @@
       },
       {
         "prize": 75,
-        "remaining": 69491,
+        "remaining": 69482,
         "total": 151644
       },
       {
         "prize": 25,
-        "remaining": 75595,
+        "remaining": 75570,
         "total": 162725
       },
       {
         "prize": 15,
-        "remaining": 243353,
+        "remaining": 243285,
         "total": 517790
       },
       {
         "prize": 10,
-        "remaining": 280488,
+        "remaining": 280390,
         "total": 591760
       }
     ],
@@ -1513,22 +1718,22 @@
       },
       {
         "prize": 500,
-        "remaining": 85474,
+        "remaining": 85398,
         "total": 104409
       },
       {
         "prize": 200,
-        "remaining": 189592,
+        "remaining": 189440,
         "total": 231863
       },
       {
         "prize": 100,
-        "remaining": 426005,
+        "remaining": 425653,
         "total": 521062
       },
       {
         "prize": 75,
-        "remaining": 852553,
+        "remaining": 851855,
         "total": 1042124
       }
     ],
@@ -1543,12 +1748,12 @@
     "tiers": [
       {
         "prize": 100,
-        "remaining": 55727,
+        "remaining": 55599,
         "total": 83991
       },
       {
         "prize": 50,
-        "remaining": 247387,
+        "remaining": 246904,
         "total": 372009
       }
     ],
@@ -1593,27 +1798,27 @@
       },
       {
         "prize": 10,
-        "remaining": 18937,
+        "remaining": 18933,
         "total": 79988
       },
       {
         "prize": 5,
-        "remaining": 11427,
+        "remaining": 11420,
         "total": 45720
       },
       {
         "prize": 4,
-        "remaining": 40549,
+        "remaining": 40532,
         "total": 160020
       },
       {
         "prize": 2,
-        "remaining": 90941,
+        "remaining": 90909,
         "total": 342900
       },
       {
         "prize": 1,
-        "remaining": 230819,
+        "remaining": 230734,
         "total": 800100
       }
     ],
@@ -1648,32 +1853,32 @@
       },
       {
         "prize": 100,
-        "remaining": 5020,
+        "remaining": 5008,
         "total": 13750
       },
       {
         "prize": 50,
-        "remaining": 18905,
+        "remaining": 18841,
         "total": 51524
       },
       {
         "prize": 25,
-        "remaining": 19343,
+        "remaining": 19291,
         "total": 51572
       },
       {
         "prize": 15,
-        "remaining": 51742,
+        "remaining": 51593,
         "total": 137425
       },
       {
         "prize": 10,
-        "remaining": 131623,
+        "remaining": 131228,
         "total": 343670
       },
       {
         "prize": 5,
-        "remaining": 200574,
+        "remaining": 200021,
         "total": 498343
       }
     ],
@@ -1708,37 +1913,37 @@
       },
       {
         "prize": 100,
-        "remaining": 2168,
+        "remaining": 2166,
         "total": 7137
       },
       {
         "prize": 50,
-        "remaining": 4311,
+        "remaining": 4297,
         "total": 14556
       },
       {
         "prize": 20,
-        "remaining": 10838,
+        "remaining": 10818,
         "total": 35695
       },
       {
         "prize": 10,
-        "remaining": 33455,
+        "remaining": 33388,
         "total": 107085
       },
       {
         "prize": 5,
-        "remaining": 34499,
+        "remaining": 34434,
         "total": 107085
       },
       {
         "prize": 4,
-        "remaining": 126390,
+        "remaining": 126117,
         "total": 392643
       },
       {
         "prize": 2,
-        "remaining": 182128,
+        "remaining": 181787,
         "total": 535429
       }
     ],
@@ -1798,17 +2003,17 @@
       },
       {
         "prize": 100,
-        "remaining": 78476,
+        "remaining": 78473,
         "total": 206282
       },
       {
         "prize": 40,
-        "remaining": 114129,
+        "remaining": 114121,
         "total": 299592
       },
       {
         "prize": 20,
-        "remaining": 199413,
+        "remaining": 199400,
         "total": 517099
       }
     ],
@@ -1843,37 +2048,37 @@
       },
       {
         "prize": 200,
-        "remaining": 2392,
+        "remaining": 2386,
         "total": 4607
       },
       {
         "prize": 100,
-        "remaining": 23945,
+        "remaining": 23896,
         "total": 46155
       },
       {
         "prize": 50,
-        "remaining": 79744,
+        "remaining": 79603,
         "total": 153888
       },
       {
         "prize": 25,
-        "remaining": 39988,
+        "remaining": 39922,
         "total": 76944
       },
       {
         "prize": 20,
-        "remaining": 160079,
+        "remaining": 159786,
         "total": 307776
       },
       {
         "prize": 15,
-        "remaining": 120980,
+        "remaining": 120763,
         "total": 230832
       },
       {
         "prize": 10,
-        "remaining": 324509,
+        "remaining": 323915,
         "total": 615552
       }
     ],
@@ -1903,37 +2108,37 @@
       },
       {
         "prize": 500,
-        "remaining": 169,
+        "remaining": 167,
         "total": 2527
       },
       {
         "prize": 100,
-        "remaining": 731,
+        "remaining": 723,
         "total": 10545
       },
       {
         "prize": 50,
-        "remaining": 3025,
+        "remaining": 2988,
         "total": 37781
       },
       {
         "prize": 25,
-        "remaining": 5353,
+        "remaining": 5301,
         "total": 62946
       },
       {
         "prize": 15,
-        "remaining": 10490,
+        "remaining": 10383,
         "total": 125892
       },
       {
         "prize": 10,
-        "remaining": 25881,
+        "remaining": 25640,
         "total": 267484
       },
       {
         "prize": 5,
-        "remaining": 49825,
+        "remaining": 49491,
         "total": 409222
       }
     ],
@@ -1968,32 +2173,32 @@
       },
       {
         "prize": 40,
-        "remaining": 10190,
+        "remaining": 10188,
         "total": 19592
       },
       {
         "prize": 25,
-        "remaining": 17793,
+        "remaining": 17789,
         "total": 33546
       },
       {
         "prize": 10,
-        "remaining": 36378,
+        "remaining": 36375,
         "total": 67092
       },
       {
         "prize": 5,
-        "remaining": 53742,
+        "remaining": 53736,
         "total": 100638
       },
       {
         "prize": 4,
-        "remaining": 151654,
+        "remaining": 151625,
         "total": 285164
       },
       {
         "prize": 2,
-        "remaining": 318464,
+        "remaining": 318417,
         "total": 587032
       }
     ],
@@ -2033,32 +2238,32 @@
       },
       {
         "prize": 15,
-        "remaining": 2696,
+        "remaining": 2695,
         "total": 18025
       },
       {
         "prize": 10,
-        "remaining": 7147,
+        "remaining": 7145,
         "total": 31512
       },
       {
         "prize": 5,
-        "remaining": 5720,
+        "remaining": 5718,
         "total": 36074
       },
       {
         "prize": 4,
-        "remaining": 21232,
+        "remaining": 21213,
         "total": 126254
       },
       {
         "prize": 2,
-        "remaining": 50612,
+        "remaining": 50587,
         "total": 270296
       },
       {
         "prize": 1,
-        "remaining": 132895,
+        "remaining": 132828,
         "total": 621902
       }
     ],
@@ -2088,47 +2293,47 @@
       },
       {
         "prize": 500,
-        "remaining": 215,
+        "remaining": 212,
         "total": 568
       },
       {
         "prize": 100,
-        "remaining": 3384,
+        "remaining": 3375,
         "total": 8650
       },
       {
         "prize": 60,
-        "remaining": 3242,
+        "remaining": 3230,
         "total": 8413
       },
       {
         "prize": 50,
-        "remaining": 4417,
+        "remaining": 4398,
         "total": 11233
       },
       {
         "prize": 20,
-        "remaining": 26930,
+        "remaining": 26772,
         "total": 67405
       },
       {
         "prize": 12,
-        "remaining": 48730,
+        "remaining": 48498,
         "total": 117952
       },
       {
         "prize": 10,
-        "remaining": 61930,
+        "remaining": 61667,
         "total": 151611
       },
       {
         "prize": 6,
-        "remaining": 299227,
+        "remaining": 298001,
         "total": 691058
       },
       {
         "prize": 3,
-        "remaining": 307730,
+        "remaining": 306538,
         "total": 673957
       }
     ],
@@ -2168,62 +2373,62 @@
       },
       {
         "prize": 250,
-        "remaining": 1846,
+        "remaining": 1836,
         "total": 5871
       },
       {
         "prize": 100,
-        "remaining": 1811,
+        "remaining": 1801,
         "total": 5603
       },
       {
         "prize": 75,
-        "remaining": 3534,
+        "remaining": 3514,
         "total": 11170
       },
       {
         "prize": 60,
-        "remaining": 3541,
+        "remaining": 3520,
         "total": 11156
       },
       {
         "prize": 50,
-        "remaining": 5122,
+        "remaining": 5090,
         "total": 16162
       },
       {
         "prize": 40,
-        "remaining": 4462,
+        "remaining": 4421,
         "total": 13892
       },
       {
         "prize": 30,
-        "remaining": 4960,
+        "remaining": 4935,
         "total": 15588
       },
       {
         "prize": 25,
-        "remaining": 27048,
+        "remaining": 26856,
         "total": 83323
       },
       {
         "prize": 20,
-        "remaining": 35918,
+        "remaining": 35684,
         "total": 111147
       },
       {
         "prize": 15,
-        "remaining": 63844,
+        "remaining": 63423,
         "total": 194548
       },
       {
         "prize": 10,
-        "remaining": 167502,
+        "remaining": 166397,
         "total": 500260
       },
       {
         "prize": 5,
-        "remaining": 272336,
+        "remaining": 270697,
         "total": 777896
       }
     ],
@@ -2263,52 +2468,52 @@
       },
       {
         "prize": 200,
-        "remaining": 183,
+        "remaining": 179,
         "total": 934
       },
       {
         "prize": 100,
-        "remaining": 3858,
+        "remaining": 3828,
         "total": 20454
       },
       {
         "prize": 75,
-        "remaining": 660,
+        "remaining": 652,
         "total": 3707
       },
       {
         "prize": 50,
-        "remaining": 2755,
+        "remaining": 2730,
         "total": 13954
       },
       {
         "prize": 40,
-        "remaining": 9016,
+        "remaining": 8945,
         "total": 46173
       },
       {
         "prize": 25,
-        "remaining": 6927,
+        "remaining": 6891,
         "total": 33463
       },
       {
         "prize": 20,
-        "remaining": 13867,
+        "remaining": 13757,
         "total": 69105
       },
       {
         "prize": 15,
-        "remaining": 54813,
+        "remaining": 54415,
         "total": 276610
       },
       {
         "prize": 10,
-        "remaining": 57640,
+        "remaining": 57257,
         "total": 276476
       },
       {
         "prize": 5,
-        "remaining": 152231,
+        "remaining": 151275,
         "total": 645198
       }
     ],
@@ -2353,27 +2558,27 @@
       },
       {
         "prize": 500,
-        "remaining": 6992,
+        "remaining": 6984,
         "total": 11820
       },
       {
         "prize": 200,
-        "remaining": 21730,
+        "remaining": 21691,
         "total": 36955
       },
       {
         "prize": 100,
-        "remaining": 152459,
+        "remaining": 152193,
         "total": 259113
       },
       {
         "prize": 60,
-        "remaining": 340443,
+        "remaining": 339926,
         "total": 577430
       },
       {
         "prize": 50,
-        "remaining": 261665,
+        "remaining": 261260,
         "total": 443861
       }
     ],
@@ -2423,7 +2628,7 @@
       },
       {
         "prize": 100,
-        "remaining": 8484,
+        "remaining": 8483,
         "total": 25286
       },
       {
@@ -2433,17 +2638,17 @@
       },
       {
         "prize": 25,
-        "remaining": 10353,
+        "remaining": 10352,
         "total": 30041
       },
       {
         "prize": 20,
-        "remaining": 77585,
+        "remaining": 77581,
         "total": 225006
       },
       {
         "prize": 10,
-        "remaining": 132736,
+        "remaining": 132734,
         "total": 374922
       }
     ],
@@ -2493,27 +2698,27 @@
       },
       {
         "prize": 25,
-        "remaining": 17461,
+        "remaining": 17460,
         "total": 41369
       },
       {
         "prize": 10,
-        "remaining": 48683,
+        "remaining": 48679,
         "total": 110313
       },
       {
         "prize": 5,
-        "remaining": 117987,
+        "remaining": 117976,
         "total": 257397
       },
       {
         "prize": 4,
-        "remaining": 101937,
+        "remaining": 101934,
         "total": 220645
       },
       {
         "prize": 2,
-        "remaining": 297767,
+        "remaining": 297742,
         "total": 625069
       }
     ],
@@ -2553,32 +2758,32 @@
       },
       {
         "prize": 20,
-        "remaining": 11709,
+        "remaining": 11708,
         "total": 35614
       },
       {
         "prize": 10,
-        "remaining": 49785,
+        "remaining": 49776,
         "total": 142400
       },
       {
         "prize": 5,
-        "remaining": 52695,
+        "remaining": 52689,
         "total": 142404
       },
       {
         "prize": 3,
-        "remaining": 88388,
+        "remaining": 88382,
         "total": 227873
       },
       {
         "prize": 2,
-        "remaining": 130794,
+        "remaining": 130779,
         "total": 327626
       },
       {
         "prize": 1,
-        "remaining": 420098,
+        "remaining": 420051,
         "total": 996917
       }
     ],
@@ -2618,7 +2823,7 @@
       },
       {
         "prize": 100,
-        "remaining": 2387,
+        "remaining": 2386,
         "total": 12268
       },
       {
@@ -2633,22 +2838,22 @@
       },
       {
         "prize": 20,
-        "remaining": 17853,
+        "remaining": 17852,
         "total": 81746
       },
       {
         "prize": 15,
-        "remaining": 22700,
+        "remaining": 22697,
         "total": 108982
       },
       {
         "prize": 10,
-        "remaining": 49559,
+        "remaining": 49555,
         "total": 217854
       },
       {
         "prize": 5,
-        "remaining": 92208,
+        "remaining": 92203,
         "total": 381484
       }
     ],
@@ -2703,17 +2908,17 @@
       },
       {
         "prize": 15,
-        "remaining": 60586,
+        "remaining": 60584,
         "total": 121268
       },
       {
         "prize": 10,
-        "remaining": 154445,
+        "remaining": 154436,
         "total": 303169
       },
       {
         "prize": 5,
-        "remaining": 225952,
+        "remaining": 225935,
         "total": 424440
       }
     ],
@@ -2773,7 +2978,7 @@
       },
       {
         "prize": 50,
-        "remaining": 26658,
+        "remaining": 26657,
         "total": 67652
       },
       {
@@ -2783,7 +2988,7 @@
       },
       {
         "prize": 20,
-        "remaining": 93672,
+        "remaining": 93669,
         "total": 234233
       }
     ],
@@ -2838,7 +3043,7 @@
       },
       {
         "prize": 10,
-        "remaining": 11560,
+        "remaining": 11558,
         "total": 75610
       },
       {
@@ -2848,27 +3053,27 @@
       },
       {
         "prize": 5,
-        "remaining": 15447,
+        "remaining": 15442,
         "total": 93036
       },
       {
         "prize": 4,
-        "remaining": 8131,
+        "remaining": 8126,
         "total": 46485
       },
       {
         "prize": 3,
-        "remaining": 8431,
+        "remaining": 8427,
         "total": 46493
       },
       {
         "prize": 2,
-        "remaining": 61804,
+        "remaining": 61787,
         "total": 325629
       },
       {
         "prize": 1,
-        "remaining": 165538,
+        "remaining": 165494,
         "total": 802454
       }
     ],
@@ -2913,32 +3118,32 @@
       },
       {
         "prize": 500,
-        "remaining": 581,
+        "remaining": 580,
         "total": 1791
       },
       {
         "prize": 200,
-        "remaining": 1790,
+        "remaining": 1787,
         "total": 5454
       },
       {
         "prize": 100,
-        "remaining": 44132,
+        "remaining": 43971,
         "total": 136397
       },
       {
         "prize": 50,
-        "remaining": 45553,
+        "remaining": 45395,
         "total": 140423
       },
       {
         "prize": 40,
-        "remaining": 106733,
+        "remaining": 106365,
         "total": 327276
       },
       {
         "prize": 20,
-        "remaining": 153254,
+        "remaining": 152754,
         "total": 463574
       }
     ],
@@ -2998,22 +3203,22 @@
       },
       {
         "prize": 25,
-        "remaining": 8730,
+        "remaining": 8729,
         "total": 44960
       },
       {
         "prize": 15,
-        "remaining": 23801,
+        "remaining": 23794,
         "total": 119943
       },
       {
         "prize": 10,
-        "remaining": 67481,
+        "remaining": 67473,
         "total": 329723
       },
       {
         "prize": 5,
-        "remaining": 95704,
+        "remaining": 95687,
         "total": 434637
       }
     ],
@@ -3048,7 +3253,7 @@
       },
       {
         "prize": 100,
-        "remaining": 990,
+        "remaining": 989,
         "total": 7112
       },
       {
@@ -3058,7 +3263,7 @@
       },
       {
         "prize": 20,
-        "remaining": 5812,
+        "remaining": 5811,
         "total": 35499
       },
       {
@@ -3068,17 +3273,17 @@
       },
       {
         "prize": 5,
-        "remaining": 17206,
+        "remaining": 17202,
         "total": 106497
       },
       {
         "prize": 4,
-        "remaining": 62163,
+        "remaining": 62153,
         "total": 390445
       },
       {
         "prize": 2,
-        "remaining": 97918,
+        "remaining": 97899,
         "total": 532573
       }
     ],
@@ -3118,32 +3323,32 @@
       },
       {
         "prize": 100,
-        "remaining": 1566,
+        "remaining": 1558,
         "total": 13830
       },
       {
         "prize": 50,
-        "remaining": 7615,
+        "remaining": 7585,
         "total": 66092
       },
       {
         "prize": 25,
-        "remaining": 4631,
+        "remaining": 4610,
         "total": 37606
       },
       {
         "prize": 15,
-        "remaining": 18700,
+        "remaining": 18631,
         "total": 142988
       },
       {
         "prize": 10,
-        "remaining": 48876,
+        "remaining": 48709,
         "total": 357463
       },
       {
         "prize": 5,
-        "remaining": 81346,
+        "remaining": 81114,
         "total": 500472
       }
     ],
@@ -3193,12 +3398,12 @@
       },
       {
         "prize": 50,
-        "remaining": 46025,
+        "remaining": 46023,
         "total": 154986
       },
       {
         "prize": 30,
-        "remaining": 13945,
+        "remaining": 13944,
         "total": 46381
       },
       {
@@ -3208,17 +3413,17 @@
       },
       {
         "prize": 20,
-        "remaining": 93657,
+        "remaining": 93653,
         "total": 309972
       },
       {
         "prize": 15,
-        "remaining": 71473,
+        "remaining": 71468,
         "total": 232479
       },
       {
         "prize": 10,
-        "remaining": 192598,
+        "remaining": 192587,
         "total": 619944
       }
     ],
@@ -3273,7 +3478,7 @@
       },
       {
         "prize": 50,
-        "remaining": 571,
+        "remaining": 570,
         "total": 11849
       },
       {
@@ -3288,22 +3493,22 @@
       },
       {
         "prize": 20,
-        "remaining": 3709,
+        "remaining": 3708,
         "total": 59687
       },
       {
         "prize": 15,
-        "remaining": 14207,
+        "remaining": 14202,
         "total": 238514
       },
       {
         "prize": 10,
-        "remaining": 15963,
+        "remaining": 15956,
         "total": 238578
       },
       {
         "prize": 5,
-        "remaining": 58151,
+        "remaining": 58140,
         "total": 556704
       }
     ],
@@ -3358,17 +3563,17 @@
       },
       {
         "prize": 4,
-        "remaining": 34878,
+        "remaining": 34872,
         "total": 172826
       },
       {
         "prize": 2,
-        "remaining": 79278,
+        "remaining": 79272,
         "total": 370156
       },
       {
         "prize": 1,
-        "remaining": 204705,
+        "remaining": 204687,
         "total": 851524
       }
     ],
@@ -3413,27 +3618,27 @@
       },
       {
         "prize": 500,
-        "remaining": 713,
+        "remaining": 711,
         "total": 1772
       },
       {
         "prize": 200,
-        "remaining": 2136,
+        "remaining": 2134,
         "total": 5367
       },
       {
         "prize": 100,
-        "remaining": 80751,
+        "remaining": 80624,
         "total": 204058
       },
       {
         "prize": 40,
-        "remaining": 118288,
+        "remaining": 118095,
         "total": 296147
       },
       {
         "prize": 20,
-        "remaining": 206780,
+        "remaining": 206420,
         "total": 511455
       }
     ],
@@ -3448,12 +3653,12 @@
     "tiers": [
       {
         "prize": 200,
-        "remaining": 11996,
+        "remaining": 11912,
         "total": 52343
       },
       {
         "prize": 100,
-        "remaining": 53480,
+        "remaining": 53179,
         "total": 231869
       }
     ],
@@ -3498,22 +3703,22 @@
       },
       {
         "prize": 500,
-        "remaining": 88812,
+        "remaining": 88745,
         "total": 140568
       },
       {
         "prize": 200,
-        "remaining": 98354,
+        "remaining": 98255,
         "total": 155521
       },
       {
         "prize": 100,
-        "remaining": 603486,
+        "remaining": 602995,
         "total": 954743
       },
       {
         "prize": 50,
-        "remaining": 518969,
+        "remaining": 518517,
         "total": 818404
       }
     ],
@@ -3563,7 +3768,7 @@
       },
       {
         "prize": 15,
-        "remaining": 9669,
+        "remaining": 9668,
         "total": 35342
       },
       {
@@ -3573,17 +3778,17 @@
       },
       {
         "prize": 5,
-        "remaining": 30380,
+        "remaining": 30377,
         "total": 106022
       },
       {
         "prize": 4,
-        "remaining": 83693,
+        "remaining": 83685,
         "total": 282736
       },
       {
         "prize": 2,
-        "remaining": 193647,
+        "remaining": 193626,
         "total": 636156
       }
     ],
@@ -3633,27 +3838,27 @@
       },
       {
         "prize": 200,
-        "remaining": 2756,
+        "remaining": 2750,
         "total": 5467
       },
       {
         "prize": 100,
-        "remaining": 68330,
+        "remaining": 68294,
         "total": 136190
       },
       {
         "prize": 50,
-        "remaining": 70302,
+        "remaining": 70269,
         "total": 140277
       },
       {
         "prize": 40,
-        "remaining": 164178,
+        "remaining": 164113,
         "total": 326655
       },
       {
         "prize": 20,
-        "remaining": 234254,
+        "remaining": 234133,
         "total": 462687
       }
     ],
@@ -3708,7 +3913,7 @@
       },
       {
         "prize": 50,
-        "remaining": 1076,
+        "remaining": 1075,
         "total": 13388
       },
       {
@@ -3728,17 +3933,17 @@
       },
       {
         "prize": 15,
-        "remaining": 16698,
+        "remaining": 16691,
         "total": 267416
       },
       {
         "prize": 10,
-        "remaining": 19711,
+        "remaining": 19700,
         "total": 267380
       },
       {
         "prize": 5,
-        "remaining": 66298,
+        "remaining": 66276,
         "total": 623816
       }
     ],
@@ -3828,12 +4033,12 @@
       },
       {
         "prize": 2,
-        "remaining": 124789,
+        "remaining": 124783,
         "total": 334343
       },
       {
         "prize": 1,
-        "remaining": 320023,
+        "remaining": 320015,
         "total": 836085
       }
     ],
@@ -3888,7 +4093,7 @@
       },
       {
         "prize": 30,
-        "remaining": 1608,
+        "remaining": 1607,
         "total": 44624
       },
       {
@@ -3898,17 +4103,17 @@
       },
       {
         "prize": 20,
-        "remaining": 12039,
+        "remaining": 12034,
         "total": 296770
       },
       {
         "prize": 15,
-        "remaining": 11422,
+        "remaining": 11421,
         "total": 222636
       },
       {
         "prize": 10,
-        "remaining": 31176,
+        "remaining": 31168,
         "total": 593852
       }
     ],
@@ -3973,17 +4178,17 @@
       },
       {
         "prize": 25,
-        "remaining": 3345,
+        "remaining": 3344,
         "total": 34500
       },
       {
         "prize": 20,
-        "remaining": 8857,
+        "remaining": 8856,
         "total": 103772
       },
       {
         "prize": 10,
-        "remaining": 62477,
+        "remaining": 62467,
         "total": 656714
       }
     ],
@@ -4043,12 +4248,12 @@
       },
       {
         "prize": 4,
-        "remaining": 77307,
+        "remaining": 77302,
         "total": 381373
       },
       {
         "prize": 2,
-        "remaining": 110267,
+        "remaining": 110265,
         "total": 520303
       }
     ],
@@ -4103,22 +4308,22 @@
       },
       {
         "prize": 100,
-        "remaining": 62405,
+        "remaining": 62398,
         "total": 118319
       },
       {
         "prize": 50,
-        "remaining": 73877,
+        "remaining": 73863,
         "total": 140196
       },
       {
         "prize": 40,
-        "remaining": 173250,
+        "remaining": 173222,
         "total": 326434
       },
       {
         "prize": 20,
-        "remaining": 247309,
+        "remaining": 247253,
         "total": 462250
       }
     ],
@@ -4233,22 +4438,22 @@
       },
       {
         "prize": 16,
-        "remaining": 11559,
+        "remaining": 11558,
         "total": 56544
       },
       {
         "prize": 10,
-        "remaining": 41311,
+        "remaining": 41303,
         "total": 169632
       },
       {
         "prize": 6,
-        "remaining": 141052,
+        "remaining": 141036,
         "total": 565485
       },
       {
         "prize": 3,
-        "remaining": 142571,
+        "remaining": 142547,
         "total": 565350
       }
     ],
@@ -4303,17 +4508,17 @@
       },
       {
         "prize": 27,
-        "remaining": 25812,
+        "remaining": 25811,
         "total": 114029
       },
       {
         "prize": 17,
-        "remaining": 121297,
+        "remaining": 121293,
         "total": 532000
       },
       {
         "prize": 10,
-        "remaining": 144687,
+        "remaining": 144685,
         "total": 608000
       }
     ],
@@ -4358,27 +4563,27 @@
       },
       {
         "prize": 40,
-        "remaining": 3675,
+        "remaining": 3673,
         "total": 36390
       },
       {
         "prize": 20,
-        "remaining": 7666,
+        "remaining": 7661,
         "total": 69307
       },
       {
         "prize": 15,
-        "remaining": 22858,
+        "remaining": 22841,
         "total": 207921
       },
       {
         "prize": 10,
-        "remaining": 24299,
+        "remaining": 24283,
         "total": 207941
       },
       {
         "prize": 5,
-        "remaining": 74416,
+        "remaining": 74383,
         "total": 485109
       }
     ],
@@ -4468,22 +4673,22 @@
       },
       {
         "prize": 20,
-        "remaining": 4971,
+        "remaining": 4970,
         "total": 104808
       },
       {
         "prize": 15,
-        "remaining": 18126,
+        "remaining": 18125,
         "total": 251406
       },
       {
         "prize": 10,
-        "remaining": 19884,
+        "remaining": 19883,
         "total": 251376
       },
       {
         "prize": 5,
-        "remaining": 56925,
+        "remaining": 56919,
         "total": 628488
       }
     ],
@@ -4538,7 +4743,7 @@
       },
       {
         "prize": 27,
-        "remaining": 4923,
+        "remaining": 4922,
         "total": 80919
       },
       {
@@ -4553,12 +4758,12 @@
       },
       {
         "prize": 10,
-        "remaining": 14156,
+        "remaining": 14155,
         "total": 206618
       },
       {
         "prize": 5,
-        "remaining": 37087,
+        "remaining": 37083,
         "total": 482178
       }
     ],
@@ -4623,12 +4828,12 @@
       },
       {
         "prize": 4,
-        "remaining": 84056,
+        "remaining": 84055,
         "total": 285667
       },
       {
         "prize": 2,
-        "remaining": 211950,
+        "remaining": 211944,
         "total": 642704
       }
     ],
@@ -4683,22 +4888,22 @@
       },
       {
         "prize": 100,
-        "remaining": 61560,
+        "remaining": 61554,
         "total": 136439
       },
       {
         "prize": 50,
-        "remaining": 63392,
+        "remaining": 63383,
         "total": 140437
       },
       {
         "prize": 40,
-        "remaining": 148419,
+        "remaining": 148406,
         "total": 327261
       },
       {
         "prize": 20,
-        "remaining": 211834,
+        "remaining": 211807,
         "total": 463632
       }
     ],
@@ -4738,7 +4943,7 @@
       },
       {
         "prize": 50,
-        "remaining": 14051,
+        "remaining": 14050,
         "total": 49612
       },
       {
@@ -4748,17 +4953,17 @@
       },
       {
         "prize": 15,
-        "remaining": 42619,
+        "remaining": 42617,
         "total": 146886
       },
       {
         "prize": 10,
-        "remaining": 64413,
+        "remaining": 64411,
         "total": 220319
       },
       {
         "prize": 5,
-        "remaining": 160095,
+        "remaining": 160088,
         "total": 514121
       }
     ],
@@ -4793,47 +4998,47 @@
       },
       {
         "prize": 500,
-        "remaining": 357,
+        "remaining": 356,
         "total": 1567
       },
       {
         "prize": 200,
-        "remaining": 1075,
+        "remaining": 1073,
         "total": 4517
       },
       {
         "prize": 100,
-        "remaining": 8750,
+        "remaining": 8745,
         "total": 37525
       },
       {
         "prize": 50,
-        "remaining": 35656,
+        "remaining": 35619,
         "total": 150188
       },
       {
         "prize": 30,
-        "remaining": 10682,
+        "remaining": 10672,
         "total": 45083
       },
       {
         "prize": 25,
-        "remaining": 11600,
+        "remaining": 11585,
         "total": 48859
       },
       {
         "prize": 20,
-        "remaining": 72566,
+        "remaining": 72482,
         "total": 300376
       },
       {
         "prize": 15,
-        "remaining": 55152,
+        "remaining": 55095,
         "total": 225282
       },
       {
         "prize": 10,
-        "remaining": 149489,
+        "remaining": 149309,
         "total": 600752
       }
     ],
@@ -4873,12 +5078,12 @@
       },
       {
         "prize": 200,
-        "remaining": 177,
+        "remaining": 176,
         "total": 972
       },
       {
         "prize": 100,
-        "remaining": 3477,
+        "remaining": 3475,
         "total": 21967
       },
       {
@@ -4888,37 +5093,37 @@
       },
       {
         "prize": 50,
-        "remaining": 2506,
+        "remaining": 2502,
         "total": 14881
       },
       {
         "prize": 40,
-        "remaining": 8191,
+        "remaining": 8185,
         "total": 49318
       },
       {
         "prize": 25,
-        "remaining": 6293,
+        "remaining": 6288,
         "total": 35768
       },
       {
         "prize": 20,
-        "remaining": 12676,
+        "remaining": 12660,
         "total": 73864
       },
       {
         "prize": 15,
-        "remaining": 48676,
+        "remaining": 48635,
         "total": 295562
       },
       {
         "prize": 10,
-        "remaining": 51499,
+        "remaining": 51467,
         "total": 295552
       },
       {
         "prize": 5,
-        "remaining": 137507,
+        "remaining": 137405,
         "total": 689479
       }
     ],
@@ -4958,27 +5163,27 @@
       },
       {
         "prize": 500,
-        "remaining": 3377,
+        "remaining": 3369,
         "total": 9453
       },
       {
         "prize": 200,
-        "remaining": 27535,
+        "remaining": 27494,
         "total": 76919
       },
       {
         "prize": 100,
-        "remaining": 80664,
+        "remaining": 80532,
         "total": 226467
       },
       {
         "prize": 60,
-        "remaining": 259801,
+        "remaining": 259362,
         "total": 724687
       },
       {
         "prize": 30,
-        "remaining": 163922,
+        "remaining": 163646,
         "total": 452934
       }
     ],
@@ -5023,22 +5228,22 @@
       },
       {
         "prize": 25,
-        "remaining": 73732,
+        "remaining": 73730,
         "total": 163670
       },
       {
         "prize": 15,
-        "remaining": 74090,
+        "remaining": 74089,
         "total": 163706
       },
       {
         "prize": 10,
-        "remaining": 111643,
+        "remaining": 111642,
         "total": 245550
       },
       {
         "prize": 5,
-        "remaining": 270811,
+        "remaining": 270810,
         "total": 572908
       }
     ],
@@ -5113,12 +5318,12 @@
       },
       {
         "prize": 6,
-        "remaining": 67903,
+        "remaining": 67895,
         "total": 790376
       },
       {
         "prize": 3,
-        "remaining": 107170,
+        "remaining": 107167,
         "total": 790160
       }
     ],
@@ -5168,17 +5373,17 @@
       },
       {
         "prize": 15,
-        "remaining": 55126,
+        "remaining": 55125,
         "total": 251699
       },
       {
         "prize": 10,
-        "remaining": 55977,
+        "remaining": 55976,
         "total": 251953
       },
       {
         "prize": 5,
-        "remaining": 144244,
+        "remaining": 144241,
         "total": 587721
       }
     ],
@@ -5223,27 +5428,27 @@
       },
       {
         "prize": 100,
-        "remaining": 9319,
+        "remaining": 9310,
         "total": 74178
       },
       {
         "prize": 50,
-        "remaining": 9370,
+        "remaining": 9362,
         "total": 74178
       },
       {
         "prize": 30,
-        "remaining": 9460,
+        "remaining": 9455,
         "total": 74178
       },
       {
         "prize": 20,
-        "remaining": 58940,
+        "remaining": 58880,
         "total": 445133
       },
       {
         "prize": 10,
-        "remaining": 96054,
+        "remaining": 95979,
         "total": 667472
       }
     ],
@@ -5368,42 +5573,42 @@
       },
       {
         "prize": 500,
-        "remaining": 3196,
+        "remaining": 3194,
         "total": 16055
       },
       {
         "prize": 300,
-        "remaining": 1552,
+        "remaining": 1548,
         "total": 7755
       },
       {
         "prize": 200,
-        "remaining": 3499,
+        "remaining": 3493,
         "total": 17690
       },
       {
         "prize": 100,
-        "remaining": 43373,
+        "remaining": 43276,
         "total": 221153
       },
       {
         "prize": 60,
-        "remaining": 53088,
+        "remaining": 52987,
         "total": 265387
       },
       {
         "prize": 50,
-        "remaining": 70382,
+        "remaining": 70229,
         "total": 353783
       },
       {
         "prize": 40,
-        "remaining": 72023,
+        "remaining": 71896,
         "total": 353818
       },
       {
         "prize": 30,
-        "remaining": 92470,
+        "remaining": 92282,
         "total": 442463
       }
     ],
@@ -5448,37 +5653,37 @@
       },
       {
         "prize": 100,
-        "remaining": 9522,
+        "remaining": 9517,
         "total": 37682
       },
       {
         "prize": 50,
-        "remaining": 38368,
+        "remaining": 38361,
         "total": 150526
       },
       {
         "prize": 30,
-        "remaining": 11508,
+        "remaining": 11504,
         "total": 45123
       },
       {
         "prize": 25,
-        "remaining": 12545,
+        "remaining": 12544,
         "total": 48981
       },
       {
         "prize": 20,
-        "remaining": 77746,
+        "remaining": 77729,
         "total": 301052
       },
       {
         "prize": 15,
-        "remaining": 59069,
+        "remaining": 59058,
         "total": 225789
       },
       {
         "prize": 10,
-        "remaining": 159986,
+        "remaining": 159955,
         "total": 602104
       }
     ],
@@ -5533,12 +5738,12 @@
       },
       {
         "prize": 100,
-        "remaining": 147379,
+        "remaining": 147375,
         "total": 917236
       },
       {
         "prize": 60,
-        "remaining": 108310,
+        "remaining": 108309,
         "total": 654962
       },
       {
@@ -5593,7 +5798,7 @@
       },
       {
         "prize": 50,
-        "remaining": 10566,
+        "remaining": 10564,
         "total": 74651
       },
       {
@@ -5608,7 +5813,7 @@
       },
       {
         "prize": 20,
-        "remaining": 44066,
+        "remaining": 44063,
         "total": 298646
       },
       {
@@ -5618,7 +5823,7 @@
       },
       {
         "prize": 10,
-        "remaining": 94451,
+        "remaining": 94448,
         "total": 597124
       }
     ],
@@ -5673,7 +5878,7 @@
       },
       {
         "prize": 10,
-        "remaining": 17428,
+        "remaining": 17427,
         "total": 181396
       },
       {
@@ -5683,12 +5888,12 @@
       },
       {
         "prize": 6,
-        "remaining": 86499,
+        "remaining": 86496,
         "total": 883981
       },
       {
         "prize": 3,
-        "remaining": 114354,
+        "remaining": 114347,
         "total": 906784
       }
     ],
