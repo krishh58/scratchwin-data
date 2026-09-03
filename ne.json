@@ -205,29 +205,29 @@
     "imageUrl": "https://nelottery.com/homeapp/static/shared/images/scratch/tiles/1384_tile.jpg"
   },
   {
-    "name": "Power 20s",
+    "name": "Diamonds & Gold",
     "price": 20.0,
     "totalTickets": 0,
     "remainingTickets": 0,
-    "gameNumber": "1358",
+    "gameNumber": "1350",
     "tiers": [
       {
-        "prize": 50000,
+        "prize": 200000,
         "remaining": 1,
         "total": 1
       },
       {
-        "prize": 2000,
-        "remaining": 0,
-        "total": 0
+        "prize": 5000,
+        "remaining": 2,
+        "total": 2
       },
       {
-        "prize": 500,
-        "remaining": 26,
-        "total": 26
+        "prize": 1500,
+        "remaining": 9,
+        "total": 9
       }
     ],
-    "imageUrl": "https://nelottery.com/homeapp/static/shared/images/scratch/tiles/1358_tile.jpg"
+    "imageUrl": "https://nelottery.com/homeapp/static/shared/images/scratch/tiles/1350_tile.jpg"
   },
   {
     "name": "Caddyshack",
@@ -255,56 +255,6 @@
     "imageUrl": "https://nelottery.com/homeapp/static/shared/images/scratch/tiles/1383_tile.jpg"
   },
   {
-    "name": "Diamonds & Gold",
-    "price": 20.0,
-    "totalTickets": 0,
-    "remainingTickets": 0,
-    "gameNumber": "1350",
-    "tiers": [
-      {
-        "prize": 200000,
-        "remaining": 1,
-        "total": 1
-      },
-      {
-        "prize": 5000,
-        "remaining": 2,
-        "total": 2
-      },
-      {
-        "prize": 1500,
-        "remaining": 9,
-        "total": 9
-      }
-    ],
-    "imageUrl": "https://nelottery.com/homeapp/static/shared/images/scratch/tiles/1350_tile.jpg"
-  },
-  {
-    "name": "Daily Crossword 5X",
-    "price": 5.0,
-    "totalTickets": 0,
-    "remainingTickets": 0,
-    "gameNumber": "1367",
-    "tiers": [
-      {
-        "prize": 50000,
-        "remaining": 2,
-        "total": 2
-      },
-      {
-        "prize": 500,
-        "remaining": 30,
-        "total": 30
-      },
-      {
-        "prize": 100,
-        "remaining": 121,
-        "total": 121
-      }
-    ],
-    "imageUrl": "https://nelottery.com/homeapp/static/shared/images/scratch/tiles/1367_tile.jpg"
-  },
-  {
     "name": "Mega Cash Inferno",
     "price": 10.0,
     "totalTickets": 0,
@@ -330,29 +280,29 @@
     "imageUrl": "https://nelottery.com/homeapp/static/shared/images/scratch/tiles/1398_tile.jpg"
   },
   {
-    "name": "Super Loteria",
+    "name": "Daily Crossword 5X",
     "price": 5.0,
     "totalTickets": 0,
     "remainingTickets": 0,
-    "gameNumber": "1353",
+    "gameNumber": "1367",
     "tiers": [
       {
         "prize": 50000,
-        "remaining": 1,
-        "total": 1
+        "remaining": 2,
+        "total": 2
       },
       {
         "prize": 500,
-        "remaining": 3,
-        "total": 3
+        "remaining": 30,
+        "total": 30
       },
       {
-        "prize": 200,
-        "remaining": 7,
-        "total": 7
+        "prize": 100,
+        "remaining": 121,
+        "total": 121
       }
     ],
-    "imageUrl": "https://nelottery.com/homeapp/static/shared/images/scratch/tiles/1353_tile.jpg"
+    "imageUrl": "https://nelottery.com/homeapp/static/shared/images/scratch/tiles/1367_tile.jpg"
   },
   {
     "name": "Ruby Red 7s",

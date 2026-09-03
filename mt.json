@@ -1,5 +1,213 @@
 [
   {
+    "name": "Big Bucks Bingo",
+    "price": 3.0,
+    "totalTickets": 600000,
+    "remainingTickets": 600000,
+    "gameNumber": "",
+    "tiers": [
+      {
+        "prize": 25000,
+        "remaining": 8,
+        "total": 8
+      },
+      {
+        "prize": 1000,
+        "remaining": 8,
+        "total": 8
+      },
+      {
+        "prize": 500,
+        "remaining": 8,
+        "total": 8
+      },
+      {
+        "prize": 200,
+        "remaining": 8,
+        "total": 8
+      },
+      {
+        "prize": 150,
+        "remaining": 12,
+        "total": 12
+      },
+      {
+        "prize": 100,
+        "remaining": 24,
+        "total": 24
+      },
+      {
+        "prize": 100,
+        "remaining": 88,
+        "total": 88
+      },
+      {
+        "prize": 75,
+        "remaining": 305,
+        "total": 305
+      },
+      {
+        "prize": 50,
+        "remaining": 409,
+        "total": 409
+      },
+      {
+        "prize": 50,
+        "remaining": 401,
+        "total": 401
+      },
+      {
+        "prize": 50,
+        "remaining": 1002,
+        "total": 1002
+      },
+      {
+        "prize": 30,
+        "remaining": 3359,
+        "total": 3359
+      },
+      {
+        "prize": 20,
+        "remaining": 5050,
+        "total": 5050
+      },
+      {
+        "prize": 15,
+        "remaining": 4950,
+        "total": 4950
+      },
+      {
+        "prize": 12,
+        "remaining": 4950,
+        "total": 4950
+      },
+      {
+        "prize": 9,
+        "remaining": 2497,
+        "total": 2497
+      },
+      {
+        "prize": 5,
+        "remaining": 5034,
+        "total": 5034
+      },
+      {
+        "prize": 5,
+        "remaining": 12497,
+        "total": 12497
+      },
+      {
+        "prize": 3,
+        "remaining": 105079,
+        "total": 105079
+      }
+    ]
+  },
+  {
+    "name": "Can-Am\u00ae",
+    "price": 10.0,
+    "totalTickets": 1500000,
+    "remainingTickets": 1500000,
+    "gameNumber": "",
+    "tiers": [
+      {
+        "prize": 53583,
+        "remaining": 19,
+        "total": 19
+      },
+      {
+        "prize": 50000,
+        "remaining": 19,
+        "total": 19
+      },
+      {
+        "prize": 500,
+        "remaining": 56,
+        "total": 56
+      },
+      {
+        "prize": 500,
+        "remaining": 84,
+        "total": 84
+      },
+      {
+        "prize": 500,
+        "remaining": 159,
+        "total": 159
+      },
+      {
+        "prize": 250,
+        "remaining": 149,
+        "total": 149
+      },
+      {
+        "prize": 250,
+        "remaining": 149,
+        "total": 149
+      },
+      {
+        "prize": 250,
+        "remaining": 149,
+        "total": 149
+      },
+      {
+        "prize": 250,
+        "remaining": 159,
+        "total": 159
+      },
+      {
+        "prize": 100,
+        "remaining": 2965,
+        "total": 2965
+      },
+      {
+        "prize": 100,
+        "remaining": 2294,
+        "total": 2294
+      },
+      {
+        "prize": 100,
+        "remaining": 2956,
+        "total": 2956
+      },
+      {
+        "prize": 100,
+        "remaining": 2340,
+        "total": 2340
+      },
+      {
+        "prize": 50,
+        "remaining": 3785,
+        "total": 3785
+      },
+      {
+        "prize": 50,
+        "remaining": 3823,
+        "total": 3823
+      },
+      {
+        "prize": 50,
+        "remaining": 3729,
+        "total": 3729
+      },
+      {
+        "prize": 50,
+        "remaining": 14909,
+        "total": 14909
+      },
+      {
+        "prize": 25,
+        "remaining": 75150,
+        "total": 75150
+      },
+      {
+        "prize": 25,
+        "remaining": 74925,
+        "total": 74925
+      }
+    ]
+  },
+  {
     "name": "Crossword X",
     "price": 5.0,
     "totalTickets": 1000000,
@@ -159,106 +367,101 @@
     ]
   },
   {
-    "name": "Can-Am\u00ae",
-    "price": 10.0,
-    "totalTickets": 1500000,
-    "remainingTickets": 1500000,
+    "name": "$30,000 Montana Crossword",
+    "price": 3.0,
+    "totalTickets": 600000,
+    "remainingTickets": 600000,
     "gameNumber": "",
     "tiers": [
       {
-        "prize": 53583,
-        "remaining": 19,
-        "total": 19
+        "prize": 30000,
+        "remaining": 8,
+        "total": 8
       },
       {
-        "prize": 50000,
-        "remaining": 19,
-        "total": 19
-      },
-      {
-        "prize": 500,
-        "remaining": 56,
-        "total": 56
-      },
-      {
-        "prize": 500,
-        "remaining": 84,
-        "total": 84
-      },
-      {
-        "prize": 500,
-        "remaining": 159,
-        "total": 159
+        "prize": 1000,
+        "remaining": 8,
+        "total": 8
       },
       {
         "prize": 250,
-        "remaining": 149,
-        "total": 149
+        "remaining": 16,
+        "total": 16
       },
       {
-        "prize": 250,
-        "remaining": 149,
-        "total": 149
+        "prize": 150,
+        "remaining": 199,
+        "total": 199
       },
       {
-        "prize": 250,
-        "remaining": 149,
-        "total": 149
-      },
-      {
-        "prize": 250,
-        "remaining": 159,
-        "total": 159
-      },
-      {
-        "prize": 100,
-        "remaining": 2965,
-        "total": 2965
-      },
-      {
-        "prize": 100,
-        "remaining": 2294,
-        "total": 2294
-      },
-      {
-        "prize": 100,
-        "remaining": 2956,
-        "total": 2956
-      },
-      {
-        "prize": 100,
-        "remaining": 2340,
-        "total": 2340
+        "prize": 70,
+        "remaining": 406,
+        "total": 406
       },
       {
         "prize": 50,
-        "remaining": 3785,
-        "total": 3785
+        "remaining": 596,
+        "total": 596
       },
       {
-        "prize": 50,
-        "remaining": 3823,
-        "total": 3823
+        "prize": 36,
+        "remaining": 1010,
+        "total": 1010
       },
       {
-        "prize": 50,
-        "remaining": 3729,
-        "total": 3729
+        "prize": 30,
+        "remaining": 1379,
+        "total": 1379
       },
       {
-        "prize": 50,
-        "remaining": 14909,
-        "total": 14909
+        "prize": 30,
+        "remaining": 1464,
+        "total": 1464
       },
       {
-        "prize": 25,
-        "remaining": 75150,
-        "total": 75150
+        "prize": 30,
+        "remaining": 1849,
+        "total": 1849
       },
       {
-        "prize": 25,
-        "remaining": 74925,
-        "total": 74925
+        "prize": 12,
+        "remaining": 2080,
+        "total": 2080
+      },
+      {
+        "prize": 12,
+        "remaining": 5993,
+        "total": 5993
+      },
+      {
+        "prize": 12,
+        "remaining": 3909,
+        "total": 3909
+      },
+      {
+        "prize": 6,
+        "remaining": 9899,
+        "total": 9899
+      },
+      {
+        "prize": 6,
+        "remaining": 6087,
+        "total": 6087
+      },
+      {
+        "prize": 6,
+        "remaining": 4010,
+        "total": 4010
+      },
+      {
+        "prize": 3,
+        "remaining": 30000,
+        "total": 30000
+      },
+      {
+        "prize": 3,
+        "remaining": 80000,
+        "total": 80000
       }
     ]
   },
@@ -4226,6 +4429,229 @@
         "prize": 2,
         "remaining": 54945,
         "total": 54945
+      }
+    ]
+  },
+  {
+    "name": "Monopoly\u2122 Secret Vault",
+    "price": 10.0,
+    "totalTickets": 1500000,
+    "remainingTickets": 1500000,
+    "gameNumber": "",
+    "tiers": [
+      {
+        "prize": 175000,
+        "remaining": 19,
+        "total": 19
+      },
+      {
+        "prize": 1000,
+        "remaining": 19,
+        "total": 19
+      },
+      {
+        "prize": 1000,
+        "remaining": 19,
+        "total": 19
+      },
+      {
+        "prize": 500,
+        "remaining": 93,
+        "total": 93
+      },
+      {
+        "prize": 500,
+        "remaining": 93,
+        "total": 93
+      },
+      {
+        "prize": 500,
+        "remaining": 139,
+        "total": 139
+      },
+      {
+        "prize": 200,
+        "remaining": 93,
+        "total": 93
+      },
+      {
+        "prize": 200,
+        "remaining": 93,
+        "total": 93
+      },
+      {
+        "prize": 200,
+        "remaining": 93,
+        "total": 93
+      },
+      {
+        "prize": 100,
+        "remaining": 1482,
+        "total": 1482
+      },
+      {
+        "prize": 100,
+        "remaining": 1436,
+        "total": 1436
+      },
+      {
+        "prize": 100,
+        "remaining": 1899,
+        "total": 1899
+      },
+      {
+        "prize": 100,
+        "remaining": 1973,
+        "total": 1973
+      },
+      {
+        "prize": 50,
+        "remaining": 6761,
+        "total": 6761
+      },
+      {
+        "prize": 50,
+        "remaining": 7493,
+        "total": 7493
+      },
+      {
+        "prize": 50,
+        "remaining": 9419,
+        "total": 9419
+      },
+      {
+        "prize": 50,
+        "remaining": 6826,
+        "total": 6826
+      },
+      {
+        "prize": 25,
+        "remaining": 75000,
+        "total": 75000
+      },
+      {
+        "prize": 20,
+        "remaining": 37351,
+        "total": 37351
+      },
+      {
+        "prize": 20,
+        "remaining": 37388,
+        "total": 37388
+      }
+    ]
+  },
+  {
+    "name": "Ca$h Plu$",
+    "price": 5.0,
+    "totalTickets": 1000000,
+    "remainingTickets": 1000000,
+    "gameNumber": "",
+    "tiers": [
+      {
+        "prize": 75000,
+        "remaining": 12,
+        "total": 12
+      },
+      {
+        "prize": 500,
+        "remaining": 19,
+        "total": 19
+      },
+      {
+        "prize": 500,
+        "remaining": 19,
+        "total": 19
+      },
+      {
+        "prize": 200,
+        "remaining": 50,
+        "total": 50
+      },
+      {
+        "prize": 200,
+        "remaining": 150,
+        "total": 150
+      },
+      {
+        "prize": 125,
+        "remaining": 100,
+        "total": 100
+      },
+      {
+        "prize": 125,
+        "remaining": 112,
+        "total": 112
+      },
+      {
+        "prize": 125,
+        "remaining": 137,
+        "total": 137
+      },
+      {
+        "prize": 75,
+        "remaining": 162,
+        "total": 162
+      },
+      {
+        "prize": 75,
+        "remaining": 693,
+        "total": 693
+      },
+      {
+        "prize": 50,
+        "remaining": 1036,
+        "total": 1036
+      },
+      {
+        "prize": 50,
+        "remaining": 2234,
+        "total": 2234
+      },
+      {
+        "prize": 50,
+        "remaining": 4030,
+        "total": 4030
+      },
+      {
+        "prize": 20,
+        "remaining": 1529,
+        "total": 1529
+      },
+      {
+        "prize": 20,
+        "remaining": 6052,
+        "total": 6052
+      },
+      {
+        "prize": 20,
+        "remaining": 3968,
+        "total": 3968
+      },
+      {
+        "prize": 15,
+        "remaining": 12478,
+        "total": 12478
+      },
+      {
+        "prize": 15,
+        "remaining": 12522,
+        "total": 12522
+      },
+      {
+        "prize": 10,
+        "remaining": 25000,
+        "total": 25000
+      },
+      {
+        "prize": 10,
+        "remaining": 24963,
+        "total": 24963
+      },
+      {
+        "prize": 5,
+        "remaining": 175131,
+        "total": 175131
       }
     ]
   },
