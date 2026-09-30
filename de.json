@@ -47,12 +47,12 @@
     "name": "Aces High",
     "price": 1.0,
     "totalTickets": 15384,
-    "remainingTickets": 4615,
+    "remainingTickets": 3076,
     "gameNumber": "500",
     "tiers": [
       {
         "prize": 1000,
-        "remaining": 3,
+        "remaining": 2,
         "total": 10
       }
     ],
@@ -62,12 +62,12 @@
     "name": "777",
     "price": 2.0,
     "totalTickets": 13461,
-    "remainingTickets": 7692,
+    "remainingTickets": 5769,
     "gameNumber": "517",
     "tiers": [
       {
         "prize": 2500,
-        "remaining": 4,
+        "remaining": 3,
         "total": 7
       }
     ],
@@ -254,16 +254,15 @@
     "name": "Bullseye Bingo",
     "price": 5.0,
     "totalTickets": 24615,
-    "remainingTickets": 6153,
+    "remainingTickets": 0,
     "gameNumber": "485",
     "tiers": [
       {
         "prize": 10000,
-        "remaining": 2,
+        "remaining": 0,
         "total": 8
       }
-    ],
-    "imageUrl": "https://www.delottery.com/Content/images/instant-lottery/DE485CVv7.jpg"
+    ]
   },
   {
     "name": "$25,000 LUCKY DOG",
@@ -327,12 +326,12 @@
     "name": "$50 & $100",
     "price": 10.0,
     "totalTickets": 115553,
-    "remainingTickets": 28415,
+    "remainingTickets": 26107,
     "gameNumber": "503",
     "tiers": [
       {
         "prize": 100,
-        "remaining": 1847,
+        "remaining": 1697,
         "total": 7511
       }
     ],
@@ -342,12 +341,12 @@
     "name": "$24K GOLD RUSH",
     "price": 10.0,
     "totalTickets": 36923,
-    "remainingTickets": 25846,
+    "remainingTickets": 22153,
     "gameNumber": "502",
     "tiers": [
       {
         "prize": 24000,
-        "remaining": 7,
+        "remaining": 6,
         "total": 10
       }
     ],
@@ -387,12 +386,12 @@
     "name": "$50,000 Crossword",
     "price": 10.0,
     "totalTickets": 30769,
-    "remainingTickets": 15384,
+    "remainingTickets": 7692,
     "gameNumber": "467",
     "tiers": [
       {
         "prize": 50000,
-        "remaining": 2,
+        "remaining": 1,
         "total": 4
       }
     ],
@@ -522,12 +521,12 @@
     "name": "FIRST STATE $250 BLOWOUT",
     "price": 25.0,
     "totalTickets": 166153,
-    "remainingTickets": 123737,
+    "remainingTickets": 121307,
     "gameNumber": "522",
     "tiers": [
       {
         "prize": 250,
-        "remaining": 8043,
+        "remaining": 7885,
         "total": 10800
       }
     ],
