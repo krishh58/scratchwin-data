@@ -1,5 +1,20 @@
 [
   {
+    "name": "7-11-21",
+    "price": 1.0,
+    "totalTickets": 18461,
+    "remainingTickets": 18461,
+    "gameNumber": "523",
+    "tiers": [
+      {
+        "prize": 2000,
+        "remaining": 6,
+        "total": 6
+      }
+    ],
+    "imageUrl": "https://www.delottery.com/Content/images/instant-lottery/DE523CVv6.jpg"
+  },
+  {
     "name": "MONOPOLY 5X",
     "price": 1.0,
     "totalTickets": 10769,
@@ -57,6 +72,21 @@
       }
     ],
     "imageUrl": "https://www.delottery.com/Content/images/instant-lottery/D500CVV4.jpg"
+  },
+  {
+    "name": "Jumbo Bucks Emerald",
+    "price": 2.0,
+    "totalTickets": 13846,
+    "remainingTickets": 13846,
+    "gameNumber": "542",
+    "tiers": [
+      {
+        "prize": 3000,
+        "remaining": 6,
+        "total": 6
+      }
+    ],
+    "imageUrl": "https://www.delottery.com/Content/images/instant-lottery/DE542_CV_V5.jpg"
   },
   {
     "name": "777",
@@ -117,6 +147,21 @@
       }
     ],
     "imageUrl": "https://www.delottery.com/Content/images/instant-lottery/DE483CVV9-S1.jpg"
+  },
+  {
+    "name": "Pay Raise",
+    "price": 5.0,
+    "totalTickets": 30769,
+    "remainingTickets": 30769,
+    "gameNumber": "533",
+    "tiers": [
+      {
+        "prize": 50000,
+        "remaining": 2,
+        "total": 2
+      }
+    ],
+    "imageUrl": "https://www.delottery.com/Content/images/instant-lottery/DE533CVV3.jpg"
   },
   {
     "name": "Deluxe Bucks",
