@@ -1,9 +1,24 @@
 [
   {
+    "name": "RETRO-BLACK-DUCK-ELECTRIC KENO",
+    "price": 10.0,
+    "totalTickets": 4,
+    "remainingTickets": 4,
+    "gameNumber": "1278",
+    "tiers": [
+      {
+        "prize": 75000,
+        "remaining": 1,
+        "total": 1
+      }
+    ],
+    "imageUrl": "https://images.ctfassets.net/nm98451qj5dg/6iwS20fzAh97UkXk18MvnT/4b877c3902c7de3bf3f113744b87f8a0/1278_P1_4x4.jpg"
+  },
+  {
     "name": "DOUGH-BEE-DILL-KING KENO",
     "price": 2.0,
     "totalTickets": 2769629,
-    "remainingTickets": 2748040,
+    "remainingTickets": 2741311,
     "gameNumber": "1280",
     "tiers": [
       {
@@ -33,71 +48,41 @@
       },
       {
         "prize": 50,
-        "remaining": 13290,
+        "remaining": 13257,
         "total": 13396
       },
       {
         "prize": 25,
-        "remaining": 6830,
+        "remaining": 6812,
         "total": 6893
       },
       {
         "prize": 20,
-        "remaining": 27438,
+        "remaining": 27362,
         "total": 27690
       },
       {
         "prize": 10,
-        "remaining": 54935,
+        "remaining": 54783,
         "total": 55388
       },
       {
         "prize": 5,
-        "remaining": 137199,
+        "remaining": 136851,
         "total": 138281
       },
       {
         "prize": 4,
-        "remaining": 75463,
+        "remaining": 75265,
         "total": 76074
       },
       {
         "prize": 2,
-        "remaining": 247165,
+        "remaining": 246611,
         "total": 249012
       }
     ],
     "imageUrl": "https://images.ctfassets.net/nm98451qj5dg/4PBu4IIo6khaOwr3p9GQRb/99dbe43f6375b71ac7b056c12aad0363/1280_P1_4x4.jpg"
-  },
-  {
-    "name": "RETRO-BLACK-DUCK-ELECTRIC KENO",
-    "price": 10.0,
-    "totalTickets": 4,
-    "remainingTickets": 4,
-    "gameNumber": "1278",
-    "tiers": [
-      {
-        "prize": 75000,
-        "remaining": 1,
-        "total": 1
-      }
-    ],
-    "imageUrl": "https://images.ctfassets.net/nm98451qj5dg/6iwS20fzAh97UkXk18MvnT/4b877c3902c7de3bf3f113744b87f8a0/1278_P1_4x4.jpg"
-  },
-  {
-    "name": "MOTHMAN FORTUNE-MERRY LITTLE CRYPTIDS",
-    "price": 5.0,
-    "totalTickets": 1,
-    "remainingTickets": 1,
-    "gameNumber": "1269",
-    "tiers": [
-      {
-        "prize": 2000,
-        "remaining": 1,
-        "total": 1
-      }
-    ],
-    "imageUrl": "https://images.ctfassets.net/nm98451qj5dg/Oug0ENka8OYnsUonSg0u2/b0b482b8298b9c7283cdec4360a49e50/1269_P1_4x4.png"
   },
   {
     "name": "PURRFECT CASH - 7 ELVES",
@@ -113,6 +98,21 @@
       }
     ],
     "imageUrl": "https://images.ctfassets.net/nm98451qj5dg/6cHmWQGOuu2ERGqIXT9CHl/30184107c6c20d2d461e9d9f3e2a88b2/1271_P1_4x4.png"
+  },
+  {
+    "name": "MOTHMAN FORTUNE-MERRY LITTLE CRYPTIDS",
+    "price": 5.0,
+    "totalTickets": 1,
+    "remainingTickets": 1,
+    "gameNumber": "1269",
+    "tiers": [
+      {
+        "prize": 2000,
+        "remaining": 1,
+        "total": 1
+      }
+    ],
+    "imageUrl": "https://images.ctfassets.net/nm98451qj5dg/Oug0ENka8OYnsUonSg0u2/b0b482b8298b9c7283cdec4360a49e50/1269_P1_4x4.png"
   },
   {
     "name": "LUCKY WITCH-LUCKY ELF",
@@ -160,21 +160,6 @@
     "imageUrl": "https://images.ctfassets.net/nm98451qj5dg/7hXq1h44xWKQXy3d6lUDHG/af6a138d88fe0dd8a07a944e6db0a409/1261_4x4.jpg"
   },
   {
-    "name": "BRINGING SIX BACK",
-    "price": 10.0,
-    "totalTickets": 4,
-    "remainingTickets": 4,
-    "gameNumber": "1262",
-    "tiers": [
-      {
-        "prize": 60000,
-        "remaining": 1,
-        "total": 1
-      }
-    ],
-    "imageUrl": "https://images.ctfassets.net/nm98451qj5dg/3qweEhOzhuNzvZDyuDo3G0/3177c2de80bf055bee276645b3af4f52/1262_4x4.png"
-  },
-  {
     "name": "I CAN'T EVEN 5",
     "price": 5.0,
     "totalTickets": 4,
@@ -190,10 +175,40 @@
     "imageUrl": "https://images.ctfassets.net/nm98451qj5dg/5nWyWnogwD2jjPoI7fNyuo/d56361736e15bad11ce08afe4208b398/1263_4x4.jpg"
   },
   {
+    "name": "BRINGING SIX BACK",
+    "price": 10.0,
+    "totalTickets": 4,
+    "remainingTickets": 4,
+    "gameNumber": "1262",
+    "tiers": [
+      {
+        "prize": 60000,
+        "remaining": 1,
+        "total": 1
+      }
+    ],
+    "imageUrl": "https://images.ctfassets.net/nm98451qj5dg/3qweEhOzhuNzvZDyuDo3G0/3177c2de80bf055bee276645b3af4f52/1262_4x4.png"
+  },
+  {
+    "name": "THE CASH GAME - GO BIG MONEY",
+    "price": 10.0,
+    "totalTickets": 4,
+    "remainingTickets": 4,
+    "gameNumber": "1274",
+    "tiers": [
+      {
+        "prize": 50000,
+        "remaining": 1,
+        "total": 1
+      }
+    ],
+    "imageUrl": "https://images.ctfassets.net/nm98451qj5dg/5sIKDfHs375UjD9Y7maolR/4d127318becc1e0b2015a4b477c0eb62/1274_P1_4x4.jpg"
+  },
+  {
     "name": "GEMS & BLOCKS - WV POP!",
     "price": 5.0,
     "totalTickets": 691072,
-    "remainingTickets": 487532,
+    "remainingTickets": 486030,
     "gameNumber": "1259",
     "tiers": [
       {
@@ -208,32 +223,32 @@
       },
       {
         "prize": 100,
-        "remaining": 1193,
+        "remaining": 1192,
         "total": 1731
       },
       {
         "prize": 50,
-        "remaining": 5823,
+        "remaining": 5809,
         "total": 8361
       },
       {
         "prize": 25,
-        "remaining": 15153,
+        "remaining": 15105,
         "total": 21604
       },
       {
         "prize": 15,
-        "remaining": 9110,
+        "remaining": 9081,
         "total": 12937
       },
       {
         "prize": 10,
-        "remaining": 30444,
+        "remaining": 30337,
         "total": 43183
       },
       {
         "prize": 5,
-        "remaining": 44425,
+        "remaining": 44296,
         "total": 62653
       }
     ],
@@ -243,7 +258,7 @@
     "name": "PICKLE-GRAFFITI-BOW WOW-JALAPENO KENO",
     "price": 5.0,
     "totalTickets": 1255417,
-    "remainingTickets": 1010405,
+    "remainingTickets": 1007072,
     "gameNumber": "1267",
     "tiers": [
       {
@@ -268,72 +283,57 @@
       },
       {
         "prize": 200,
-        "remaining": 479,
+        "remaining": 478,
         "total": 603
       },
       {
         "prize": 100,
-        "remaining": 5000,
+        "remaining": 4982,
         "total": 6265
       },
       {
         "prize": 50,
-        "remaining": 4005,
+        "remaining": 3987,
         "total": 5037
       },
       {
         "prize": 30,
-        "remaining": 10427,
+        "remaining": 10390,
         "total": 13030
       },
       {
         "prize": 25,
-        "remaining": 9411,
+        "remaining": 9376,
         "total": 11766
       },
       {
         "prize": 20,
-        "remaining": 12553,
+        "remaining": 12518,
         "total": 15765
       },
       {
         "prize": 15,
-        "remaining": 40852,
+        "remaining": 40707,
         "total": 51039
       },
       {
         "prize": 10,
-        "remaining": 44179,
+        "remaining": 44047,
         "total": 54984
       },
       {
         "prize": 5,
-        "remaining": 111262,
+        "remaining": 110897,
         "total": 137433
       }
     ],
     "imageUrl": "https://images.ctfassets.net/nm98451qj5dg/1T6M2rMlnbd27UNYflpypr/c76bdf7fae9e7f2f47d3318d1c0f5f90/1267_P2_4x4.jpg"
   },
   {
-    "name": "THE CASH GAME - GO BIG MONEY",
-    "price": 10.0,
-    "totalTickets": 4,
-    "remainingTickets": 4,
-    "gameNumber": "1274",
-    "tiers": [
-      {
-        "prize": 50000,
-        "remaining": 1,
-        "total": 1
-      }
-    ],
-    "imageUrl": "https://images.ctfassets.net/nm98451qj5dg/5sIKDfHs375UjD9Y7maolR/4d127318becc1e0b2015a4b477c0eb62/1274_P1_4x4.jpg"
-  },
-  {
     "name": "COCKY-ENCOUNTERS CROSSWORD",
     "price": 5.0,
     "totalTickets": 1259076,
-    "remainingTickets": 1006104,
+    "remainingTickets": 1005692,
     "gameNumber": "1258",
     "tiers": [
       {
@@ -358,32 +358,32 @@
       },
       {
         "prize": 50,
-        "remaining": 10167,
+        "remaining": 10160,
         "total": 12763
       },
       {
         "prize": 25,
-        "remaining": 22010,
+        "remaining": 22001,
         "total": 27554
       },
       {
         "prize": 20,
-        "remaining": 28182,
+        "remaining": 28172,
         "total": 35428
       },
       {
         "prize": 15,
-        "remaining": 40801,
+        "remaining": 40787,
         "total": 51169
       },
       {
         "prize": 10,
-        "remaining": 40809,
+        "remaining": 40794,
         "total": 51166
       },
       {
         "prize": 5,
-        "remaining": 100995,
+        "remaining": 100950,
         "total": 125966
       }
     ],
@@ -422,14 +422,49 @@
   {
     "name": "LION'S SHARE",
     "price": 10.0,
-    "totalTickets": 4,
-    "remainingTickets": 4,
+    "totalTickets": 532784,
+    "remainingTickets": 302103,
     "gameNumber": "1255",
     "tiers": [
       {
         "prize": 50000,
-        "remaining": 1,
-        "total": 1
+        "remaining": 2,
+        "total": 3
+      },
+      {
+        "prize": 5000,
+        "remaining": 5,
+        "total": 10
+      },
+      {
+        "prize": 500,
+        "remaining": 100,
+        "total": 175
+      },
+      {
+        "prize": 100,
+        "remaining": 3991,
+        "total": 7161
+      },
+      {
+        "prize": 50,
+        "remaining": 8924,
+        "total": 15995
+      },
+      {
+        "prize": 30,
+        "remaining": 11941,
+        "total": 21328
+      },
+      {
+        "prize": 20,
+        "remaining": 19599,
+        "total": 34692
+      },
+      {
+        "prize": 10,
+        "remaining": 33703,
+        "total": 58663
       }
     ],
     "imageUrl": "https://images.ctfassets.net/nm98451qj5dg/3LHzxbjkIqByXuPxRaixiA/1392e0816c29dfa330b86edad5931134/1255_4x4.png"
@@ -438,7 +473,7 @@
     "name": "TACO - BREW MATCH",
     "price": 5.0,
     "totalTickets": 753780,
-    "remainingTickets": 306669,
+    "remainingTickets": 303484,
     "gameNumber": "1260",
     "tiers": [
       {
@@ -448,7 +483,7 @@
       },
       {
         "prize": 1000,
-        "remaining": 6,
+        "remaining": 5,
         "total": 9
       },
       {
@@ -458,7 +493,7 @@
       },
       {
         "prize": 200,
-        "remaining": 76,
+        "remaining": 75,
         "total": 190
       },
       {
@@ -468,42 +503,42 @@
       },
       {
         "prize": 100,
-        "remaining": 758,
+        "remaining": 749,
         "total": 1893
       },
       {
         "prize": 75,
-        "remaining": 925,
+        "remaining": 920,
         "total": 2268
       },
       {
         "prize": 50,
-        "remaining": 3075,
+        "remaining": 3041,
         "total": 7566
       },
       {
         "prize": 25,
-        "remaining": 4734,
+        "remaining": 4693,
         "total": 11792
       },
       {
         "prize": 20,
-        "remaining": 5540,
+        "remaining": 5488,
         "total": 14128
       },
       {
         "prize": 15,
-        "remaining": 5587,
+        "remaining": 5524,
         "total": 14111
       },
       {
         "prize": 10,
-        "remaining": 19057,
+        "remaining": 18856,
         "total": 47185
       },
       {
         "prize": 5,
-        "remaining": 31262,
+        "remaining": 30930,
         "total": 75441
       }
     ],
@@ -513,7 +548,7 @@
     "name": "BUG - WAVE - ORANGE - HONEY 7s",
     "price": 2.0,
     "totalTickets": 2773358,
-    "remainingTickets": 2060838,
+    "remainingTickets": 2060312,
     "gameNumber": "1256",
     "tiers": [
       {
@@ -533,52 +568,52 @@
       },
       {
         "prize": 70,
-        "remaining": 968,
+        "remaining": 967,
         "total": 1315
       },
       {
         "prize": 21,
-        "remaining": 15272,
+        "remaining": 15267,
         "total": 20776
       },
       {
         "prize": 14,
-        "remaining": 10232,
+        "remaining": 10230,
         "total": 13860
       },
       {
         "prize": 12,
-        "remaining": 25499,
+        "remaining": 25493,
         "total": 34621
       },
       {
         "prize": 10,
-        "remaining": 56033,
+        "remaining": 56021,
         "total": 76194
       },
       {
         "prize": 7,
-        "remaining": 30726,
+        "remaining": 30717,
         "total": 41543
       },
       {
         "prize": 6,
-        "remaining": 30791,
+        "remaining": 30786,
         "total": 41563
       },
       {
         "prize": 4,
-        "remaining": 61830,
+        "remaining": 61811,
         "total": 83138
       },
       {
         "prize": 3,
-        "remaining": 108522,
+        "remaining": 108491,
         "total": 145431
       },
       {
         "prize": 2,
-        "remaining": 83158,
+        "remaining": 83140,
         "total": 110847
       }
     ],
@@ -600,25 +635,10 @@
     "imageUrl": "https://images.ctfassets.net/nm98451qj5dg/57HHSfbT841pFOwGUkRNSV/27bcfb6804fccc891c2a8ae93be6b86e/1264_P2_4x4.jpg"
   },
   {
-    "name": "POWER-CAKE-VIBES-SPIN",
-    "price": 30.0,
-    "totalTickets": 4,
-    "remainingTickets": 4,
-    "gameNumber": "1266",
-    "tiers": [
-      {
-        "prize": 5000,
-        "remaining": 1,
-        "total": 1
-      }
-    ],
-    "imageUrl": "https://images.ctfassets.net/nm98451qj5dg/6e2AZsYnFZMJVbJtX2PxPr/ccb37881bb9149060569b6db15bbecc8/1266_P2_4x4.jpg"
-  },
-  {
     "name": "BIG 7s - JUNGLE-LEGENDARY-RUST-INFINITE",
     "price": 5.0,
     "totalTickets": 1509376,
-    "remainingTickets": 1019570,
+    "remainingTickets": 1016267,
     "gameNumber": "1244",
     "tiers": [
       {
@@ -643,41 +663,56 @@
       },
       {
         "prize": 70,
-        "remaining": 2080,
+        "remaining": 2073,
         "total": 3131
       },
       {
         "prize": 50,
-        "remaining": 18049,
+        "remaining": 17981,
         "total": 26995
       },
       {
         "prize": 25,
-        "remaining": 31611,
+        "remaining": 31510,
         "total": 47196
       },
       {
         "prize": 21,
-        "remaining": 9457,
+        "remaining": 9422,
         "total": 14155
       },
       {
         "prize": 14,
-        "remaining": 12671,
+        "remaining": 12621,
         "total": 18883
       },
       {
         "prize": 7,
-        "remaining": 60535,
+        "remaining": 60355,
         "total": 89763
       },
       {
         "prize": 5,
-        "remaining": 102822,
+        "remaining": 102493,
         "total": 151063
       }
     ],
     "imageUrl": "https://images.ctfassets.net/nm98451qj5dg/3fVM0MZCKi7YgK2erjBYX5/ce5e0df563becaaa5dc3586b6e61f70b/1244_P2_4x4.jpg"
+  },
+  {
+    "name": "POWER-CAKE-VIBES-SPIN",
+    "price": 30.0,
+    "totalTickets": 4,
+    "remainingTickets": 4,
+    "gameNumber": "1266",
+    "tiers": [
+      {
+        "prize": 5000,
+        "remaining": 1,
+        "total": 1
+      }
+    ],
+    "imageUrl": "https://images.ctfassets.net/nm98451qj5dg/6e2AZsYnFZMJVbJtX2PxPr/ccb37881bb9149060569b6db15bbecc8/1266_P2_4x4.jpg"
   },
   {
     "name": "MONEY MONEY MONEY - IN THE GREEN",
@@ -695,19 +730,19 @@
     "imageUrl": "https://images.ctfassets.net/nm98451qj5dg/4vxgTOeQGoGMwhEmbUcUF5/004881c6f4bcba177c33b98e44c91bb1/1276_P2_4x4.png"
   },
   {
-    "name": "BLACKJACK - WILD CARD",
-    "price": 5.0,
-    "totalTickets": 6,
-    "remainingTickets": 6,
-    "gameNumber": "1272",
+    "name": "DOGGIE-POOL-CAT-CASH",
+    "price": 10.0,
+    "totalTickets": 4,
+    "remainingTickets": 4,
+    "gameNumber": "1273",
     "tiers": [
       {
-        "prize": 10000,
+        "prize": 500,
         "remaining": 1,
         "total": 1
       }
     ],
-    "imageUrl": "https://images.ctfassets.net/nm98451qj5dg/3BnnCzN7wIBnTW3t6K3voG/16f60cfda901279d41dd8ddab5b52811/1272_P2_4x4.jpg"
+    "imageUrl": "https://images.ctfassets.net/nm98451qj5dg/1BwZkJPZz3eg05wwSQMbYL/b537ab8ba94d577f046cdb481cdc63f2/image__21_.png"
   },
   {
     "name": "KICKIN AX - BIG TRUCKIN CW",
@@ -725,6 +760,21 @@
     "imageUrl": "https://images.ctfassets.net/nm98451qj5dg/HYb8gOJduR7YXhiD0OPFp/eae3afe4c416f1487c118d011442c2a0/1252_P2_4x4.png"
   },
   {
+    "name": "BLACKJACK - WILD CARD",
+    "price": 5.0,
+    "totalTickets": 6,
+    "remainingTickets": 6,
+    "gameNumber": "1272",
+    "tiers": [
+      {
+        "prize": 10000,
+        "remaining": 1,
+        "total": 1
+      }
+    ],
+    "imageUrl": "https://images.ctfassets.net/nm98451qj5dg/3BnnCzN7wIBnTW3t6K3voG/16f60cfda901279d41dd8ddab5b52811/1272_P2_4x4.jpg"
+  },
+  {
     "name": "CHERRIES-GEMS-GREEN-ELECTRIC ST",
     "price": 10.0,
     "totalTickets": 4,
@@ -738,21 +788,6 @@
       }
     ],
     "imageUrl": "https://images.ctfassets.net/nm98451qj5dg/5GRVnITVDCxZ2TUIQt1zNh/b05d93b682aa40c452e3f3cbe9fd91e1/1253_P2_4x4.jpg"
-  },
-  {
-    "name": "DOGGIE-POOL-CAT-CASH",
-    "price": 10.0,
-    "totalTickets": 4,
-    "remainingTickets": 4,
-    "gameNumber": "1273",
-    "tiers": [
-      {
-        "prize": 500,
-        "remaining": 1,
-        "total": 1
-      }
-    ],
-    "imageUrl": "https://images.ctfassets.net/nm98451qj5dg/1BwZkJPZz3eg05wwSQMbYL/b537ab8ba94d577f046cdb481cdc63f2/image__21_.png"
   },
   {
     "name": "WILD SIDE - POWER $500",
@@ -785,21 +820,6 @@
     "imageUrl": "https://images.ctfassets.net/nm98451qj5dg/1n7UX0CRABlvV1ojxcDWKs/bcab4f4b62a487bffdef227fdcb426c8/image__7_.webp"
   },
   {
-    "name": "CELEBRATE 40 5X",
-    "price": 5.0,
-    "totalTickets": 4,
-    "remainingTickets": 4,
-    "gameNumber": "1247",
-    "tiers": [
-      {
-        "prize": 50000,
-        "remaining": 1,
-        "total": 1
-      }
-    ],
-    "imageUrl": "https://images.ctfassets.net/nm98451qj5dg/5VLn7TU0XmUVK6xS42KuXu/504e696c58de487a8861a1c76e3a3025/1247_4x4_2.jpg"
-  },
-  {
     "name": "CELEBRATE 40 3X",
     "price": 2.0,
     "totalTickets": 5,
@@ -815,19 +835,34 @@
     "imageUrl": "https://images.ctfassets.net/nm98451qj5dg/48W4ajoxY7hdgLzT29hyIC/0e67cf69b84c3b926a9f6a05b397917f/1248_4x4_2.jpg"
   },
   {
-    "name": "CELEBRATE 40 20X",
-    "price": 20.0,
-    "totalTickets": 4,
-    "remainingTickets": 4,
-    "gameNumber": "1245",
+    "name": "CELEBRATE 40 2X",
+    "price": 1.0,
+    "totalTickets": 5,
+    "remainingTickets": 5,
+    "gameNumber": "1249",
     "tiers": [
       {
-        "prize": 100000,
+        "prize": 5000,
         "remaining": 1,
         "total": 1
       }
     ],
-    "imageUrl": "https://images.ctfassets.net/nm98451qj5dg/5I3zJV8j7L1c4f3Fry2QIs/905c3699b07bf0184eb90b4d7a49f81c/1245_4x4.jpeg"
+    "imageUrl": "https://images.ctfassets.net/nm98451qj5dg/1EI1jdv2Tdl4gsGL6rL8u2/8c603aba1ee2f670aee0390f412ae431/1249_4x4.jpg"
+  },
+  {
+    "name": "CELEBRATE 40 5X",
+    "price": 5.0,
+    "totalTickets": 4,
+    "remainingTickets": 4,
+    "gameNumber": "1247",
+    "tiers": [
+      {
+        "prize": 50000,
+        "remaining": 1,
+        "total": 1
+      }
+    ],
+    "imageUrl": "https://images.ctfassets.net/nm98451qj5dg/5VLn7TU0XmUVK6xS42KuXu/504e696c58de487a8861a1c76e3a3025/1247_4x4_2.jpg"
   },
   {
     "name": "CELEBRATE 40 10X",
@@ -845,19 +880,19 @@
     "imageUrl": "https://images.ctfassets.net/nm98451qj5dg/7CwI2YxxSK9np2SoquAmgT/0b7b82b6510e857ea2383f21e23006a4/1246_4x4.jpg"
   },
   {
-    "name": "CELEBRATE 40 2X",
-    "price": 1.0,
-    "totalTickets": 5,
-    "remainingTickets": 5,
-    "gameNumber": "1249",
+    "name": "CELEBRATE 40 20X",
+    "price": 20.0,
+    "totalTickets": 4,
+    "remainingTickets": 4,
+    "gameNumber": "1245",
     "tiers": [
       {
-        "prize": 5000,
+        "prize": 100000,
         "remaining": 1,
         "total": 1
       }
     ],
-    "imageUrl": "https://images.ctfassets.net/nm98451qj5dg/1EI1jdv2Tdl4gsGL6rL8u2/8c603aba1ee2f670aee0390f412ae431/1249_4x4.jpg"
+    "imageUrl": "https://images.ctfassets.net/nm98451qj5dg/5I3zJV8j7L1c4f3Fry2QIs/905c3699b07bf0184eb90b4d7a49f81c/1245_4x4.jpeg"
   },
   {
     "name": "DRAGON BLAST - UNDERWATER KENO",
@@ -877,14 +912,44 @@
   {
     "name": "YO MONEY - CA$H",
     "price": 5.0,
-    "totalTickets": 4,
-    "remainingTickets": 4,
+    "totalTickets": 767370,
+    "remainingTickets": 199651,
     "gameNumber": "1250",
     "tiers": [
       {
         "prize": 20000,
         "remaining": 1,
-        "total": 1
+        "total": 3
+      },
+      {
+        "prize": 200,
+        "remaining": 66,
+        "total": 288
+      },
+      {
+        "prize": 100,
+        "remaining": 477,
+        "total": 1954
+      },
+      {
+        "prize": 50,
+        "remaining": 2873,
+        "total": 11990
+      },
+      {
+        "prize": 20,
+        "remaining": 5842,
+        "total": 23935
+      },
+      {
+        "prize": 10,
+        "remaining": 22209,
+        "total": 86184
+      },
+      {
+        "prize": 5,
+        "remaining": 17109,
+        "total": 62354
       }
     ],
     "imageUrl": "https://images.ctfassets.net/nm98451qj5dg/5THwZ4fbXCXJShY7sp84pT/d32c8b06d8b95af1d5bf7d0c95ec1cc6/1250_P2_4x4.jpg"
@@ -907,59 +972,14 @@
   {
     "name": "$$300 GRAND",
     "price": 30.0,
-    "totalTickets": 723253,
-    "remainingTickets": 438132,
+    "totalTickets": 3,
+    "remainingTickets": 3,
     "gameNumber": "1251",
     "tiers": [
       {
         "prize": 300000,
-        "remaining": 3,
-        "total": 3
-      },
-      {
-        "prize": 30000,
-        "remaining": 3,
-        "total": 4
-      },
-      {
-        "prize": 3000,
-        "remaining": 7,
-        "total": 12
-      },
-      {
-        "prize": 500,
-        "remaining": 237,
-        "total": 390
-      },
-      {
-        "prize": 300,
-        "remaining": 3053,
-        "total": 5064
-      },
-      {
-        "prize": 150,
-        "remaining": 10991,
-        "total": 18115
-      },
-      {
-        "prize": 100,
-        "remaining": 10923,
-        "total": 18099
-      },
-      {
-        "prize": 80,
-        "remaining": 21964,
-        "total": 36214
-      },
-      {
-        "prize": 50,
-        "remaining": 43755,
-        "total": 72417
-      },
-      {
-        "prize": 30,
-        "remaining": 49491,
-        "total": 81494
+        "remaining": 1,
+        "total": 1
       }
     ],
     "imageUrl": "https://images.ctfassets.net/nm98451qj5dg/Mdi3wTC9V52C3VmiSuG1u/83abbe1683389324ba422469b1b76bd5/1251_P2_4x4.jpg"
@@ -968,7 +988,7 @@
     "name": "KENO - Truck-Scoops-Green-Primo",
     "price": 2.0,
     "totalTickets": 566542,
-    "remainingTickets": 207052,
+    "remainingTickets": 206575,
     "gameNumber": "1230",
     "tiers": [
       {
@@ -998,37 +1018,37 @@
       },
       {
         "prize": 50,
-        "remaining": 4441,
+        "remaining": 4432,
         "total": 13380
       },
       {
         "prize": 25,
-        "remaining": 2433,
+        "remaining": 2428,
         "total": 6878
       },
       {
         "prize": 20,
-        "remaining": 9416,
+        "remaining": 9402,
         "total": 27647
       },
       {
         "prize": 10,
-        "remaining": 19124,
+        "remaining": 19097,
         "total": 55289
       },
       {
         "prize": 5,
-        "remaining": 49735,
+        "remaining": 49623,
         "total": 138005
       },
       {
         "prize": 4,
-        "remaining": 27919,
+        "remaining": 27842,
         "total": 75962
       },
       {
         "prize": 2,
-        "remaining": 93691,
+        "remaining": 93458,
         "total": 248571
       }
     ],

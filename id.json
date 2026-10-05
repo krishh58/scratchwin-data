@@ -1,5 +1,105 @@
 [
   {
+    "name": "Starry Night",
+    "price": 10.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "1935",
+    "tiers": [
+      {
+        "prize": 100000,
+        "remaining": 2,
+        "total": 2
+      },
+      {
+        "prize": 10000,
+        "remaining": 5,
+        "total": 5
+      },
+      {
+        "prize": 5000,
+        "remaining": 6,
+        "total": 6
+      },
+      {
+        "prize": 1000,
+        "remaining": 7,
+        "total": 7
+      },
+      {
+        "prize": 500,
+        "remaining": 74,
+        "total": 74
+      },
+      {
+        "prize": 200,
+        "remaining": 171,
+        "total": 171
+      },
+      {
+        "prize": 100,
+        "remaining": 1706,
+        "total": 1706
+      },
+      {
+        "prize": 50,
+        "remaining": 8231,
+        "total": 8231
+      },
+      {
+        "prize": 30,
+        "remaining": 7295,
+        "total": 7295
+      }
+    ],
+    "imageUrl": "http://d2kx0heugfrx3y.cloudfront.net/2026-10/1935_thumbnail.jpg"
+  },
+  {
+    "name": "Elfin' Rich",
+    "price": 5.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "1934",
+    "tiers": [
+      {
+        "prize": 50000,
+        "remaining": 2,
+        "total": 2
+      },
+      {
+        "prize": 1000,
+        "remaining": 4,
+        "total": 4
+      },
+      {
+        "prize": 500,
+        "remaining": 6,
+        "total": 6
+      },
+      {
+        "prize": 100,
+        "remaining": 75,
+        "total": 75
+      },
+      {
+        "prize": 50,
+        "remaining": 3979,
+        "total": 3979
+      },
+      {
+        "prize": 30,
+        "remaining": 2412,
+        "total": 2412
+      },
+      {
+        "prize": 25,
+        "remaining": 18354,
+        "total": 18354
+      }
+    ],
+    "imageUrl": "http://d2kx0heugfrx3y.cloudfront.net/2026-10/1934_thumbnail.jpg"
+  },
+  {
     "name": "Lady Luck 777",
     "price": 10.0,
     "totalTickets": 0,
@@ -33,33 +133,33 @@
       },
       {
         "prize": 500,
-        "remaining": 565,
-        "total": 565
+        "remaining": 561,
+        "total": 561
       },
       {
         "prize": 100,
-        "remaining": 2664,
-        "total": 2664
+        "remaining": 2645,
+        "total": 2645
       },
       {
         "prize": 77,
-        "remaining": 3917,
-        "total": 3917
+        "remaining": 3889,
+        "total": 3889
       },
       {
         "prize": 50,
-        "remaining": 8796,
-        "total": 8796
+        "remaining": 8738,
+        "total": 8738
       },
       {
         "prize": 27,
-        "remaining": 5177,
-        "total": 5177
+        "remaining": 5146,
+        "total": 5146
       },
       {
         "prize": 25,
-        "remaining": 35278,
-        "total": 35278
+        "remaining": 35047,
+        "total": 35047
       }
     ],
     "imageUrl": "http://d2kx0heugfrx3y.cloudfront.net/2026-09/1930_thumbnail.jpg"
@@ -88,38 +188,38 @@
       },
       {
         "prize": 500,
-        "remaining": 808,
-        "total": 808
+        "remaining": 804,
+        "total": 804
       },
       {
         "prize": 250,
-        "remaining": 1659,
-        "total": 1659
+        "remaining": 1650,
+        "total": 1650
       },
       {
         "prize": 100,
-        "remaining": 10372,
-        "total": 10372
+        "remaining": 10325,
+        "total": 10325
       },
       {
         "prize": 75,
-        "remaining": 4518,
-        "total": 4518
+        "remaining": 4498,
+        "total": 4498
       },
       {
         "prize": 50,
-        "remaining": 12229,
-        "total": 12229
+        "remaining": 12175,
+        "total": 12175
       },
       {
         "prize": 30,
-        "remaining": 6711,
-        "total": 6711
+        "remaining": 6673,
+        "total": 6673
       },
       {
         "prize": 25,
-        "remaining": 41690,
-        "total": 41690
+        "remaining": 41503,
+        "total": 41503
       }
     ],
     "imageUrl": "http://d2kx0heugfrx3y.cloudfront.net/2026-09/1940_thumbnail.jpg"
@@ -158,33 +258,33 @@
       },
       {
         "prize": 500,
-        "remaining": 4322,
-        "total": 4322
+        "remaining": 4309,
+        "total": 4309
       },
       {
         "prize": 300,
-        "remaining": 5225,
-        "total": 5225
+        "remaining": 5208,
+        "total": 5208
       },
       {
         "prize": 200,
-        "remaining": 12714,
-        "total": 12714
+        "remaining": 12676,
+        "total": 12676
       },
       {
         "prize": 150,
-        "remaining": 7901,
-        "total": 7901
+        "remaining": 7878,
+        "total": 7878
       },
       {
         "prize": 100,
-        "remaining": 46115,
-        "total": 46115
+        "remaining": 45969,
+        "total": 45969
       },
       {
         "prize": 50,
-        "remaining": 112769,
-        "total": 112769
+        "remaining": 112434,
+        "total": 112434
       }
     ],
     "imageUrl": "http://d2kx0heugfrx3y.cloudfront.net/2026-09/1919_thumbnail.jpg"
@@ -208,18 +308,18 @@
       },
       {
         "prize": 500,
-        "remaining": 225,
-        "total": 225
+        "remaining": 224,
+        "total": 224
       },
       {
         "prize": 100,
-        "remaining": 542,
-        "total": 542
+        "remaining": 536,
+        "total": 536
       },
       {
         "prize": 50,
-        "remaining": 5399,
-        "total": 5399
+        "remaining": 5354,
+        "total": 5354
       }
     ],
     "imageUrl": "http://d2kx0heugfrx3y.cloudfront.net/2026-09/1918_thumbnail.jpg"
@@ -253,8 +353,8 @@
       },
       {
         "prize": 500,
-        "remaining": 67,
-        "total": 67
+        "remaining": 65,
+        "total": 65
       },
       {
         "prize": 250,
@@ -263,13 +363,13 @@
       },
       {
         "prize": 100,
-        "remaining": 3105,
-        "total": 3105
+        "remaining": 3079,
+        "total": 3079
       },
       {
         "prize": 50,
-        "remaining": 8811,
-        "total": 8811
+        "remaining": 8726,
+        "total": 8726
       }
     ],
     "imageUrl": "http://d2kx0heugfrx3y.cloudfront.net/2026-08/1941_thumbnail.jpg"
@@ -298,23 +398,23 @@
       },
       {
         "prize": 100,
-        "remaining": 369,
-        "total": 369
+        "remaining": 363,
+        "total": 363
       },
       {
         "prize": 75,
-        "remaining": 1086,
-        "total": 1086
+        "remaining": 1067,
+        "total": 1067
       },
       {
         "prize": 50,
-        "remaining": 1462,
-        "total": 1462
+        "remaining": 1444,
+        "total": 1444
       },
       {
         "prize": 25,
-        "remaining": 8024,
-        "total": 8024
+        "remaining": 7920,
+        "total": 7920
       }
     ],
     "imageUrl": "http://d2kx0heugfrx3y.cloudfront.net/2026-08/1929_thumbnail.jpg"
@@ -328,18 +428,18 @@
     "tiers": [
       {
         "prize": 500,
-        "remaining": 1524,
-        "total": 1524
+        "remaining": 1515,
+        "total": 1515
       },
       {
         "prize": 200,
-        "remaining": 3796,
-        "total": 3796
+        "remaining": 3766,
+        "total": 3766
       },
       {
         "prize": 100,
-        "remaining": 25664,
-        "total": 25664
+        "remaining": 25471,
+        "total": 25471
       }
     ],
     "imageUrl": "http://d2kx0heugfrx3y.cloudfront.net/2026-07/1915_thumbnail.jpg"
@@ -363,18 +463,18 @@
       },
       {
         "prize": 100,
-        "remaining": 1150,
-        "total": 1150
+        "remaining": 1144,
+        "total": 1144
       },
       {
         "prize": 50,
-        "remaining": 1447,
-        "total": 1447
+        "remaining": 1444,
+        "total": 1444
       },
       {
         "prize": 40,
-        "remaining": 1749,
-        "total": 1749
+        "remaining": 1741,
+        "total": 1741
       }
     ],
     "imageUrl": "http://d2kx0heugfrx3y.cloudfront.net/2026-07/1871_thumbnail.jpg"
@@ -398,18 +498,18 @@
       },
       {
         "prize": 100,
-        "remaining": 750,
-        "total": 750
+        "remaining": 744,
+        "total": 744
       },
       {
         "prize": 50,
-        "remaining": 3338,
-        "total": 3338
+        "remaining": 3312,
+        "total": 3312
       },
       {
         "prize": 30,
-        "remaining": 9151,
-        "total": 9151
+        "remaining": 9076,
+        "total": 9076
       }
     ],
     "imageUrl": "http://d2kx0heugfrx3y.cloudfront.net/2026-07/1909_thumbnail.jpg"
@@ -448,33 +548,33 @@
       },
       {
         "prize": 300,
-        "remaining": 3556,
-        "total": 3556
+        "remaining": 3545,
+        "total": 3545
       },
       {
         "prize": 200,
-        "remaining": 1546,
-        "total": 1546
+        "remaining": 1538,
+        "total": 1538
       },
       {
         "prize": 100,
-        "remaining": 8491,
-        "total": 8491
+        "remaining": 8468,
+        "total": 8468
       },
       {
         "prize": 75,
-        "remaining": 4779,
-        "total": 4779
+        "remaining": 4764,
+        "total": 4764
       },
       {
         "prize": 50,
-        "remaining": 24278,
-        "total": 24278
+        "remaining": 24211,
+        "total": 24211
       },
       {
         "prize": 30,
-        "remaining": 48466,
-        "total": 48466
+        "remaining": 48318,
+        "total": 48318
       }
     ],
     "imageUrl": "http://d2kx0heugfrx3y.cloudfront.net/2026-07/1895_thumbnail.jpg"
@@ -498,66 +598,26 @@
       },
       {
         "prize": 300,
-        "remaining": 85,
-        "total": 85
+        "remaining": 84,
+        "total": 84
       },
       {
         "prize": 100,
-        "remaining": 330,
-        "total": 330
+        "remaining": 326,
+        "total": 326
       },
       {
         "prize": 45,
-        "remaining": 531,
-        "total": 531
+        "remaining": 529,
+        "total": 529
       },
       {
         "prize": 30,
-        "remaining": 1899,
-        "total": 1899
+        "remaining": 1894,
+        "total": 1894
       }
     ],
     "imageUrl": "http://d2kx0heugfrx3y.cloudfront.net/2026-07/1876_thumbnail.jpg"
-  },
-  {
-    "name": "Huckleberry Bucks",
-    "price": 5.0,
-    "totalTickets": 0,
-    "remainingTickets": 0,
-    "gameNumber": "1905",
-    "tiers": [
-      {
-        "prize": 50000,
-        "remaining": 1,
-        "total": 1
-      },
-      {
-        "prize": 5000,
-        "remaining": 1,
-        "total": 1
-      },
-      {
-        "prize": 1000,
-        "remaining": 4,
-        "total": 4
-      },
-      {
-        "prize": 500,
-        "remaining": 166,
-        "total": 166
-      },
-      {
-        "prize": 100,
-        "remaining": 485,
-        "total": 485
-      },
-      {
-        "prize": 50,
-        "remaining": 2872,
-        "total": 2872
-      }
-    ],
-    "imageUrl": "http://d2kx0heugfrx3y.cloudfront.net/2026-07/1905_thumbnail.jpg"
   },
   {
     "name": "Power Up Slingo",
@@ -583,26 +643,66 @@
       },
       {
         "prize": 100,
-        "remaining": 626,
-        "total": 626
+        "remaining": 617,
+        "total": 617
       },
       {
         "prize": 75,
-        "remaining": 734,
-        "total": 734
+        "remaining": 723,
+        "total": 723
       },
       {
         "prize": 50,
-        "remaining": 2347,
-        "total": 2347
+        "remaining": 2332,
+        "total": 2332
       },
       {
         "prize": 30,
-        "remaining": 6808,
-        "total": 6808
+        "remaining": 6735,
+        "total": 6735
       }
     ],
     "imageUrl": "http://d2kx0heugfrx3y.cloudfront.net/2026-07/1924_thumbnail.jpg"
+  },
+  {
+    "name": "Huckleberry Bucks",
+    "price": 5.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "1905",
+    "tiers": [
+      {
+        "prize": 50000,
+        "remaining": 1,
+        "total": 1
+      },
+      {
+        "prize": 5000,
+        "remaining": 1,
+        "total": 1
+      },
+      {
+        "prize": 1000,
+        "remaining": 4,
+        "total": 4
+      },
+      {
+        "prize": 500,
+        "remaining": 165,
+        "total": 165
+      },
+      {
+        "prize": 100,
+        "remaining": 481,
+        "total": 481
+      },
+      {
+        "prize": 50,
+        "remaining": 2848,
+        "total": 2848
+      }
+    ],
+    "imageUrl": "http://d2kx0heugfrx3y.cloudfront.net/2026-07/1905_thumbnail.jpg"
   },
   {
     "name": "Pong",
@@ -623,18 +723,18 @@
       },
       {
         "prize": 100,
-        "remaining": 283,
-        "total": 283
+        "remaining": 282,
+        "total": 282
       },
       {
         "prize": 50,
-        "remaining": 340,
-        "total": 340
+        "remaining": 336,
+        "total": 336
       },
       {
         "prize": 25,
-        "remaining": 814,
-        "total": 814
+        "remaining": 812,
+        "total": 812
       }
     ],
     "imageUrl": "http://d2kx0heugfrx3y.cloudfront.net/2026-07/1921_thumbnail.jpg"
@@ -658,28 +758,28 @@
       },
       {
         "prize": 500,
-        "remaining": 4,
-        "total": 4
+        "remaining": 3,
+        "total": 3
       },
       {
         "prize": 100,
-        "remaining": 63,
-        "total": 63
+        "remaining": 61,
+        "total": 61
       },
       {
         "prize": 50,
-        "remaining": 2643,
-        "total": 2643
+        "remaining": 2624,
+        "total": 2624
       },
       {
         "prize": 30,
-        "remaining": 1826,
-        "total": 1826
+        "remaining": 1815,
+        "total": 1815
       },
       {
         "prize": 25,
-        "remaining": 9729,
-        "total": 9729
+        "remaining": 9649,
+        "total": 9649
       }
     ],
     "imageUrl": "http://d2kx0heugfrx3y.cloudfront.net/2026-07/1922_thumbnail.jpg"
@@ -718,23 +818,23 @@
       },
       {
         "prize": 200,
-        "remaining": 132,
-        "total": 132
+        "remaining": 131,
+        "total": 131
       },
       {
         "prize": 100,
-        "remaining": 1680,
-        "total": 1680
+        "remaining": 1672,
+        "total": 1672
       },
       {
         "prize": 50,
-        "remaining": 3425,
-        "total": 3425
+        "remaining": 3397,
+        "total": 3397
       },
       {
         "prize": 30,
-        "remaining": 3879,
-        "total": 3879
+        "remaining": 3857,
+        "total": 3857
       }
     ],
     "imageUrl": "http://d2kx0heugfrx3y.cloudfront.net/2026-07/1923_thumbnail.jpg"
@@ -758,23 +858,23 @@
       },
       {
         "prize": 100,
-        "remaining": 81,
-        "total": 81
+        "remaining": 80,
+        "total": 80
       },
       {
         "prize": 60,
-        "remaining": 173,
-        "total": 173
+        "remaining": 170,
+        "total": 170
       },
       {
         "prize": 50,
-        "remaining": 134,
-        "total": 134
+        "remaining": 129,
+        "total": 129
       },
       {
         "prize": 30,
-        "remaining": 324,
-        "total": 324
+        "remaining": 322,
+        "total": 322
       }
     ],
     "imageUrl": "http://d2kx0heugfrx3y.cloudfront.net/2026-06/1907_thumbnail.jpg"
@@ -803,8 +903,8 @@
       },
       {
         "prize": 44,
-        "remaining": 14,
-        "total": 14
+        "remaining": 13,
+        "total": 13
       }
     ],
     "imageUrl": "http://d2kx0heugfrx3y.cloudfront.net/2026-06/1911_thumbnail.jpg"
@@ -828,8 +928,8 @@
       },
       {
         "prize": 500,
-        "remaining": 43,
-        "total": 43
+        "remaining": 40,
+        "total": 40
       },
       {
         "prize": 100,
@@ -838,13 +938,13 @@
       },
       {
         "prize": 50,
-        "remaining": 784,
-        "total": 784
+        "remaining": 761,
+        "total": 761
       },
       {
         "prize": 30,
-        "remaining": 1077,
-        "total": 1077
+        "remaining": 1042,
+        "total": 1042
       }
     ],
     "imageUrl": "http://d2kx0heugfrx3y.cloudfront.net/2026-06/1916_thumbnail.jpg"
@@ -883,28 +983,28 @@
       },
       {
         "prize": 500,
-        "remaining": 364,
-        "total": 364
+        "remaining": 363,
+        "total": 363
       },
       {
         "prize": 200,
-        "remaining": 1533,
-        "total": 1533
+        "remaining": 1521,
+        "total": 1521
       },
       {
         "prize": 100,
-        "remaining": 3925,
-        "total": 3925
+        "remaining": 3884,
+        "total": 3884
       },
       {
         "prize": 50,
-        "remaining": 5220,
-        "total": 5220
+        "remaining": 5162,
+        "total": 5162
       },
       {
         "prize": 40,
-        "remaining": 4836,
-        "total": 4836
+        "remaining": 4795,
+        "total": 4795
       }
     ],
     "imageUrl": "http://d2kx0heugfrx3y.cloudfront.net/2026-06/1938_thumbnail.jpg"
@@ -933,28 +1033,28 @@
       },
       {
         "prize": 500,
-        "remaining": 5346,
-        "total": 5346
+        "remaining": 5330,
+        "total": 5330
       },
       {
         "prize": 200,
-        "remaining": 10313,
-        "total": 10313
+        "remaining": 10269,
+        "total": 10269
       },
       {
         "prize": 100,
-        "remaining": 30132,
-        "total": 30132
+        "remaining": 30015,
+        "total": 30015
       },
       {
         "prize": 75,
-        "remaining": 26702,
-        "total": 26702
+        "remaining": 26606,
+        "total": 26606
       },
       {
         "prize": 50,
-        "remaining": 40372,
-        "total": 40372
+        "remaining": 40219,
+        "total": 40219
       }
     ],
     "imageUrl": "http://d2kx0heugfrx3y.cloudfront.net/2026-05/1897_thumbnail.jpg"
@@ -968,13 +1068,13 @@
     "tiers": [
       {
         "prize": 100,
-        "remaining": 622,
-        "total": 622
+        "remaining": 595,
+        "total": 595
       },
       {
         "prize": 50,
-        "remaining": 2302,
-        "total": 2302
+        "remaining": 2224,
+        "total": 2224
       }
     ],
     "imageUrl": "http://d2kx0heugfrx3y.cloudfront.net/2026-05/1912_thumbnail.jpg"
@@ -1008,33 +1108,33 @@
       },
       {
         "prize": 500,
-        "remaining": 301,
-        "total": 301
+        "remaining": 299,
+        "total": 299
       },
       {
         "prize": 200,
-        "remaining": 2598,
-        "total": 2598
+        "remaining": 2570,
+        "total": 2570
       },
       {
         "prize": 100,
-        "remaining": 1843,
-        "total": 1843
+        "remaining": 1824,
+        "total": 1824
       },
       {
         "prize": 77,
-        "remaining": 1067,
-        "total": 1067
+        "remaining": 1060,
+        "total": 1060
       },
       {
         "prize": 50,
-        "remaining": 5673,
-        "total": 5673
+        "remaining": 5621,
+        "total": 5621
       },
       {
         "prize": 27,
-        "remaining": 4216,
-        "total": 4216
+        "remaining": 4176,
+        "total": 4176
       }
     ],
     "imageUrl": "http://d2kx0heugfrx3y.cloudfront.net/2026-05/1875_thumbnail.jpg"
@@ -1063,38 +1163,38 @@
       },
       {
         "prize": 500,
-        "remaining": 69,
-        "total": 69
+        "remaining": 67,
+        "total": 67
       },
       {
         "prize": 250,
-        "remaining": 149,
-        "total": 149
+        "remaining": 145,
+        "total": 145
       },
       {
         "prize": 100,
-        "remaining": 917,
-        "total": 917
+        "remaining": 884,
+        "total": 884
       },
       {
         "prize": 75,
-        "remaining": 389,
-        "total": 389
+        "remaining": 369,
+        "total": 369
       },
       {
         "prize": 50,
-        "remaining": 1151,
-        "total": 1151
+        "remaining": 1101,
+        "total": 1101
       },
       {
         "prize": 30,
-        "remaining": 626,
-        "total": 626
+        "remaining": 602,
+        "total": 602
       },
       {
         "prize": 25,
-        "remaining": 3949,
-        "total": 3949
+        "remaining": 3794,
+        "total": 3794
       }
     ],
     "imageUrl": "http://d2kx0heugfrx3y.cloudfront.net/2026-04/1908_thumbnail.jpg"
@@ -1123,23 +1223,23 @@
       },
       {
         "prize": 500,
-        "remaining": 474,
-        "total": 474
+        "remaining": 472,
+        "total": 472
       },
       {
         "prize": 200,
-        "remaining": 3483,
-        "total": 3483
+        "remaining": 3459,
+        "total": 3459
       },
       {
         "prize": 100,
-        "remaining": 3130,
-        "total": 3130
+        "remaining": 3112,
+        "total": 3112
       },
       {
         "prize": 50,
-        "remaining": 8267,
-        "total": 8267
+        "remaining": 8226,
+        "total": 8226
       }
     ],
     "imageUrl": "http://d2kx0heugfrx3y.cloudfront.net/2026-04/1889_thumbnail.jpg"
@@ -1163,8 +1263,8 @@
       },
       {
         "prize": 100,
-        "remaining": 58,
-        "total": 58
+        "remaining": 57,
+        "total": 57
       },
       {
         "prize": 52,
@@ -1178,13 +1278,13 @@
       },
       {
         "prize": 36,
-        "remaining": 562,
-        "total": 562
+        "remaining": 557,
+        "total": 557
       },
       {
         "prize": 26,
-        "remaining": 766,
-        "total": 766
+        "remaining": 763,
+        "total": 763
       }
     ],
     "imageUrl": "http://d2kx0heugfrx3y.cloudfront.net/2026-04/1884_thumbnail.jpg"
@@ -1208,23 +1308,23 @@
       },
       {
         "prize": 500,
-        "remaining": 77,
-        "total": 77
+        "remaining": 76,
+        "total": 76
       },
       {
         "prize": 100,
-        "remaining": 107,
-        "total": 107
+        "remaining": 106,
+        "total": 106
       },
       {
         "prize": 50,
-        "remaining": 239,
-        "total": 239
+        "remaining": 237,
+        "total": 237
       },
       {
         "prize": 30,
-        "remaining": 360,
-        "total": 360
+        "remaining": 356,
+        "total": 356
       }
     ],
     "imageUrl": "http://d2kx0heugfrx3y.cloudfront.net/2026-01/1860_thumbnail.jpg"
@@ -1253,28 +1353,28 @@
       },
       {
         "prize": 500,
-        "remaining": 94,
-        "total": 94
+        "remaining": 93,
+        "total": 93
       },
       {
         "prize": 100,
-        "remaining": 1366,
-        "total": 1366
+        "remaining": 1363,
+        "total": 1363
       },
       {
         "prize": 75,
-        "remaining": 215,
-        "total": 215
+        "remaining": 214,
+        "total": 214
       },
       {
         "prize": 50,
-        "remaining": 1622,
-        "total": 1622
+        "remaining": 1613,
+        "total": 1613
       },
       {
         "prize": 25,
-        "remaining": 7609,
-        "total": 7609
+        "remaining": 7587,
+        "total": 7587
       }
     ],
     "imageUrl": "http://d2kx0heugfrx3y.cloudfront.net/2026-01/1902_thumbnail.jpg"
@@ -1303,8 +1403,8 @@
       },
       {
         "prize": 27,
-        "remaining": 48,
-        "total": 48
+        "remaining": 47,
+        "total": 47
       }
     ],
     "imageUrl": "http://d2kx0heugfrx3y.cloudfront.net/2026-01/1894_thumbnail.jpg"
@@ -1343,23 +1443,23 @@
       },
       {
         "prize": 300,
-        "remaining": 1438,
-        "total": 1438
+        "remaining": 1433,
+        "total": 1433
       },
       {
         "prize": 100,
-        "remaining": 4088,
-        "total": 4088
+        "remaining": 4080,
+        "total": 4080
       },
       {
         "prize": 50,
-        "remaining": 8698,
-        "total": 8698
+        "remaining": 8669,
+        "total": 8669
       },
       {
         "prize": 30,
-        "remaining": 16835,
-        "total": 16835
+        "remaining": 16783,
+        "total": 16783
       }
     ],
     "imageUrl": "http://d2kx0heugfrx3y.cloudfront.net/2025-10/1854_thumbnail.jpg"
@@ -1388,8 +1488,8 @@
       },
       {
         "prize": 100,
-        "remaining": 84,
-        "total": 84
+        "remaining": 83,
+        "total": 83
       },
       {
         "prize": 60,
@@ -1398,8 +1498,8 @@
       },
       {
         "prize": 30,
-        "remaining": 501,
-        "total": 501
+        "remaining": 497,
+        "total": 497
       }
     ],
     "imageUrl": "http://d2kx0heugfrx3y.cloudfront.net/2025-10/1856_thumbnail.jpg"
