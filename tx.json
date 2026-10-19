@@ -75,6 +75,31 @@
     "imageUrl": "https://www.texaslottery.com/export/sites/lottery/Images/scratchoffs/2753_img1.gif"
   },
   {
+    "name": "$1,000,000 Diamond Deluxe",
+    "price": 20.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "2782",
+    "tiers": [
+      {
+        "prize": 1000000,
+        "remaining": 4,
+        "total": 4
+      },
+      {
+        "prize": 10000,
+        "remaining": 16,
+        "total": 16
+      },
+      {
+        "prize": 1000,
+        "remaining": 207,
+        "total": 207
+      }
+    ],
+    "imageUrl": "https://www.texaslottery.com/export/sites/lottery/Images/scratchoffs/2782_img1.gif"
+  },
+  {
     "name": "$1,000,000 Riches",
     "price": 10.0,
     "totalTickets": 0,
@@ -113,12 +138,12 @@
       },
       {
         "prize": 500,
-        "remaining": 17734,
+        "remaining": 17673,
         "total": 23858
       },
       {
         "prize": 200,
-        "remaining": 73052,
+        "remaining": 72776,
         "total": 99302
       }
     ],
@@ -143,7 +168,7 @@
       },
       {
         "prize": 500,
-        "remaining": 460,
+        "remaining": 459,
         "total": 1204
       }
     ],
@@ -258,17 +283,17 @@
     "tiers": [
       {
         "prize": 500,
-        "remaining": 7224,
+        "remaining": 7208,
         "total": 10176
       },
       {
         "prize": 100,
-        "remaining": 180712,
+        "remaining": 180065,
         "total": 254956
       },
       {
         "prize": 50,
-        "remaining": 581296,
+        "remaining": 579313,
         "total": 816361
       }
     ],
@@ -388,12 +413,12 @@
       },
       {
         "prize": 90,
-        "remaining": 690,
+        "remaining": 685,
         "total": 1171
       },
       {
         "prize": 60,
-        "remaining": 740,
+        "remaining": 734,
         "total": 1235
       }
     ],
@@ -418,7 +443,7 @@
       },
       {
         "prize": 300,
-        "remaining": 434,
+        "remaining": 433,
         "total": 708
       }
     ],
@@ -468,7 +493,7 @@
       },
       {
         "prize": 500,
-        "remaining": 329,
+        "remaining": 328,
         "total": 871
       }
     ],
@@ -518,7 +543,7 @@
       },
       {
         "prize": 500,
-        "remaining": 1054,
+        "remaining": 1052,
         "total": 2180
       }
     ],
@@ -593,7 +618,7 @@
       },
       {
         "prize": 500,
-        "remaining": 645,
+        "remaining": 643,
         "total": 2036
       }
     ],
@@ -693,7 +718,7 @@
       },
       {
         "prize": 500,
-        "remaining": 1258,
+        "remaining": 1253,
         "total": 2110
       }
     ],
@@ -793,7 +818,7 @@
       },
       {
         "prize": 100,
-        "remaining": 3149,
+        "remaining": 3133,
         "total": 3710
       }
     ],
@@ -833,21 +858,46 @@
     "tiers": [
       {
         "prize": 200,
-        "remaining": 3585,
+        "remaining": 3576,
         "total": 7609
       },
       {
         "prize": 50,
-        "remaining": 10850,
+        "remaining": 10827,
         "total": 22971
       },
       {
         "prize": 20,
-        "remaining": 51990,
+        "remaining": 51868,
         "total": 110077
       }
     ],
     "imageUrl": "https://www.texaslottery.com/export/sites/lottery/Images/scratchoffs/2715_img1.gif"
+  },
+  {
+    "name": "Gnome for the Holidays",
+    "price": 1.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "2779",
+    "tiers": [
+      {
+        "prize": 500,
+        "remaining": 57,
+        "total": 57
+      },
+      {
+        "prize": 100,
+        "remaining": 2246,
+        "total": 2246
+      },
+      {
+        "prize": 50,
+        "remaining": 756,
+        "total": 756
+      }
+    ],
+    "imageUrl": "https://www.texaslottery.com/export/sites/lottery/Images/scratchoffs/2779_img1.gif"
   },
   {
     "name": "Golden Riches",
@@ -873,6 +923,31 @@
       }
     ],
     "imageUrl": "https://www.texaslottery.com/export/sites/lottery/Images/scratchoffs/2677_img1.gif"
+  },
+  {
+    "name": "Holiday Countdown",
+    "price": 5.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "2780",
+    "tiers": [
+      {
+        "prize": 100000,
+        "remaining": 5,
+        "total": 5
+      },
+      {
+        "prize": 1000,
+        "remaining": 56,
+        "total": 56
+      },
+      {
+        "prize": 500,
+        "remaining": 878,
+        "total": 878
+      }
+    ],
+    "imageUrl": "https://www.texaslottery.com/export/sites/lottery/Images/scratchoffs/2780_img1.gif"
   },
   {
     "name": "Houston Texans",
@@ -943,7 +1018,7 @@
       },
       {
         "prize": 500,
-        "remaining": 496,
+        "remaining": 489,
         "total": 1672
       }
     ],
@@ -1018,7 +1093,7 @@
       },
       {
         "prize": 500,
-        "remaining": 113,
+        "remaining": 112,
         "total": 1012
       }
     ],
@@ -1318,7 +1393,7 @@
       },
       {
         "prize": 500,
-        "remaining": 10093,
+        "remaining": 10078,
         "total": 15412
       }
     ],
@@ -1418,7 +1493,7 @@
       },
       {
         "prize": 500,
-        "remaining": 469,
+        "remaining": 464,
         "total": 538
       }
     ],
@@ -1593,7 +1668,7 @@
       },
       {
         "prize": 100,
-        "remaining": 2129,
+        "remaining": 2127,
         "total": 5049
       }
     ],
@@ -1643,7 +1718,7 @@
       },
       {
         "prize": 500,
-        "remaining": 336,
+        "remaining": 332,
         "total": 474
       }
     ],
@@ -1668,7 +1743,7 @@
       },
       {
         "prize": 500,
-        "remaining": 1111,
+        "remaining": 1109,
         "total": 1683
       }
     ],
@@ -1693,7 +1768,7 @@
       },
       {
         "prize": 500,
-        "remaining": 5226,
+        "remaining": 5221,
         "total": 6077
       }
     ],
@@ -1718,7 +1793,7 @@
       },
       {
         "prize": 500,
-        "remaining": 351,
+        "remaining": 348,
         "total": 5937
       }
     ],
@@ -1743,11 +1818,36 @@
       },
       {
         "prize": 250,
-        "remaining": 1173,
+        "remaining": 1164,
         "total": 4891
       }
     ],
     "imageUrl": "https://www.texaslottery.com/export/sites/lottery/Images/scratchoffs/2628_img1.gif"
+  },
+  {
+    "name": "The Perfect Gift",
+    "price": 10.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "2781",
+    "tiers": [
+      {
+        "prize": 250000,
+        "remaining": 5,
+        "total": 5
+      },
+      {
+        "prize": 5000,
+        "remaining": 31,
+        "total": 31
+      },
+      {
+        "prize": 1000,
+        "remaining": 549,
+        "total": 549
+      }
+    ],
+    "imageUrl": "https://www.texaslottery.com/export/sites/lottery/Images/scratchoffs/2781_img1.gif"
   },
   {
     "name": "The Price is Right\u00e2\u0084\u00a2",
