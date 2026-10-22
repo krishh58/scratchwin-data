@@ -1,6 +1,325 @@
 [
   {
-    "name": "200000WildCherries158",
+    "name": "500000Snowfall168",
+    "price": 2.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "165",
+    "tiers": [
+      {
+        "prize": 20000,
+        "remaining": 3,
+        "total": 3
+      },
+      {
+        "prize": 500,
+        "remaining": 101,
+        "total": 101
+      },
+      {
+        "prize": 50,
+        "remaining": 613,
+        "total": 613
+      },
+      {
+        "prize": 40,
+        "remaining": 10508,
+        "total": 10508
+      },
+      {
+        "prize": 20,
+        "remaining": 48906,
+        "total": 48906
+      },
+      {
+        "prize": 10,
+        "remaining": 32617,
+        "total": 32617
+      },
+      {
+        "prize": 5,
+        "remaining": 130414,
+        "total": 130414
+      },
+      {
+        "prize": 2,
+        "remaining": 293454,
+        "total": 293454
+      }
+    ]
+  },
+  {
+    "name": "5MillionMoneyMaker169",
+    "price": 10.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "167",
+    "tiers": [
+      {
+        "prize": 200000,
+        "remaining": 2,
+        "total": 2
+      },
+      {
+        "prize": 1000,
+        "remaining": 61,
+        "total": 61
+      },
+      {
+        "prize": 500,
+        "remaining": 295,
+        "total": 295
+      },
+      {
+        "prize": 200,
+        "remaining": 8669,
+        "total": 8669
+      },
+      {
+        "prize": 100,
+        "remaining": 16333,
+        "total": 16333
+      },
+      {
+        "prize": 50,
+        "remaining": 7660,
+        "total": 7660
+      },
+      {
+        "prize": 25,
+        "remaining": 40747,
+        "total": 40747
+      },
+      {
+        "prize": 20,
+        "remaining": 40772,
+        "total": 40772
+      },
+      {
+        "prize": 15,
+        "remaining": 101948,
+        "total": 101948
+      },
+      {
+        "prize": 10,
+        "remaining": 101944,
+        "total": 101944
+      }
+    ],
+    "imageUrl": "https://www.kylottery.com/export/kylmod/galleries/images/KYLottery_ScratchOffs/KY167CVv6-1.jpg"
+  },
+  {
+    "name": "HolidayGoldWinterGreenFestiveRed165",
+    "price": 5.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "161",
+    "tiers": [
+      {
+        "prize": 100000,
+        "remaining": 3,
+        "total": 3
+      },
+      {
+        "prize": 1000,
+        "remaining": 56,
+        "total": 56
+      },
+      {
+        "prize": 500,
+        "remaining": 48,
+        "total": 48
+      },
+      {
+        "prize": 200,
+        "remaining": 527,
+        "total": 527
+      },
+      {
+        "prize": 100,
+        "remaining": 5010,
+        "total": 5010
+      },
+      {
+        "prize": 50,
+        "remaining": 36503,
+        "total": 36503
+      },
+      {
+        "prize": 20,
+        "remaining": 20785,
+        "total": 20785
+      },
+      {
+        "prize": 15,
+        "remaining": 62312,
+        "total": 62312
+      },
+      {
+        "prize": 10,
+        "remaining": 166286,
+        "total": 166286
+      },
+      {
+        "prize": 5,
+        "remaining": 291107,
+        "total": 291107
+      }
+    ],
+    "imageUrl": "https://www.kylottery.com/export/kylmod/galleries/images/KYLottery_ScratchOffs/KY161_CV_V9.jpg"
+  },
+  {
+    "name": "HolidayRiches167",
+    "price": 3.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "166",
+    "tiers": [
+      {
+        "prize": 40000,
+        "remaining": 3,
+        "total": 3
+      },
+      {
+        "prize": 3000,
+        "remaining": 16,
+        "total": 16
+      },
+      {
+        "prize": 2000,
+        "remaining": 14,
+        "total": 14
+      },
+      {
+        "prize": 1000,
+        "remaining": 16,
+        "total": 16
+      },
+      {
+        "prize": 300,
+        "remaining": 15,
+        "total": 15
+      },
+      {
+        "prize": 200,
+        "remaining": 33,
+        "total": 33
+      },
+      {
+        "prize": 150,
+        "remaining": 17,
+        "total": 17
+      },
+      {
+        "prize": 100,
+        "remaining": 816,
+        "total": 816
+      },
+      {
+        "prize": 80,
+        "remaining": 816,
+        "total": 816
+      },
+      {
+        "prize": 70,
+        "remaining": 812,
+        "total": 812
+      },
+      {
+        "prize": 60,
+        "remaining": 818,
+        "total": 818
+      },
+      {
+        "prize": 50,
+        "remaining": 824,
+        "total": 824
+      },
+      {
+        "prize": 30,
+        "remaining": 8100,
+        "total": 8100
+      },
+      {
+        "prize": 20,
+        "remaining": 58686,
+        "total": 58686
+      },
+      {
+        "prize": 10,
+        "remaining": 19562,
+        "total": 19562
+      },
+      {
+        "prize": 9,
+        "remaining": 39118,
+        "total": 39118
+      },
+      {
+        "prize": 6,
+        "remaining": 97816,
+        "total": 97816
+      },
+      {
+        "prize": 3,
+        "remaining": 254312,
+        "total": 254312
+      }
+    ],
+    "imageUrl": "https://www.kylottery.com/export/kylmod/galleries/images/KYLottery_ScratchOffs/KY166_CV_V8.jpg"
+  },
+  {
+    "name": "NationalLampoon&#039;sChristmasVacation161",
+    "price": 1.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "164",
+    "tiers": [
+      {
+        "prize": 2000,
+        "remaining": 3,
+        "total": 3
+      },
+      {
+        "prize": 500,
+        "remaining": 209,
+        "total": 209
+      },
+      {
+        "prize": 40,
+        "remaining": 4352,
+        "total": 4352
+      },
+      {
+        "prize": 15,
+        "remaining": 14669,
+        "total": 14669
+      },
+      {
+        "prize": 10,
+        "remaining": 58739,
+        "total": 58739
+      },
+      {
+        "prize": 5,
+        "remaining": 131895,
+        "total": 131895
+      },
+      {
+        "prize": 2,
+        "remaining": 278727,
+        "total": 278727
+      },
+      {
+        "prize": 1,
+        "remaining": 425369,
+        "total": 425369
+      }
+    ],
+    "imageUrl": "https://www.kylottery.com/export/kylmod/galleries/images/KYLottery_ScratchOffs/KY164CV_P1_V7.jpg"
+  },
+  {
+    "name": "PeppermintPayoutX3166",
     "price": 5.0,
     "totalTickets": 0,
     "remainingTickets": 0,
@@ -13,49 +332,49 @@
       },
       {
         "prize": 500,
-        "remaining": 6513,
-        "total": 6513
+        "remaining": 6482,
+        "total": 6482
       },
       {
         "prize": 100,
-        "remaining": 4655,
-        "total": 4655
+        "remaining": 4631,
+        "total": 4631
       },
       {
         "prize": 50,
-        "remaining": 10883,
-        "total": 10883
+        "remaining": 10830,
+        "total": 10830
       },
       {
         "prize": 30,
-        "remaining": 21868,
-        "total": 21868
+        "remaining": 21750,
+        "total": 21750
       },
       {
         "prize": 20,
-        "remaining": 32777,
-        "total": 32777
+        "remaining": 32583,
+        "total": 32583
       },
       {
         "prize": 15,
-        "remaining": 65589,
-        "total": 65589
+        "remaining": 65214,
+        "total": 65214
       },
       {
         "prize": 10,
-        "remaining": 296197,
-        "total": 296197
+        "remaining": 294511,
+        "total": 294511
       },
       {
         "prize": 5,
-        "remaining": 364502,
-        "total": 364502
+        "remaining": 362466,
+        "total": 362466
       }
     ],
     "imageUrl": "https://www.kylottery.com/export/kylmod/galleries/images/KYLottery_ScratchOffs/KY146CV_v6.jpg"
   },
   {
-    "name": "CashOverload146",
+    "name": "SnowBank164",
     "price": 5.0,
     "totalTickets": 0,
     "remainingTickets": 0,
@@ -68,49 +387,49 @@
       },
       {
         "prize": 500,
-        "remaining": 212,
-        "total": 212
+        "remaining": 211,
+        "total": 211
       },
       {
         "prize": 200,
-        "remaining": 565,
-        "total": 565
+        "remaining": 552,
+        "total": 552
       },
       {
         "prize": 100,
-        "remaining": 3352,
-        "total": 3352
+        "remaining": 3293,
+        "total": 3293
       },
       {
         "prize": 50,
-        "remaining": 19683,
-        "total": 19683
+        "remaining": 19338,
+        "total": 19338
       },
       {
         "prize": 20,
-        "remaining": 12180,
-        "total": 12180
+        "remaining": 11985,
+        "total": 11985
       },
       {
         "prize": 15,
-        "remaining": 36860,
-        "total": 36860
+        "remaining": 36252,
+        "total": 36252
       },
       {
         "prize": 10,
-        "remaining": 111474,
-        "total": 111474
+        "remaining": 109816,
+        "total": 109816
       },
       {
         "prize": 5,
-        "remaining": 152193,
-        "total": 152193
+        "remaining": 149818,
+        "total": 149818
       }
     ],
     "imageUrl": "https://www.kylottery.com/export/kylmod/galleries/images/KYLottery_ScratchOffs/KY159CHILLSBILLS_CV_V7.jpg"
   },
   {
-    "name": "ChillsBills159",
+    "name": "200000WildCherries158",
     "price": 5.0,
     "totalTickets": 0,
     "remainingTickets": 0,
@@ -123,54 +442,54 @@
       },
       {
         "prize": 2500,
-        "remaining": 93,
-        "total": 93
+        "remaining": 91,
+        "total": 91
       },
       {
         "prize": 1000,
-        "remaining": 288,
-        "total": 288
+        "remaining": 286,
+        "total": 286
       },
       {
         "prize": 500,
-        "remaining": 2894,
-        "total": 2894
+        "remaining": 2873,
+        "total": 2873
       },
       {
         "prize": 100,
-        "remaining": 7779,
-        "total": 7779
+        "remaining": 7734,
+        "total": 7734
       },
       {
         "prize": 50,
-        "remaining": 35432,
-        "total": 35432
+        "remaining": 35259,
+        "total": 35259
       },
       {
         "prize": 25,
-        "remaining": 35467,
-        "total": 35467
+        "remaining": 35305,
+        "total": 35305
       },
       {
         "prize": 15,
-        "remaining": 106328,
-        "total": 106328
+        "remaining": 105780,
+        "total": 105780
       },
       {
         "prize": 10,
-        "remaining": 284158,
-        "total": 284158
+        "remaining": 282823,
+        "total": 282823
       },
       {
         "prize": 5,
-        "remaining": 463535,
-        "total": 463535
+        "remaining": 461315,
+        "total": 461315
       }
     ],
     "imageUrl": "https://www.kylottery.com/export/kylmod/galleries/images/KYLottery_ScratchOffs/KY157CVV7.jpg"
   },
   {
-    "name": "Fun5&#039;s157",
+    "name": "CashOverload146",
     "price": 20.0,
     "totalTickets": 0,
     "remainingTickets": 0,
@@ -178,24 +497,24 @@
     "tiers": [
       {
         "prize": 2000,
-        "remaining": 1362,
-        "total": 1362
+        "remaining": 1357,
+        "total": 1357
       },
       {
         "prize": 200,
-        "remaining": 33030,
-        "total": 33030
+        "remaining": 32866,
+        "total": 32866
       },
       {
         "prize": 100,
-        "remaining": 197189,
-        "total": 197189
+        "remaining": 196243,
+        "total": 196243
       }
     ],
     "imageUrl": "https://www.kylottery.com/export/kylmod/galleries/images/KYLottery_ScratchOffs/KY160CV_V7.jpg"
   },
   {
-    "name": "MaximumMoneyBlowout160",
+    "name": "ChillsBills159",
     "price": 3.0,
     "totalTickets": 0,
     "remainingTickets": 0,
@@ -218,49 +537,49 @@
       },
       {
         "prize": 300,
-        "remaining": 79,
-        "total": 79
+        "remaining": 78,
+        "total": 78
       },
       {
         "prize": 100,
-        "remaining": 429,
-        "total": 429
+        "remaining": 415,
+        "total": 415
       },
       {
         "prize": 50,
-        "remaining": 1588,
-        "total": 1588
+        "remaining": 1554,
+        "total": 1554
       },
       {
         "prize": 30,
-        "remaining": 6495,
-        "total": 6495
+        "remaining": 6324,
+        "total": 6324
       },
       {
         "prize": 20,
-        "remaining": 6488,
-        "total": 6488
+        "remaining": 6343,
+        "total": 6343
       },
       {
         "prize": 15,
-        "remaining": 13126,
-        "total": 13126
+        "remaining": 12778,
+        "total": 12778
       },
       {
         "prize": 5,
-        "remaining": 48118,
-        "total": 48118
+        "remaining": 47031,
+        "total": 47031
       },
       {
         "prize": 3,
-        "remaining": 106104,
-        "total": 106104
+        "remaining": 103725,
+        "total": 103725
       }
     ],
     "imageUrl": "https://www.kylottery.com/export/kylmod/galleries/images/KYLottery_ScratchOffs/KY-156_CV_v12.jpg"
   },
   {
-    "name": "WitchesBrewBucks156",
+    "name": "Fun5&#039;s157",
     "price": 20.0,
     "totalTickets": 0,
     "remainingTickets": 0,
@@ -278,44 +597,44 @@
       },
       {
         "prize": 1000,
-        "remaining": 90,
-        "total": 90
+        "remaining": 88,
+        "total": 88
       },
       {
         "prize": 500,
-        "remaining": 288,
-        "total": 288
+        "remaining": 287,
+        "total": 287
       },
       {
         "prize": 200,
-        "remaining": 1296,
-        "total": 1296
+        "remaining": 1282,
+        "total": 1282
       },
       {
         "prize": 100,
-        "remaining": 18252,
-        "total": 18252
+        "remaining": 18131,
+        "total": 18131
       },
       {
         "prize": 50,
-        "remaining": 27554,
-        "total": 27554
+        "remaining": 27366,
+        "total": 27366
       },
       {
         "prize": 40,
-        "remaining": 36719,
-        "total": 36719
+        "remaining": 36501,
+        "total": 36501
       },
       {
         "prize": 20,
-        "remaining": 56562,
-        "total": 56562
+        "remaining": 56223,
+        "total": 56223
       }
     ],
     "imageUrl": "https://www.kylottery.com/export/kylmod/galleries/images/KYLottery_ScratchOffs/KY142CVV6.jpg"
   },
   {
-    "name": "10SetForLife152",
+    "name": "MaximumMoneyBlowout160",
     "price": 2.0,
     "totalTickets": 0,
     "remainingTickets": 0,
@@ -343,39 +662,39 @@
       },
       {
         "prize": 40,
-        "remaining": 4498,
-        "total": 4498
+        "remaining": 4472,
+        "total": 4472
       },
       {
         "prize": 20,
-        "remaining": 4726,
-        "total": 4726
+        "remaining": 4699,
+        "total": 4699
       },
       {
         "prize": 15,
-        "remaining": 4579,
-        "total": 4579
+        "remaining": 4552,
+        "total": 4552
       },
       {
         "prize": 10,
-        "remaining": 9146,
-        "total": 9146
+        "remaining": 9097,
+        "total": 9097
       },
       {
         "prize": 5,
-        "remaining": 48468,
-        "total": 48468
+        "remaining": 48243,
+        "total": 48243
       },
       {
         "prize": 2,
-        "remaining": 88834,
-        "total": 88834
+        "remaining": 88402,
+        "total": 88402
       }
     ],
     "imageUrl": "https://www.kylottery.com/export/kylmod/galleries/images/KYLottery_ScratchOffs/KY111CV_V9.jpg"
   },
   {
-    "name": "1SetForLife155",
+    "name": "WitchesBrewBucks156",
     "price": 5.0,
     "totalTickets": 0,
     "remainingTickets": 0,
@@ -393,44 +712,44 @@
       },
       {
         "prize": 500,
-        "remaining": 792,
-        "total": 792
+        "remaining": 787,
+        "total": 787
       },
       {
         "prize": 200,
-        "remaining": 453,
-        "total": 453
+        "remaining": 449,
+        "total": 449
       },
       {
         "prize": 100,
-        "remaining": 2030,
-        "total": 2030
+        "remaining": 2009,
+        "total": 2009
       },
       {
         "prize": 50,
-        "remaining": 8417,
-        "total": 8417
+        "remaining": 8329,
+        "total": 8329
       },
       {
         "prize": 20,
-        "remaining": 31889,
-        "total": 31889
+        "remaining": 31510,
+        "total": 31510
       },
       {
         "prize": 10,
-        "remaining": 50573,
-        "total": 50573
+        "remaining": 50037,
+        "total": 50037
       },
       {
         "prize": 5,
-        "remaining": 107370,
-        "total": 107370
+        "remaining": 106223,
+        "total": 106223
       }
     ],
     "imageUrl": "https://www.kylottery.com/export/kylmod/galleries/images/KYLottery_ScratchOffs/KY112CV_V9.jpg"
   },
   {
-    "name": "20SetForLife151",
+    "name": "10SetForLife152",
     "price": 3.0,
     "totalTickets": 0,
     "remainingTickets": 0,
@@ -448,49 +767,49 @@
       },
       {
         "prize": 100,
-        "remaining": 80,
-        "total": 80
+        "remaining": 77,
+        "total": 77
       },
       {
         "prize": 50,
-        "remaining": 220,
-        "total": 220
+        "remaining": 217,
+        "total": 217
       },
       {
         "prize": 30,
-        "remaining": 1117,
-        "total": 1117
+        "remaining": 1094,
+        "total": 1094
       },
       {
         "prize": 20,
-        "remaining": 6544,
-        "total": 6544
+        "remaining": 6413,
+        "total": 6413
       },
       {
         "prize": 15,
-        "remaining": 2103,
-        "total": 2103
+        "remaining": 2057,
+        "total": 2057
       },
       {
         "prize": 10,
-        "remaining": 4861,
-        "total": 4861
+        "remaining": 4782,
+        "total": 4782
       },
       {
         "prize": 5,
-        "remaining": 16574,
-        "total": 16574
+        "remaining": 16336,
+        "total": 16336
       },
       {
         "prize": 3,
-        "remaining": 35595,
-        "total": 35595
+        "remaining": 35051,
+        "total": 35051
       }
     ],
     "imageUrl": "https://www.kylottery.com/export/kylmod/galleries/images/KYLottery_ScratchOffs/KY140CVV7-1.jpg"
   },
   {
-    "name": "2SetForLife154",
+    "name": "1SetForLife155",
     "price": 20.0,
     "totalTickets": 0,
     "remainingTickets": 0,
@@ -508,44 +827,44 @@
       },
       {
         "prize": 1000,
-        "remaining": 225,
-        "total": 225
+        "remaining": 222,
+        "total": 222
       },
       {
         "prize": 500,
-        "remaining": 672,
-        "total": 672
+        "remaining": 667,
+        "total": 667
       },
       {
         "prize": 200,
-        "remaining": 1127,
-        "total": 1127
+        "remaining": 1114,
+        "total": 1114
       },
       {
         "prize": 100,
-        "remaining": 2461,
-        "total": 2461
+        "remaining": 2436,
+        "total": 2436
       },
       {
         "prize": 60,
-        "remaining": 4913,
-        "total": 4913
+        "remaining": 4855,
+        "total": 4855
       },
       {
         "prize": 50,
-        "remaining": 5077,
-        "total": 5077
+        "remaining": 5022,
+        "total": 5022
       },
       {
         "prize": 40,
-        "remaining": 58559,
-        "total": 58559
+        "remaining": 57865,
+        "total": 57865
       }
     ],
     "imageUrl": "https://www.kylottery.com/export/kylmod/galleries/images/KYLottery_ScratchOffs/KY139CV_P1_v5.jpg"
   },
   {
-    "name": "5SetForLife153",
+    "name": "20SetForLife151",
     "price": 10.0,
     "totalTickets": 0,
     "remainingTickets": 0,
@@ -563,39 +882,39 @@
       },
       {
         "prize": 500,
-        "remaining": 618,
-        "total": 618
+        "remaining": 614,
+        "total": 614
       },
       {
         "prize": 200,
-        "remaining": 495,
-        "total": 495
+        "remaining": 494,
+        "total": 494
       },
       {
         "prize": 100,
-        "remaining": 2952,
-        "total": 2952
+        "remaining": 2932,
+        "total": 2932
       },
       {
         "prize": 50,
-        "remaining": 7190,
-        "total": 7190
+        "remaining": 7131,
+        "total": 7131
       },
       {
         "prize": 25,
-        "remaining": 48271,
-        "total": 48271
+        "remaining": 47885,
+        "total": 47885
       },
       {
         "prize": 20,
-        "remaining": 87386,
-        "total": 87386
+        "remaining": 86644,
+        "total": 86644
       }
     ],
     "imageUrl": "https://www.kylottery.com/export/kylmod/galleries/images/KYLottery_ScratchOffs/KY138CV_v6.jpg"
   },
   {
-    "name": "200000Max141",
+    "name": "2SetForLife154",
     "price": 2.0,
     "totalTickets": 0,
     "remainingTickets": 0,
@@ -623,38 +942,38 @@
       },
       {
         "prize": 50,
-        "remaining": 199,
-        "total": 199
+        "remaining": 198,
+        "total": 198
       },
       {
         "prize": 30,
-        "remaining": 1513,
-        "total": 1513
+        "remaining": 1511,
+        "total": 1511
       },
       {
         "prize": 20,
-        "remaining": 11262,
-        "total": 11262
+        "remaining": 11255,
+        "total": 11255
       },
       {
         "prize": 10,
-        "remaining": 23080,
-        "total": 23080
+        "remaining": 23069,
+        "total": 23069
       },
       {
         "prize": 5,
-        "remaining": 66793,
-        "total": 66793
+        "remaining": 66757,
+        "total": 66757
       },
       {
         "prize": 2,
-        "remaining": 86733,
-        "total": 86733
+        "remaining": 86679,
+        "total": 86679
       }
     ]
   },
   {
-    "name": "30SetForLife150",
+    "name": "5SetForLife153",
     "price": 5.0,
     "totalTickets": 0,
     "remainingTickets": 0,
@@ -662,8 +981,8 @@
     "tiers": [
       {
         "prize": 500,
-        "remaining": 3871,
-        "total": 3871
+        "remaining": 3867,
+        "total": 3867
       },
       {
         "prize": 100,
@@ -672,34 +991,34 @@
       },
       {
         "prize": 40,
-        "remaining": 26605,
-        "total": 26605
+        "remaining": 26592,
+        "total": 26592
       },
       {
         "prize": 20,
-        "remaining": 51211,
-        "total": 51211
+        "remaining": 51187,
+        "total": 51187
       },
       {
         "prize": 15,
-        "remaining": 51249,
-        "total": 51249
+        "remaining": 51216,
+        "total": 51216
       },
       {
         "prize": 10,
-        "remaining": 282974,
-        "total": 282974
+        "remaining": 282848,
+        "total": 282848
       },
       {
         "prize": 5,
-        "remaining": 207198,
-        "total": 207198
+        "remaining": 207075,
+        "total": 207075
       }
     ],
     "imageUrl": "https://www.kylottery.com/export/kylmod/galleries/images/KYLottery_ScratchOffs/KY136CVV8.jpg"
   },
   {
-    "name": "24KGold142",
+    "name": "200000Max141",
     "price": 5.0,
     "totalTickets": 0,
     "remainingTickets": 0,
@@ -722,44 +1041,44 @@
       },
       {
         "prize": 200,
-        "remaining": 2328,
-        "total": 2328
+        "remaining": 2326,
+        "total": 2326
       },
       {
         "prize": 100,
-        "remaining": 3845,
-        "total": 3845
+        "remaining": 3842,
+        "total": 3842
       },
       {
         "prize": 50,
-        "remaining": 26550,
-        "total": 26550
+        "remaining": 26539,
+        "total": 26539
       },
       {
         "prize": 30,
-        "remaining": 10964,
-        "total": 10964
+        "remaining": 10961,
+        "total": 10961
       },
       {
         "prize": 20,
-        "remaining": 79375,
-        "total": 79375
+        "remaining": 79344,
+        "total": 79344
       },
       {
         "prize": 10,
-        "remaining": 292248,
-        "total": 292248
+        "remaining": 292136,
+        "total": 292136
       },
       {
         "prize": 5,
-        "remaining": 267688,
-        "total": 267688
+        "remaining": 267568,
+        "total": 267568
       }
     ],
     "imageUrl": "https://www.kylottery.com/export/kylmod/galleries/images/KYLottery_ScratchOffs/KY137CVV6.jpg"
   },
   {
-    "name": "Monopoly\u00ae20X111",
+    "name": "30SetForLife150",
     "price": 10.0,
     "totalTickets": 0,
     "remainingTickets": 0,
@@ -767,38 +1086,38 @@
     "tiers": [
       {
         "prize": 550,
-        "remaining": 769,
-        "total": 769
+        "remaining": 767,
+        "total": 767
       },
       {
         "prize": 500,
-        "remaining": 1104,
-        "total": 1104
+        "remaining": 1101,
+        "total": 1101
       },
       {
         "prize": 200,
-        "remaining": 4752,
-        "total": 4752
+        "remaining": 4744,
+        "total": 4744
       },
       {
         "prize": 150,
-        "remaining": 4038,
-        "total": 4038
+        "remaining": 4033,
+        "total": 4033
       },
       {
         "prize": 100,
-        "remaining": 146609,
-        "total": 146609
+        "remaining": 146419,
+        "total": 146419
       },
       {
         "prize": 50,
-        "remaining": 293070,
-        "total": 293070
+        "remaining": 292648,
+        "total": 292648
       }
     ]
   },
   {
-    "name": "Monopoly\u00ae50X112",
+    "name": "24KGold142",
     "price": 3.0,
     "totalTickets": 0,
     "remainingTickets": 0,
@@ -821,39 +1140,39 @@
       },
       {
         "prize": 40,
-        "remaining": 2710,
-        "total": 2710
+        "remaining": 2704,
+        "total": 2704
       },
       {
         "prize": 20,
-        "remaining": 4451,
-        "total": 4451
+        "remaining": 4438,
+        "total": 4438
       },
       {
         "prize": 15,
-        "remaining": 8786,
-        "total": 8786
+        "remaining": 8764,
+        "total": 8764
       },
       {
         "prize": 10,
-        "remaining": 18908,
-        "total": 18908
+        "remaining": 18844,
+        "total": 18844
       },
       {
         "prize": 5,
-        "remaining": 34023,
-        "total": 34023
+        "remaining": 33935,
+        "total": 33935
       },
       {
         "prize": 3,
-        "remaining": 56746,
-        "total": 56746
+        "remaining": 56616,
+        "total": 56616
       }
     ],
     "imageUrl": "https://www.kylottery.com/export/kylmod/galleries/images/KYLottery_ScratchOffs/KY-134_cv_v10pec.jpg"
   },
   {
-    "name": "Super7&#039;s140",
+    "name": "Monopoly\u00ae20X111",
     "price": 5.0,
     "totalTickets": 0,
     "remainingTickets": 0,
@@ -871,39 +1190,39 @@
       },
       {
         "prize": 500,
-        "remaining": 203,
-        "total": 203
+        "remaining": 202,
+        "total": 202
       },
       {
         "prize": 200,
-        "remaining": 2061,
-        "total": 2061
+        "remaining": 2047,
+        "total": 2047
       },
       {
         "prize": 100,
-        "remaining": 3188,
-        "total": 3188
+        "remaining": 3166,
+        "total": 3166
       },
       {
         "prize": 50,
-        "remaining": 9488,
-        "total": 9488
+        "remaining": 9409,
+        "total": 9409
       },
       {
         "prize": 20,
-        "remaining": 49087,
-        "total": 49087
+        "remaining": 48718,
+        "total": 48718
       },
       {
         "prize": 10,
-        "remaining": 191244,
-        "total": 191244
+        "remaining": 189900,
+        "total": 189900
       }
     ],
     "imageUrl": "https://www.kylottery.com/export/kylmod/galleries/images/KYLottery_ScratchOffs/KY-131CV240DPIv1.jpg"
   },
   {
-    "name": "750000Extravaganza139",
+    "name": "Monopoly\u00ae50X112",
     "price": 5.0,
     "totalTickets": 0,
     "remainingTickets": 0,
@@ -926,39 +1245,39 @@
       },
       {
         "prize": 200,
-        "remaining": 4966,
-        "total": 4966
+        "remaining": 4964,
+        "total": 4964
       },
       {
         "prize": 100,
-        "remaining": 10811,
-        "total": 10811
+        "remaining": 10810,
+        "total": 10810
       },
       {
         "prize": 50,
-        "remaining": 35899,
-        "total": 35899
+        "remaining": 35883,
+        "total": 35883
       },
       {
         "prize": 15,
-        "remaining": 287367,
-        "total": 287367
+        "remaining": 287244,
+        "total": 287244
       },
       {
         "prize": 10,
-        "remaining": 256134,
-        "total": 256134
+        "remaining": 256013,
+        "total": 256013
       },
       {
         "prize": 5,
-        "remaining": 289128,
-        "total": 289128
+        "remaining": 288982,
+        "total": 288982
       }
     ],
     "imageUrl": "https://www.kylottery.com/export/kylmod/galleries/images/KYLottery_ScratchOffs/KY130CV.jpg"
   },
   {
-    "name": "Emerald10&#039;s138",
+    "name": "Super7&#039;s140",
     "price": 20.0,
     "totalTickets": 0,
     "remainingTickets": 0,
@@ -981,34 +1300,34 @@
       },
       {
         "prize": 500,
-        "remaining": 1594,
-        "total": 1594
+        "remaining": 1590,
+        "total": 1590
       },
       {
         "prize": 100,
-        "remaining": 10752,
-        "total": 10752
+        "remaining": 10707,
+        "total": 10707
       },
       {
         "prize": 50,
-        "remaining": 36233,
-        "total": 36233
+        "remaining": 36009,
+        "total": 36009
       },
       {
         "prize": 25,
-        "remaining": 25056,
-        "total": 25056
+        "remaining": 24929,
+        "total": 24929
       },
       {
         "prize": 20,
-        "remaining": 25096,
-        "total": 25096
+        "remaining": 24959,
+        "total": 24959
       }
     ],
     "imageUrl": "https://www.kylottery.com/export/kylmod/galleries/images/KYLottery_ScratchOffs/KY133CV.jpg"
   },
   {
-    "name": "KentuckyHumaneSociety\u2122135",
+    "name": "750000Extravaganza139",
     "price": 5.0,
     "totalTickets": 0,
     "remainingTickets": 0,
@@ -1031,39 +1350,39 @@
       },
       {
         "prize": 200,
-        "remaining": 3579,
-        "total": 3579
+        "remaining": 3575,
+        "total": 3575
       },
       {
         "prize": 100,
-        "remaining": 6005,
-        "total": 6005
+        "remaining": 6000,
+        "total": 6000
       },
       {
         "prize": 50,
-        "remaining": 16756,
-        "total": 16756
+        "remaining": 16743,
+        "total": 16743
       },
       {
         "prize": 20,
-        "remaining": 63891,
-        "total": 63891
+        "remaining": 63843,
+        "total": 63843
       },
       {
         "prize": 10,
-        "remaining": 229548,
-        "total": 229548
+        "remaining": 229339,
+        "total": 229339
       },
       {
         "prize": 5,
-        "remaining": 253516,
-        "total": 253516
+        "remaining": 253313,
+        "total": 253313
       }
     ],
     "imageUrl": "https://www.kylottery.com/export/kylmod/galleries/images/KYLottery_ScratchOffs/KY117CV_v6.jpg"
   },
   {
-    "name": "KingofSpades136",
+    "name": "Emerald10&#039;s138",
     "price": 10.0,
     "totalTickets": 0,
     "remainingTickets": 0,
@@ -1081,49 +1400,49 @@
       },
       {
         "prize": 500,
-        "remaining": 329,
-        "total": 329
+        "remaining": 328,
+        "total": 328
       },
       {
         "prize": 200,
-        "remaining": 779,
-        "total": 779
+        "remaining": 775,
+        "total": 775
       },
       {
         "prize": 100,
-        "remaining": 8529,
-        "total": 8529
+        "remaining": 8483,
+        "total": 8483
       },
       {
         "prize": 50,
-        "remaining": 9614,
-        "total": 9614
+        "remaining": 9563,
+        "total": 9563
       },
       {
         "prize": 25,
-        "remaining": 11172,
-        "total": 11172
+        "remaining": 11101,
+        "total": 11101
       },
       {
         "prize": 20,
-        "remaining": 44215,
-        "total": 44215
+        "remaining": 43950,
+        "total": 43950
       },
       {
         "prize": 15,
-        "remaining": 89874,
-        "total": 89874
+        "remaining": 89369,
+        "total": 89369
       },
       {
         "prize": 10,
-        "remaining": 34252,
-        "total": 34252
+        "remaining": 34051,
+        "total": 34051
       }
     ],
     "imageUrl": "https://www.kylottery.com/export/kylmod/galleries/images/KYLottery_ScratchOffs/KY118-CV_v4.jpg"
   },
   {
-    "name": "QueenofHearts137",
+    "name": "KentuckyHumaneSociety\u2122135",
     "price": 30.0,
     "totalTickets": 0,
     "remainingTickets": 0,
@@ -1141,8 +1460,8 @@
       },
       {
         "prize": 5000,
-        "remaining": 32,
-        "total": 32
+        "remaining": 30,
+        "total": 30
       },
       {
         "prize": 3000,
@@ -1151,34 +1470,34 @@
       },
       {
         "prize": 1000,
-        "remaining": 432,
-        "total": 432
+        "remaining": 431,
+        "total": 431
       },
       {
         "prize": 500,
-        "remaining": 978,
-        "total": 978
+        "remaining": 971,
+        "total": 971
       },
       {
         "prize": 200,
-        "remaining": 4131,
-        "total": 4131
+        "remaining": 4116,
+        "total": 4116
       },
       {
         "prize": 100,
-        "remaining": 16873,
-        "total": 16873
+        "remaining": 16814,
+        "total": 16814
       },
       {
         "prize": 60,
-        "remaining": 79152,
-        "total": 79152
+        "remaining": 78861,
+        "total": 78861
       }
     ],
     "imageUrl": "https://www.kylottery.com/export/kylmod/galleries/images/KYLottery_ScratchOffs/KY128CV_v7.jpg"
   },
   {
-    "name": "BigBonusBlowout132",
+    "name": "KingofSpades136",
     "price": 10.0,
     "totalTickets": 0,
     "remainingTickets": 0,
@@ -1196,8 +1515,8 @@
       },
       {
         "prize": 500,
-        "remaining": 412,
-        "total": 412
+        "remaining": 411,
+        "total": 411
       },
       {
         "prize": 200,
@@ -1206,34 +1525,34 @@
       },
       {
         "prize": 150,
-        "remaining": 3254,
-        "total": 3254
+        "remaining": 3250,
+        "total": 3250
       },
       {
         "prize": 50,
-        "remaining": 10953,
-        "total": 10953
+        "remaining": 10934,
+        "total": 10934
       },
       {
         "prize": 25,
-        "remaining": 49680,
-        "total": 49680
+        "remaining": 49623,
+        "total": 49623
       },
       {
         "prize": 20,
-        "remaining": 75401,
-        "total": 75401
+        "remaining": 75296,
+        "total": 75296
       },
       {
         "prize": 10,
-        "remaining": 77192,
-        "total": 77192
+        "remaining": 77086,
+        "total": 77086
       }
     ],
     "imageUrl": "https://www.kylottery.com/export/kylmod/galleries/images/KYLottery_ScratchOffs/KY126CV_v7.jpg"
   },
   {
-    "name": "BingoCrossword134",
+    "name": "QueenofHearts137",
     "price": 20.0,
     "totalTickets": 0,
     "remainingTickets": 0,
@@ -1266,34 +1585,34 @@
       },
       {
         "prize": 100,
-        "remaining": 5708,
-        "total": 5708
+        "remaining": 5705,
+        "total": 5705
       },
       {
         "prize": 75,
-        "remaining": 8108,
-        "total": 8108
+        "remaining": 8104,
+        "total": 8104
       },
       {
         "prize": 50,
-        "remaining": 16321,
-        "total": 16321
+        "remaining": 16310,
+        "total": 16310
       },
       {
         "prize": 25,
-        "remaining": 81946,
-        "total": 81946
+        "remaining": 81909,
+        "total": 81909
       },
       {
         "prize": 20,
-        "remaining": 66191,
-        "total": 66191
+        "remaining": 66158,
+        "total": 66158
       }
     ],
     "imageUrl": "https://www.kylottery.com/export/kylmod/galleries/images/KYLottery_ScratchOffs/KY127CV_v8.jpg"
   },
   {
-    "name": "Diamonds131",
+    "name": "BigBonusBlowout132",
     "price": 2.0,
     "totalTickets": 0,
     "remainingTickets": 0,
@@ -1341,24 +1660,24 @@
       },
       {
         "prize": 10,
-        "remaining": 11279,
-        "total": 11279
+        "remaining": 11276,
+        "total": 11276
       },
       {
         "prize": 5,
-        "remaining": 30812,
-        "total": 30812
+        "remaining": 30801,
+        "total": 30801
       },
       {
         "prize": 2,
-        "remaining": 50885,
-        "total": 50885
+        "remaining": 50881,
+        "total": 50881
       }
     ],
     "imageUrl": "https://www.kylottery.com/export/kylmod/galleries/images/KYLottery_ScratchOffs/KY124-CV.jpg"
   },
   {
-    "name": "DidIWin?130",
+    "name": "BingoCrossword134",
     "price": 5.0,
     "totalTickets": 0,
     "remainingTickets": 0,
@@ -1381,39 +1700,39 @@
       },
       {
         "prize": 200,
-        "remaining": 3219,
-        "total": 3219
+        "remaining": 3217,
+        "total": 3217
       },
       {
         "prize": 100,
-        "remaining": 4835,
-        "total": 4835
+        "remaining": 4830,
+        "total": 4830
       },
       {
         "prize": 50,
-        "remaining": 14369,
-        "total": 14369
+        "remaining": 14365,
+        "total": 14365
       },
       {
         "prize": 20,
-        "remaining": 56092,
-        "total": 56092
+        "remaining": 56074,
+        "total": 56074
       },
       {
         "prize": 10,
-        "remaining": 227661,
-        "total": 227661
+        "remaining": 227597,
+        "total": 227597
       },
       {
         "prize": 5,
-        "remaining": 191969,
-        "total": 191969
+        "remaining": 191895,
+        "total": 191895
       }
     ],
     "imageUrl": "https://www.kylottery.com/export/kylmod/galleries/images/KYLottery_ScratchOffs/KY125-CV.jpg"
   },
   {
-    "name": "MoneyMaker133",
+    "name": "Diamonds131",
     "price": 10.0,
     "totalTickets": 0,
     "remainingTickets": 0,
@@ -1431,44 +1750,44 @@
       },
       {
         "prize": 500,
-        "remaining": 1251,
-        "total": 1251
+        "remaining": 1250,
+        "total": 1250
       },
       {
         "prize": 250,
-        "remaining": 2451,
-        "total": 2451
+        "remaining": 2449,
+        "total": 2449
       },
       {
         "prize": 100,
-        "remaining": 4833,
-        "total": 4833
+        "remaining": 4828,
+        "total": 4828
       },
       {
         "prize": 50,
-        "remaining": 7779,
-        "total": 7779
+        "remaining": 7774,
+        "total": 7774
       },
       {
         "prize": 25,
-        "remaining": 41390,
-        "total": 41390
+        "remaining": 41357,
+        "total": 41357
       },
       {
         "prize": 20,
-        "remaining": 69147,
-        "total": 69147
+        "remaining": 69097,
+        "total": 69097
       },
       {
         "prize": 10,
-        "remaining": 112664,
-        "total": 112664
+        "remaining": 112569,
+        "total": 112569
       }
     ],
     "imageUrl": "https://www.kylottery.com/export/kylmod/galleries/images/KYLottery_ScratchOffs/KY122-CV.jpg"
   },
   {
-    "name": "StrikeItRich117",
+    "name": "DidIWin?130",
     "price": 3.0,
     "totalTickets": 0,
     "remainingTickets": 0,
@@ -1496,39 +1815,39 @@
       },
       {
         "prize": 30,
-        "remaining": 4112,
-        "total": 4112
+        "remaining": 4111,
+        "total": 4111
       },
       {
         "prize": 20,
-        "remaining": 7704,
-        "total": 7704
+        "remaining": 7700,
+        "total": 7700
       },
       {
         "prize": 15,
-        "remaining": 3935,
-        "total": 3935
+        "remaining": 3932,
+        "total": 3932
       },
       {
         "prize": 10,
-        "remaining": 8643,
-        "total": 8643
+        "remaining": 8639,
+        "total": 8639
       },
       {
         "prize": 5,
-        "remaining": 39852,
-        "total": 39852
+        "remaining": 39837,
+        "total": 39837
       },
       {
         "prize": 3,
-        "remaining": 53063,
-        "total": 53063
+        "remaining": 53038,
+        "total": 53038
       }
     ],
     "imageUrl": "https://www.kylottery.com/export/kylmod/galleries/images/KYLottery_ScratchOffs/KY120-CVv12.jpg"
   },
   {
-    "name": "WinBig118",
+    "name": "MoneyMaker133",
     "price": 20.0,
     "totalTickets": 0,
     "remainingTickets": 0,
@@ -1546,8 +1865,8 @@
       },
       {
         "prize": 1000,
-        "remaining": 30,
-        "total": 30
+        "remaining": 29,
+        "total": 29
       },
       {
         "prize": 500,
@@ -1556,39 +1875,39 @@
       },
       {
         "prize": 250,
-        "remaining": 1485,
-        "total": 1485
+        "remaining": 1481,
+        "total": 1481
       },
       {
         "prize": 100,
-        "remaining": 4789,
-        "total": 4789
+        "remaining": 4777,
+        "total": 4777
       },
       {
         "prize": 75,
-        "remaining": 9595,
-        "total": 9595
+        "remaining": 9582,
+        "total": 9582
       },
       {
         "prize": 50,
-        "remaining": 10456,
-        "total": 10456
+        "remaining": 10438,
+        "total": 10438
       },
       {
         "prize": 25,
-        "remaining": 8161,
-        "total": 8161
+        "remaining": 8143,
+        "total": 8143
       },
       {
         "prize": 20,
-        "remaining": 32951,
-        "total": 32951
+        "remaining": 32900,
+        "total": 32900
       }
     ],
     "imageUrl": "https://www.kylottery.com/export/kylmod/galleries/images/KYLottery_ScratchOffs/KY119CV_v5.jpg"
   },
   {
-    "name": "DeluxeGold128",
+    "name": "StrikeItRich117",
     "price": 20.0,
     "totalTickets": 0,
     "remainingTickets": 0,
@@ -1601,19 +1920,19 @@
       },
       {
         "prize": 200,
-        "remaining": 24604,
-        "total": 24604
+        "remaining": 24565,
+        "total": 24565
       },
       {
         "prize": 100,
-        "remaining": 48903,
-        "total": 48903
+        "remaining": 48802,
+        "total": 48802
       }
     ],
     "imageUrl": "https://www.kylottery.com/export/kylmod/galleries/images/KYLottery_ScratchOffs/KY123CV_v5-PEC1.jpg"
   },
   {
-    "name": "Hamilton126",
+    "name": "WinBig118",
     "price": 5.0,
     "totalTickets": 0,
     "remainingTickets": 0,
@@ -1646,29 +1965,29 @@
       },
       {
         "prize": 50,
-        "remaining": 21098,
-        "total": 21098
+        "remaining": 21097,
+        "total": 21097
       },
       {
         "prize": 20,
-        "remaining": 50912,
-        "total": 50912
+        "remaining": 50897,
+        "total": 50897
       },
       {
         "prize": 10,
-        "remaining": 204468,
-        "total": 204468
+        "remaining": 204403,
+        "total": 204403
       },
       {
         "prize": 5,
-        "remaining": 154889,
-        "total": 154889
+        "remaining": 154837,
+        "total": 154837
       }
     ],
     "imageUrl": "https://www.kylottery.com/export/kylmod/galleries/images/KYLottery_ScratchOffs/KY121-CVv5.jpg"
   },
   {
-    "name": "Jackson127",
+    "name": "DeluxeGold128",
     "price": 10.0,
     "totalTickets": 0,
     "remainingTickets": 0,
@@ -1696,39 +2015,39 @@
       },
       {
         "prize": 100,
-        "remaining": 14886,
-        "total": 14886
+        "remaining": 14884,
+        "total": 14884
       },
       {
         "prize": 50,
-        "remaining": 16697,
-        "total": 16697
+        "remaining": 16692,
+        "total": 16692
       },
       {
         "prize": 25,
-        "remaining": 19194,
-        "total": 19194
+        "remaining": 19191,
+        "total": 19191
       },
       {
         "prize": 20,
-        "remaining": 76684,
-        "total": 76684
+        "remaining": 76670,
+        "total": 76670
       },
       {
         "prize": 15,
-        "remaining": 154299,
-        "total": 154299
+        "remaining": 154277,
+        "total": 154277
       },
       {
         "prize": 10,
-        "remaining": 58252,
-        "total": 58252
+        "remaining": 58245,
+        "total": 58245
       }
     ],
     "imageUrl": "https://www.kylottery.com/export/kylmod/galleries/images/KYLottery_ScratchOffs/KY115CV_v3.jpg"
   },
   {
-    "name": "Jefferson124",
+    "name": "Hamilton126",
     "price": 10.0,
     "totalTickets": 0,
     "remainingTickets": 0,
@@ -1736,49 +2055,49 @@
     "tiers": [
       {
         "prize": 600,
-        "remaining": 970,
-        "total": 970
+        "remaining": 969,
+        "total": 969
       },
       {
         "prize": 200,
-        "remaining": 1393,
-        "total": 1393
+        "remaining": 1392,
+        "total": 1392
       },
       {
         "prize": 100,
-        "remaining": 22250,
-        "total": 22250
+        "remaining": 22247,
+        "total": 22247
       },
       {
         "prize": 50,
-        "remaining": 22122,
-        "total": 22122
+        "remaining": 22120,
+        "total": 22120
       },
       {
         "prize": 30,
-        "remaining": 22091,
-        "total": 22091
+        "remaining": 22088,
+        "total": 22088
       },
       {
         "prize": 20,
-        "remaining": 44344,
-        "total": 44344
+        "remaining": 44337,
+        "total": 44337
       },
       {
         "prize": 15,
-        "remaining": 133400,
-        "total": 133400
+        "remaining": 133381,
+        "total": 133381
       },
       {
         "prize": 10,
-        "remaining": 178870,
-        "total": 178870
+        "remaining": 178843,
+        "total": 178843
       }
     ],
     "imageUrl": "https://www.kylottery.com/export/kylmod/galleries/images/KYLottery_ScratchOffs/KY114-CV.jpg"
   },
   {
-    "name": "Lincoln125",
+    "name": "Jackson127",
     "price": 20.0,
     "totalTickets": 0,
     "remainingTickets": 0,
@@ -1806,39 +2125,39 @@
       },
       {
         "prize": 250,
-        "remaining": 1119,
-        "total": 1119
+        "remaining": 1118,
+        "total": 1118
       },
       {
         "prize": 100,
-        "remaining": 4708,
-        "total": 4708
+        "remaining": 4707,
+        "total": 4707
       },
       {
         "prize": 75,
-        "remaining": 14957,
-        "total": 14957
+        "remaining": 14954,
+        "total": 14954
       },
       {
         "prize": 50,
-        "remaining": 15107,
-        "total": 15107
+        "remaining": 15101,
+        "total": 15101
       },
       {
         "prize": 25,
-        "remaining": 75566,
-        "total": 75566
+        "remaining": 75545,
+        "total": 75545
       },
       {
         "prize": 20,
-        "remaining": 60625,
-        "total": 60625
+        "remaining": 60606,
+        "total": 60606
       }
     ],
     "imageUrl": "https://www.kylottery.com/export/kylmod/galleries/images/KYLottery_ScratchOffs/KY116CV.jpg"
   },
   {
-    "name": "BlackDiamondDazzler122",
+    "name": "Jefferson124",
     "price": 5.0,
     "totalTickets": 0,
     "remainingTickets": 0,
@@ -1871,39 +2190,39 @@
       },
       {
         "prize": 75,
-        "remaining": 2704,
-        "total": 2704
+        "remaining": 2701,
+        "total": 2701
       },
       {
         "prize": 50,
-        "remaining": 7772,
-        "total": 7772
+        "remaining": 7768,
+        "total": 7768
       },
       {
         "prize": 30,
-        "remaining": 2998,
-        "total": 2998
+        "remaining": 2995,
+        "total": 2995
       },
       {
         "prize": 20,
-        "remaining": 58633,
-        "total": 58633
+        "remaining": 58597,
+        "total": 58597
       },
       {
         "prize": 10,
-        "remaining": 143117,
-        "total": 143117
+        "remaining": 143028,
+        "total": 143028
       },
       {
         "prize": 5,
-        "remaining": 122993,
-        "total": 122993
+        "remaining": 122902,
+        "total": 122902
       }
     ],
     "imageUrl": "https://www.kylottery.com/export/kylmod/galleries/images/KYLottery_ScratchOffs/KY105CV_P1_v6.jpg"
   },
   {
-    "name": "ElectricDiamonds120",
+    "name": "Lincoln125",
     "price": 20.0,
     "totalTickets": 0,
     "remainingTickets": 0,
@@ -1951,19 +2270,19 @@
       },
       {
         "prize": 25,
-        "remaining": 10306,
-        "total": 10306
+        "remaining": 10305,
+        "total": 10305
       },
       {
         "prize": 20,
-        "remaining": 8294,
-        "total": 8294
+        "remaining": 8293,
+        "total": 8293
       }
     ],
     "imageUrl": "https://www.kylottery.com/export/kylmod/galleries/images/KYLottery_ScratchOffs/KY109CV_Pulse1.jpg"
   },
   {
-    "name": "HotMoneyMultiplier119",
+    "name": "BlackDiamondDazzler122",
     "price": 50.0,
     "totalTickets": 0,
     "remainingTickets": 0,
@@ -1991,24 +2310,24 @@
       },
       {
         "prize": 500,
-        "remaining": 7215,
-        "total": 7215
+        "remaining": 7188,
+        "total": 7188
       },
       {
         "prize": 200,
-        "remaining": 24924,
-        "total": 24924
+        "remaining": 24843,
+        "total": 24843
       },
       {
         "prize": 100,
-        "remaining": 212591,
-        "total": 212591
+        "remaining": 211850,
+        "total": 211850
       }
     ],
     "imageUrl": "https://www.kylottery.com/export/kylmod/galleries/images/KYLottery_ScratchOffs/KY110CV_v8.jpg"
   },
   {
-    "name": "MegaBonusBlowout123",
+    "name": "ElectricDiamonds120",
     "price": 5.0,
     "totalTickets": 0,
     "remainingTickets": 0,
@@ -2046,24 +2365,24 @@
       },
       {
         "prize": 15,
-        "remaining": 3096,
-        "total": 3096
+        "remaining": 3095,
+        "total": 3095
       },
       {
         "prize": 10,
-        "remaining": 9584,
-        "total": 9584
+        "remaining": 9583,
+        "total": 9583
       },
       {
         "prize": 5,
-        "remaining": 20678,
-        "total": 20678
+        "remaining": 20677,
+        "total": 20677
       }
     ],
     "imageUrl": "https://www.kylottery.com/export/kylmod/galleries/images/KYLottery_ScratchOffs/KY107CV_v5.jpg"
   },
   {
-    "name": "MoneyTrain121",
+    "name": "HotMoneyMultiplier119",
     "price": 2.0,
     "totalTickets": 0,
     "remainingTickets": 0,
@@ -2111,24 +2430,24 @@
       },
       {
         "prize": 4,
-        "remaining": 38143,
-        "total": 38143
+        "remaining": 38142,
+        "total": 38142
       },
       {
         "prize": 3,
-        "remaining": 45281,
-        "total": 45281
+        "remaining": 45277,
+        "total": 45277
       },
       {
         "prize": 2,
-        "remaining": 57730,
-        "total": 57730
+        "remaining": 57724,
+        "total": 57724
       }
     ],
     "imageUrl": "https://www.kylottery.com/export/kylmod/galleries/images/KYLottery_ScratchOffs/KLC-PAC-MAN-536-comp-Covered.jpg"
   },
   {
-    "name": "100000Jackpot113",
+    "name": "MegaBonusBlowout123",
     "price": 1.0,
     "totalTickets": 0,
     "remainingTickets": 0,
@@ -2161,23 +2480,23 @@
       },
       {
         "prize": 4,
-        "remaining": 13879,
-        "total": 13879
+        "remaining": 13878,
+        "total": 13878
       },
       {
         "prize": 2,
-        "remaining": 43143,
-        "total": 43143
+        "remaining": 43133,
+        "total": 43133
       },
       {
         "prize": 1,
-        "remaining": 80674,
-        "total": 80674
+        "remaining": 80667,
+        "total": 80667
       }
     ]
   },
   {
-    "name": "200000Lion&#039;sShare115",
+    "name": "MoneyTrain121",
     "price": 3.0,
     "totalTickets": 0,
     "remainingTickets": 0,
@@ -2225,24 +2544,24 @@
       },
       {
         "prize": 5,
-        "remaining": 25522,
-        "total": 25522
+        "remaining": 25521,
+        "total": 25521
       },
       {
         "prize": 4,
-        "remaining": 29994,
-        "total": 29994
+        "remaining": 29990,
+        "total": 29990
       },
       {
         "prize": 3,
-        "remaining": 42277,
-        "total": 42277
+        "remaining": 42273,
+        "total": 42273
       }
     ],
     "imageUrl": "https://www.kylottery.com/export/kylmod/galleries/images/KYLottery_ScratchOffs/KY106-CV.jpg"
   },
   {
-    "name": "600Lion&#039;sShare114",
+    "name": "100000Jackpot113",
     "price": 10.0,
     "totalTickets": 0,
     "remainingTickets": 0,
@@ -2285,13 +2604,13 @@
       },
       {
         "prize": 20,
-        "remaining": 8405,
-        "total": 8405
+        "remaining": 8404,
+        "total": 8404
       },
       {
         "prize": 15,
-        "remaining": 18850,
-        "total": 18850
+        "remaining": 18849,
+        "total": 18849
       },
       {
         "prize": 10,
@@ -2302,7 +2621,7 @@
     "imageUrl": "https://www.kylottery.com/export/kylmod/galleries/images/KYLottery_ScratchOffs/KY108CV_v5.jpg"
   },
   {
-    "name": "LuckyStreak116",
+    "name": "200000Lion&#039;sShare115",
     "price": 20.0,
     "totalTickets": 0,
     "remainingTickets": 0,
@@ -2335,28 +2654,28 @@
       },
       {
         "prize": 80,
-        "remaining": 7022,
-        "total": 7022
+        "remaining": 7021,
+        "total": 7021
       },
       {
         "prize": 60,
-        "remaining": 9280,
-        "total": 9280
+        "remaining": 9278,
+        "total": 9278
       },
       {
         "prize": 50,
-        "remaining": 11666,
-        "total": 11666
+        "remaining": 11664,
+        "total": 11664
       },
       {
         "prize": 40,
-        "remaining": 74984,
-        "total": 74984
+        "remaining": 74963,
+        "total": 74963
       }
     ]
   },
   {
-    "name": "Wild7&#039;s105",
+    "name": "600Lion&#039;sShare114",
     "price": 5.0,
     "totalTickets": 0,
     "remainingTickets": 0,
@@ -2409,19 +2728,19 @@
       },
       {
         "prize": 10,
-        "remaining": 20942,
-        "total": 20942
+        "remaining": 20940,
+        "total": 20940
       },
       {
         "prize": 5,
-        "remaining": 33709,
-        "total": 33709
+        "remaining": 33706,
+        "total": 33706
       }
     ],
     "imageUrl": "https://www.kylottery.com/export/kylmod/galleries/images/KYLottery_ScratchOffs/KY998CV.jpg"
   },
   {
-    "name": "50XCash109",
+    "name": "LuckyStreak116",
     "price": 3.0,
     "totalTickets": 0,
     "remainingTickets": 0,
@@ -2469,8 +2788,8 @@
       },
       {
         "prize": 5,
-        "remaining": 12206,
-        "total": 12206
+        "remaining": 12205,
+        "total": 12205
       },
       {
         "prize": 3,
@@ -2481,7 +2800,7 @@
     "imageUrl": "https://www.kylottery.com/export/kylmod/galleries/images/KYLottery_ScratchOffs/KY101CV_v4.jpg"
   },
   {
-    "name": "InstantMillionaire110",
+    "name": "Wild7&#039;s105",
     "price": 2.0,
     "totalTickets": 0,
     "remainingTickets": 0,
@@ -2529,13 +2848,13 @@
       },
       {
         "prize": 2,
-        "remaining": 52426,
-        "total": 52426
+        "remaining": 52425,
+        "total": 52425
       }
     ]
   },
   {
-    "name": "MerryMultiplier107",
+    "name": "50XCash109",
     "price": 10.0,
     "totalTickets": 0,
     "remainingTickets": 0,
@@ -2573,19 +2892,19 @@
       },
       {
         "prize": 25,
-        "remaining": 3173,
-        "total": 3173
+        "remaining": 3172,
+        "total": 3172
       },
       {
         "prize": 15,
-        "remaining": 10749,
-        "total": 10749
+        "remaining": 10747,
+        "total": 10747
       }
     ],
     "imageUrl": "https://www.kylottery.com/export/kylmod/galleries/images/KYLottery_ScratchOffs/KY102CV.jpg"
   },
   {
-    "name": "PACMAN\u2122536",
+    "name": "InstantMillionaire110",
     "price": 10.0,
     "totalTickets": 0,
     "remainingTickets": 0,
@@ -2608,44 +2927,44 @@
       },
       {
         "prize": 500,
-        "remaining": 4081,
-        "total": 4081
+        "remaining": 4079,
+        "total": 4079
       },
       {
         "prize": 250,
-        "remaining": 8931,
-        "total": 8931
+        "remaining": 8923,
+        "total": 8923
       },
       {
         "prize": 100,
-        "remaining": 23976,
-        "total": 23976
+        "remaining": 23963,
+        "total": 23963
       },
       {
         "prize": 50,
-        "remaining": 36259,
-        "total": 36259
+        "remaining": 36242,
+        "total": 36242
       },
       {
         "prize": 25,
-        "remaining": 240599,
-        "total": 240599
+        "remaining": 240480,
+        "total": 240480
       },
       {
         "prize": 15,
-        "remaining": 121466,
-        "total": 121466
+        "remaining": 121405,
+        "total": 121405
       },
       {
         "prize": 10,
-        "remaining": 733276,
-        "total": 733276
+        "remaining": 732911,
+        "total": 732911
       }
     ],
     "imageUrl": "https://www.kylottery.com/export/kylmod/galleries/images/KYLottery_ScratchOffs/KY994CV_v6.jpg"
   },
   {
-    "name": "SnowMuchFunMultiplier104",
+    "name": "MerryMultiplier107",
     "price": 5.0,
     "totalTickets": 0,
     "remainingTickets": 0,
@@ -2678,29 +2997,29 @@
       },
       {
         "prize": 20,
-        "remaining": 3970,
-        "total": 3970
+        "remaining": 3968,
+        "total": 3968
       },
       {
         "prize": 15,
-        "remaining": 14802,
-        "total": 14802
+        "remaining": 14800,
+        "total": 14800
       },
       {
         "prize": 10,
-        "remaining": 17561,
-        "total": 17561
+        "remaining": 17559,
+        "total": 17559
       },
       {
         "prize": 5,
-        "remaining": 45982,
-        "total": 45982
+        "remaining": 45976,
+        "total": 45976
       }
     ],
     "imageUrl": "https://www.kylottery.com/export/kylmod/galleries/images/KYLottery_ScratchOffs/KY995CV_v8.jpg"
   },
   {
-    "name": "TwinkleCash106",
+    "name": "PACMAN\u2122536",
     "price": 20.0,
     "totalTickets": 0,
     "remainingTickets": 0,
@@ -2723,8 +3042,8 @@
       },
       {
         "prize": 500,
-        "remaining": 543,
-        "total": 543
+        "remaining": 542,
+        "total": 542
       },
       {
         "prize": 250,
@@ -2733,34 +3052,34 @@
       },
       {
         "prize": 100,
-        "remaining": 7177,
-        "total": 7177
+        "remaining": 7176,
+        "total": 7176
       },
       {
         "prize": 50,
-        "remaining": 8815,
-        "total": 8815
+        "remaining": 8811,
+        "total": 8811
       },
       {
         "prize": 30,
-        "remaining": 7683,
-        "total": 7683
+        "remaining": 7682,
+        "total": 7682
       },
       {
         "prize": 25,
-        "remaining": 40828,
-        "total": 40828
+        "remaining": 40811,
+        "total": 40811
       },
       {
         "prize": 20,
-        "remaining": 30856,
-        "total": 30856
+        "remaining": 30836,
+        "total": 30836
       }
     ],
     "imageUrl": "https://www.kylottery.com/export/kylmod/galleries/images/KYLottery_ScratchOffs/KY997_info.png"
   },
   {
-    "name": "WinterIce108",
+    "name": "SnowMuchFunMultiplier104",
     "price": 3.0,
     "totalTickets": 0,
     "remainingTickets": 0,
@@ -2793,39 +3112,39 @@
       },
       {
         "prize": 25,
-        "remaining": 5738,
-        "total": 5738
+        "remaining": 5736,
+        "total": 5736
       },
       {
         "prize": 15,
-        "remaining": 5054,
-        "total": 5054
+        "remaining": 5053,
+        "total": 5053
       },
       {
         "prize": 10,
-        "remaining": 10381,
-        "total": 10381
+        "remaining": 10378,
+        "total": 10378
       },
       {
         "prize": 5,
-        "remaining": 31357,
-        "total": 31357
+        "remaining": 31344,
+        "total": 31344
       },
       {
         "prize": 4,
-        "remaining": 47579,
-        "total": 47579
+        "remaining": 47558,
+        "total": 47558
       },
       {
         "prize": 3,
-        "remaining": 49222,
-        "total": 49222
+        "remaining": 49206,
+        "total": 49206
       }
     ],
     "imageUrl": "https://www.kylottery.com/export/kylmod/galleries/images/KYLottery_ScratchOffs/KY992CV_v7.jpg"
   },
   {
-    "name": "DoubleUp103",
+    "name": "TwinkleCash106",
     "price": 10.0,
     "totalTickets": 0,
     "remainingTickets": 0,
@@ -2848,8 +3167,8 @@
       },
       {
         "prize": 200,
-        "remaining": 1674,
-        "total": 1674
+        "remaining": 1673,
+        "total": 1673
       },
       {
         "prize": 150,
@@ -2858,34 +3177,34 @@
       },
       {
         "prize": 50,
-        "remaining": 5705,
-        "total": 5705
+        "remaining": 5704,
+        "total": 5704
       },
       {
         "prize": 25,
-        "remaining": 6292,
-        "total": 6292
+        "remaining": 6291,
+        "total": 6291
       },
       {
         "prize": 20,
-        "remaining": 12454,
-        "total": 12454
+        "remaining": 12451,
+        "total": 12451
       },
       {
         "prize": 15,
-        "remaining": 38303,
-        "total": 38303
+        "remaining": 38281,
+        "total": 38281
       },
       {
         "prize": 10,
-        "remaining": 46757,
-        "total": 46757
+        "remaining": 46730,
+        "total": 46730
       }
     ],
     "imageUrl": "https://www.kylottery.com/export/kylmod/galleries/images/KYLottery_ScratchOffs/KY990CV.jpg"
   },
   {
-    "name": "MiniMonsters998",
+    "name": "WinterIce108",
     "price": 20.0,
     "totalTickets": 0,
     "remainingTickets": 0,
@@ -2923,8 +3242,8 @@
       },
       {
         "prize": 100,
-        "remaining": 11084,
-        "total": 11084
+        "remaining": 11082,
+        "total": 11082
       },
       {
         "prize": 50,
@@ -2938,14 +3257,14 @@
       },
       {
         "prize": 20,
-        "remaining": 56380,
-        "total": 56380
+        "remaining": 56374,
+        "total": 56374
       }
     ],
     "imageUrl": "https://www.kylottery.com/export/kylmod/galleries/images/KYLottery_ScratchOffs/KY989CV_v6.jpg"
   },
   {
-    "name": "PumpkinPayout101",
+    "name": "DoubleUp103",
     "price": 2.0,
     "totalTickets": 0,
     "remainingTickets": 0,
@@ -2993,24 +3312,24 @@
       },
       {
         "prize": 10,
-        "remaining": 7010,
-        "total": 7010
+        "remaining": 7009,
+        "total": 7009
       },
       {
         "prize": 5,
-        "remaining": 20535,
-        "total": 20535
+        "remaining": 20534,
+        "total": 20534
       },
       {
         "prize": 2,
-        "remaining": 47814,
-        "total": 47814
+        "remaining": 47812,
+        "total": 47812
       }
     ],
     "imageUrl": "https://www.kylottery.com/export/kylmod/galleries/images/KYLottery_ScratchOffs/KY993CV_v4.jpg"
   },
   {
-    "name": "TrickorTreat100",
+    "name": "MiniMonsters998",
     "price": 5.0,
     "totalTickets": 0,
     "remainingTickets": 0,
@@ -3038,34 +3357,34 @@
       },
       {
         "prize": 100,
-        "remaining": 1655,
-        "total": 1655
+        "remaining": 1654,
+        "total": 1654
       },
       {
         "prize": 50,
-        "remaining": 4959,
-        "total": 4959
+        "remaining": 4957,
+        "total": 4957
       },
       {
         "prize": 20,
-        "remaining": 19614,
-        "total": 19614
+        "remaining": 19608,
+        "total": 19608
       },
       {
         "prize": 10,
-        "remaining": 75223,
-        "total": 75223
+        "remaining": 75193,
+        "total": 75193
       },
       {
         "prize": 5,
-        "remaining": 86792,
-        "total": 86792
+        "remaining": 86770,
+        "total": 86770
       }
     ],
     "imageUrl": "https://www.kylottery.com/export/kylmod/galleries/images/KYLottery_ScratchOffs/KY991CV_v5.jpg"
   },
   {
-    "name": "TripleRed777102",
+    "name": "PumpkinPayout101",
     "price": 20.0,
     "totalTickets": 0,
     "remainingTickets": 0,
@@ -3098,34 +3417,34 @@
       },
       {
         "prize": 100,
-        "remaining": 5550,
-        "total": 5550
+        "remaining": 5549,
+        "total": 5549
       },
       {
         "prize": 75,
-        "remaining": 14784,
-        "total": 14784
+        "remaining": 14783,
+        "total": 14783
       },
       {
         "prize": 50,
-        "remaining": 14992,
-        "total": 14992
+        "remaining": 14991,
+        "total": 14991
       },
       {
         "prize": 25,
-        "remaining": 74384,
-        "total": 74384
+        "remaining": 74375,
+        "total": 74375
       },
       {
         "prize": 20,
-        "remaining": 59631,
-        "total": 59631
+        "remaining": 59625,
+        "total": 59625
       }
     ],
     "imageUrl": "https://www.kylottery.com/export/kylmod/galleries/images/KYLottery_ScratchOffs/KY987CV.jpg"
   },
   {
-    "name": "BluegrassBlowout994",
+    "name": "TrickorTreat100",
     "price": 5.0,
     "totalTickets": 0,
     "remainingTickets": 0,
@@ -3163,24 +3482,24 @@
       },
       {
         "prize": 15,
-        "remaining": 5898,
-        "total": 5898
+        "remaining": 5897,
+        "total": 5897
       },
       {
         "prize": 10,
-        "remaining": 26746,
-        "total": 26746
+        "remaining": 26742,
+        "total": 26742
       },
       {
         "prize": 5,
-        "remaining": 22221,
-        "total": 22221
+        "remaining": 22220,
+        "total": 22220
       }
     ],
     "imageUrl": "https://www.kylottery.com/export/kylmod/galleries/images/KYLottery_ScratchOffs/KY983CV.jpg"
   },
   {
-    "name": "LuckyFortune995",
+    "name": "TripleRed777102",
     "price": 2.0,
     "totalTickets": 0,
     "remainingTickets": 0,
@@ -3208,34 +3527,34 @@
       },
       {
         "prize": 30,
-        "remaining": 13679,
-        "total": 13679
+        "remaining": 13678,
+        "total": 13678
       },
       {
         "prize": 25,
-        "remaining": 13767,
-        "total": 13767
+        "remaining": 13764,
+        "total": 13764
       },
       {
         "prize": 10,
-        "remaining": 41892,
-        "total": 41892
+        "remaining": 41885,
+        "total": 41885
       },
       {
         "prize": 4,
-        "remaining": 86104,
-        "total": 86104
+        "remaining": 86084,
+        "total": 86084
       },
       {
         "prize": 2,
-        "remaining": 305449,
-        "total": 305449
+        "remaining": 305387,
+        "total": 305387
       }
     ],
     "imageUrl": "https://www.kylottery.com/export/kylmod/galleries/images/KYLottery_ScratchOffs/KY845CV-V7.jpg"
   },
   {
-    "name": "MegaCash997",
+    "name": "BluegrassBlowout994",
     "price": 30.0,
     "totalTickets": 0,
     "remainingTickets": 0,
@@ -3278,14 +3597,14 @@
       },
       {
         "prize": 50,
-        "remaining": 4229,
-        "total": 4229
+        "remaining": 4228,
+        "total": 4228
       }
     ],
     "imageUrl": "https://www.kylottery.com/export/kylmod/galleries/images/KYLottery_ScratchOffs/KY988CV_v9.jpg"
   },
   {
-    "name": "WildCash30X992",
+    "name": "LuckyFortune995",
     "price": 20.0,
     "totalTickets": 0,
     "remainingTickets": 0,
@@ -3345,7 +3664,7 @@
     "imageUrl": "https://www.kylottery.com/export/kylmod/galleries/images/KYLottery_ScratchOffs/KY979-CV-V5.jpg"
   },
   {
-    "name": "WildCash100X990",
+    "name": "MegaCash997",
     "price": 10.0,
     "totalTickets": 0,
     "remainingTickets": 0,
@@ -3353,24 +3672,24 @@
     "tiers": [
       {
         "prize": 500,
-        "remaining": 1958,
-        "total": 1958
+        "remaining": 1942,
+        "total": 1942
       },
       {
         "prize": 100,
-        "remaining": 12316,
-        "total": 12316
+        "remaining": 12224,
+        "total": 12224
       },
       {
         "prize": 50,
-        "remaining": 61890,
-        "total": 61890
+        "remaining": 61397,
+        "total": 61397
       }
     ],
     "imageUrl": "https://www.kylottery.com/export/kylmod/galleries/images/KYLottery_ScratchOffs/KY973CV_Pulse1.jpg"
   },
   {
-    "name": "WildCash200X989",
+    "name": "WildCash30X992",
     "price": 5.0,
     "totalTickets": 0,
     "remainingTickets": 0,
@@ -3413,19 +3732,19 @@
       },
       {
         "prize": 10,
-        "remaining": 22812,
-        "total": 22812
+        "remaining": 22811,
+        "total": 22811
       },
       {
         "prize": 5,
-        "remaining": 28712,
-        "total": 28712
+        "remaining": 28710,
+        "total": 28710
       }
     ],
     "imageUrl": "https://www.kylottery.com/export/kylmod/galleries/images/KYLottery_ScratchOffs/KY971CV.jpg"
   },
   {
-    "name": "WildCash20X993",
+    "name": "WildCash100X990",
     "price": 2.0,
     "totalTickets": 0,
     "remainingTickets": 0,
@@ -3473,19 +3792,19 @@
       },
       {
         "prize": 3,
-        "remaining": 38615,
-        "total": 38615
+        "remaining": 38611,
+        "total": 38611
       },
       {
         "prize": 2,
-        "remaining": 52715,
-        "total": 52715
+        "remaining": 52712,
+        "total": 52712
       }
     ],
     "imageUrl": "https://www.kylottery.com/export/kylmod/galleries/images/KYLottery_ScratchOffs/KY970CV.jpg"
   },
   {
-    "name": "WildCash50X991",
+    "name": "WildCash200X989",
     "price": 5.0,
     "totalTickets": 0,
     "remainingTickets": 0,
@@ -3513,39 +3832,39 @@
       },
       {
         "prize": 77,
-        "remaining": 9750,
-        "total": 9750
+        "remaining": 9745,
+        "total": 9745
       },
       {
         "prize": 27,
-        "remaining": 3233,
-        "total": 3233
+        "remaining": 3232,
+        "total": 3232
       },
       {
         "prize": 17,
-        "remaining": 19486,
-        "total": 19486
+        "remaining": 19479,
+        "total": 19479
       },
       {
         "prize": 10,
-        "remaining": 39139,
-        "total": 39139
+        "remaining": 39131,
+        "total": 39131
       },
       {
         "prize": 7,
-        "remaining": 133197,
-        "total": 133197
+        "remaining": 133168,
+        "total": 133168
       },
       {
         "prize": 5,
-        "remaining": 101400,
-        "total": 101400
+        "remaining": 101369,
+        "total": 101369
       }
     ],
     "imageUrl": "https://www.kylottery.com/export/kylmod/galleries/images/KYLottery_ScratchOffs/KY975CV.jpg"
   },
   {
-    "name": "CashBonus987",
+    "name": "WildCash20X993",
     "price": 5.0,
     "totalTickets": 0,
     "remainingTickets": 0,
@@ -3573,34 +3892,34 @@
       },
       {
         "prize": 50,
-        "remaining": 14365,
-        "total": 14365
+        "remaining": 14361,
+        "total": 14361
       },
       {
         "prize": 20,
-        "remaining": 26691,
-        "total": 26691
+        "remaining": 26688,
+        "total": 26688
       },
       {
         "prize": 15,
-        "remaining": 26766,
-        "total": 26766
+        "remaining": 26759,
+        "total": 26759
       },
       {
         "prize": 10,
-        "remaining": 160674,
-        "total": 160674
+        "remaining": 160658,
+        "total": 160658
       },
       {
         "prize": 5,
-        "remaining": 150693,
-        "total": 150693
+        "remaining": 150679,
+        "total": 150679
       }
     ],
     "imageUrl": "https://www.kylottery.com/export/kylmod/galleries/images/KYLottery_ScratchOffs/KY966-CV.jpg"
   },
   {
-    "name": "Hot5&#039;s983",
+    "name": "WildCash50X991",
     "price": 10.0,
     "totalTickets": 0,
     "remainingTickets": 0,
@@ -3653,19 +3972,19 @@
       },
       {
         "prize": 15,
-        "remaining": 12252,
-        "total": 12252
+        "remaining": 12250,
+        "total": 12250
       },
       {
         "prize": 10,
-        "remaining": 39566,
-        "total": 39566
+        "remaining": 39564,
+        "total": 39564
       }
     ],
     "imageUrl": "https://www.kylottery.com/export/kylmod/galleries/images/KYLottery_ScratchOffs/KY967-CV.jpg"
   },
   {
-    "name": "PAYDAYMultiplier845",
+    "name": "CashBonus987",
     "price": 20.0,
     "totalTickets": 0,
     "remainingTickets": 0,
@@ -3730,7 +4049,7 @@
     "imageUrl": "https://www.kylottery.com/export/kylmod/galleries/images/KYLottery_ScratchOffs/KY968-CVv8.jpg"
   },
   {
-    "name": "WildCash300X988",
+    "name": "Hot5&#039;s983",
     "price": 30.0,
     "totalTickets": 0,
     "remainingTickets": 0,
@@ -3768,13 +4087,13 @@
       },
       {
         "prize": 200,
-        "remaining": 1740,
-        "total": 1740
+        "remaining": 1739,
+        "total": 1739
       },
       {
         "prize": 100,
-        "remaining": 4610,
-        "total": 4610
+        "remaining": 4609,
+        "total": 4609
       },
       {
         "prize": 50,
@@ -3788,14 +4107,14 @@
       },
       {
         "prize": 30,
-        "remaining": 26787,
-        "total": 26787
+        "remaining": 26785,
+        "total": 26785
       }
     ],
     "imageUrl": "https://www.kylottery.com/export/kylmod/galleries/images/KYLottery_ScratchOffs/KY969-CV.jpg"
   },
   {
-    "name": "225000PAYDAY978",
+    "name": "PAYDAYMultiplier845",
     "price": 5.0,
     "totalTickets": 0,
     "remainingTickets": 0,
@@ -3843,13 +4162,13 @@
       },
       {
         "prize": 5,
-        "remaining": 105063,
-        "total": 105063
+        "remaining": 105059,
+        "total": 105059
       }
     ]
   },
   {
-    "name": "500Cash980",
+    "name": "WildCash300X988",
     "price": 5.0,
     "totalTickets": 0,
     "remainingTickets": 0,
@@ -3862,44 +4181,44 @@
       },
       {
         "prize": 100,
-        "remaining": 2992,
-        "total": 2992
+        "remaining": 2991,
+        "total": 2991
       },
       {
         "prize": 50,
-        "remaining": 8955,
-        "total": 8955
+        "remaining": 8953,
+        "total": 8953
       },
       {
         "prize": 30,
-        "remaining": 9042,
-        "total": 9042
+        "remaining": 9040,
+        "total": 9040
       },
       {
         "prize": 20,
-        "remaining": 9105,
-        "total": 9105
+        "remaining": 9103,
+        "total": 9103
       },
       {
         "prize": 15,
-        "remaining": 27460,
-        "total": 27460
+        "remaining": 27450,
+        "total": 27450
       },
       {
         "prize": 10,
-        "remaining": 93171,
-        "total": 93171
+        "remaining": 93140,
+        "total": 93140
       },
       {
         "prize": 5,
-        "remaining": 119047,
-        "total": 119047
+        "remaining": 119012,
+        "total": 119012
       }
     ],
     "imageUrl": "https://www.kylottery.com/export/kylmod/galleries/images/KYLottery_ScratchOffs/KY944CV-V7.jpg"
   },
   {
-    "name": "Feelin&#039;LikeAMillionBucks979",
+    "name": "225000PAYDAY978",
     "price": 5.0,
     "totalTickets": 0,
     "remainingTickets": 0,
@@ -3927,8 +4246,8 @@
       },
       {
         "prize": 60,
-        "remaining": 4599,
-        "total": 4599
+        "remaining": 4598,
+        "total": 4598
       },
       {
         "prize": 30,
@@ -3937,34 +4256,34 @@
       },
       {
         "prize": 20,
-        "remaining": 12125,
-        "total": 12125
+        "remaining": 12123,
+        "total": 12123
       },
       {
         "prize": 15,
-        "remaining": 12530,
-        "total": 12530
+        "remaining": 12527,
+        "total": 12527
       },
       {
         "prize": 10,
-        "remaining": 31544,
-        "total": 31544
+        "remaining": 31532,
+        "total": 31532
       },
       {
         "prize": 7,
-        "remaining": 27254,
-        "total": 27254
+        "remaining": 27251,
+        "total": 27251
       },
       {
         "prize": 5,
-        "remaining": 89372,
-        "total": 89372
+        "remaining": 89358,
+        "total": 89358
       }
     ],
     "imageUrl": "https://www.kylottery.com/export/kylmod/galleries/images/KYLottery_ScratchOffs/KY936CV.jpg"
   },
   {
-    "name": "50100500Blowout973",
+    "name": "500Cash980",
     "price": 10.0,
     "totalTickets": 0,
     "remainingTickets": 0,
@@ -3992,18 +4311,18 @@
       },
       {
         "prize": 100,
-        "remaining": 15810,
-        "total": 15810
+        "remaining": 15792,
+        "total": 15792
       },
       {
         "prize": 50,
-        "remaining": 32444,
-        "total": 32444
+        "remaining": 32402,
+        "total": 32402
       }
     ]
   },
   {
-    "name": "50XTheLuck971",
+    "name": "Feelin&#039;LikeAMillionBucks979",
     "price": 50.0,
     "totalTickets": 0,
     "remainingTickets": 0,
@@ -4021,39 +4340,39 @@
       },
       {
         "prize": 10000,
-        "remaining": 325,
-        "total": 325
+        "remaining": 324,
+        "total": 324
       },
       {
         "prize": 1000,
-        "remaining": 621,
-        "total": 621
+        "remaining": 619,
+        "total": 619
       },
       {
         "prize": 500,
-        "remaining": 1248,
-        "total": 1248
+        "remaining": 1245,
+        "total": 1245
       },
       {
         "prize": 200,
-        "remaining": 6000,
-        "total": 6000
+        "remaining": 5987,
+        "total": 5987
       },
       {
         "prize": 100,
-        "remaining": 11556,
-        "total": 11556
+        "remaining": 11538,
+        "total": 11538
       },
       {
         "prize": 75,
-        "remaining": 167009,
-        "total": 167009
+        "remaining": 166765,
+        "total": 166765
       }
     ],
     "imageUrl": "https://www.kylottery.com/export/kylmod/galleries/images/KYLottery_ScratchOffs/KY904CV_v8-PEC1.jpg"
   },
   {
-    "name": "LuckyMe970",
+    "name": "50100500Blowout973",
     "price": 20.0,
     "totalTickets": 0,
     "remainingTickets": 0,
@@ -4086,39 +4405,39 @@
       },
       {
         "prize": 200,
-        "remaining": 9154,
-        "total": 9154
+        "remaining": 9153,
+        "total": 9153
       },
       {
         "prize": 100,
-        "remaining": 32237,
-        "total": 32237
+        "remaining": 32231,
+        "total": 32231
       },
       {
         "prize": 50,
-        "remaining": 32137,
-        "total": 32137
+        "remaining": 32135,
+        "total": 32135
       },
       {
         "prize": 30,
-        "remaining": 32328,
-        "total": 32328
+        "remaining": 32321,
+        "total": 32321
       },
       {
         "prize": 25,
-        "remaining": 32633,
-        "total": 32633
+        "remaining": 32632,
+        "total": 32632
       },
       {
         "prize": 20,
-        "remaining": 130146,
-        "total": 130146
+        "remaining": 130124,
+        "total": 130124
       }
     ],
     "imageUrl": "https://www.kylottery.com/export/kylmod/galleries/images/KYLottery_ScratchOffs/KY848CV-V7.jpg"
   },
   {
-    "name": "KentuckyJackpot966",
+    "name": "LuckyMe970",
     "price": 10.0,
     "totalTickets": 0,
     "remainingTickets": 0,
@@ -4156,8 +4475,8 @@
       },
       {
         "prize": 60,
-        "remaining": 25592,
-        "total": 25592
+        "remaining": 25589,
+        "total": 25589
       },
       {
         "prize": 20,
@@ -4166,19 +4485,19 @@
       },
       {
         "prize": 15,
-        "remaining": 103045,
-        "total": 103045
+        "remaining": 103036,
+        "total": 103036
       },
       {
         "prize": 10,
-        "remaining": 260402,
-        "total": 260402
+        "remaining": 260372,
+        "total": 260372
       }
     ],
     "imageUrl": "https://www.kylottery.com/export/kylmod/galleries/images/KYLottery_ScratchOffs/KY793CV-V7.jpg"
   },
   {
-    "name": "KentuckyJackpot967",
+    "name": "MegaSuperHot7s975",
     "price": 30.0,
     "totalTickets": 0,
     "remainingTickets": 0,
@@ -4216,33 +4535,33 @@
       },
       {
         "prize": 200,
-        "remaining": 8772,
-        "total": 8772
+        "remaining": 8767,
+        "total": 8767
       },
       {
         "prize": 100,
-        "remaining": 25798,
-        "total": 25798
+        "remaining": 25789,
+        "total": 25789
       },
       {
         "prize": 50,
-        "remaining": 25855,
-        "total": 25855
+        "remaining": 25842,
+        "total": 25842
       },
       {
         "prize": 40,
-        "remaining": 77320,
-        "total": 77320
+        "remaining": 77281,
+        "total": 77281
       },
       {
         "prize": 30,
-        "remaining": 155346,
-        "total": 155346
+        "remaining": 155294,
+        "total": 155294
       }
     ]
   },
   {
-    "name": "KentuckyJackpot968",
+    "name": "KentuckyJackpot966",
     "price": 10.0,
     "totalTickets": 0,
     "remainingTickets": 0,
@@ -4260,39 +4579,39 @@
       },
       {
         "prize": 100,
-        "remaining": 3830,
-        "total": 3830
+        "remaining": 3829,
+        "total": 3829
       },
       {
         "prize": 50,
-        "remaining": 14571,
-        "total": 14571
+        "remaining": 14568,
+        "total": 14568
       },
       {
         "prize": 30,
-        "remaining": 14584,
-        "total": 14584
+        "remaining": 14583,
+        "total": 14583
       },
       {
         "prize": 20,
-        "remaining": 29407,
-        "total": 29407
+        "remaining": 29401,
+        "total": 29401
       },
       {
         "prize": 15,
-        "remaining": 59565,
-        "total": 59565
+        "remaining": 59556,
+        "total": 59556
       },
       {
         "prize": 10,
-        "remaining": 149719,
-        "total": 149719
+        "remaining": 149700,
+        "total": 149700
       }
     ],
     "imageUrl": "https://www.kylottery.com/export/kylmod/galleries/images/KYLottery_ScratchOffs/KY841CV-V5.jpg-resize.jpg"
   },
   {
-    "name": "KentuckyJackpot969",
+    "name": "KentuckyJackpot967",
     "price": 10.0,
     "totalTickets": 0,
     "remainingTickets": 0,
@@ -4315,8 +4634,8 @@
       },
       {
         "prize": 500,
-        "remaining": 3438,
-        "total": 3438
+        "remaining": 3436,
+        "total": 3436
       },
       {
         "prize": 100,
@@ -4325,28 +4644,28 @@
       },
       {
         "prize": 50,
-        "remaining": 13706,
-        "total": 13706
+        "remaining": 13705,
+        "total": 13705
       },
       {
         "prize": 25,
-        "remaining": 36392,
-        "total": 36392
+        "remaining": 36390,
+        "total": 36390
       },
       {
         "prize": 20,
-        "remaining": 72979,
-        "total": 72979
+        "remaining": 72970,
+        "total": 72970
       },
       {
         "prize": 10,
-        "remaining": 183495,
-        "total": 183495
+        "remaining": 183462,
+        "total": 183462
       }
     ]
   },
   {
-    "name": "5000000Fortune953",
+    "name": "KentuckyJackpot968",
     "price": 10.0,
     "totalTickets": 0,
     "remainingTickets": 0,
@@ -4374,44 +4693,44 @@
       },
       {
         "prize": 200,
-        "remaining": 15171,
-        "total": 15171
+        "remaining": 15170,
+        "total": 15170
       },
       {
         "prize": 100,
-        "remaining": 22028,
-        "total": 22028
+        "remaining": 22027,
+        "total": 22027
       },
       {
         "prize": 50,
-        "remaining": 33014,
-        "total": 33014
+        "remaining": 33013,
+        "total": 33013
       },
       {
         "prize": 25,
-        "remaining": 110192,
-        "total": 110192
+        "remaining": 110188,
+        "total": 110188
       },
       {
         "prize": 20,
-        "remaining": 110207,
-        "total": 110207
+        "remaining": 110204,
+        "total": 110204
       },
       {
         "prize": 15,
-        "remaining": 110129,
-        "total": 110129
+        "remaining": 110124,
+        "total": 110124
       },
       {
         "prize": 10,
-        "remaining": 554214,
-        "total": 554214
+        "remaining": 554195,
+        "total": 554195
       }
     ],
     "imageUrl": "https://www.kylottery.com/export/kylmod/galleries/images/KYLottery_ScratchOffs/TripleJackpot_746.png"
   },
   {
-    "name": "Ghostbusters\u2122555",
+    "name": "KentuckyJackpot969",
     "price": 30.0,
     "totalTickets": 0,
     "remainingTickets": 0,
@@ -4444,39 +4763,39 @@
       },
       {
         "prize": 500,
-        "remaining": 5769,
-        "total": 5769
+        "remaining": 5766,
+        "total": 5766
       },
       {
         "prize": 300,
-        "remaining": 10066,
-        "total": 10066
+        "remaining": 10063,
+        "total": 10063
       },
       {
         "prize": 200,
-        "remaining": 11318,
-        "total": 11318
+        "remaining": 11315,
+        "total": 11315
       },
       {
         "prize": 100,
-        "remaining": 44494,
-        "total": 44494
+        "remaining": 44477,
+        "total": 44477
       },
       {
         "prize": 50,
-        "remaining": 44659,
-        "total": 44659
+        "remaining": 44638,
+        "total": 44638
       },
       {
         "prize": 40,
-        "remaining": 312321,
-        "total": 312321
+        "remaining": 312208,
+        "total": 312208
       }
     ],
     "imageUrl": "https://www.kylottery.com/export/kylmod/galleries/images/KYLottery_ScratchOffs/KY810.jpg"
   },
   {
-    "name": "HIT250944",
+    "name": "5000000Fortune953",
     "price": 5.0,
     "totalTickets": 0,
     "remainingTickets": 0,
@@ -4536,7 +4855,7 @@
     "imageUrl": "https://www.kylottery.com/export/kylmod/galleries/images/KYLottery_ScratchOffs/KY833-833.jpg"
   },
   {
-    "name": "100000CasinoNights935",
+    "name": "Ghostbusters\u2122555",
     "price": 20.0,
     "totalTickets": 0,
     "remainingTickets": 0,
@@ -4601,7 +4920,7 @@
     "imageUrl": "https://www.kylottery.com/export/kylmod/galleries/images/KYLottery_ScratchOffs/250_highroller.jpg"
   },
   {
-    "name": "MoodMoney936",
+    "name": "HIT250944",
     "price": 10.0,
     "totalTickets": 0,
     "remainingTickets": 0,
@@ -4649,8 +4968,8 @@
       },
       {
         "prize": 15,
-        "remaining": 84180,
-        "total": 84180
+        "remaining": 84179,
+        "total": 84179
       },
       {
         "prize": 10,
@@ -4661,7 +4980,7 @@
     "imageUrl": "https://www.kylottery.com/export/kylmod/galleries/images/KYLottery_ScratchOffs/250_payoutparty.jpg"
   },
   {
-    "name": "BonusBlowout930",
+    "name": "100000CasinoNights935",
     "price": 10.0,
     "totalTickets": 0,
     "remainingTickets": 0,
@@ -4726,7 +5045,7 @@
     "imageUrl": "https://www.kylottery.com/export/kylmod/galleries/images/KYLottery_ScratchOffs/KY779-CV-V5x250.jpg"
   },
   {
-    "name": "MillionaireClub904",
+    "name": "MoodMoney936",
     "price": 3.0,
     "totalTickets": 0,
     "remainingTickets": 0,
@@ -4744,48 +5063,48 @@
       },
       {
         "prize": 300,
-        "remaining": 4497,
-        "total": 4497
+        "remaining": 4493,
+        "total": 4493
       },
       {
         "prize": 100,
-        "remaining": 21357,
-        "total": 21357
+        "remaining": 21336,
+        "total": 21336
       },
       {
         "prize": 30,
-        "remaining": 89762,
-        "total": 89762
+        "remaining": 89675,
+        "total": 89675
       },
       {
         "prize": 20,
-        "remaining": 129134,
-        "total": 129134
+        "remaining": 129004,
+        "total": 129004
       },
       {
         "prize": 15,
-        "remaining": 134754,
-        "total": 134754
+        "remaining": 134622,
+        "total": 134622
       },
       {
         "prize": 10,
-        "remaining": 268330,
-        "total": 268330
+        "remaining": 268086,
+        "total": 268086
       },
       {
         "prize": 5,
-        "remaining": 1374276,
-        "total": 1374276
+        "remaining": 1372972,
+        "total": 1372972
       },
       {
         "prize": 3,
-        "remaining": 1732646,
-        "total": 1732646
+        "remaining": 1731264,
+        "total": 1731264
       }
     ]
   },
   {
-    "name": "1000000Luck848",
+    "name": "BonusBlowout930",
     "price": 3.0,
     "totalTickets": 0,
     "remainingTickets": 0,
@@ -4798,8 +5117,8 @@
       },
       {
         "prize": 2000,
-        "remaining": 205,
-        "total": 205
+        "remaining": 204,
+        "total": 204
       },
       {
         "prize": 1000,
@@ -4808,8 +5127,8 @@
       },
       {
         "prize": 500,
-        "remaining": 1183,
-        "total": 1183
+        "remaining": 1182,
+        "total": 1182
       },
       {
         "prize": 300,
@@ -4818,44 +5137,44 @@
       },
       {
         "prize": 100,
-        "remaining": 24074,
-        "total": 24074
+        "remaining": 24067,
+        "total": 24067
       },
       {
         "prize": 30,
-        "remaining": 94061,
-        "total": 94061
+        "remaining": 94025,
+        "total": 94025
       },
       {
         "prize": 20,
-        "remaining": 143564,
-        "total": 143564
+        "remaining": 143509,
+        "total": 143509
       },
       {
         "prize": 15,
-        "remaining": 151391,
-        "total": 151391
+        "remaining": 151346,
+        "total": 151346
       },
       {
         "prize": 10,
-        "remaining": 306428,
-        "total": 306428
+        "remaining": 306325,
+        "total": 306325
       },
       {
         "prize": 5,
-        "remaining": 1259018,
-        "total": 1259018
+        "remaining": 1258600,
+        "total": 1258600
       },
       {
         "prize": 3,
-        "remaining": 2351666,
-        "total": 2351666
+        "remaining": 2350889,
+        "total": 2350889
       }
     ],
     "imageUrl": "https://www.kylottery.com/export/kylmod/galleries/images/KYLottery_ScratchOffs/yellow250.jpg"
   },
   {
-    "name": "WildCashMultiplier883",
+    "name": "MillionaireClub904",
     "price": 1.0,
     "totalTickets": 0,
     "remainingTickets": 0,
@@ -4873,48 +5192,48 @@
       },
       {
         "prize": 40,
-        "remaining": 21843,
-        "total": 21843
+        "remaining": 21839,
+        "total": 21839
       },
       {
         "prize": 20,
-        "remaining": 56931,
-        "total": 56931
+        "remaining": 56922,
+        "total": 56922
       },
       {
         "prize": 12,
-        "remaining": 58134,
-        "total": 58134
+        "remaining": 58125,
+        "total": 58125
       },
       {
         "prize": 6,
-        "remaining": 297965,
-        "total": 297965
+        "remaining": 297908,
+        "total": 297908
       },
       {
         "prize": 4,
-        "remaining": 365148,
-        "total": 365148
+        "remaining": 365092,
+        "total": 365092
       },
       {
         "prize": 3,
-        "remaining": 247098,
-        "total": 247098
+        "remaining": 247054,
+        "total": 247054
       },
       {
         "prize": 2,
-        "remaining": 1136555,
-        "total": 1136555
+        "remaining": 1136354,
+        "total": 1136354
       },
       {
         "prize": 1,
-        "remaining": 1922789,
-        "total": 1922789
+        "remaining": 1922468,
+        "total": 1922468
       }
     ]
   },
   {
-    "name": "200000NestEgg\u00ae793",
+    "name": "1000000Luck848",
     "price": 30.0,
     "totalTickets": 0,
     "remainingTickets": 0,
@@ -4967,14 +5286,14 @@
       },
       {
         "prize": 30,
-        "remaining": 470561,
-        "total": 470561
+        "remaining": 470560,
+        "total": 470560
       }
     ],
     "imageUrl": "https://www.kylottery.com/export/kylmod/galleries/images/KYLottery_ScratchOffs/KY761CVx250.jpg"
   },
   {
-    "name": "MegaMultiplier879",
+    "name": "WildCashMultiplier883",
     "price": 1.0,
     "totalTickets": 0,
     "remainingTickets": 0,
@@ -5002,34 +5321,34 @@
       },
       {
         "prize": 20,
-        "remaining": 26479,
-        "total": 26479
+        "remaining": 26476,
+        "total": 26476
       },
       {
         "prize": 10,
-        "remaining": 53614,
-        "total": 53614
+        "remaining": 53612,
+        "total": 53612
       },
       {
         "prize": 5,
-        "remaining": 214857,
-        "total": 214857
+        "remaining": 214851,
+        "total": 214851
       },
       {
         "prize": 2,
-        "remaining": 564975,
-        "total": 564975
+        "remaining": 564957,
+        "total": 564957
       },
       {
         "prize": 1,
-        "remaining": 793297,
-        "total": 793297
+        "remaining": 793265,
+        "total": 793265
       }
     ],
     "imageUrl": "https://www.kylottery.com/export/kylmod/galleries/images/KYLottery_ScratchOffs/1_BreakFortKnox_710.jpg"
   },
   {
-    "name": "1000Loaded841",
+    "name": "200000NestEgg\u00ae793",
     "price": 2.0,
     "totalTickets": 0,
     "remainingTickets": 0,
@@ -5084,7 +5403,7 @@
     "imageUrl": "https://www.kylottery.com/export/kylmod/galleries/images/KYLottery_ScratchOffs/2_BreakFortKnox_711.jpg"
   },
   {
-    "name": "Power10&#039;s806",
+    "name": "MegaMultiplier879",
     "price": 30.0,
     "totalTickets": 0,
     "remainingTickets": 0,
@@ -5137,8 +5456,8 @@
       },
       {
         "prize": 40,
-        "remaining": 351229,
-        "total": 351229
+        "remaining": 351228,
+        "total": 351228
       },
       {
         "prize": 30,
