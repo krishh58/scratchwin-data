@@ -770,6 +770,71 @@
     "imageUrl": "https://mnlottery-craft-assets-prod.s3.us-gov-west-1.amazonaws.com/transforms/Game-Minis/_400xAUTO_crop_center-center_none/2103-Money-Bag-Multiplier_orange_Mini.png"
   },
   {
+    "name": "Living Large",
+    "price": 2.0,
+    "totalTickets": 2933174,
+    "remainingTickets": 2933174,
+    "gameNumber": "2101",
+    "tiers": [
+      {
+        "prize": 10000,
+        "remaining": 9,
+        "total": 9
+      },
+      {
+        "prize": 1000,
+        "remaining": 12,
+        "total": 12
+      },
+      {
+        "prize": 500,
+        "remaining": 65,
+        "total": 65
+      },
+      {
+        "prize": 100,
+        "remaining": 669,
+        "total": 669
+      },
+      {
+        "prize": 50,
+        "remaining": 3831,
+        "total": 3831
+      },
+      {
+        "prize": 30,
+        "remaining": 6374,
+        "total": 6374
+      },
+      {
+        "prize": 25,
+        "remaining": 16149,
+        "total": 16149
+      },
+      {
+        "prize": 15,
+        "remaining": 24449,
+        "total": 24449
+      },
+      {
+        "prize": 10,
+        "remaining": 68434,
+        "total": 68434
+      },
+      {
+        "prize": 5,
+        "remaining": 141729,
+        "total": 141729
+      },
+      {
+        "prize": 2,
+        "remaining": 532756,
+        "total": 532756
+      }
+    ],
+    "imageUrl": "https://mnlottery-craft-assets-prod.s3.us-gov-west-1.amazonaws.com/transforms/Game-Minis/_400xAUTO_crop_center-center_none/2101-Living-Large_Mini.png"
+  },
+  {
     "name": "Slingo Sapphire 7s",
     "price": 3.0,
     "totalTickets": 2984304,
