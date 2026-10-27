@@ -1,5 +1,40 @@
 [
   {
+    "name": "Snow Way!",
+    "price": 1.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "1932",
+    "tiers": [
+      {
+        "prize": 1000,
+        "remaining": 0,
+        "total": 0
+      },
+      {
+        "prize": 200,
+        "remaining": 0,
+        "total": 0
+      },
+      {
+        "prize": 100,
+        "remaining": 0,
+        "total": 0
+      },
+      {
+        "prize": 50,
+        "remaining": 0,
+        "total": 0
+      },
+      {
+        "prize": 25,
+        "remaining": 0,
+        "total": 0
+      }
+    ],
+    "imageUrl": "http://d2kx0heugfrx3y.cloudfront.net/2026-10/1931_thumbnail.jpg"
+  },
+  {
     "name": "Mistletoe Mystery",
     "price": 5.0,
     "totalTickets": 0,
@@ -43,6 +78,41 @@
       }
     ],
     "imageUrl": "http://d2kx0heugfrx3y.cloudfront.net/2026-10/1933_thumbnail.jpg"
+  },
+  {
+    "name": "Naughty and I Gnome It",
+    "price": 2.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "1932",
+    "tiers": [
+      {
+        "prize": 10000,
+        "remaining": 0,
+        "total": 0
+      },
+      {
+        "prize": 1000,
+        "remaining": 0,
+        "total": 0
+      },
+      {
+        "prize": 100,
+        "remaining": 0,
+        "total": 0
+      },
+      {
+        "prize": 50,
+        "remaining": 0,
+        "total": 0
+      },
+      {
+        "prize": 30,
+        "remaining": 0,
+        "total": 0
+      }
+    ],
+    "imageUrl": "http://d2kx0heugfrx3y.cloudfront.net/2026-10/1932_thumbnail.jpg"
   },
   {
     "name": "Starry Night",
@@ -270,6 +340,41 @@
     "imageUrl": "http://d2kx0heugfrx3y.cloudfront.net/2026-09/1940_thumbnail.jpg"
   },
   {
+    "name": "Chef's Kiss",
+    "price": 5.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "1918",
+    "tiers": [
+      {
+        "prize": 50000,
+        "remaining": 2,
+        "total": 2
+      },
+      {
+        "prize": 1000,
+        "remaining": 4,
+        "total": 4
+      },
+      {
+        "prize": 500,
+        "remaining": 214,
+        "total": 214
+      },
+      {
+        "prize": 100,
+        "remaining": 515,
+        "total": 515
+      },
+      {
+        "prize": 50,
+        "remaining": 5116,
+        "total": 5116
+      }
+    ],
+    "imageUrl": "http://d2kx0heugfrx3y.cloudfront.net/2026-09/1918_thumbnail.jpg"
+  },
+  {
     "name": "Mega Cash",
     "price": 50.0,
     "totalTickets": 0,
@@ -333,41 +438,6 @@
       }
     ],
     "imageUrl": "http://d2kx0heugfrx3y.cloudfront.net/2026-09/1919_thumbnail.jpg"
-  },
-  {
-    "name": "Chef's Kiss",
-    "price": 5.0,
-    "totalTickets": 0,
-    "remainingTickets": 0,
-    "gameNumber": "1918",
-    "tiers": [
-      {
-        "prize": 50000,
-        "remaining": 2,
-        "total": 2
-      },
-      {
-        "prize": 1000,
-        "remaining": 4,
-        "total": 4
-      },
-      {
-        "prize": 500,
-        "remaining": 214,
-        "total": 214
-      },
-      {
-        "prize": 100,
-        "remaining": 515,
-        "total": 515
-      },
-      {
-        "prize": 50,
-        "remaining": 5116,
-        "total": 5116
-      }
-    ],
-    "imageUrl": "http://d2kx0heugfrx3y.cloudfront.net/2026-09/1918_thumbnail.jpg"
   },
   {
     "name": "Big Money",
@@ -750,41 +820,6 @@
     "imageUrl": "http://d2kx0heugfrx3y.cloudfront.net/2026-07/1924_thumbnail.jpg"
   },
   {
-    "name": "Pong",
-    "price": 2.0,
-    "totalTickets": 0,
-    "remainingTickets": 0,
-    "gameNumber": "1921",
-    "tiers": [
-      {
-        "prize": 10000,
-        "remaining": 1,
-        "total": 1
-      },
-      {
-        "prize": 500,
-        "remaining": 3,
-        "total": 3
-      },
-      {
-        "prize": 100,
-        "remaining": 261,
-        "total": 261
-      },
-      {
-        "prize": 50,
-        "remaining": 318,
-        "total": 318
-      },
-      {
-        "prize": 25,
-        "remaining": 775,
-        "total": 775
-      }
-    ],
-    "imageUrl": "http://d2kx0heugfrx3y.cloudfront.net/2026-07/1921_thumbnail.jpg"
-  },
-  {
     "name": "Centipede",
     "price": 5.0,
     "totalTickets": 0,
@@ -828,6 +863,41 @@
       }
     ],
     "imageUrl": "http://d2kx0heugfrx3y.cloudfront.net/2026-07/1922_thumbnail.jpg"
+  },
+  {
+    "name": "Pong",
+    "price": 2.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "1921",
+    "tiers": [
+      {
+        "prize": 10000,
+        "remaining": 1,
+        "total": 1
+      },
+      {
+        "prize": 500,
+        "remaining": 3,
+        "total": 3
+      },
+      {
+        "prize": 100,
+        "remaining": 261,
+        "total": 261
+      },
+      {
+        "prize": 50,
+        "remaining": 318,
+        "total": 318
+      },
+      {
+        "prize": 25,
+        "remaining": 775,
+        "total": 775
+      }
+    ],
+    "imageUrl": "http://d2kx0heugfrx3y.cloudfront.net/2026-07/1921_thumbnail.jpg"
   },
   {
     "name": "Asteroids",
