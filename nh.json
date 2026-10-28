@@ -28,37 +28,37 @@
       },
       {
         "prize": 200,
-        "remaining": 739,
+        "remaining": 733,
         "total": 821
       },
       {
         "prize": 100,
-        "remaining": 2974,
+        "remaining": 2958,
         "total": 3310
       },
       {
         "prize": 50,
-        "remaining": 3729,
+        "remaining": 3712,
         "total": 4149
       },
       {
         "prize": 30,
-        "remaining": 4431,
+        "remaining": 4409,
         "total": 4880
       },
       {
         "prize": 20,
-        "remaining": 27924,
+        "remaining": 27796,
         "total": 30900
       },
       {
         "prize": 10,
-        "remaining": 93723,
+        "remaining": 93327,
         "total": 102980
       },
       {
         "prize": 5,
-        "remaining": 102823,
+        "remaining": 102389,
         "total": 113340
       }
     ],
@@ -88,170 +88,106 @@
       },
       {
         "prize": 100,
-        "remaining": 612,
+        "remaining": 611,
         "total": 743
       },
       {
         "prize": 50,
-        "remaining": 1535,
+        "remaining": 1532,
         "total": 1877
       },
       {
         "prize": 40,
-        "remaining": 901,
+        "remaining": 900,
         "total": 1084
       },
       {
         "prize": 30,
-        "remaining": 2343,
+        "remaining": 2337,
         "total": 2850
       },
       {
         "prize": 20,
-        "remaining": 9251,
+        "remaining": 9220,
         "total": 11114
       },
       {
         "prize": 10,
-        "remaining": 15246,
+        "remaining": 15187,
         "total": 18530
       },
       {
         "prize": 5,
-        "remaining": 33575,
+        "remaining": 33447,
         "total": 40756
       },
       {
         "prize": 4,
-        "remaining": 36761,
+        "remaining": 36626,
         "total": 44478
       },
       {
         "prize": 2,
-        "remaining": 109570,
+        "remaining": 109168,
         "total": 131545
       }
     ],
     "imageUrl": "https://images.ctfassets.net/1h4s33nxm7rw/4TX0upgbWyxHCumX2KpXZT/cf8a3053fe69ae35d58021c79c4ccc3a/NH_1718_Win_It_All_FINAL.jpg"
   },
   {
-    "name": "Trick or Treat",
-    "price": 1.0,
+    "name": "Patriots\u00ae",
+    "price": 5.0,
     "totalTickets": 0,
     "remainingTickets": 0,
-    "gameNumber": "1711",
+    "gameNumber": "1708",
     "tiers": [
       {
-        "prize": 500,
-        "remaining": 4,
-        "total": 5
+        "prize": 250,
+        "remaining": 1276,
+        "total": 1994
+      },
+      {
+        "prize": 150,
+        "remaining": 137,
+        "total": 204
       },
       {
         "prize": 100,
-        "remaining": 124,
-        "total": 224
+        "remaining": 1821,
+        "total": 2858
       },
       {
         "prize": 50,
-        "remaining": 313,
-        "total": 543
+        "remaining": 4100,
+        "total": 6402
+      },
+      {
+        "prize": 40,
+        "remaining": 1415,
+        "total": 2196
+      },
+      {
+        "prize": 25,
+        "remaining": 1827,
+        "total": 2843
       },
       {
         "prize": 20,
-        "remaining": 958,
-        "total": 1637
+        "remaining": 14961,
+        "total": 23110
       },
       {
         "prize": 10,
-        "remaining": 3557,
-        "total": 5870
+        "remaining": 58924,
+        "total": 90088
       },
       {
         "prize": 5,
-        "remaining": 4578,
-        "total": 7542
-      },
-      {
-        "prize": 2,
-        "remaining": 26351,
-        "total": 41909
-      },
-      {
-        "prize": 1,
-        "remaining": 30703,
-        "total": 47776
-      }
-    ]
-  },
-  {
-    "name": "Six Figures",
-    "price": 10.0,
-    "totalTickets": 0,
-    "remainingTickets": 0,
-    "gameNumber": "1706",
-    "tiers": [
-      {
-        "prize": 200000,
-        "remaining": 3,
-        "total": 4
-      },
-      {
-        "prize": 20000,
-        "remaining": 5,
-        "total": 5
-      },
-      {
-        "prize": 1000,
-        "remaining": 279,
-        "total": 348
-      },
-      {
-        "prize": 500,
-        "remaining": 723,
-        "total": 942
-      },
-      {
-        "prize": 200,
-        "remaining": 1285,
-        "total": 1646
-      },
-      {
-        "prize": 120,
-        "remaining": 2049,
-        "total": 2683
-      },
-      {
-        "prize": 100,
-        "remaining": 4987,
-        "total": 6470
-      },
-      {
-        "prize": 60,
-        "remaining": 6849,
-        "total": 8964
-      },
-      {
-        "prize": 30,
-        "remaining": 16438,
-        "total": 21326
-      },
-      {
-        "prize": 20,
-        "remaining": 52253,
-        "total": 67692
-      },
-      {
-        "prize": 15,
-        "remaining": 69835,
-        "total": 90256
-      },
-      {
-        "prize": 10,
-        "remaining": 96186,
-        "total": 124102
+        "remaining": 64645,
+        "total": 97028
       }
     ],
-    "imageUrl": "https://images.ctfassets.net/1h4s33nxm7rw/A94Eh9XX9AvI5ZYaXLCCi/191c7730a3a3e77968728536029eb083/NH-1706_SIX_FIGURES_FINAL.jpg"
+    "imageUrl": "https://images.ctfassets.net/1h4s33nxm7rw/3EqqZLPTYyWfNQXEwLyDlp/5f9643e0b27c234d3df7c8581934f702/NH_1708_Patriots_FINAL.jpg"
   },
   {
     "name": "Kaboom",
@@ -277,146 +213,151 @@
       },
       {
         "prize": 100,
-        "remaining": 1990,
+        "remaining": 1978,
         "total": 2760
       },
       {
         "prize": 50,
-        "remaining": 5816,
+        "remaining": 5775,
         "total": 8035
       },
       {
         "prize": 20,
-        "remaining": 12792,
+        "remaining": 12732,
         "total": 17706
       },
       {
         "prize": 10,
-        "remaining": 71075,
+        "remaining": 70683,
         "total": 97383
       },
       {
         "prize": 5,
-        "remaining": 65200,
+        "remaining": 64823,
         "total": 88530
       }
     ],
     "imageUrl": "https://images.ctfassets.net/1h4s33nxm7rw/3vr36Gc5YU9lO7tKNXZNAf/5309fac91ec99f026efb46da8b848b4e/NH-1709_KABOOM_FINAL.jpg"
   },
   {
-    "name": "Patriots\u00ae",
-    "price": 5.0,
+    "name": "Six Figures",
+    "price": 10.0,
     "totalTickets": 0,
     "remainingTickets": 0,
-    "gameNumber": "1708",
+    "gameNumber": "1706",
     "tiers": [
       {
-        "prize": 250,
-        "remaining": 1290,
-        "total": 1994
-      },
-      {
-        "prize": 150,
-        "remaining": 138,
-        "total": 204
-      },
-      {
-        "prize": 100,
-        "remaining": 1837,
-        "total": 2858
-      },
-      {
-        "prize": 50,
-        "remaining": 4138,
-        "total": 6402
-      },
-      {
-        "prize": 40,
-        "remaining": 1427,
-        "total": 2196
-      },
-      {
-        "prize": 25,
-        "remaining": 1841,
-        "total": 2843
-      },
-      {
-        "prize": 20,
-        "remaining": 15101,
-        "total": 23110
-      },
-      {
-        "prize": 10,
-        "remaining": 59412,
-        "total": 90088
-      },
-      {
-        "prize": 5,
-        "remaining": 65161,
-        "total": 97028
-      }
-    ],
-    "imageUrl": "https://images.ctfassets.net/1h4s33nxm7rw/ddJvPme9At5CeohtFYsxa/66164e51e0f37418052e82cb840e2ba1/NH_1708_Patriots_FINAL.jpg"
-  },
-  {
-    "name": "Gem Jam",
-    "price": 5.0,
-    "totalTickets": 0,
-    "remainingTickets": 0,
-    "gameNumber": "1703",
-    "tiers": [
-      {
-        "prize": 100000,
-        "remaining": 2,
+        "prize": 200000,
+        "remaining": 3,
         "total": 4
       },
       {
-        "prize": 5000,
-        "remaining": 7,
-        "total": 12
+        "prize": 20000,
+        "remaining": 5,
+        "total": 5
+      },
+      {
+        "prize": 1000,
+        "remaining": 278,
+        "total": 348
       },
       {
         "prize": 500,
-        "remaining": 40,
-        "total": 68
+        "remaining": 718,
+        "total": 942
+      },
+      {
+        "prize": 200,
+        "remaining": 1285,
+        "total": 1646
+      },
+      {
+        "prize": 120,
+        "remaining": 2045,
+        "total": 2683
       },
       {
         "prize": 100,
-        "remaining": 1307,
-        "total": 2150
+        "remaining": 4963,
+        "total": 6470
       },
       {
-        "prize": 75,
-        "remaining": 442,
-        "total": 754
+        "prize": 60,
+        "remaining": 6821,
+        "total": 8964
       },
       {
-        "prize": 50,
-        "remaining": 4348,
-        "total": 7233
-      },
-      {
-        "prize": 25,
-        "remaining": 4588,
-        "total": 7549
+        "prize": 30,
+        "remaining": 16372,
+        "total": 21326
       },
       {
         "prize": 20,
-        "remaining": 10917,
-        "total": 18414
+        "remaining": 52017,
+        "total": 67692
+      },
+      {
+        "prize": 15,
+        "remaining": 69519,
+        "total": 90256
       },
       {
         "prize": 10,
-        "remaining": 60889,
-        "total": 101277
+        "remaining": 95758,
+        "total": 124102
+      }
+    ],
+    "imageUrl": "https://images.ctfassets.net/1h4s33nxm7rw/A94Eh9XX9AvI5ZYaXLCCi/191c7730a3a3e77968728536029eb083/NH-1706_SIX_FIGURES_FINAL.jpg"
+  },
+  {
+    "name": "Trick or Treat",
+    "price": 1.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "1711",
+    "tiers": [
+      {
+        "prize": 500,
+        "remaining": 4,
+        "total": 5
+      },
+      {
+        "prize": 100,
+        "remaining": 123,
+        "total": 224
+      },
+      {
+        "prize": 50,
+        "remaining": 304,
+        "total": 543
+      },
+      {
+        "prize": 20,
+        "remaining": 943,
+        "total": 1637
+      },
+      {
+        "prize": 10,
+        "remaining": 3521,
+        "total": 5870
       },
       {
         "prize": 5,
-        "remaining": 50967,
-        "total": 82863
+        "remaining": 4524,
+        "total": 7542
+      },
+      {
+        "prize": 2,
+        "remaining": 26020,
+        "total": 41909
+      },
+      {
+        "prize": 1,
+        "remaining": 30376,
+        "total": 47776
       }
     ],
-    "imageUrl": "https://images.ctfassets.net/1h4s33nxm7rw/6tbFWOsZ5CKOJALqfOShHM/4053301d78fd23cc07626206a5eb66b6/NH-1703_GEM_JAM_FINAL.jpg"
+    "imageUrl": "https://images.ctfassets.net/1h4s33nxm7rw/5NmTEbLdOolqmjT1wreFry/97e11a004b5b23cf69a46a1264fc8f61/NH_1711_Trick_or_Treat_FINAL_SCENE4.jpg"
   },
   {
     "name": "Money Madness Extra Play",
@@ -442,46 +383,106 @@
       },
       {
         "prize": 500,
-        "remaining": 575,
+        "remaining": 574,
         "total": 882
       },
       {
         "prize": 200,
-        "remaining": 1911,
+        "remaining": 1900,
         "total": 2937
       },
       {
         "prize": 100,
-        "remaining": 6455,
+        "remaining": 6428,
         "total": 9860
       },
       {
         "prize": 50,
-        "remaining": 8010,
+        "remaining": 7985,
         "total": 12228
       },
       {
         "prize": 25,
-        "remaining": 9481,
+        "remaining": 9453,
         "total": 14330
       },
       {
         "prize": 20,
-        "remaining": 56137,
+        "remaining": 55931,
         "total": 84875
       },
       {
         "prize": 15,
-        "remaining": 45310,
+        "remaining": 45153,
         "total": 67972
       },
       {
         "prize": 10,
-        "remaining": 90654,
+        "remaining": 90363,
         "total": 135740
       }
     ],
     "imageUrl": "https://images.ctfassets.net/1h4s33nxm7rw/6BSxm2Xv67SLKFuRqXtNC1/0b43c24e19547141a2a8c066984ab31c/NH_1702_MONEY_MADNESS_EXTRA_PLAY_FINAL.jpg"
+  },
+  {
+    "name": "Gem Jam",
+    "price": 5.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "1703",
+    "tiers": [
+      {
+        "prize": 100000,
+        "remaining": 2,
+        "total": 4
+      },
+      {
+        "prize": 5000,
+        "remaining": 7,
+        "total": 12
+      },
+      {
+        "prize": 500,
+        "remaining": 40,
+        "total": 68
+      },
+      {
+        "prize": 100,
+        "remaining": 1303,
+        "total": 2150
+      },
+      {
+        "prize": 75,
+        "remaining": 440,
+        "total": 754
+      },
+      {
+        "prize": 50,
+        "remaining": 4330,
+        "total": 7233
+      },
+      {
+        "prize": 25,
+        "remaining": 4572,
+        "total": 7549
+      },
+      {
+        "prize": 20,
+        "remaining": 10873,
+        "total": 18414
+      },
+      {
+        "prize": 10,
+        "remaining": 60679,
+        "total": 101277
+      },
+      {
+        "prize": 5,
+        "remaining": 50772,
+        "total": 82863
+      }
+    ],
+    "imageUrl": "https://images.ctfassets.net/1h4s33nxm7rw/6tbFWOsZ5CKOJALqfOShHM/4053301d78fd23cc07626206a5eb66b6/NH-1703_GEM_JAM_FINAL.jpg"
   },
   {
     "name": "Fishing For $100s",
@@ -492,32 +493,32 @@
     "tiers": [
       {
         "prize": 100,
-        "remaining": 3211,
+        "remaining": 3197,
         "total": 4794
       },
       {
         "prize": 20,
-        "remaining": 2924,
+        "remaining": 2911,
         "total": 4386
       },
       {
         "prize": 10,
-        "remaining": 3939,
+        "remaining": 3925,
         "total": 5899
       },
       {
         "prize": 5,
-        "remaining": 11898,
+        "remaining": 11862,
         "total": 17610
       },
       {
         "prize": 4,
-        "remaining": 34698,
+        "remaining": 34581,
         "total": 51352
       },
       {
         "prize": 2,
-        "remaining": 80245,
+        "remaining": 79967,
         "total": 117576
       }
     ],
@@ -547,47 +548,47 @@
       },
       {
         "prize": 200,
-        "remaining": 112,
+        "remaining": 111,
         "total": 253
       },
       {
         "prize": 100,
-        "remaining": 938,
+        "remaining": 932,
         "total": 2046
       },
       {
         "prize": 75,
-        "remaining": 515,
+        "remaining": 513,
         "total": 1140
       },
       {
         "prize": 50,
-        "remaining": 1350,
+        "remaining": 1344,
         "total": 2846
       },
       {
         "prize": 40,
-        "remaining": 1869,
+        "remaining": 1861,
         "total": 4046
       },
       {
         "prize": 25,
-        "remaining": 1733,
+        "remaining": 1727,
         "total": 3602
       },
       {
         "prize": 20,
-        "remaining": 10036,
+        "remaining": 10004,
         "total": 21453
       },
       {
         "prize": 10,
-        "remaining": 47005,
+        "remaining": 46859,
         "total": 94602
       },
       {
         "prize": 5,
-        "remaining": 46855,
+        "remaining": 46716,
         "total": 91032
       }
     ],
@@ -612,47 +613,47 @@
       },
       {
         "prize": 1000,
-        "remaining": 96,
+        "remaining": 95,
         "total": 161
       },
       {
         "prize": 500,
-        "remaining": 561,
+        "remaining": 560,
         "total": 1029
       },
       {
         "prize": 200,
-        "remaining": 729,
+        "remaining": 726,
         "total": 1317
       },
       {
         "prize": 100,
-        "remaining": 8689,
+        "remaining": 8660,
         "total": 15503
       },
       {
         "prize": 50,
-        "remaining": 5692,
+        "remaining": 5681,
         "total": 10171
       },
       {
         "prize": 25,
-        "remaining": 7231,
+        "remaining": 7215,
         "total": 12583
       },
       {
         "prize": 20,
-        "remaining": 51265,
+        "remaining": 51117,
         "total": 90070
       },
       {
         "prize": 15,
-        "remaining": 38969,
+        "remaining": 38861,
         "total": 67551
       },
       {
         "prize": 10,
-        "remaining": 65138,
+        "remaining": 64961,
         "total": 112581
       }
     ],
@@ -677,126 +678,56 @@
       },
       {
         "prize": 90,
-        "remaining": 81,
+        "remaining": 80,
         "total": 155
       },
       {
         "prize": 60,
-        "remaining": 470,
+        "remaining": 469,
         "total": 952
       },
       {
         "prize": 30,
-        "remaining": 715,
+        "remaining": 713,
         "total": 1392
       },
       {
         "prize": 20,
-        "remaining": 620,
+        "remaining": 618,
         "total": 1243
       },
       {
         "prize": 18,
-        "remaining": 1315,
+        "remaining": 1310,
         "total": 2526
       },
       {
         "prize": 9,
-        "remaining": 3457,
+        "remaining": 3443,
         "total": 6590
       },
       {
         "prize": 6,
-        "remaining": 3534,
+        "remaining": 3522,
         "total": 6590
       },
       {
         "prize": 3,
-        "remaining": 21463,
+        "remaining": 21395,
         "total": 39540
       },
       {
         "prize": 2,
-        "remaining": 25539,
+        "remaining": 25445,
         "total": 46130
       },
       {
         "prize": 1,
-        "remaining": 59537,
+        "remaining": 59319,
         "total": 105440
       }
     ],
     "imageUrl": "https://images.ctfassets.net/1h4s33nxm7rw/77E6SIpFIsecmXwb2NYQ7l/206ecdcd31a79d2407045176d926dd58/NH-1701_MOO_E_MONEY_TRIPLER_FINAL.jpg"
-  },
-  {
-    "name": "Stroke of Luck",
-    "price": 10.0,
-    "totalTickets": 0,
-    "remainingTickets": 0,
-    "gameNumber": "1696",
-    "tiers": [
-      {
-        "prize": 200000,
-        "remaining": 4,
-        "total": 4
-      },
-      {
-        "prize": 10000,
-        "remaining": 4,
-        "total": 8
-      },
-      {
-        "prize": 1000,
-        "remaining": 119,
-        "total": 195
-      },
-      {
-        "prize": 500,
-        "remaining": 678,
-        "total": 1220
-      },
-      {
-        "prize": 200,
-        "remaining": 762,
-        "total": 1364
-      },
-      {
-        "prize": 150,
-        "remaining": 2096,
-        "total": 3727
-      },
-      {
-        "prize": 100,
-        "remaining": 4526,
-        "total": 8052
-      },
-      {
-        "prize": 50,
-        "remaining": 6373,
-        "total": 11359
-      },
-      {
-        "prize": 25,
-        "remaining": 7228,
-        "total": 12629
-      },
-      {
-        "prize": 20,
-        "remaining": 47999,
-        "total": 84836
-      },
-      {
-        "prize": 15,
-        "remaining": 39062,
-        "total": 67863
-      },
-      {
-        "prize": 10,
-        "remaining": 71726,
-        "total": 124401
-      }
-    ],
-    "imageUrl": "https://images.ctfassets.net/1h4s33nxm7rw/6n9sAscmP23ONtWXz9rBFg/c8c595f363457956668eaab02170fff8/NH_1696_Stroke_of_Luck_FINAL.jpg"
   },
   {
     "name": "Double Match Doubler",
@@ -822,42 +753,42 @@
       },
       {
         "prize": 100,
-        "remaining": 242,
+        "remaining": 240,
         "total": 651
       },
       {
         "prize": 50,
-        "remaining": 924,
+        "remaining": 923,
         "total": 2274
       },
       {
         "prize": 30,
-        "remaining": 1127,
+        "remaining": 1119,
         "total": 2692
       },
       {
         "prize": 20,
-        "remaining": 2915,
+        "remaining": 2895,
         "total": 7129
       },
       {
         "prize": 10,
-        "remaining": 5368,
+        "remaining": 5348,
         "total": 11437
       },
       {
         "prize": 5,
-        "remaining": 9845,
+        "remaining": 9791,
         "total": 22840
       },
       {
         "prize": 4,
-        "remaining": 22327,
+        "remaining": 22211,
         "total": 51388
       },
       {
         "prize": 2,
-        "remaining": 46500,
+        "remaining": 46356,
         "total": 94219
       }
     ],
@@ -887,36 +818,165 @@
       },
       {
         "prize": 100,
-        "remaining": 699,
+        "remaining": 694,
         "total": 2700
       },
       {
         "prize": 50,
-        "remaining": 1761,
+        "remaining": 1749,
         "total": 6800
       },
       {
         "prize": 30,
-        "remaining": 1716,
+        "remaining": 1709,
         "total": 6409
       },
       {
         "prize": 20,
-        "remaining": 4925,
+        "remaining": 4882,
         "total": 18232
       },
       {
         "prize": 10,
-        "remaining": 28306,
+        "remaining": 28118,
         "total": 100606
       },
       {
         "prize": 5,
-        "remaining": 27677,
+        "remaining": 27505,
         "total": 91380
       }
     ],
     "imageUrl": "https://images.ctfassets.net/1h4s33nxm7rw/SZQrUK6Tyjp8FiC6N9luN/7ff68451c9df4c733230832529132e6a/NH_1697_Joker-s_Wild_FINAL.jpg"
+  },
+  {
+    "name": "Stroke of Luck",
+    "price": 10.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "1696",
+    "tiers": [
+      {
+        "prize": 200000,
+        "remaining": 4,
+        "total": 4
+      },
+      {
+        "prize": 10000,
+        "remaining": 4,
+        "total": 8
+      },
+      {
+        "prize": 1000,
+        "remaining": 119,
+        "total": 195
+      },
+      {
+        "prize": 500,
+        "remaining": 675,
+        "total": 1220
+      },
+      {
+        "prize": 200,
+        "remaining": 761,
+        "total": 1364
+      },
+      {
+        "prize": 150,
+        "remaining": 2091,
+        "total": 3727
+      },
+      {
+        "prize": 100,
+        "remaining": 4510,
+        "total": 8052
+      },
+      {
+        "prize": 50,
+        "remaining": 6349,
+        "total": 11359
+      },
+      {
+        "prize": 25,
+        "remaining": 7205,
+        "total": 12629
+      },
+      {
+        "prize": 20,
+        "remaining": 47874,
+        "total": 84836
+      },
+      {
+        "prize": 15,
+        "remaining": 38964,
+        "total": 67863
+      },
+      {
+        "prize": 10,
+        "remaining": 71554,
+        "total": 124401
+      }
+    ],
+    "imageUrl": "https://images.ctfassets.net/1h4s33nxm7rw/6n9sAscmP23ONtWXz9rBFg/c8c595f363457956668eaab02170fff8/NH_1696_Stroke_of_Luck_FINAL.jpg"
+  },
+  {
+    "name": "$3,000,000 Cash Spectacular",
+    "price": 30.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "1692",
+    "tiers": [
+      {
+        "prize": 3000000,
+        "remaining": 2,
+        "total": 4
+      },
+      {
+        "prize": 50000,
+        "remaining": 4,
+        "total": 8
+      },
+      {
+        "prize": 5000,
+        "remaining": 33,
+        "total": 73
+      },
+      {
+        "prize": 1000,
+        "remaining": 250,
+        "total": 502
+      },
+      {
+        "prize": 500,
+        "remaining": 2933,
+        "total": 6349
+      },
+      {
+        "prize": 200,
+        "remaining": 5858,
+        "total": 12606
+      },
+      {
+        "prize": 100,
+        "remaining": 23183,
+        "total": 49814
+      },
+      {
+        "prize": 50,
+        "remaining": 46797,
+        "total": 99628
+      },
+      {
+        "prize": 40,
+        "remaining": 46723,
+        "total": 99628
+      },
+      {
+        "prize": 30,
+        "remaining": 118626,
+        "total": 249070
+      }
+    ]
   },
   {
     "name": "Casino Nights",
@@ -952,100 +1012,111 @@
       },
       {
         "prize": 75,
-        "remaining": 135,
+        "remaining": 134,
         "total": 317
       },
       {
         "prize": 50,
-        "remaining": 785,
+        "remaining": 781,
         "total": 1793
       },
       {
         "prize": 30,
-        "remaining": 1499,
+        "remaining": 1496,
         "total": 3367
       },
       {
         "prize": 20,
-        "remaining": 5668,
+        "remaining": 5651,
         "total": 12942
       },
       {
         "prize": 10,
-        "remaining": 17360,
+        "remaining": 17306,
         "total": 38798
       },
       {
         "prize": 5,
-        "remaining": 40063,
+        "remaining": 39933,
         "total": 87944
       },
       {
         "prize": 3,
-        "remaining": 52603,
+        "remaining": 52432,
         "total": 113828
       }
     ],
     "imageUrl": "https://images.ctfassets.net/1h4s33nxm7rw/pesn6QLNq1lWXLnBk3DRf/6401197de28ec1af280c106bc8862dd2/NH_1695_Casino_Nights_FINAL.jpg"
   },
   {
-    "name": "$3,000,000 Cash Spectacular",
-    "price": 30.0,
+    "name": "Coal 9",
+    "price": 10.0,
     "totalTickets": 0,
     "remainingTickets": 0,
-    "gameNumber": "1692",
+    "gameNumber": "1693",
     "tiers": [
       {
-        "prize": 3000000,
+        "prize": 200000,
+        "remaining": 1,
+        "total": 4
+      },
+      {
+        "prize": 20000,
         "remaining": 2,
         "total": 4
       },
       {
-        "prize": 50000,
-        "remaining": 4,
-        "total": 8
-      },
-      {
-        "prize": 5000,
-        "remaining": 33,
-        "total": 73
-      },
-      {
         "prize": 1000,
-        "remaining": 250,
-        "total": 502
+        "remaining": 116,
+        "total": 268
       },
       {
         "prize": 500,
-        "remaining": 2943,
-        "total": 6349
+        "remaining": 271,
+        "total": 646
       },
       {
-        "prize": 200,
-        "remaining": 5884,
-        "total": 12606
+        "prize": 400,
+        "remaining": 109,
+        "total": 271
+      },
+      {
+        "prize": 250,
+        "remaining": 346,
+        "total": 825
       },
       {
         "prize": 100,
-        "remaining": 23280,
-        "total": 49814
+        "remaining": 5535,
+        "total": 13104
       },
       {
         "prize": 50,
-        "remaining": 46976,
-        "total": 99628
+        "remaining": 5671,
+        "total": 13227
       },
       {
-        "prize": 40,
-        "remaining": 46901,
-        "total": 99628
+        "prize": 25,
+        "remaining": 5146,
+        "total": 12166
       },
       {
-        "prize": 30,
-        "remaining": 119085,
-        "total": 249070
+        "prize": 20,
+        "remaining": 26249,
+        "total": 59467
+      },
+      {
+        "prize": 15,
+        "remaining": 37238,
+        "total": 86551
+      },
+      {
+        "prize": 10,
+        "remaining": 56055,
+        "total": 129712
       }
-    ]
+    ],
+    "imageUrl": "https://images.ctfassets.net/1h4s33nxm7rw/70mWi0sqNpwBayisE63ofi/86ce062e26ea89195d94a2224a3fdc43/NH_1693_Coal_9_FINAL.jpg"
   },
   {
     "name": "Fat Stacks",
@@ -1071,106 +1142,156 @@
       },
       {
         "prize": 100,
-        "remaining": 2348,
+        "remaining": 2345,
         "total": 4427
       },
       {
         "prize": 50,
-        "remaining": 8745,
+        "remaining": 8726,
         "total": 16394
       },
       {
         "prize": 25,
-        "remaining": 8564,
+        "remaining": 8550,
         "total": 16031
       },
       {
         "prize": 20,
-        "remaining": 19403,
+        "remaining": 19379,
         "total": 36118
       },
       {
         "prize": 10,
-        "remaining": 101951,
+        "remaining": 101759,
         "total": 187804
       },
       {
         "prize": 5,
-        "remaining": 101433,
+        "remaining": 101240,
         "total": 184221
       }
     ],
     "imageUrl": "https://images.ctfassets.net/1h4s33nxm7rw/H9dDA3oVHy5eClRmXeDg2/156d0cd9c31bf763a6d04ded12e438da/NH_1694_Fat_Stacks_FINAL.jpg"
   },
   {
-    "name": "Coal 9",
-    "price": 10.0,
+    "name": "Lucky 603",
+    "price": 5.0,
     "totalTickets": 0,
     "remainingTickets": 0,
-    "gameNumber": "1693",
+    "gameNumber": "1690",
     "tiers": [
       {
-        "prize": 200000,
-        "remaining": 1,
-        "total": 4
-      },
-      {
-        "prize": 20000,
-        "remaining": 2,
+        "prize": 100000,
+        "remaining": 0,
         "total": 4
       },
       {
         "prize": 1000,
-        "remaining": 117,
-        "total": 268
+        "remaining": 0,
+        "total": 5
       },
       {
         "prize": 500,
-        "remaining": 271,
-        "total": 646
+        "remaining": 20,
+        "total": 147
       },
       {
-        "prize": 400,
-        "remaining": 109,
-        "total": 271
-      },
-      {
-        "prize": 250,
-        "remaining": 348,
-        "total": 825
+        "prize": 200,
+        "remaining": 27,
+        "total": 215
       },
       {
         "prize": 100,
-        "remaining": 5551,
-        "total": 13104
+        "remaining": 430,
+        "total": 2948
       },
       {
         "prize": 50,
-        "remaining": 5691,
-        "total": 13227
+        "remaining": 783,
+        "total": 5838
       },
       {
-        "prize": 25,
-        "remaining": 5167,
-        "total": 12166
+        "prize": 30,
+        "remaining": 520,
+        "total": 3609
       },
       {
         "prize": 20,
-        "remaining": 26346,
-        "total": 59467
-      },
-      {
-        "prize": 15,
-        "remaining": 37336,
-        "total": 86551
+        "remaining": 2914,
+        "total": 20057
       },
       {
         "prize": 10,
-        "remaining": 56206,
-        "total": 129712
+        "remaining": 15009,
+        "total": 96628
+      },
+      {
+        "prize": 5,
+        "remaining": 17297,
+        "total": 100313
       }
     ],
-    "imageUrl": "https://images.ctfassets.net/1h4s33nxm7rw/70mWi0sqNpwBayisE63ofi/86ce062e26ea89195d94a2224a3fdc43/NH_1693_Coal_9_FINAL.jpg"
+    "imageUrl": "https://images.ctfassets.net/1h4s33nxm7rw/2IwEBhiKtcSQhJWzzyHBWI/aaeb3ecb0808c5934efbc4a3d120f3f4/nh_1690_lucky_603_final.jpg"
+  },
+  {
+    "name": "7\u202211\u202221 Multiplier",
+    "price": 2.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "1688",
+    "tiers": [
+      {
+        "prize": 20000,
+        "remaining": 1,
+        "total": 5
+      },
+      {
+        "prize": 1000,
+        "remaining": 5,
+        "total": 18
+      },
+      {
+        "prize": 200,
+        "remaining": 102,
+        "total": 247
+      },
+      {
+        "prize": 100,
+        "remaining": 435,
+        "total": 1324
+      },
+      {
+        "prize": 50,
+        "remaining": 910,
+        "total": 2741
+      },
+      {
+        "prize": 20,
+        "remaining": 3891,
+        "total": 11235
+      },
+      {
+        "prize": 10,
+        "remaining": 2624,
+        "total": 7495
+      },
+      {
+        "prize": 5,
+        "remaining": 10574,
+        "total": 30010
+      },
+      {
+        "prize": 4,
+        "remaining": 32492,
+        "total": 89940
+      },
+      {
+        "prize": 2,
+        "remaining": 41716,
+        "total": 112425
+      }
+    ],
+    "imageUrl": "https://images.ctfassets.net/1h4s33nxm7rw/62CSsHHl08rxu5215lBTvj/6c72183b2e45e658412778ffd56513c0/nh_1688_7-11-21_multiplier_final.jpg"
   },
   {
     "name": "Top Secret Money Puzzle",
@@ -1211,7 +1332,7 @@
       },
       {
         "prize": 75,
-        "remaining": 365,
+        "remaining": 364,
         "total": 1886
       },
       {
@@ -1226,27 +1347,27 @@
       },
       {
         "prize": 25,
-        "remaining": 3322,
+        "remaining": 3315,
         "total": 16706
       },
       {
         "prize": 20,
-        "remaining": 2117,
+        "remaining": 2112,
         "total": 10448
       },
       {
         "prize": 15,
-        "remaining": 1725,
+        "remaining": 1720,
         "total": 8347
       },
       {
         "prize": 10,
-        "remaining": 20242,
+        "remaining": 20211,
         "total": 83577
       },
       {
         "prize": 5,
-        "remaining": 33153,
+        "remaining": 33121,
         "total": 119137
       }
     ]
@@ -1260,156 +1381,36 @@
     "tiers": [
       {
         "prize": 25,
-        "remaining": 4529,
+        "remaining": 4524,
         "total": 8882
       },
       {
         "prize": 10,
-        "remaining": 3456,
+        "remaining": 3452,
         "total": 6720
       },
       {
         "prize": 5,
-        "remaining": 3527,
+        "remaining": 3522,
         "total": 6720
       },
       {
         "prize": 4,
-        "remaining": 8029,
+        "remaining": 8014,
         "total": 15120
       },
       {
         "prize": 2,
-        "remaining": 36260,
+        "remaining": 36193,
         "total": 67182
       },
       {
         "prize": 1,
-        "remaining": 59416,
+        "remaining": 59312,
         "total": 107556
       }
     ],
     "imageUrl": "https://images.ctfassets.net/1h4s33nxm7rw/FQ3fOf5ANWZ4eVsjTsVxC/72a9790e205eac39f993cbfb4b9fa608/NH_1691_Quick_25s_FINAL.jpg"
-  },
-  {
-    "name": "7\u202211\u202221 Multiplier",
-    "price": 2.0,
-    "totalTickets": 0,
-    "remainingTickets": 0,
-    "gameNumber": "1688",
-    "tiers": [
-      {
-        "prize": 20000,
-        "remaining": 1,
-        "total": 5
-      },
-      {
-        "prize": 1000,
-        "remaining": 5,
-        "total": 18
-      },
-      {
-        "prize": 200,
-        "remaining": 102,
-        "total": 247
-      },
-      {
-        "prize": 100,
-        "remaining": 435,
-        "total": 1324
-      },
-      {
-        "prize": 50,
-        "remaining": 911,
-        "total": 2741
-      },
-      {
-        "prize": 20,
-        "remaining": 3904,
-        "total": 11235
-      },
-      {
-        "prize": 10,
-        "remaining": 2635,
-        "total": 7495
-      },
-      {
-        "prize": 5,
-        "remaining": 10616,
-        "total": 30010
-      },
-      {
-        "prize": 4,
-        "remaining": 32583,
-        "total": 89940
-      },
-      {
-        "prize": 2,
-        "remaining": 41831,
-        "total": 112425
-      }
-    ],
-    "imageUrl": "https://images.ctfassets.net/1h4s33nxm7rw/62CSsHHl08rxu5215lBTvj/6c72183b2e45e658412778ffd56513c0/nh_1688_7-11-21_multiplier_final.jpg"
-  },
-  {
-    "name": "Lucky 603",
-    "price": 5.0,
-    "totalTickets": 0,
-    "remainingTickets": 0,
-    "gameNumber": "1690",
-    "tiers": [
-      {
-        "prize": 100000,
-        "remaining": 0,
-        "total": 4
-      },
-      {
-        "prize": 1000,
-        "remaining": 0,
-        "total": 5
-      },
-      {
-        "prize": 500,
-        "remaining": 20,
-        "total": 147
-      },
-      {
-        "prize": 200,
-        "remaining": 27,
-        "total": 215
-      },
-      {
-        "prize": 100,
-        "remaining": 431,
-        "total": 2948
-      },
-      {
-        "prize": 50,
-        "remaining": 787,
-        "total": 5838
-      },
-      {
-        "prize": 30,
-        "remaining": 522,
-        "total": 3609
-      },
-      {
-        "prize": 20,
-        "remaining": 2922,
-        "total": 20057
-      },
-      {
-        "prize": 10,
-        "remaining": 15053,
-        "total": 96628
-      },
-      {
-        "prize": 5,
-        "remaining": 17335,
-        "total": 100313
-      }
-    ],
-    "imageUrl": "https://images.ctfassets.net/1h4s33nxm7rw/2IwEBhiKtcSQhJWzzyHBWI/aaeb3ecb0808c5934efbc4a3d120f3f4/nh_1690_lucky_603_final.jpg"
   },
   {
     "name": "Money Puzzle Multiplier",
@@ -1445,52 +1446,52 @@
       },
       {
         "prize": 60,
-        "remaining": 475,
+        "remaining": 473,
         "total": 1158
       },
       {
         "prize": 50,
-        "remaining": 485,
+        "remaining": 480,
         "total": 1160
       },
       {
         "prize": 45,
-        "remaining": 497,
+        "remaining": 496,
         "total": 1167
       },
       {
         "prize": 24,
-        "remaining": 621,
+        "remaining": 619,
         "total": 1493
       },
       {
         "prize": 20,
-        "remaining": 13631,
+        "remaining": 13586,
         "total": 33236
       },
       {
         "prize": 18,
-        "remaining": 1690,
+        "remaining": 1684,
         "total": 4117
       },
       {
         "prize": 12,
-        "remaining": 7144,
+        "remaining": 7106,
         "total": 16629
       },
       {
         "prize": 9,
-        "remaining": 6936,
+        "remaining": 6909,
         "total": 16673
       },
       {
         "prize": 6,
-        "remaining": 105901,
+        "remaining": 105470,
         "total": 241667
       },
       {
         "prize": 3,
-        "remaining": 103514,
+        "remaining": 103100,
         "total": 228858
       }
     ]
@@ -1524,7 +1525,7 @@
       },
       {
         "prize": 500,
-        "remaining": 1006,
+        "remaining": 1002,
         "total": 1862
       },
       {
@@ -1534,81 +1535,31 @@
       },
       {
         "prize": 200,
-        "remaining": 2301,
+        "remaining": 2300,
         "total": 4202
       },
       {
         "prize": 100,
-        "remaining": 17872,
+        "remaining": 17838,
         "total": 32860
       },
       {
         "prize": 50,
-        "remaining": 18078,
+        "remaining": 18045,
         "total": 33042
       },
       {
         "prize": 30,
-        "remaining": 41750,
+        "remaining": 41684,
         "total": 75265
       },
       {
         "prize": 20,
-        "remaining": 115249,
+        "remaining": 115017,
         "total": 206646
       }
     ],
     "imageUrl": "https://images.ctfassets.net/1h4s33nxm7rw/1QuJe2fq1NQc9wbEjNKEMn/2b89e7dec68c8dc7bc82edee3288386d/NH-1687-VIP-BONUS-DELUXE_FINAL.gif"
-  },
-  {
-    "name": "VIP Bonus ",
-    "price": 1.0,
-    "totalTickets": 0,
-    "remainingTickets": 0,
-    "gameNumber": "1683",
-    "tiers": [
-      {
-        "prize": 500,
-        "remaining": 1,
-        "total": 5
-      },
-      {
-        "prize": 100,
-        "remaining": 94,
-        "total": 309
-      },
-      {
-        "prize": 50,
-        "remaining": 480,
-        "total": 1641
-      },
-      {
-        "prize": 20,
-        "remaining": 979,
-        "total": 2943
-      },
-      {
-        "prize": 10,
-        "remaining": 3445,
-        "total": 10055
-      },
-      {
-        "prize": 5,
-        "remaining": 5672,
-        "total": 16665
-      },
-      {
-        "prize": 2,
-        "remaining": 29054,
-        "total": 80050
-      },
-      {
-        "prize": 1,
-        "remaining": 39526,
-        "total": 103585
-      }
-    ],
-    "imageUrl": "https://images.ctfassets.net/1h4s33nxm7rw/6oqRB6PNt5IwB2QcZyGC5Q/9f4d0342c9070427a27117cd79cec884/NH-1683-VIP-BONUS_FINAL.gif"
   },
   {
     "name": "VIP Double Bonus",
@@ -1639,37 +1590,37 @@
       },
       {
         "prize": 50,
-        "remaining": 736,
+        "remaining": 733,
         "total": 2301
       },
       {
         "prize": 25,
-        "remaining": 1256,
+        "remaining": 1250,
         "total": 3743
       },
       {
         "prize": 20,
-        "remaining": 1914,
+        "remaining": 1909,
         "total": 5833
       },
       {
         "prize": 10,
-        "remaining": 3523,
+        "remaining": 3517,
         "total": 10177
       },
       {
         "prize": 5,
-        "remaining": 6065,
+        "remaining": 6047,
         "total": 17496
       },
       {
         "prize": 4,
-        "remaining": 25659,
+        "remaining": 25594,
         "total": 70104
       },
       {
         "prize": 2,
-        "remaining": 31386,
+        "remaining": 31304,
         "total": 85982
       }
     ],
@@ -1704,41 +1655,91 @@
       },
       {
         "prize": 250,
-        "remaining": 47,
+        "remaining": 46,
         "total": 203
       },
       {
         "prize": 100,
-        "remaining": 939,
+        "remaining": 938,
         "total": 3454
       },
       {
         "prize": 50,
-        "remaining": 3488,
+        "remaining": 3479,
         "total": 13076
       },
       {
         "prize": 25,
-        "remaining": 2081,
+        "remaining": 2074,
         "total": 7589
       },
       {
         "prize": 20,
-        "remaining": 10965,
+        "remaining": 10933,
         "total": 39228
       },
       {
         "prize": 10,
-        "remaining": 28856,
+        "remaining": 28771,
         "total": 98012
       },
       {
         "prize": 5,
-        "remaining": 44333,
+        "remaining": 44224,
         "total": 143952
       }
     ],
     "imageUrl": "https://images.ctfassets.net/1h4s33nxm7rw/6LH78R747QDZa4wahn7aIe/387c6bf276cf88d4f3b51ca81901e3dd/NH-1685-VIP-TRIPLE-BONUS_FINAL.gif"
+  },
+  {
+    "name": "VIP Bonus ",
+    "price": 1.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "1683",
+    "tiers": [
+      {
+        "prize": 500,
+        "remaining": 1,
+        "total": 5
+      },
+      {
+        "prize": 100,
+        "remaining": 94,
+        "total": 309
+      },
+      {
+        "prize": 50,
+        "remaining": 479,
+        "total": 1641
+      },
+      {
+        "prize": 20,
+        "remaining": 977,
+        "total": 2943
+      },
+      {
+        "prize": 10,
+        "remaining": 3435,
+        "total": 10055
+      },
+      {
+        "prize": 5,
+        "remaining": 5657,
+        "total": 16665
+      },
+      {
+        "prize": 2,
+        "remaining": 28976,
+        "total": 80050
+      },
+      {
+        "prize": 1,
+        "remaining": 39443,
+        "total": 103585
+      }
+    ],
+    "imageUrl": "https://images.ctfassets.net/1h4s33nxm7rw/6oqRB6PNt5IwB2QcZyGC5Q/9f4d0342c9070427a27117cd79cec884/NH-1683-VIP-BONUS_FINAL.gif"
   },
   {
     "name": "VIP Super Bonus",
@@ -1759,7 +1760,7 @@
       },
       {
         "prize": 1000,
-        "remaining": 127,
+        "remaining": 126,
         "total": 316
       },
       {
@@ -1769,7 +1770,7 @@
       },
       {
         "prize": 400,
-        "remaining": 289,
+        "remaining": 287,
         "total": 751
       },
       {
@@ -1779,32 +1780,32 @@
       },
       {
         "prize": 100,
-        "remaining": 4966,
+        "remaining": 4958,
         "total": 13185
       },
       {
         "prize": 50,
-        "remaining": 5997,
+        "remaining": 5985,
         "total": 15674
       },
       {
         "prize": 25,
-        "remaining": 4117,
+        "remaining": 4109,
         "total": 10572
       },
       {
         "prize": 20,
-        "remaining": 24459,
+        "remaining": 24407,
         "total": 62230
       },
       {
         "prize": 15,
-        "remaining": 36258,
+        "remaining": 36169,
         "total": 90412
       },
       {
         "prize": 10,
-        "remaining": 50301,
+        "remaining": 50192,
         "total": 124496
       }
     ],
@@ -1859,7 +1860,7 @@
       },
       {
         "prize": 150,
-        "remaining": 26,
+        "remaining": 25,
         "total": 83
       },
       {
@@ -1874,90 +1875,85 @@
       },
       {
         "prize": 75,
-        "remaining": 84,
+        "remaining": 83,
         "total": 250
       },
       {
         "prize": 50,
-        "remaining": 644,
+        "remaining": 641,
         "total": 1682
       },
       {
         "prize": 30,
-        "remaining": 1665,
+        "remaining": 1653,
         "total": 4932
       },
       {
         "prize": 25,
-        "remaining": 2904,
+        "remaining": 2894,
         "total": 7825
       },
       {
         "prize": 15,
-        "remaining": 4307,
+        "remaining": 4288,
         "total": 13060
       },
       {
         "prize": 10,
-        "remaining": 11572,
+        "remaining": 11517,
         "total": 31264
       },
       {
         "prize": 5,
-        "remaining": 27341,
+        "remaining": 27228,
         "total": 73040
       },
       {
         "prize": 3,
-        "remaining": 45426,
+        "remaining": 45215,
         "total": 120442
       }
     ]
   },
   {
-    "name": "New Hampshire Holiday Winnings",
-    "price": 20.0,
+    "name": "Frosty's $50's",
+    "price": 1.0,
     "totalTickets": 0,
     "remainingTickets": 0,
-    "gameNumber": "1681",
+    "gameNumber": "1677",
     "tiers": [
       {
-        "prize": 1000,
-        "remaining": 837,
-        "total": 2315
-      },
-      {
-        "prize": 500,
-        "remaining": 177,
-        "total": 539
-      },
-      {
-        "prize": 200,
-        "remaining": 1148,
-        "total": 3256
-      },
-      {
-        "prize": 100,
-        "remaining": 5224,
-        "total": 14667
-      },
-      {
-        "prize": 40,
-        "remaining": 7470,
-        "total": 20933
-      },
-      {
-        "prize": 30,
-        "remaining": 23610,
-        "total": 63050
+        "prize": 50,
+        "remaining": 591,
+        "total": 3306
       },
       {
         "prize": 20,
-        "remaining": 35550,
-        "total": 94537
+        "remaining": 281,
+        "total": 1426
+      },
+      {
+        "prize": 10,
+        "remaining": 915,
+        "total": 4278
+      },
+      {
+        "prize": 5,
+        "remaining": 4418,
+        "total": 17186
+      },
+      {
+        "prize": 2,
+        "remaining": 15951,
+        "total": 54349
+      },
+      {
+        "prize": 1,
+        "remaining": 31854,
+        "total": 100072
       }
     ],
-    "imageUrl": "https://images.ctfassets.net/1h4s33nxm7rw/5PNxUvTnxnV8ADybd9RnH2/e69d2953eabe518159682f0defb6d944/NH-1681_NH_HOLIDAY_WINNINGS_FINAL.jpg"
+    "imageUrl": "https://images.ctfassets.net/1h4s33nxm7rw/4QareI12NaXz9KTslIOCUi/0182a8dc8ab88698bad056f7d54ce91b/NH-1677_FINAL.gif"
   },
   {
     "name": "Holiday Magic",
@@ -1973,7 +1969,7 @@
       },
       {
         "prize": 100,
-        "remaining": 253,
+        "remaining": 252,
         "total": 5994
       },
       {
@@ -1983,25 +1979,70 @@
       },
       {
         "prize": 30,
-        "remaining": 714,
+        "remaining": 713,
         "total": 14182
       },
       {
         "prize": 20,
-        "remaining": 902,
+        "remaining": 900,
         "total": 15716
       },
       {
         "prize": 15,
-        "remaining": 3881,
+        "remaining": 3876,
         "total": 63075
       },
       {
         "prize": 10,
-        "remaining": 4504,
+        "remaining": 4497,
         "total": 69240
       }
     ]
+  },
+  {
+    "name": "New Hampshire Holiday Winnings",
+    "price": 20.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "1681",
+    "tiers": [
+      {
+        "prize": 1000,
+        "remaining": 835,
+        "total": 2315
+      },
+      {
+        "prize": 500,
+        "remaining": 177,
+        "total": 539
+      },
+      {
+        "prize": 200,
+        "remaining": 1146,
+        "total": 3256
+      },
+      {
+        "prize": 100,
+        "remaining": 5219,
+        "total": 14667
+      },
+      {
+        "prize": 40,
+        "remaining": 7463,
+        "total": 20933
+      },
+      {
+        "prize": 30,
+        "remaining": 23576,
+        "total": 63050
+      },
+      {
+        "prize": 20,
+        "remaining": 35503,
+        "total": 94537
+      }
+    ],
+    "imageUrl": "https://images.ctfassets.net/1h4s33nxm7rw/5PNxUvTnxnV8ADybd9RnH2/e69d2953eabe518159682f0defb6d944/NH-1681_NH_HOLIDAY_WINNINGS_FINAL.jpg"
   },
   {
     "name": "Nutcracker Cash\t",
@@ -2027,7 +2068,7 @@
       },
       {
         "prize": 100,
-        "remaining": 114,
+        "remaining": 113,
         "total": 735
       },
       {
@@ -2042,265 +2083,31 @@
       },
       {
         "prize": 20,
-        "remaining": 1436,
+        "remaining": 1435,
         "total": 7059
       },
       {
         "prize": 10,
-        "remaining": 1965,
+        "remaining": 1963,
         "total": 8484
       },
       {
         "prize": 5,
-        "remaining": 8353,
+        "remaining": 8346,
         "total": 33930
       },
       {
         "prize": 4,
-        "remaining": 12322,
+        "remaining": 12317,
         "total": 48109
       },
       {
         "prize": 2,
-        "remaining": 23473,
+        "remaining": 23461,
         "total": 84765
       }
     ],
     "imageUrl": "https://images.ctfassets.net/1h4s33nxm7rw/2oqimy2Vw3NF2ompRvJLnb/2897e426fed35f8443ddf0b00efccd19/NH-1678_NUTCRACKER_CASH__FINAL.jpg"
-  },
-  {
-    "name": "Frosty's $50's",
-    "price": 1.0,
-    "totalTickets": 0,
-    "remainingTickets": 0,
-    "gameNumber": "1677",
-    "tiers": [
-      {
-        "prize": 50,
-        "remaining": 592,
-        "total": 3306
-      },
-      {
-        "prize": 20,
-        "remaining": 281,
-        "total": 1426
-      },
-      {
-        "prize": 10,
-        "remaining": 917,
-        "total": 4278
-      },
-      {
-        "prize": 5,
-        "remaining": 4419,
-        "total": 17186
-      },
-      {
-        "prize": 2,
-        "remaining": 15956,
-        "total": 54349
-      },
-      {
-        "prize": 1,
-        "remaining": 31860,
-        "total": 100072
-      }
-    ],
-    "imageUrl": "https://images.ctfassets.net/1h4s33nxm7rw/4QareI12NaXz9KTslIOCUi/0182a8dc8ab88698bad056f7d54ce91b/NH-1677_FINAL.gif"
-  },
-  {
-    "name": "I Heart Bacon",
-    "price": 2.0,
-    "totalTickets": 0,
-    "remainingTickets": 0,
-    "gameNumber": "1675",
-    "tiers": [
-      {
-        "prize": 10000,
-        "remaining": 1,
-        "total": 4
-      },
-      {
-        "prize": 1000,
-        "remaining": 4,
-        "total": 26
-      },
-      {
-        "prize": 200,
-        "remaining": 12,
-        "total": 88
-      },
-      {
-        "prize": 100,
-        "remaining": 172,
-        "total": 747
-      },
-      {
-        "prize": 50,
-        "remaining": 135,
-        "total": 631
-      },
-      {
-        "prize": 20,
-        "remaining": 3132,
-        "total": 12568
-      },
-      {
-        "prize": 10,
-        "remaining": 1329,
-        "total": 5003
-      },
-      {
-        "prize": 5,
-        "remaining": 5799,
-        "total": 20096
-      },
-      {
-        "prize": 4,
-        "remaining": 17238,
-        "total": 60139
-      },
-      {
-        "prize": 2,
-        "remaining": 23515,
-        "total": 75367
-      }
-    ]
-  },
-  {
-    "name": "Wham!",
-    "price": 1.0,
-    "totalTickets": 0,
-    "remainingTickets": 0,
-    "gameNumber": "1618",
-    "tiers": [
-      {
-        "prize": 250,
-        "remaining": 22,
-        "total": 48
-      },
-      {
-        "prize": 100,
-        "remaining": 189,
-        "total": 358
-      },
-      {
-        "prize": 50,
-        "remaining": 1098,
-        "total": 2121
-      },
-      {
-        "prize": 20,
-        "remaining": 1556,
-        "total": 2915
-      },
-      {
-        "prize": 15,
-        "remaining": 1066,
-        "total": 1983
-      },
-      {
-        "prize": 10,
-        "remaining": 5254,
-        "total": 9668
-      },
-      {
-        "prize": 5,
-        "remaining": 21412,
-        "total": 38654
-      },
-      {
-        "prize": 3,
-        "remaining": 8115,
-        "total": 14515
-      },
-      {
-        "prize": 2,
-        "remaining": 49384,
-        "total": 87056
-      },
-      {
-        "prize": 1,
-        "remaining": 86738,
-        "total": 149817
-      }
-    ],
-    "imageUrl": "https://images.ctfassets.net/1h4s33nxm7rw/4oVbDaCOsWiAp2RFmGjtE7/b9dd4cfc8d37f7844865165630cfd0de/NH-1618_WHAM__Final.jpg"
-  },
-  {
-    "name": "$2,000,000 Ultimate Granite Bonus",
-    "price": 25.0,
-    "totalTickets": 0,
-    "remainingTickets": 0,
-    "gameNumber": "1658",
-    "tiers": [
-      {
-        "prize": 2000000,
-        "remaining": 2,
-        "total": 4
-      },
-      {
-        "prize": 200000,
-        "remaining": 2,
-        "total": 4
-      },
-      {
-        "prize": 25000,
-        "remaining": 12,
-        "total": 20
-      },
-      {
-        "prize": 10000,
-        "remaining": 37,
-        "total": 60
-      },
-      {
-        "prize": 5000,
-        "remaining": 62,
-        "total": 96
-      },
-      {
-        "prize": 1000,
-        "remaining": 755,
-        "total": 1200
-      },
-      {
-        "prize": 500,
-        "remaining": 8250,
-        "total": 13405
-      },
-      {
-        "prize": 200,
-        "remaining": 8372,
-        "total": 13656
-      },
-      {
-        "prize": 150,
-        "remaining": 7249,
-        "total": 11895
-      },
-      {
-        "prize": 100,
-        "remaining": 92971,
-        "total": 152175
-      },
-      {
-        "prize": 50,
-        "remaining": 119425,
-        "total": 195268
-      },
-      {
-        "prize": 30,
-        "remaining": 153944,
-        "total": 250804
-      },
-      {
-        "prize": 25,
-        "remaining": 273862,
-        "total": 446095
-      }
-    ],
-    "imageUrl": "https://images.ctfassets.net/1h4s33nxm7rw/2OFXBSGtb0ycPeneUzMuQ2/c2a21c8620199e5bfa7ed8df2f7fb1fc/NH_1658__2_000_000_ULTIMATE_GRANITE_BONUS_FINAL.jpg"
   },
   {
     "name": "Fame & Fortune",
@@ -2341,26 +2148,220 @@
       },
       {
         "prize": 40,
-        "remaining": 352,
+        "remaining": 351,
         "total": 7788
       },
       {
         "prize": 25,
-        "remaining": 1641,
+        "remaining": 1637,
         "total": 26058
       },
       {
         "prize": 10,
-        "remaining": 6204,
+        "remaining": 6197,
         "total": 96220
       },
       {
         "prize": 5,
-        "remaining": 9343,
+        "remaining": 9334,
         "total": 114574
       }
     ],
     "imageUrl": "https://images.ctfassets.net/1h4s33nxm7rw/5zzad2dG4jIbrb5BLi4x2L/34f4ee8997b06c687eaa9428370f6a89/NH-1676_FINAL.jpg"
+  },
+  {
+    "name": "$2,000,000 Ultimate Granite Bonus",
+    "price": 25.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "1658",
+    "tiers": [
+      {
+        "prize": 2000000,
+        "remaining": 2,
+        "total": 4
+      },
+      {
+        "prize": 200000,
+        "remaining": 2,
+        "total": 4
+      },
+      {
+        "prize": 25000,
+        "remaining": 12,
+        "total": 20
+      },
+      {
+        "prize": 10000,
+        "remaining": 37,
+        "total": 60
+      },
+      {
+        "prize": 5000,
+        "remaining": 62,
+        "total": 96
+      },
+      {
+        "prize": 1000,
+        "remaining": 753,
+        "total": 1200
+      },
+      {
+        "prize": 500,
+        "remaining": 8240,
+        "total": 13405
+      },
+      {
+        "prize": 200,
+        "remaining": 8361,
+        "total": 13656
+      },
+      {
+        "prize": 150,
+        "remaining": 7238,
+        "total": 11895
+      },
+      {
+        "prize": 100,
+        "remaining": 92842,
+        "total": 152175
+      },
+      {
+        "prize": 50,
+        "remaining": 119263,
+        "total": 195268
+      },
+      {
+        "prize": 30,
+        "remaining": 153750,
+        "total": 250804
+      },
+      {
+        "prize": 25,
+        "remaining": 273505,
+        "total": 446095
+      }
+    ],
+    "imageUrl": "https://images.ctfassets.net/1h4s33nxm7rw/2OFXBSGtb0ycPeneUzMuQ2/c2a21c8620199e5bfa7ed8df2f7fb1fc/NH_1658__2_000_000_ULTIMATE_GRANITE_BONUS_FINAL.jpg"
+  },
+  {
+    "name": "Wham!",
+    "price": 1.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "1618",
+    "tiers": [
+      {
+        "prize": 250,
+        "remaining": 22,
+        "total": 48
+      },
+      {
+        "prize": 100,
+        "remaining": 189,
+        "total": 358
+      },
+      {
+        "prize": 50,
+        "remaining": 1096,
+        "total": 2121
+      },
+      {
+        "prize": 20,
+        "remaining": 1554,
+        "total": 2915
+      },
+      {
+        "prize": 15,
+        "remaining": 1066,
+        "total": 1983
+      },
+      {
+        "prize": 10,
+        "remaining": 5251,
+        "total": 9668
+      },
+      {
+        "prize": 5,
+        "remaining": 21401,
+        "total": 38654
+      },
+      {
+        "prize": 3,
+        "remaining": 8113,
+        "total": 14515
+      },
+      {
+        "prize": 2,
+        "remaining": 49355,
+        "total": 87056
+      },
+      {
+        "prize": 1,
+        "remaining": 86691,
+        "total": 149817
+      }
+    ],
+    "imageUrl": "https://images.ctfassets.net/1h4s33nxm7rw/4oVbDaCOsWiAp2RFmGjtE7/b9dd4cfc8d37f7844865165630cfd0de/NH-1618_WHAM__Final.jpg"
+  },
+  {
+    "name": "I Heart Bacon",
+    "price": 2.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "1675",
+    "tiers": [
+      {
+        "prize": 10000,
+        "remaining": 1,
+        "total": 4
+      },
+      {
+        "prize": 1000,
+        "remaining": 4,
+        "total": 26
+      },
+      {
+        "prize": 200,
+        "remaining": 12,
+        "total": 88
+      },
+      {
+        "prize": 100,
+        "remaining": 172,
+        "total": 747
+      },
+      {
+        "prize": 50,
+        "remaining": 134,
+        "total": 631
+      },
+      {
+        "prize": 20,
+        "remaining": 3122,
+        "total": 12568
+      },
+      {
+        "prize": 10,
+        "remaining": 1326,
+        "total": 5003
+      },
+      {
+        "prize": 5,
+        "remaining": 5780,
+        "total": 20096
+      },
+      {
+        "prize": 4,
+        "remaining": 17199,
+        "total": 60139
+      },
+      {
+        "prize": 2,
+        "remaining": 23463,
+        "total": 75367
+      }
+    ]
   },
   {
     "name": "Haunted Hundreds",
@@ -2376,7 +2377,7 @@
       },
       {
         "prize": 20,
-        "remaining": 212,
+        "remaining": 211,
         "total": 2473
       },
       {
@@ -2386,17 +2387,17 @@
       },
       {
         "prize": 5,
-        "remaining": 1258,
+        "remaining": 1257,
         "total": 9844
       },
       {
         "prize": 4,
-        "remaining": 3660,
+        "remaining": 3654,
         "total": 28823
       },
       {
         "prize": 2,
-        "remaining": 9680,
+        "remaining": 9666,
         "total": 65634
       }
     ],
@@ -2441,22 +2442,22 @@
       },
       {
         "prize": 40,
-        "remaining": 1313,
+        "remaining": 1312,
         "total": 30077
       },
       {
         "prize": 20,
-        "remaining": 2018,
+        "remaining": 2016,
         "total": 40129
       },
       {
         "prize": 15,
-        "remaining": 4542,
+        "remaining": 4533,
         "total": 80038
       },
       {
         "prize": 10,
-        "remaining": 7445,
+        "remaining": 7432,
         "total": 120323
       }
     ]
@@ -2485,92 +2486,28 @@
       },
       {
         "prize": 50,
-        "remaining": 1140,
+        "remaining": 1139,
         "total": 2557
       },
       {
         "prize": 20,
-        "remaining": 5568,
+        "remaining": 5563,
         "total": 12179
       },
       {
         "prize": 10,
-        "remaining": 5715,
+        "remaining": 5709,
         "total": 12176
       },
       {
         "prize": 5,
-        "remaining": 54216,
+        "remaining": 54170,
         "total": 113623
       },
       {
         "prize": 2,
-        "remaining": 63111,
+        "remaining": 63056,
         "total": 129872
-      }
-    ]
-  },
-  {
-    "name": "Aces High",
-    "price": 10.0,
-    "totalTickets": 0,
-    "remainingTickets": 0,
-    "gameNumber": "1669",
-    "tiers": [
-      {
-        "prize": 200000,
-        "remaining": 1,
-        "total": 4
-      },
-      {
-        "prize": 2000,
-        "remaining": 27,
-        "total": 92
-      },
-      {
-        "prize": 1000,
-        "remaining": 89,
-        "total": 264
-      },
-      {
-        "prize": 500,
-        "remaining": 250,
-        "total": 753
-      },
-      {
-        "prize": 200,
-        "remaining": 418,
-        "total": 1343
-      },
-      {
-        "prize": 100,
-        "remaining": 4262,
-        "total": 13547
-      },
-      {
-        "prize": 50,
-        "remaining": 4794,
-        "total": 15297
-      },
-      {
-        "prize": 30,
-        "remaining": 11548,
-        "total": 35270
-      },
-      {
-        "prize": 20,
-        "remaining": 10142,
-        "total": 30704
-      },
-      {
-        "prize": 15,
-        "remaining": 40773,
-        "total": 122729
-      },
-      {
-        "prize": 10,
-        "remaining": 45159,
-        "total": 134946
       }
     ]
   },
@@ -2603,33 +2540,97 @@
       },
       {
         "prize": 100,
-        "remaining": 1853,
+        "remaining": 1852,
         "total": 4739
       },
       {
         "prize": 50,
-        "remaining": 5603,
+        "remaining": 5598,
         "total": 14406
       },
       {
         "prize": 25,
-        "remaining": 4154,
+        "remaining": 4149,
         "total": 10442
       },
       {
         "prize": 20,
-        "remaining": 9122,
+        "remaining": 9111,
         "total": 22900
       },
       {
         "prize": 10,
-        "remaining": 47853,
+        "remaining": 47807,
         "total": 117779
       },
       {
         "prize": 5,
-        "remaining": 62362,
+        "remaining": 62312,
         "total": 143902
+      }
+    ]
+  },
+  {
+    "name": "Aces High",
+    "price": 10.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "1669",
+    "tiers": [
+      {
+        "prize": 200000,
+        "remaining": 1,
+        "total": 4
+      },
+      {
+        "prize": 2000,
+        "remaining": 27,
+        "total": 92
+      },
+      {
+        "prize": 1000,
+        "remaining": 87,
+        "total": 264
+      },
+      {
+        "prize": 500,
+        "remaining": 250,
+        "total": 753
+      },
+      {
+        "prize": 200,
+        "remaining": 418,
+        "total": 1343
+      },
+      {
+        "prize": 100,
+        "remaining": 4255,
+        "total": 13547
+      },
+      {
+        "prize": 50,
+        "remaining": 4788,
+        "total": 15297
+      },
+      {
+        "prize": 30,
+        "remaining": 11530,
+        "total": 35270
+      },
+      {
+        "prize": 20,
+        "remaining": 10121,
+        "total": 30704
+      },
+      {
+        "prize": 15,
+        "remaining": 40708,
+        "total": 122729
+      },
+      {
+        "prize": 10,
+        "remaining": 45090,
+        "total": 134946
       }
     ]
   },
@@ -2667,37 +2668,37 @@
       },
       {
         "prize": 500,
-        "remaining": 999,
+        "remaining": 997,
         "total": 2431
       },
       {
         "prize": 400,
-        "remaining": 389,
+        "remaining": 388,
         "total": 932
       },
       {
         "prize": 200,
-        "remaining": 3706,
+        "remaining": 3699,
         "total": 9011
       },
       {
         "prize": 100,
-        "remaining": 19185,
+        "remaining": 19148,
         "total": 46485
       },
       {
         "prize": 50,
-        "remaining": 25592,
+        "remaining": 25536,
         "total": 62532
       },
       {
         "prize": 30,
-        "remaining": 80427,
+        "remaining": 80270,
         "total": 194528
       },
       {
         "prize": 20,
-        "remaining": 121141,
+        "remaining": 120917,
         "total": 291642
       }
     ],
@@ -2717,7 +2718,7 @@
       },
       {
         "prize": 1000,
-        "remaining": 4,
+        "remaining": 3,
         "total": 20
       },
       {
@@ -2737,7 +2738,7 @@
       },
       {
         "prize": 25,
-        "remaining": 662,
+        "remaining": 661,
         "total": 5506
       },
       {
@@ -2747,26 +2748,91 @@
       },
       {
         "prize": 10,
-        "remaining": 2358,
+        "remaining": 2355,
         "total": 16708
       },
       {
         "prize": 5,
-        "remaining": 3792,
+        "remaining": 3789,
         "total": 25064
       },
       {
         "prize": 4,
-        "remaining": 15180,
+        "remaining": 15172,
         "total": 100242
       },
       {
         "prize": 2,
-        "remaining": 21386,
+        "remaining": 21375,
         "total": 125349
       }
     ],
     "imageUrl": "https://images.ctfassets.net/1h4s33nxm7rw/2vyP4y68Ccn8CJwBD9WTIO/e673e6c453705a27338d249c6059dd6b/NH-1664_20X-CASH-MULTIPLIER_Detail.jpg"
+  },
+  {
+    "name": "24K Gold",
+    "price": 10.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "1662",
+    "tiers": [
+      {
+        "prize": 240000,
+        "remaining": 0,
+        "total": 4
+      },
+      {
+        "prize": 2400,
+        "remaining": 9,
+        "total": 60
+      },
+      {
+        "prize": 1000,
+        "remaining": 44,
+        "total": 244
+      },
+      {
+        "prize": 500,
+        "remaining": 49,
+        "total": 366
+      },
+      {
+        "prize": 240,
+        "remaining": 1180,
+        "total": 7510
+      },
+      {
+        "prize": 100,
+        "remaining": 1680,
+        "total": 10875
+      },
+      {
+        "prize": 50,
+        "remaining": 2227,
+        "total": 14366
+      },
+      {
+        "prize": 25,
+        "remaining": 5991,
+        "total": 34798
+      },
+      {
+        "prize": 20,
+        "remaining": 5741,
+        "total": 36181
+      },
+      {
+        "prize": 15,
+        "remaining": 25685,
+        "total": 144883
+      },
+      {
+        "prize": 10,
+        "remaining": 28539,
+        "total": 159116
+      }
+    ],
+    "imageUrl": "https://images.ctfassets.net/1h4s33nxm7rw/3ncCnbxvMAnsNxygSoPxte/2edfffbe114a82dfce986faaaed956a6/NH-1662-24K-GOLD_Detail.jpg"
   },
   {
     "name": "Extreme 8\u2019s",
@@ -2792,7 +2858,7 @@
       },
       {
         "prize": 188,
-        "remaining": 63,
+        "remaining": 62,
         "total": 618
       },
       {
@@ -2802,101 +2868,36 @@
       },
       {
         "prize": 88,
-        "remaining": 1075,
+        "remaining": 1073,
         "total": 9947
       },
       {
         "prize": 50,
-        "remaining": 771,
+        "remaining": 767,
         "total": 7169
       },
       {
         "prize": 28,
-        "remaining": 1049,
+        "remaining": 1045,
         "total": 9420
       },
       {
         "prize": 18,
-        "remaining": 3117,
+        "remaining": 3105,
         "total": 26179
       },
       {
         "prize": 8,
-        "remaining": 15903,
+        "remaining": 15833,
         "total": 117822
       },
       {
         "prize": 5,
-        "remaining": 20077,
+        "remaining": 20004,
         "total": 144007
       }
     ],
     "imageUrl": "https://images.ctfassets.net/1h4s33nxm7rw/6AzFcWAfPkq2t7lD16Qt8g/3431214ee1ef5459436125478213e824/NH-1661EXTREME8S_Detail.jpg"
-  },
-  {
-    "name": "24K Gold",
-    "price": 10.0,
-    "totalTickets": 0,
-    "remainingTickets": 0,
-    "gameNumber": "1662",
-    "tiers": [
-      {
-        "prize": 240000,
-        "remaining": 0,
-        "total": 4
-      },
-      {
-        "prize": 2400,
-        "remaining": 10,
-        "total": 60
-      },
-      {
-        "prize": 1000,
-        "remaining": 44,
-        "total": 244
-      },
-      {
-        "prize": 500,
-        "remaining": 49,
-        "total": 366
-      },
-      {
-        "prize": 240,
-        "remaining": 1184,
-        "total": 7510
-      },
-      {
-        "prize": 100,
-        "remaining": 1681,
-        "total": 10875
-      },
-      {
-        "prize": 50,
-        "remaining": 2232,
-        "total": 14366
-      },
-      {
-        "prize": 25,
-        "remaining": 6004,
-        "total": 34798
-      },
-      {
-        "prize": 20,
-        "remaining": 5758,
-        "total": 36181
-      },
-      {
-        "prize": 15,
-        "remaining": 25724,
-        "total": 144883
-      },
-      {
-        "prize": 10,
-        "remaining": 28602,
-        "total": 159116
-      }
-    ],
-    "imageUrl": "https://images.ctfassets.net/1h4s33nxm7rw/3ncCnbxvMAnsNxygSoPxte/2edfffbe114a82dfce986faaaed956a6/NH-1662-24K-GOLD_Detail.jpg"
   },
   {
     "name": "Lucky Roll Bonus",
@@ -2922,7 +2923,7 @@
       },
       {
         "prize": 100,
-        "remaining": 702,
+        "remaining": 701,
         "total": 1343
       },
       {
@@ -2932,32 +2933,32 @@
       },
       {
         "prize": 30,
-        "remaining": 2258,
+        "remaining": 2256,
         "total": 4332
       },
       {
         "prize": 20,
-        "remaining": 6709,
+        "remaining": 6706,
         "total": 12514
       },
       {
         "prize": 10,
-        "remaining": 7907,
+        "remaining": 7904,
         "total": 15063
       },
       {
         "prize": 5,
-        "remaining": 32422,
+        "remaining": 32406,
         "total": 60194
       },
       {
         "prize": 4,
-        "remaining": 45900,
+        "remaining": 45865,
         "total": 85259
       },
       {
         "prize": 2,
-        "remaining": 82278,
+        "remaining": 82223,
         "total": 150351
       }
     ],
@@ -2992,55 +2993,31 @@
       },
       {
         "prize": 10,
-        "remaining": 7102,
+        "remaining": 7097,
         "total": 14734
       },
       {
         "prize": 5,
-        "remaining": 3210,
+        "remaining": 3208,
         "total": 7364
       },
       {
         "prize": 4,
-        "remaining": 10820,
+        "remaining": 10815,
         "total": 24521
       },
       {
         "prize": 2,
-        "remaining": 53290,
+        "remaining": 53269,
         "total": 117733
       },
       {
         "prize": 1,
-        "remaining": 65507,
+        "remaining": 65478,
         "total": 139761
       }
     ],
     "imageUrl": "https://images.ctfassets.net/1h4s33nxm7rw/12NCDPfuOSGwsP802N47hE/04aad9c2d3431b1c84f8e6852b147ec0/NH_1630_Match_2_Win_FINAL.jpg"
-  },
-  {
-    "name": "$100, $250 or $500 Series II",
-    "price": 25.0,
-    "totalTickets": 0,
-    "remainingTickets": 0,
-    "gameNumber": "1651",
-    "tiers": [
-      {
-        "prize": 500,
-        "remaining": 7663,
-        "total": 46491
-      },
-      {
-        "prize": 250,
-        "remaining": 8882,
-        "total": 54411
-      },
-      {
-        "prize": 100,
-        "remaining": 31269,
-        "total": 184832
-      }
-    ]
   },
   {
     "name": "$50 or $100 Series VI",
@@ -3056,8 +3033,32 @@
       },
       {
         "prize": 50,
-        "remaining": 1647,
+        "remaining": 1644,
         "total": 52932
+      }
+    ]
+  },
+  {
+    "name": "$100, $250 or $500 Series II",
+    "price": 25.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "1651",
+    "tiers": [
+      {
+        "prize": 500,
+        "remaining": 7627,
+        "total": 46491
+      },
+      {
+        "prize": 250,
+        "remaining": 8830,
+        "total": 54411
+      },
+      {
+        "prize": 100,
+        "remaining": 31106,
+        "total": 184832
       }
     ]
   },
@@ -3095,32 +3096,32 @@
       },
       {
         "prize": 30,
-        "remaining": 809,
+        "remaining": 808,
         "total": 3364
       },
       {
         "prize": 20,
-        "remaining": 3107,
+        "remaining": 3103,
         "total": 12139
       },
       {
         "prize": 10,
-        "remaining": 3181,
+        "remaining": 3174,
         "total": 12155
       },
       {
         "prize": 5,
-        "remaining": 12966,
+        "remaining": 12947,
         "total": 48588
       },
       {
         "prize": 4,
-        "remaining": 22006,
+        "remaining": 21974,
         "total": 78985
       },
       {
         "prize": 2,
-        "remaining": 32463,
+        "remaining": 32425,
         "total": 113353
       }
     ]
@@ -3164,12 +3165,12 @@
       },
       {
         "prize": 50,
-        "remaining": 2343,
+        "remaining": 2341,
         "total": 14662
       },
       {
         "prize": 30,
-        "remaining": 4807,
+        "remaining": 4806,
         "total": 29625
       },
       {
@@ -3179,12 +3180,12 @@
       },
       {
         "prize": 15,
-        "remaining": 27710,
+        "remaining": 27703,
         "total": 148183
       },
       {
         "prize": 10,
-        "remaining": 30825,
+        "remaining": 30813,
         "total": 162855
       }
     ]
@@ -3218,12 +3219,12 @@
       },
       {
         "prize": 30,
-        "remaining": 253,
+        "remaining": 252,
         "total": 2177
       },
       {
         "prize": 15,
-        "remaining": 514,
+        "remaining": 512,
         "total": 3926
       },
       {
@@ -3233,27 +3234,27 @@
       },
       {
         "prize": 6,
-        "remaining": 1614,
+        "remaining": 1613,
         "total": 9687
       },
       {
         "prize": 5,
-        "remaining": 1848,
+        "remaining": 1845,
         "total": 14513
       },
       {
         "prize": 3,
-        "remaining": 6648,
+        "remaining": 6641,
         "total": 38695
       },
       {
         "prize": 2,
-        "remaining": 12308,
+        "remaining": 12301,
         "total": 77564
       },
       {
         "prize": 1,
-        "remaining": 27887,
+        "remaining": 27855,
         "total": 154920
       }
     ]
@@ -3307,17 +3308,17 @@
       },
       {
         "prize": 20,
-        "remaining": 2292,
+        "remaining": 2291,
         "total": 39196
       },
       {
         "prize": 10,
-        "remaining": 8716,
+        "remaining": 8712,
         "total": 117642
       },
       {
         "prize": 5,
-        "remaining": 13891,
+        "remaining": 13887,
         "total": 143638
       }
     ]
@@ -3331,7 +3332,7 @@
     "tiers": [
       {
         "prize": 200,
-        "remaining": 501,
+        "remaining": 500,
         "total": 37568
       },
       {
@@ -3365,52 +3366,52 @@
       },
       {
         "prize": 1000,
-        "remaining": 924,
+        "remaining": 922,
         "total": 2264
       },
       {
         "prize": 500,
-        "remaining": 1640,
+        "remaining": 1639,
         "total": 4108
       },
       {
         "prize": 200,
-        "remaining": 1017,
+        "remaining": 1015,
         "total": 2564
       },
       {
         "prize": 150,
-        "remaining": 2016,
+        "remaining": 2015,
         "total": 5128
       },
       {
         "prize": 100,
-        "remaining": 25620,
+        "remaining": 25596,
         "total": 64319
       },
       {
         "prize": 50,
-        "remaining": 20413,
+        "remaining": 20393,
         "total": 51227
       },
       {
         "prize": 25,
-        "remaining": 21088,
+        "remaining": 21061,
         "total": 51516
       },
       {
         "prize": 20,
-        "remaining": 154508,
+        "remaining": 154319,
         "total": 385068
       },
       {
         "prize": 15,
-        "remaining": 126955,
+        "remaining": 126798,
         "total": 308325
       },
       {
         "prize": 10,
-        "remaining": 233762,
+        "remaining": 233464,
         "total": 565379
       }
     ]
@@ -3459,12 +3460,12 @@
       },
       {
         "prize": 100,
-        "remaining": 61591,
+        "remaining": 61588,
         "total": 246646
       },
       {
         "prize": 60,
-        "remaining": 123231,
+        "remaining": 123221,
         "total": 493292
       }
     ]
