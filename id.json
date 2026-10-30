@@ -1,5 +1,55 @@
 [
   {
+    "name": "Limited 19th Edition",
+    "price": 10.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "1:8.58",
+    "tiers": [
+      {
+        "prize": 100,
+        "remaining": 0,
+        "total": 0
+      },
+      {
+        "prize": 50,
+        "remaining": 0,
+        "total": 0
+      }
+    ],
+    "imageUrl": "http://d2kx0heugfrx3y.cloudfront.net/2026-10/1937_thumbnail.jpg"
+  },
+  {
+    "name": "Lucky No. 7",
+    "price": 2.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "1928",
+    "tiers": [
+      {
+        "prize": 7000,
+        "remaining": 0,
+        "total": 0
+      },
+      {
+        "prize": 1000,
+        "remaining": 0,
+        "total": 0
+      },
+      {
+        "prize": 77,
+        "remaining": 0,
+        "total": 0
+      },
+      {
+        "prize": 27,
+        "remaining": 0,
+        "total": 0
+      }
+    ],
+    "imageUrl": "http://d2kx0heugfrx3y.cloudfront.net/2026-10/1928_thumbnail.jpg"
+  },
+  {
     "name": "Snow Way!",
     "price": 1.0,
     "totalTickets": 0,
@@ -215,6 +265,66 @@
     "imageUrl": "http://d2kx0heugfrx3y.cloudfront.net/2026-10/1934_thumbnail.jpg"
   },
   {
+    "name": "Mystery Tower Cashword",
+    "price": 10.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "1940",
+    "tiers": [
+      {
+        "prize": 100000,
+        "remaining": 2,
+        "total": 2
+      },
+      {
+        "prize": 5000,
+        "remaining": 4,
+        "total": 4
+      },
+      {
+        "prize": 1000,
+        "remaining": 24,
+        "total": 24
+      },
+      {
+        "prize": 500,
+        "remaining": 777,
+        "total": 777
+      },
+      {
+        "prize": 250,
+        "remaining": 1585,
+        "total": 1585
+      },
+      {
+        "prize": 100,
+        "remaining": 9993,
+        "total": 9993
+      },
+      {
+        "prize": 75,
+        "remaining": 4357,
+        "total": 4357
+      },
+      {
+        "prize": 50,
+        "remaining": 11796,
+        "total": 11796
+      },
+      {
+        "prize": 30,
+        "remaining": 6453,
+        "total": 6453
+      },
+      {
+        "prize": 25,
+        "remaining": 40179,
+        "total": 40179
+      }
+    ],
+    "imageUrl": "http://d2kx0heugfrx3y.cloudfront.net/2026-09/1940_thumbnail.jpg"
+  },
+  {
     "name": "Lady Luck 777",
     "price": 10.0,
     "totalTickets": 0,
@@ -278,66 +388,6 @@
       }
     ],
     "imageUrl": "http://d2kx0heugfrx3y.cloudfront.net/2026-09/1930_thumbnail.jpg"
-  },
-  {
-    "name": "Mystery Tower Cashword",
-    "price": 10.0,
-    "totalTickets": 0,
-    "remainingTickets": 0,
-    "gameNumber": "1940",
-    "tiers": [
-      {
-        "prize": 100000,
-        "remaining": 2,
-        "total": 2
-      },
-      {
-        "prize": 5000,
-        "remaining": 4,
-        "total": 4
-      },
-      {
-        "prize": 1000,
-        "remaining": 24,
-        "total": 24
-      },
-      {
-        "prize": 500,
-        "remaining": 777,
-        "total": 777
-      },
-      {
-        "prize": 250,
-        "remaining": 1585,
-        "total": 1585
-      },
-      {
-        "prize": 100,
-        "remaining": 9993,
-        "total": 9993
-      },
-      {
-        "prize": 75,
-        "remaining": 4357,
-        "total": 4357
-      },
-      {
-        "prize": 50,
-        "remaining": 11796,
-        "total": 11796
-      },
-      {
-        "prize": 30,
-        "remaining": 6453,
-        "total": 6453
-      },
-      {
-        "prize": 25,
-        "remaining": 40179,
-        "total": 40179
-      }
-    ],
-    "imageUrl": "http://d2kx0heugfrx3y.cloudfront.net/2026-09/1940_thumbnail.jpg"
   },
   {
     "name": "Mega Cash",
@@ -595,6 +645,41 @@
     "imageUrl": "http://d2kx0heugfrx3y.cloudfront.net/2026-07/1871_thumbnail.jpg"
   },
   {
+    "name": "Mountains of Cashword",
+    "price": 5.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "1909",
+    "tiers": [
+      {
+        "prize": 50000,
+        "remaining": 1,
+        "total": 1
+      },
+      {
+        "prize": 1000,
+        "remaining": 2,
+        "total": 2
+      },
+      {
+        "prize": 100,
+        "remaining": 708,
+        "total": 708
+      },
+      {
+        "prize": 50,
+        "remaining": 3167,
+        "total": 3167
+      },
+      {
+        "prize": 30,
+        "remaining": 8680,
+        "total": 8680
+      }
+    ],
+    "imageUrl": "http://d2kx0heugfrx3y.cloudfront.net/2026-07/1909_thumbnail.jpg"
+  },
+  {
     "name": "Mega Multiplier",
     "price": 30.0,
     "totalTickets": 0,
@@ -660,41 +745,6 @@
     "imageUrl": "http://d2kx0heugfrx3y.cloudfront.net/2026-07/1895_thumbnail.jpg"
   },
   {
-    "name": "Mountains of Cashword",
-    "price": 5.0,
-    "totalTickets": 0,
-    "remainingTickets": 0,
-    "gameNumber": "1909",
-    "tiers": [
-      {
-        "prize": 50000,
-        "remaining": 1,
-        "total": 1
-      },
-      {
-        "prize": 1000,
-        "remaining": 2,
-        "total": 2
-      },
-      {
-        "prize": 100,
-        "remaining": 708,
-        "total": 708
-      },
-      {
-        "prize": 50,
-        "remaining": 3167,
-        "total": 3167
-      },
-      {
-        "prize": 30,
-        "remaining": 8680,
-        "total": 8680
-      }
-    ],
-    "imageUrl": "http://d2kx0heugfrx3y.cloudfront.net/2026-07/1909_thumbnail.jpg"
-  },
-  {
     "name": "Ninja Cashword Attack",
     "price": 3.0,
     "totalTickets": 0,
@@ -733,46 +783,6 @@
       }
     ],
     "imageUrl": "http://d2kx0heugfrx3y.cloudfront.net/2026-07/1876_thumbnail.jpg"
-  },
-  {
-    "name": "Huckleberry Bucks",
-    "price": 5.0,
-    "totalTickets": 0,
-    "remainingTickets": 0,
-    "gameNumber": "1905",
-    "tiers": [
-      {
-        "prize": 50000,
-        "remaining": 1,
-        "total": 1
-      },
-      {
-        "prize": 5000,
-        "remaining": 1,
-        "total": 1
-      },
-      {
-        "prize": 1000,
-        "remaining": 4,
-        "total": 4
-      },
-      {
-        "prize": 500,
-        "remaining": 150,
-        "total": 150
-      },
-      {
-        "prize": 100,
-        "remaining": 459,
-        "total": 459
-      },
-      {
-        "prize": 50,
-        "remaining": 2700,
-        "total": 2700
-      }
-    ],
-    "imageUrl": "http://d2kx0heugfrx3y.cloudfront.net/2026-07/1905_thumbnail.jpg"
   },
   {
     "name": "Power Up Slingo",
@@ -820,39 +830,44 @@
     "imageUrl": "http://d2kx0heugfrx3y.cloudfront.net/2026-07/1924_thumbnail.jpg"
   },
   {
-    "name": "Pong",
-    "price": 2.0,
+    "name": "Huckleberry Bucks",
+    "price": 5.0,
     "totalTickets": 0,
     "remainingTickets": 0,
-    "gameNumber": "1921",
+    "gameNumber": "1905",
     "tiers": [
       {
-        "prize": 10000,
+        "prize": 50000,
         "remaining": 1,
         "total": 1
       },
       {
+        "prize": 5000,
+        "remaining": 1,
+        "total": 1
+      },
+      {
+        "prize": 1000,
+        "remaining": 4,
+        "total": 4
+      },
+      {
         "prize": 500,
-        "remaining": 3,
-        "total": 3
+        "remaining": 150,
+        "total": 150
       },
       {
         "prize": 100,
-        "remaining": 261,
-        "total": 261
+        "remaining": 459,
+        "total": 459
       },
       {
         "prize": 50,
-        "remaining": 318,
-        "total": 318
-      },
-      {
-        "prize": 25,
-        "remaining": 775,
-        "total": 775
+        "remaining": 2700,
+        "total": 2700
       }
     ],
-    "imageUrl": "http://d2kx0heugfrx3y.cloudfront.net/2026-07/1921_thumbnail.jpg"
+    "imageUrl": "http://d2kx0heugfrx3y.cloudfront.net/2026-07/1905_thumbnail.jpg"
   },
   {
     "name": "Centipede",
@@ -898,6 +913,41 @@
       }
     ],
     "imageUrl": "http://d2kx0heugfrx3y.cloudfront.net/2026-07/1922_thumbnail.jpg"
+  },
+  {
+    "name": "Pong",
+    "price": 2.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "1921",
+    "tiers": [
+      {
+        "prize": 10000,
+        "remaining": 1,
+        "total": 1
+      },
+      {
+        "prize": 500,
+        "remaining": 3,
+        "total": 3
+      },
+      {
+        "prize": 100,
+        "remaining": 261,
+        "total": 261
+      },
+      {
+        "prize": 50,
+        "remaining": 318,
+        "total": 318
+      },
+      {
+        "prize": 25,
+        "remaining": 775,
+        "total": 775
+      }
+    ],
+    "imageUrl": "http://d2kx0heugfrx3y.cloudfront.net/2026-07/1921_thumbnail.jpg"
   },
   {
     "name": "Asteroids",
@@ -1025,46 +1075,6 @@
     "imageUrl": "http://d2kx0heugfrx3y.cloudfront.net/2026-06/1911_thumbnail.jpg"
   },
   {
-    "name": "Gold Star Big Bingo",
-    "price": 5.0,
-    "totalTickets": 0,
-    "remainingTickets": 0,
-    "gameNumber": "1916",
-    "tiers": [
-      {
-        "prize": 50000,
-        "remaining": 1,
-        "total": 1
-      },
-      {
-        "prize": 1000,
-        "remaining": 1,
-        "total": 1
-      },
-      {
-        "prize": 500,
-        "remaining": 33,
-        "total": 33
-      },
-      {
-        "prize": 100,
-        "remaining": 75,
-        "total": 75
-      },
-      {
-        "prize": 50,
-        "remaining": 653,
-        "total": 653
-      },
-      {
-        "prize": 30,
-        "remaining": 897,
-        "total": 897
-      }
-    ],
-    "imageUrl": "http://d2kx0heugfrx3y.cloudfront.net/2026-06/1916_thumbnail.jpg"
-  },
-  {
     "name": "20X The Cash",
     "price": 20.0,
     "totalTickets": 0,
@@ -1123,6 +1133,46 @@
       }
     ],
     "imageUrl": "http://d2kx0heugfrx3y.cloudfront.net/2026-06/1938_thumbnail.jpg"
+  },
+  {
+    "name": "Gold Star Big Bingo",
+    "price": 5.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "1916",
+    "tiers": [
+      {
+        "prize": 50000,
+        "remaining": 1,
+        "total": 1
+      },
+      {
+        "prize": 1000,
+        "remaining": 1,
+        "total": 1
+      },
+      {
+        "prize": 500,
+        "remaining": 33,
+        "total": 33
+      },
+      {
+        "prize": 100,
+        "remaining": 75,
+        "total": 75
+      },
+      {
+        "prize": 50,
+        "remaining": 653,
+        "total": 653
+      },
+      {
+        "prize": 30,
+        "remaining": 897,
+        "total": 897
+      }
+    ],
+    "imageUrl": "http://d2kx0heugfrx3y.cloudfront.net/2026-06/1916_thumbnail.jpg"
   },
   {
     "name": "High Life",
@@ -1435,7 +1485,7 @@
     "imageUrl": "http://d2kx0heugfrx3y.cloudfront.net/2026-01/1902_thumbnail.jpg"
   },
   {
-    "name": "Lucky No. 7",
+    "name": "Lucky No. 7 (purple)",
     "price": 2.0,
     "totalTickets": 0,
     "remainingTickets": 0,
