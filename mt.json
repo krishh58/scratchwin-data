@@ -1,5 +1,455 @@
 [
   {
+    "name": "Pizza Party Slingo\u00ae",
+    "price": 3.0,
+    "totalTickets": 600000,
+    "remainingTickets": 600000,
+    "gameNumber": "",
+    "tiers": [
+      {
+        "prize": 25000,
+        "remaining": 8,
+        "total": 8
+      },
+      {
+        "prize": 1000,
+        "remaining": 8,
+        "total": 8
+      },
+      {
+        "prize": 500,
+        "remaining": 20,
+        "total": 20
+      },
+      {
+        "prize": 100,
+        "remaining": 80,
+        "total": 80
+      },
+      {
+        "prize": 100,
+        "remaining": 80,
+        "total": 80
+      },
+      {
+        "prize": 50,
+        "remaining": 309,
+        "total": 309
+      },
+      {
+        "prize": 50,
+        "remaining": 213,
+        "total": 213
+      },
+      {
+        "prize": 50,
+        "remaining": 188,
+        "total": 188
+      },
+      {
+        "prize": 40,
+        "remaining": 1367,
+        "total": 1367
+      },
+      {
+        "prize": 40,
+        "remaining": 213,
+        "total": 213
+      },
+      {
+        "prize": 25,
+        "remaining": 3990,
+        "total": 3990
+      },
+      {
+        "prize": 12,
+        "remaining": 2025,
+        "total": 2025
+      },
+      {
+        "prize": 12,
+        "remaining": 2037,
+        "total": 2037
+      },
+      {
+        "prize": 9,
+        "remaining": 6010,
+        "total": 6010
+      },
+      {
+        "prize": 9,
+        "remaining": 2025,
+        "total": 2025
+      },
+      {
+        "prize": 6,
+        "remaining": 29925,
+        "total": 29925
+      },
+      {
+        "prize": 4,
+        "remaining": 20013,
+        "total": 20013
+      },
+      {
+        "prize": 3,
+        "remaining": 29985,
+        "total": 29985
+      },
+      {
+        "prize": 3,
+        "remaining": 30000,
+        "total": 30000
+      },
+      {
+        "prize": 3,
+        "remaining": 39920,
+        "total": 39920
+      }
+    ]
+  },
+  {
+    "name": "Fat Wallet",
+    "price": 3.0,
+    "totalTickets": 600000,
+    "remainingTickets": 600000,
+    "gameNumber": "",
+    "tiers": [
+      {
+        "prize": 25000,
+        "remaining": 8,
+        "total": 8
+      },
+      {
+        "prize": 1000,
+        "remaining": 4,
+        "total": 4
+      },
+      {
+        "prize": 1000,
+        "remaining": 4,
+        "total": 4
+      },
+      {
+        "prize": 500,
+        "remaining": 8,
+        "total": 8
+      },
+      {
+        "prize": 500,
+        "remaining": 8,
+        "total": 8
+      },
+      {
+        "prize": 500,
+        "remaining": 40,
+        "total": 40
+      },
+      {
+        "prize": 250,
+        "remaining": 24,
+        "total": 24
+      },
+      {
+        "prize": 250,
+        "remaining": 28,
+        "total": 28
+      },
+      {
+        "prize": 250,
+        "remaining": 89,
+        "total": 89
+      },
+      {
+        "prize": 100,
+        "remaining": 101,
+        "total": 101
+      },
+      {
+        "prize": 100,
+        "remaining": 117,
+        "total": 117
+      },
+      {
+        "prize": 100,
+        "remaining": 190,
+        "total": 190
+      },
+      {
+        "prize": 50,
+        "remaining": 198,
+        "total": 198
+      },
+      {
+        "prize": 50,
+        "remaining": 1010,
+        "total": 1010
+      },
+      {
+        "prize": 50,
+        "remaining": 1821,
+        "total": 1821
+      },
+      {
+        "prize": 30,
+        "remaining": 400,
+        "total": 400
+      },
+      {
+        "prize": 30,
+        "remaining": 1607,
+        "total": 1607
+      },
+      {
+        "prize": 30,
+        "remaining": 428,
+        "total": 428
+      },
+      {
+        "prize": 20,
+        "remaining": 1975,
+        "total": 1975
+      },
+      {
+        "prize": 20,
+        "remaining": 4087,
+        "total": 4087
+      },
+      {
+        "prize": 10,
+        "remaining": 1951,
+        "total": 1951
+      },
+      {
+        "prize": 10,
+        "remaining": 3938,
+        "total": 3938
+      },
+      {
+        "prize": 5,
+        "remaining": 3938,
+        "total": 3938
+      },
+      {
+        "prize": 5,
+        "remaining": 2088,
+        "total": 2088
+      },
+      {
+        "prize": 3,
+        "remaining": 41899,
+        "total": 41899
+      },
+      {
+        "prize": 3,
+        "remaining": 78125,
+        "total": 78125
+      }
+    ]
+  },
+  {
+    "name": "Circuit Bucks",
+    "price": 2.0,
+    "totalTickets": 500000,
+    "remainingTickets": 500000,
+    "gameNumber": "",
+    "tiers": [
+      {
+        "prize": 12000,
+        "remaining": 6,
+        "total": 6
+      },
+      {
+        "prize": 1000,
+        "remaining": 6,
+        "total": 6
+      },
+      {
+        "prize": 200,
+        "remaining": 25,
+        "total": 25
+      },
+      {
+        "prize": 200,
+        "remaining": 47,
+        "total": 47
+      },
+      {
+        "prize": 200,
+        "remaining": 28,
+        "total": 28
+      },
+      {
+        "prize": 100,
+        "remaining": 22,
+        "total": 22
+      },
+      {
+        "prize": 100,
+        "remaining": 51,
+        "total": 51
+      },
+      {
+        "prize": 100,
+        "remaining": 28,
+        "total": 28
+      },
+      {
+        "prize": 50,
+        "remaining": 241,
+        "total": 241
+      },
+      {
+        "prize": 50,
+        "remaining": 263,
+        "total": 263
+      },
+      {
+        "prize": 50,
+        "remaining": 269,
+        "total": 269
+      },
+      {
+        "prize": 50,
+        "remaining": 244,
+        "total": 244
+      },
+      {
+        "prize": 15,
+        "remaining": 1241,
+        "total": 1241
+      },
+      {
+        "prize": 15,
+        "remaining": 1279,
+        "total": 1279
+      },
+      {
+        "prize": 15,
+        "remaining": 1219,
+        "total": 1219
+      },
+      {
+        "prize": 15,
+        "remaining": 1260,
+        "total": 1260
+      },
+      {
+        "prize": 10,
+        "remaining": 2479,
+        "total": 2479
+      },
+      {
+        "prize": 10,
+        "remaining": 2521,
+        "total": 2521
+      },
+      {
+        "prize": 5,
+        "remaining": 22523,
+        "total": 22523
+      },
+      {
+        "prize": 2,
+        "remaining": 89928,
+        "total": 89928
+      }
+    ]
+  },
+  {
+    "name": "The $14,000 Montana Crossword",
+    "price": 14.0,
+    "totalTickets": 2100000,
+    "remainingTickets": 2100000,
+    "gameNumber": "",
+    "tiers": [
+      {
+        "prize": 14000,
+        "remaining": 14,
+        "total": 14
+      },
+      {
+        "prize": 1000,
+        "remaining": 9,
+        "total": 9
+      },
+      {
+        "prize": 100,
+        "remaining": 530,
+        "total": 530
+      },
+      {
+        "prize": 50,
+        "remaining": 4979,
+        "total": 4979
+      },
+      {
+        "prize": 20,
+        "remaining": 21000,
+        "total": 21000
+      },
+      {
+        "prize": 10,
+        "remaining": 42093,
+        "total": 42093
+      },
+      {
+        "prize": 4,
+        "remaining": 167866,
+        "total": 167866
+      },
+      {
+        "prize": 2,
+        "remaining": 210000,
+        "total": 210000
+      }
+    ]
+  },
+  {
+    "name": "$1,000,000 Cash Blowout!",
+    "price": 10.0,
+    "totalTickets": 1500000,
+    "remainingTickets": 1500000,
+    "gameNumber": "",
+    "tiers": [
+      {
+        "prize": 100,
+        "remaining": 5949,
+        "total": 5949
+      },
+      {
+        "prize": 100,
+        "remaining": 6074,
+        "total": 6074
+      },
+      {
+        "prize": 100,
+        "remaining": 5279,
+        "total": 5279
+      },
+      {
+        "prize": 100,
+        "remaining": 5294,
+        "total": 5294
+      },
+      {
+        "prize": 50,
+        "remaining": 15008,
+        "total": 15008
+      },
+      {
+        "prize": 50,
+        "remaining": 75000,
+        "total": 75000
+      },
+      {
+        "prize": 50,
+        "remaining": 75000,
+        "total": 75000
+      }
+    ]
+  },
+  {
     "name": "Stocking Stuffer",
     "price": 1.0,
     "totalTickets": 300000,
@@ -2903,55 +3353,6 @@
     ]
   },
   {
-    "name": "The $14,000 Montana Crossword",
-    "price": 2.0,
-    "totalTickets": 500000,
-    "remainingTickets": 500000,
-    "gameNumber": "",
-    "tiers": [
-      {
-        "prize": 14000,
-        "remaining": 3,
-        "total": 3
-      },
-      {
-        "prize": 1000,
-        "remaining": 2,
-        "total": 2
-      },
-      {
-        "prize": 100,
-        "remaining": 125,
-        "total": 125
-      },
-      {
-        "prize": 50,
-        "remaining": 1200,
-        "total": 1200
-      },
-      {
-        "prize": 20,
-        "remaining": 5000,
-        "total": 5000
-      },
-      {
-        "prize": 10,
-        "remaining": 10000,
-        "total": 10000
-      },
-      {
-        "prize": 4,
-        "remaining": 40000,
-        "total": 40000
-      },
-      {
-        "prize": 2,
-        "remaining": 50000,
-        "total": 50000
-      }
-    ]
-  },
-  {
     "name": "Rake It In",
     "price": 1.0,
     "totalTickets": 300000,
@@ -3478,50 +3879,6 @@
         "prize": 5,
         "remaining": 100100,
         "total": 100100
-      }
-    ]
-  },
-  {
-    "name": "$1,000,000 Cash Blowout!",
-    "price": 10.0,
-    "totalTickets": 1500000,
-    "remainingTickets": 1500000,
-    "gameNumber": "",
-    "tiers": [
-      {
-        "prize": 100,
-        "remaining": 7564,
-        "total": 7564
-      },
-      {
-        "prize": 100,
-        "remaining": 7498,
-        "total": 7498
-      },
-      {
-        "prize": 100,
-        "remaining": 7439,
-        "total": 7439
-      },
-      {
-        "prize": 100,
-        "remaining": 7468,
-        "total": 7468
-      },
-      {
-        "prize": 50,
-        "remaining": 15062,
-        "total": 15062
-      },
-      {
-        "prize": 50,
-        "remaining": 75000,
-        "total": 75000
-      },
-      {
-        "prize": 50,
-        "remaining": 75000,
-        "total": 75000
       }
     ]
   },
