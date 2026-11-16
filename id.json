@@ -1,5 +1,120 @@
 [
   {
+    "name": "Cashline Cashword",
+    "price": 20.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "1926",
+    "tiers": [
+      {
+        "prize": 250000,
+        "remaining": 0,
+        "total": 0
+      },
+      {
+        "prize": 10000,
+        "remaining": 0,
+        "total": 0
+      },
+      {
+        "prize": 5000,
+        "remaining": 0,
+        "total": 0
+      },
+      {
+        "prize": 1000,
+        "remaining": 0,
+        "total": 0
+      },
+      {
+        "prize": 250,
+        "remaining": 0,
+        "total": 0
+      },
+      {
+        "prize": 150,
+        "remaining": 0,
+        "total": 0
+      },
+      {
+        "prize": 100,
+        "remaining": 0,
+        "total": 0
+      },
+      {
+        "prize": 75,
+        "remaining": 0,
+        "total": 0
+      },
+      {
+        "prize": 50,
+        "remaining": 0,
+        "total": 0
+      },
+      {
+        "prize": 30,
+        "remaining": 0,
+        "total": 0
+      },
+      {
+        "prize": 25,
+        "remaining": 0,
+        "total": 0
+      }
+    ],
+    "imageUrl": "http://d2kx0heugfrx3y.cloudfront.net/2026-11/1926_thumbnail.jpg"
+  },
+  {
+    "name": "Money Hungry",
+    "price": 10.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "1925",
+    "tiers": [
+      {
+        "prize": 100000,
+        "remaining": 0,
+        "total": 0
+      },
+      {
+        "prize": 5000,
+        "remaining": 0,
+        "total": 0
+      },
+      {
+        "prize": 1000,
+        "remaining": 0,
+        "total": 0
+      },
+      {
+        "prize": 500,
+        "remaining": 0,
+        "total": 0
+      },
+      {
+        "prize": 200,
+        "remaining": 0,
+        "total": 0
+      },
+      {
+        "prize": 100,
+        "remaining": 0,
+        "total": 0
+      },
+      {
+        "prize": 50,
+        "remaining": 0,
+        "total": 0
+      },
+      {
+        "prize": 25,
+        "remaining": 0,
+        "total": 0
+      }
+    ],
+    "imageUrl": "http://d2kx0heugfrx3y.cloudfront.net/2026-11/1925_thumbnail.jpg"
+  },
+  {
     "name": "Limited 19th Edition",
     "price": 10.0,
     "totalTickets": 0,
@@ -585,31 +700,6 @@
     "imageUrl": "http://d2kx0heugfrx3y.cloudfront.net/2026-08/1929_thumbnail.jpg"
   },
   {
-    "name": "$100, $200 & $500",
-    "price": 20.0,
-    "totalTickets": 0,
-    "remainingTickets": 0,
-    "gameNumber": "1915",
-    "tiers": [
-      {
-        "prize": 500,
-        "remaining": 1444,
-        "total": 1444
-      },
-      {
-        "prize": 200,
-        "remaining": 3608,
-        "total": 3608
-      },
-      {
-        "prize": 100,
-        "remaining": 24371,
-        "total": 24371
-      }
-    ],
-    "imageUrl": "http://d2kx0heugfrx3y.cloudfront.net/2026-07/1915_thumbnail.jpg"
-  },
-  {
     "name": "Cool Beans Bingo",
     "price": 3.0,
     "totalTickets": 0,
@@ -643,6 +733,31 @@
       }
     ],
     "imageUrl": "http://d2kx0heugfrx3y.cloudfront.net/2026-07/1871_thumbnail.jpg"
+  },
+  {
+    "name": "$100, $200 & $500",
+    "price": 20.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "1915",
+    "tiers": [
+      {
+        "prize": 500,
+        "remaining": 1444,
+        "total": 1444
+      },
+      {
+        "prize": 200,
+        "remaining": 3608,
+        "total": 3608
+      },
+      {
+        "prize": 100,
+        "remaining": 24371,
+        "total": 24371
+      }
+    ],
+    "imageUrl": "http://d2kx0heugfrx3y.cloudfront.net/2026-07/1915_thumbnail.jpg"
   },
   {
     "name": "Mountains of Cashword",
@@ -785,6 +900,46 @@
     "imageUrl": "http://d2kx0heugfrx3y.cloudfront.net/2026-07/1876_thumbnail.jpg"
   },
   {
+    "name": "Huckleberry Bucks",
+    "price": 5.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "1905",
+    "tiers": [
+      {
+        "prize": 50000,
+        "remaining": 1,
+        "total": 1
+      },
+      {
+        "prize": 5000,
+        "remaining": 1,
+        "total": 1
+      },
+      {
+        "prize": 1000,
+        "remaining": 4,
+        "total": 4
+      },
+      {
+        "prize": 500,
+        "remaining": 150,
+        "total": 150
+      },
+      {
+        "prize": 100,
+        "remaining": 459,
+        "total": 459
+      },
+      {
+        "prize": 50,
+        "remaining": 2700,
+        "total": 2700
+      }
+    ],
+    "imageUrl": "http://d2kx0heugfrx3y.cloudfront.net/2026-07/1905_thumbnail.jpg"
+  },
+  {
     "name": "Power Up Slingo",
     "price": 5.0,
     "totalTickets": 0,
@@ -828,46 +983,6 @@
       }
     ],
     "imageUrl": "http://d2kx0heugfrx3y.cloudfront.net/2026-07/1924_thumbnail.jpg"
-  },
-  {
-    "name": "Huckleberry Bucks",
-    "price": 5.0,
-    "totalTickets": 0,
-    "remainingTickets": 0,
-    "gameNumber": "1905",
-    "tiers": [
-      {
-        "prize": 50000,
-        "remaining": 1,
-        "total": 1
-      },
-      {
-        "prize": 5000,
-        "remaining": 1,
-        "total": 1
-      },
-      {
-        "prize": 1000,
-        "remaining": 4,
-        "total": 4
-      },
-      {
-        "prize": 500,
-        "remaining": 150,
-        "total": 150
-      },
-      {
-        "prize": 100,
-        "remaining": 459,
-        "total": 459
-      },
-      {
-        "prize": 50,
-        "remaining": 2700,
-        "total": 2700
-      }
-    ],
-    "imageUrl": "http://d2kx0heugfrx3y.cloudfront.net/2026-07/1905_thumbnail.jpg"
   },
   {
     "name": "Centipede",
