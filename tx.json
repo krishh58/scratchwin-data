@@ -68,7 +68,7 @@
       },
       {
         "prize": 2000,
-        "remaining": 205,
+        "remaining": 202,
         "total": 256
       }
     ],
@@ -93,7 +93,7 @@
       },
       {
         "prize": 1000,
-        "remaining": 196,
+        "remaining": 195,
         "total": 207
       }
     ],
@@ -133,17 +133,17 @@
     "tiers": [
       {
         "prize": 1000,
-        "remaining": 2057,
+        "remaining": 2034,
         "total": 2974
       },
       {
         "prize": 500,
-        "remaining": 15863,
+        "remaining": 15806,
         "total": 23858
       },
       {
         "prize": 200,
-        "remaining": 65208,
+        "remaining": 64966,
         "total": 99302
       }
     ],
@@ -183,7 +183,7 @@
     "tiers": [
       {
         "prize": 250000,
-        "remaining": 3,
+        "remaining": 2,
         "total": 10
       },
       {
@@ -193,7 +193,7 @@
       },
       {
         "prize": 1000,
-        "remaining": 498,
+        "remaining": 488,
         "total": 2032
       }
     ],
@@ -218,7 +218,7 @@
       },
       {
         "prize": 1000,
-        "remaining": 1731,
+        "remaining": 1723,
         "total": 5691
       }
     ],
@@ -243,7 +243,7 @@
       },
       {
         "prize": 2500,
-        "remaining": 1743,
+        "remaining": 1739,
         "total": 2825
       }
     ],
@@ -268,7 +268,7 @@
       },
       {
         "prize": 2500,
-        "remaining": 3867,
+        "remaining": 3857,
         "total": 8277
       }
     ],
@@ -283,21 +283,46 @@
     "tiers": [
       {
         "prize": 500,
-        "remaining": 6484,
+        "remaining": 6469,
         "total": 10176
       },
       {
         "prize": 100,
-        "remaining": 161889,
+        "remaining": 161307,
         "total": 254956
       },
       {
         "prize": 50,
-        "remaining": 520919,
+        "remaining": 519109,
         "total": 816361
       }
     ],
     "imageUrl": "https://www.texaslottery.com/export/sites/lottery/Images/scratchoffs/2650_img1.gif"
+  },
+  {
+    "name": "100X",
+    "price": 10.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "2746",
+    "tiers": [
+      {
+        "prize": 250000,
+        "remaining": 4,
+        "total": 4
+      },
+      {
+        "prize": 5000,
+        "remaining": 10,
+        "total": 10
+      },
+      {
+        "prize": 1000,
+        "remaining": 25,
+        "total": 25
+      }
+    ],
+    "imageUrl": "https://www.texaslottery.com/export/sites/lottery/Images/scratchoffs/2746_img1.gif"
   },
   {
     "name": "100X The Cash",
@@ -368,7 +393,7 @@
       },
       {
         "prize": 10000,
-        "remaining": 37,
+        "remaining": 36,
         "total": 51
       }
     ],
@@ -413,12 +438,12 @@
       },
       {
         "prize": 90,
-        "remaining": 564,
+        "remaining": 560,
         "total": 1171
       },
       {
         "prize": 60,
-        "remaining": 614,
+        "remaining": 611,
         "total": 1235
       }
     ],
@@ -468,11 +493,36 @@
       },
       {
         "prize": 300,
-        "remaining": 417,
+        "remaining": 416,
         "total": 708
       }
     ],
     "imageUrl": "https://www.texaslottery.com/export/sites/lottery/Images/scratchoffs/2711_img1.gif"
+  },
+  {
+    "name": "500X Loteria Spectacular",
+    "price": 50.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "2762",
+    "tiers": [
+      {
+        "prize": 3000000,
+        "remaining": 4,
+        "total": 4
+      },
+      {
+        "prize": 25000,
+        "remaining": 20,
+        "total": 20
+      },
+      {
+        "prize": 10000,
+        "remaining": 68,
+        "total": 68
+      }
+    ],
+    "imageUrl": "https://www.texaslottery.com/export/sites/lottery/Images/scratchoffs/2762_img1.gif"
   },
   {
     "name": "500X Loteria Spectacular",
@@ -543,7 +593,7 @@
       },
       {
         "prize": 1000,
-        "remaining": 45,
+        "remaining": 43,
         "total": 624
       }
     ],
@@ -625,6 +675,31 @@
     "imageUrl": "https://www.texaslottery.com/export/sites/lottery/Images/scratchoffs/2751_img1.gif"
   },
   {
+    "name": "Big Ca$h",
+    "price": 5.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "2704",
+    "tiers": [
+      {
+        "prize": 100000,
+        "remaining": 4,
+        "total": 4
+      },
+      {
+        "prize": 1000,
+        "remaining": 60,
+        "total": 60
+      },
+      {
+        "prize": 500,
+        "remaining": 500,
+        "total": 500
+      }
+    ],
+    "imageUrl": "https://www.texaslottery.com/export/sites/lottery/Images/scratchoffs/2704_img1.gif"
+  },
+  {
     "name": "Bingo Times 20",
     "price": 5.0,
     "totalTickets": 0,
@@ -643,7 +718,7 @@
       },
       {
         "prize": 500,
-        "remaining": 551,
+        "remaining": 549,
         "total": 2036
       }
     ],
@@ -668,7 +743,7 @@
       },
       {
         "prize": 500,
-        "remaining": 906,
+        "remaining": 903,
         "total": 2537
       }
     ],
@@ -718,7 +793,7 @@
       },
       {
         "prize": 500,
-        "remaining": 309,
+        "remaining": 306,
         "total": 913
       }
     ],
@@ -743,7 +818,7 @@
       },
       {
         "prize": 500,
-        "remaining": 1125,
+        "remaining": 1123,
         "total": 2110
       }
     ],
@@ -768,7 +843,7 @@
       },
       {
         "prize": 500,
-        "remaining": 398,
+        "remaining": 394,
         "total": 591
       }
     ],
@@ -788,7 +863,7 @@
       },
       {
         "prize": 5000,
-        "remaining": 48,
+        "remaining": 47,
         "total": 101
       },
       {
@@ -838,12 +913,12 @@
       },
       {
         "prize": 1000,
-        "remaining": 13,
+        "remaining": 11,
         "total": 16
       },
       {
         "prize": 100,
-        "remaining": 2615,
+        "remaining": 2607,
         "total": 3710
       }
     ],
@@ -883,17 +958,17 @@
     "tiers": [
       {
         "prize": 200,
-        "remaining": 3352,
+        "remaining": 3344,
         "total": 7609
       },
       {
         "prize": 50,
-        "remaining": 10179,
+        "remaining": 10162,
         "total": 22971
       },
       {
         "prize": 20,
-        "remaining": 48775,
+        "remaining": 48675,
         "total": 110077
       }
     ],
@@ -908,17 +983,17 @@
     "tiers": [
       {
         "prize": 500,
-        "remaining": 46,
+        "remaining": 44,
         "total": 57
       },
       {
         "prize": 100,
-        "remaining": 2018,
+        "remaining": 1993,
         "total": 2246
       },
       {
         "prize": 50,
-        "remaining": 681,
+        "remaining": 673,
         "total": 756
       }
     ],
@@ -943,7 +1018,7 @@
       },
       {
         "prize": 2000,
-        "remaining": 389,
+        "remaining": 386,
         "total": 1019
       }
     ],
@@ -963,12 +1038,12 @@
       },
       {
         "prize": 1000,
-        "remaining": 50,
+        "remaining": 48,
         "total": 56
       },
       {
         "prize": 500,
-        "remaining": 766,
+        "remaining": 758,
         "total": 878
       }
     ],
@@ -993,7 +1068,7 @@
       },
       {
         "prize": 500,
-        "remaining": 680,
+        "remaining": 677,
         "total": 1159
       }
     ],
@@ -1063,12 +1138,12 @@
       },
       {
         "prize": 5000,
-        "remaining": 176,
+        "remaining": 174,
         "total": 190
       },
       {
         "prize": 1000,
-        "remaining": 1380,
+        "remaining": 1365,
         "total": 1526
       }
     ],
@@ -1093,7 +1168,7 @@
       },
       {
         "prize": 1000,
-        "remaining": 143,
+        "remaining": 142,
         "total": 1263
       }
     ],
@@ -1193,7 +1268,7 @@
       },
       {
         "prize": 1000,
-        "remaining": 136,
+        "remaining": 135,
         "total": 206
       }
     ],
@@ -1218,7 +1293,7 @@
       },
       {
         "prize": 5000,
-        "remaining": 45,
+        "remaining": 44,
         "total": 56
       }
     ],
@@ -1243,7 +1318,7 @@
       },
       {
         "prize": 1000,
-        "remaining": 183,
+        "remaining": 182,
         "total": 253
       }
     ],
@@ -1293,7 +1368,7 @@
       },
       {
         "prize": 1000,
-        "remaining": 153,
+        "remaining": 151,
         "total": 276
       }
     ],
@@ -1318,7 +1393,7 @@
       },
       {
         "prize": 1000,
-        "remaining": 1522,
+        "remaining": 1521,
         "total": 1522
       }
     ],
@@ -1338,12 +1413,12 @@
       },
       {
         "prize": 5000,
-        "remaining": 25,
+        "remaining": 24,
         "total": 137
       },
       {
         "prize": 1000,
-        "remaining": 303,
+        "remaining": 296,
         "total": 1735
       }
     ],
@@ -1393,7 +1468,7 @@
       },
       {
         "prize": 5000,
-        "remaining": 305,
+        "remaining": 304,
         "total": 343
       }
     ],
@@ -1418,7 +1493,7 @@
       },
       {
         "prize": 5000,
-        "remaining": 23,
+        "remaining": 22,
         "total": 328
       }
     ],
@@ -1443,7 +1518,7 @@
       },
       {
         "prize": 2000,
-        "remaining": 124,
+        "remaining": 123,
         "total": 149
       }
     ],
@@ -1468,7 +1543,7 @@
       },
       {
         "prize": 500,
-        "remaining": 9423,
+        "remaining": 9398,
         "total": 15412
       }
     ],
@@ -1563,12 +1638,12 @@
       },
       {
         "prize": 1000,
-        "remaining": 29,
+        "remaining": 27,
         "total": 50
       },
       {
         "prize": 500,
-        "remaining": 327,
+        "remaining": 322,
         "total": 538
       }
     ],
@@ -1613,12 +1688,12 @@
       },
       {
         "prize": 500,
-        "remaining": 99,
+        "remaining": 98,
         "total": 135
       },
       {
         "prize": 100,
-        "remaining": 1570,
+        "remaining": 1555,
         "total": 2009
       }
     ],
@@ -1718,7 +1793,7 @@
       },
       {
         "prize": 1000,
-        "remaining": 139,
+        "remaining": 138,
         "total": 275
       }
     ],
@@ -1743,7 +1818,7 @@
       },
       {
         "prize": 100,
-        "remaining": 2105,
+        "remaining": 2104,
         "total": 5049
       }
     ],
@@ -1788,12 +1863,12 @@
       },
       {
         "prize": 1000,
-        "remaining": 38,
+        "remaining": 37,
         "total": 56
       },
       {
         "prize": 500,
-        "remaining": 251,
+        "remaining": 249,
         "total": 474
       }
     ],
@@ -1818,7 +1893,7 @@
       },
       {
         "prize": 500,
-        "remaining": 992,
+        "remaining": 985,
         "total": 1683
       }
     ],
@@ -1843,7 +1918,7 @@
       },
       {
         "prize": 500,
-        "remaining": 4909,
+        "remaining": 4897,
         "total": 6077
       }
     ],
@@ -1893,7 +1968,7 @@
       },
       {
         "prize": 250,
-        "remaining": 4581,
+        "remaining": 4580,
         "total": 4581
       }
     ],
@@ -1918,7 +1993,7 @@
       },
       {
         "prize": 250,
-        "remaining": 969,
+        "remaining": 960,
         "total": 4891
       }
     ],
@@ -1943,7 +2018,7 @@
       },
       {
         "prize": 1000,
-        "remaining": 507,
+        "remaining": 492,
         "total": 549
       }
     ],
@@ -1975,6 +2050,31 @@
     "imageUrl": "https://www.texaslottery.com/export/sites/lottery/Images/scratchoffs/2774_img1.gif"
   },
   {
+    "name": "Ultimate Cash",
+    "price": 20.0,
+    "totalTickets": 0,
+    "remainingTickets": 0,
+    "gameNumber": "2749",
+    "tiers": [
+      {
+        "prize": 1000000,
+        "remaining": 4,
+        "total": 4
+      },
+      {
+        "prize": 10000,
+        "remaining": 16,
+        "total": 16
+      },
+      {
+        "prize": 1000,
+        "remaining": 203,
+        "total": 203
+      }
+    ],
+    "imageUrl": "https://www.texaslottery.com/export/sites/lottery/Images/scratchoffs/2749_img1.gif"
+  },
+  {
     "name": "Ultimate Millions",
     "price": 50.0,
     "totalTickets": 0,
@@ -1993,7 +2093,7 @@
       },
       {
         "prize": 2000,
-        "remaining": 121,
+        "remaining": 120,
         "total": 228
       }
     ],
